@@ -615,6 +615,7 @@
 * [Crossref](https://search.crossref.org/) - Articles / Documents / Datasets
 * [Zenodo](https://zenodo.org/) - Articles / Documents / Datasets
 * [Dataone](https://www.dataone.org/) - Datasets
+* [Science Nexus](https://www.reddit.com/r/science_nexus/) - Datasets / Papers
 * [Kaggle](https://www.kaggle.com/datasets) - Datasets
 * [Data Catalog](https://datacatalog.worldbank.org/) - Datasets
 * [DBpedia](https://www.dbpedia.org/) - Datasets
