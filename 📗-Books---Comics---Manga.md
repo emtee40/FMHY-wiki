@@ -961,6 +961,7 @@
 * [Niadd](https://niadd.com/)
 * [Manhwa18](https://manhwa18.net/)
 * [Manhuafast](https://manhuafast.com/)
+* [Manhwasco](https://manhwasco.net/)
 * [ManhwaKool](https://manhwakool.com/)
 * [ManhuaScan](https://manhuascan.io/)
 * [Manhwatop](https://manhwatop.com/)
