@@ -22,12 +22,6 @@
 
 ***
 
-**[Disroot Backup](https://bin.disroot.org/?42a30ca68b444d2b#297bU7sWTz7Lg3t27ybyy4z1NXmqrdmMW5NMSbtjeqfJ)** - [Updated 7/19/23]
-
-Password: FMHY
-
-***
-
 **Alt Views** - [Updated Daily]
 
 **[Teddit](https://teddit.net/r/FREEMEDIAHECKYEAH/wiki)** / **[Photon](https://photon-reddit.com/r/freemediaheckyeah/wiki/index)**
@@ -38,7 +32,7 @@ Password: FMHY
 
 ***
 
-**[Markdown Files](https://mega.nz/file/T7hxVQSQ#XpyF8lel9Qs9wekdLco3J79TIdNSD20DwoHXzFB6yzA)** - [Updated 7/19/23]
+**[Markdown Files](https://github.com/fmhy/FMHYedit/archive/refs/heads/main.zip)** - [Updated Daily]
 
 **[Markdown Page](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page)** / [2](https://gist.githubusercontent.com/taskylizard/5ba73bf97dccf159316edcf4c6520856/raw/90fbdde564f53bfd02cce0190738d0d090bceb1c/fmhy.md) - [Updated Daily]
 
