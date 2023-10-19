@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/KmGGnhX)** - For mobile users
+**[Table of Contents](https://ibb.co/hBsDnJJ)** - For mobile users
 
 ***
 ***
@@ -583,23 +583,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ***
 
-## Decentralized Social Networks
-
-* ⭐ **[Mastodon](https://joinmastodon.org/)**
-* ⭐ **[Pleroma](https://pleroma.social/)**
-* ⭐ **[diaspora*](https://diasporafoundation.org/)**, [2](https://diasp.org/)
-* ⭐ **[Fediverse](https://fediverse.party/)**, [Fediverse.space](https://fediverse.space/), [sub.rehab](https://sub.rehab/)  or [Fediverse Observer](https://mastodon.fediverse.observer/) - Fediverse Community / Instance Search
-* ⭐ **[Fedi Tips](https://fedi.tips/)** - Mastodon / Fediverse Guide
-* ⭐ **[Awesome Fediverse](https://github.com/emilebosch/awesome-fediverse)** - Fediverse Resources
-
-[Misskey](https://join.misskey.page/en/), [Twetch](https://twetch.app/welcome), [Manyverse](https://www.manyver.se/), [Friendica](https://friendi.ca/), [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project), [Movim](https://movim.eu/), [Pixelfed](https://pixelfed.org/), [GoToSocial](https://docs.gotosocial.org/en/latest/), [LIBRANET.de](https://libranet.de/)
-
-### Mastodon Tools
-
-[Web Client](https://pinafore.social/) / [Desktop Client](https://tuba.geopjr.dev/), [2](https://kaiteki.app/) / [Schedule](https://scheduler.mastodon.tools/) / [Twitter Sync](https://github.com/klausi/mastodon-twitter-sync) / [Instances](https://instances.social/) / [Twitter Account Link](https://moaparty.com/) / [Embedded Feeds](https://www.mastofeed.com/) / [Timelines](https://mastovue.glitch.me/) / [Create Bots](https://cheapbotstootsweet.com/)
-
-***
-
 ## Design Resources
 
 * ⭐ **[Design Resources](https://rentry.co/dt92f)**
@@ -1145,6 +1128,12 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ***
 
+## General Recipes
+
+[ReluctantGourmet](https://www.reluctantgourmet.com/), [How2Heroes](http://how2heroes.com/), [All Recipes](https://www.allrecipes.com/), [Just the Darn Recipe](https://justthedarnrecipe.com/), [theSkullery](https://theskullery.net/), [Curlie Cooking](https://curlie.org/en/Home/Cooking/), [Based Cooking](https://based.cooking/), [BHG](https://www.bhg.com/recipes/), [TheCookingGinn](http://www.thecookinginn.com/), [Bon Appétit](https://www.bonappetit.com/), [PunchFork](https://www.punchfork.com/), [Tasty](https://tasty.co/), [101Cookbooks](https://www.101cookbooks.com/), [SimplyRecipes](https://www.simplyrecipes.com/), [MyRecipes](https://www.myrecipes.com/), [JustAPinch](https://www.justapinch.com/), [Cooks](https://www.cooks.com/), [Food.com](https://www.food.com/recipe), [BBC Good Food](https://www.bbcgoodfood.com/recipes), [Food Network Recipes](https://www.foodnetwork.com/recipes), [CookBook](https://github.com/jlinder/cookbook), [Wikibook Cookbooks](https://en.wikibooks.org/wiki/Category:Cookbook), [Cookpad](https://cookpad.com/us), [FoodGeeks](https://foodgeeks.com/), [SparkPeople](https://recipes.sparkpeople.com/), [KeyIngridient](https://www.keyingredient.com/), [CopyKat](https://copykat.com/), [Chowdown](https://chowdown.io/), [RobbieHaf](http://recipes.robbiehaf.com/), [WhatsCookingAmerica](https://whatscookingamerica.net/Menu/MenuIndex.htm), [MJW](http://www.cs.cmu.edu/~mjw/recipes/), [BetterRecipes](https://www.bestrecipes.com.au/), [Astray](https://www.astray.com/recipes/), [zhabotyn](http://www.bios.unc.edu/~zhabotyn/recipes/), [FarmlandFoods](https://www.farmlandfoods.com/recipes/), [RecipeLand](https://recipeland.com/)
+
+***
+
 ## Google Drive Search
 
 [Movies](https://databasegdriveplayer.co/movie.php), [TV](https://databasegdriveplayer.co/series.php), [Anime](https://databasegdriveplayer.co/anime.php), [KDrama](https://databasegdriveplayer.co/drama.php)
@@ -1501,6 +1490,12 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 ## M4UFree Clones
 
 [M4uFree](https://ww1.m4ufree.tv/), [Streamm4u](http://streamm4u.com) / [2](https://streamm4u.ws/), [m4ufree.to](https://m4ufree.to/), [m4uhd](https://m4uhd.tv/) / [2](https://m4uhd.cc/), [m4umv](https://m4umv.org/)
+
+***
+
+## Mastodon Tools
+
+[Web Client](https://pinafore.social/) / [Desktop Client](https://tuba.geopjr.dev/), [2](https://kaiteki.app/) / [Schedule](https://scheduler.mastodon.tools/) / [Twitter Sync](https://github.com/klausi/mastodon-twitter-sync) / [Instances](https://instances.social/) / [Twitter Account Link](https://moaparty.com/) / [Embedded Feeds](https://www.mastofeed.com/) / [Timelines](https://mastovue.glitch.me/) / [Create Bots](https://cheapbotstootsweet.com/)
 
 ***
 
@@ -2221,8 +2216,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ## Reddit Alternatives
 
-* ⭐ **[Lemmy](https://join-lemmy.org/)** /  [Stats](https://the-federation.info/), [2](https://fedidb.org/)
-* ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Community-Browser](https://browse.feddit.de/) or [Awesome Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
 * ⭐ **[Raddle](https://raddle.me/)** / [onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/)
 * ⭐ **[Saidit](https://saidit.net/)**
 
