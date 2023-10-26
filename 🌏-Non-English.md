@@ -1155,7 +1155,7 @@
 * [Quero Filmes HD](https://querofilmeshd.top) - Movies / TV
 * [TopFlix](https://topflix.tv) - Movies / TV
 * [GoFilmes](https://gofilmes.me/m/) - Movies / TV
-* [Os Teus Filmes Tuga](https://osteusfilmestuga.fun) - Movies / TV / Anime / Cartoons
+* [Os Teus Filmes Tuga](https://osteusfilmestuga.online) - Movies / TV / Anime / Cartoons
 * [tugaflix](https://tugaflix.best) Movies / TV / Use Adblock
 * [Filmes Online HD](https://www.filmesonlinehdgratis.com.br) - Movies / TV
 * [NetMovies](https://www.netmovies.com.br) - Movies / TV / Requires Login
@@ -1231,6 +1231,7 @@
 * [Toomics](https://global.toomics.com/br) - Comics
 * [Arte HQs](http://www.artehqs.com.br) - Comics
 * [Tropa BR](https://tropabrscans.blogspot.com) - Comics
+* [Banda Desenhada](https://bandadesenhada-pt.blogspot.com/) - Comics
 * [Mangás Chan](https://mangaschan.com) - Manga
 * [BR Mangás](https://www.brmangas.net) - Manga
 * [Kiniga](https://kiniga.com) - Light Novels
