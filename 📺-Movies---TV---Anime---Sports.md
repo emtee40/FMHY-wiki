@@ -15,6 +15,7 @@
 
 * ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / 1080p / [Discord](https://discord.gg/vXsRvye8BS)
 * ⭐ **[The Movie Archive](https://themoviearchive.site/)**, [2](https://tma.lol) - Movies / 4K / 1080p
+* ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://www.susmovies.lol/), [3](https://sushbo.com/), [4](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/BE7kTVezBN)
 * ⭐ **[FMovies](https://fmoviesz.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[FlixHQ](https://flixhq.click/)** - Movies / TV / Anime / 1080p
 * ⭐ **[Ask4Movies](https://ask4movie.nl/)** - Movies / TV / 1080p / Use Adbock / [Script](https://pastebin.com/uJUc5ah5)
@@ -24,7 +25,6 @@
 * ⭐ **[SmashyStream](https://embed.smashystream.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
 * ⭐ **[PrimeWire](https://www.primewire.tf/)** - Movies / TV / Anime / 1080p
 * ⭐ **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** - Multi-Site Search
-* [SusFlix](https://susflix.tv/), [2](https://www.susmovies.lol/), [3](https://sushbo.com/), [4](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/BE7kTVezBN)
 * [M4uFree](https://ww2.m4ufree.com/) - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [MovieScene](https://moviescene.cc/) - Movies / TV / 4K / 1080p
 * [watch.lonelil](https://watch.lonelil.com/) - Movies / TV / Anime / 1080p / [Discord](https://discord.com/invite/BKts6Jb5sA)
@@ -388,7 +388,7 @@
 * ⭐ **[NBAHD](https://watchreplay.net/)** - Basketball
 * ⭐ **[NFL Replay](https://nflreplay.net/)** - Football
 * ⭐ **[WatchWrestling24](https://watchwrestling24.net/)** - MMA / Wrestling
-* ⭐ **[WatchWrestlingUp](https://watchwrestlingup.live/)** - MMA / Wrestling
+* ⭐ **[WatchWrestlingUp](https://watchwrestlingup.org/)** - MMA / Wrestling
 * ⭐ **[Race Replay](https://racereplay.net/)** - Motorsports
 * [SportsReplay](https://discord.com/invite/2r4pj67gCv) - Sports
 * [FullReplays](https://www.fullreplays.com/) - Soccer
@@ -400,7 +400,6 @@
 * [WatchWrestling.wtf](https://watchwrestling.wtf/) - MMA / Wrestling
 * [WatchWrestlingOnline](https://watchwrestlingonline.net/) - MMA / Wrestling
 * [FullFights](https://fullfights.net/) - MMA / Wrestling
-* [Full Fights](https://fullfights.net/) - MMA
 * [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing
 * [Hula8](https://www.hula8.net/) - MMA
 * [Bellator](https://www.bellator.com/video) - MMA
@@ -492,15 +491,11 @@
 * [TotalSportek](https://totalsportek.pro/), [2](https://www.totalsportek.to/) - Sports
 * [NodelayTV](http://nodelaytv.pw/) - Sports
 * [Rojadirecta](https://www.rojadirecta.direct/) - Sports
-* [MyP2P](https://myp2p.at/) - Sports
 * [BoxingStreams100](https://boxings.boxingstreams100.com/) - Boxing
 * [NBA Streams](https://nbabox.tv/) - NBA
 * [NFL Streams](https://nflstreams.me/) - NFL
 * [MLB66](https://mlb66.ir/) - MLB
-* [LiveSoccer TV](https://www.livesoccertv.com/) - Soccer
-* [FootEM](https://www.footem.site/) - Soccer
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Soccer / MMA
-* [Cyfo Streams](http://www.cyfostreams.com/) - Soccer / Cycling
 * [Aceztrims](https://aceztrims.pages.dev/) - Motorsports
 * [DD12](https://dd12streams.com/) - Nascar
 * [NHLstream](https://nhlstream.net/) - NHL
