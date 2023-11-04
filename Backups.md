@@ -4,9 +4,7 @@
 
 ***
 
-**Git Backup** - [Updated Daily]
-
-**[GitHub](https://github.com/fmhy/FMHY/wiki)**
+**[GitHub Backup](https://github.com/fmhy/FMHY/wiki)** - [Updated Daily]
 
 ***
 
