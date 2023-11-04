@@ -4,9 +4,9 @@
 
 ***
 
-**Git Backups** - [Updated Daily]
+**Git Backup** - [Updated Daily]
 
-**[GitHub](https://github.com/fmhy/FMHY/wiki)** / **[GitBook](https://fckr.gitbook.io/fmhy)** 
+**[GitHub](https://github.com/fmhy/FMHY/wiki)**
 
 ***
 
