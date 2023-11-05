@@ -2041,7 +2041,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## Read Paywalled Articles
 
 * ⭐ **[wallabag](https://wallabag.nixnet.services/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot)
-* ⭐ **[bypass-paywalls-firefox-clean](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/)** / [Chrome](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) / [uBlock Filter](https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt)
+* ⭐ **[Bypass Paywalls Firefox Clean](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean)** / [2](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/)
+* ⭐ **[Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)**
+* [Bypass Paywalls Clean filters](https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters)
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) - Bypass Scientific Document Paywalls
 * [unpaywall](https://unpaywall.org/) - Bypass Scholarly Article Paywalls
 * [Scribe](https://scribe.rip/) - Unlimited Articles on Medium
@@ -3242,7 +3244,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[ReVanced](https://revanced.app)** / [Extended](https://github.com/inotia00/ReVanced_Extended), [ReVanced APKs](https://revanced-apks.pages.dev/) or [RVX Lite](https://t.me/rvx_lite) - Latest Revanced Apps / [Guide](https://redd.it/xlcny9)
 * ⭐ **[ReVanced Manager](https://github.com/revanced/revanced-manager)**
-* ⭐ **[ReVanced Extended](https://github.com/NoName-exe/revanced-extended)**, [2](https://github.com/inotia00/revanced-patches/tree/revanced-extended) / [Magisk Module](https://github.com/sixstrings/revanced-extended-magisk-module)
+* ⭐ **[ReVanced Extended](https://github.com/inotia00/revanced-patches/tree/revanced-extended) / [Magisk Module](https://github.com/sixstrings/revanced-extended-magisk-module)
 * ⭐ **[ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module)**
 * ⭐ **[LibreTube](https://github.com/libre-tube/LibreTube)**
 * ⭐ **[NewPipe](https://newpipe.net/)** / [Sponsorblock](https://github.com/polymorphicshade/NewPipe)
