@@ -12,11 +12,15 @@
 
 ***
 
-**[Rentry Backup](https://rentry.co/FMHY)** / [2](https://rentry.org/piracy) - [Updated Daily]
+**[Rentry Backup](https://rentry.co/FMHY)**  - [Updated Daily]
 
 ***
 
 **[NotABug Backup](https://notabug.org/nbatman/freemediaheckyeah/wiki/_pages)** - [Updated Daily]
+
+***
+
+**[Safe for Work Copy](https://rentry.org/piracy)** - [No NSFW, Updated Daily]
 
 ***
 
