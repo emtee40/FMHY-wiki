@@ -273,7 +273,7 @@
 * [Mixer](https://quixel.com/mixer) - 3D Texture Creation Tool
 * [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
 * [cgplugdump](https://t.me/cgplugdump) - CG Software Plugins
-* [AnimeEffects](https://github.com/AnimeEffectsDevs/AnimeEffects), [nve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/), [Cavalry](https://cavalry.scenegroup.co/), [TupiTube](https://tupitube.com/) or [Synfig](https://www.synfig.org/) - 2D Animation Tools
+* [AnimeEffects](https://github.com/AnimeEffectsDevs/AnimeEffects), [enve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/), [Cavalry](https://cavalry.scenegroup.co/), [TupiTube](https://tupitube.com/) or [Synfig](https://www.synfig.org/) - 2D Animation Tools
 * [Storyboarder](https://wonderunit.com/storyboarder/) - Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder) 
 * [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Create Videos using Stable Diffusion
 * [LuxCoreRender](https://luxcorerender.org/) - Rendering Engine
@@ -1008,7 +1008,7 @@
 * [QR Code Generator](https://www.qr-code-generator.com/), [2qr](https://2qr.info/) or [link-to-qr](https://link-to-qr.com/) - QR Code Generator For URLs / Text 
 * [AnyImage](https://anyimage.io/) - Create Social Card Links
 * [urlportal](https://raw.githubusercontent.com/gotbletu/shownotes/master/urlportal.sh) - Custom URL Handler
-* [NSLookup](https://www.nslookup.io/) or [dog](https://github.com/ogham/dog) - DNS Information Tool
+* [Web Check](https://web-check.xyz/), [NSLookup](https://www.nslookup.io/) or [dog](https://github.com/ogham/dog) - DNS Information Tool
 * [Awesome Piracy Bot](https://github.com/Igglybuff/awesome-piracy-bot) - URL Scraping Tools
 * [Site Worth Traffic](https://www.siteworthtraffic.com/) - Calculate Website Worth
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - Sitemap Creator
@@ -1268,7 +1268,7 @@
 * [LilyBot](https://github.com/defensem3ch/LilyBot) - Play / Render Music Snippets
 * [Guild Counter](https://rauf.wtf/guildcount) - Check how many servers you're in
 * [Preview for Discord](https://dragory.github.io/role-preview-for-discord/) - Preview Role Colors Role
-* [Stolen Shoes](https://stolen.shoes/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
+* [Stolen Shoes](https://stolen.shoes/), [x266.mov](https://x266.mov/discord-embed), [embeds.video](https://embeds.video/), [autocompressor](https://autocompressor.net/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
 * [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - Encode videos to <8MB
 * [Discord Together](https://github.com/RemyK888/discord-together) - Video Stream Sync / Watch Parties
 * [DiskCord](https://github.com/5ut/DiskCord) - Host Files on External Sites to share via Discord
@@ -1617,7 +1617,7 @@
 * ↪️ **[Task Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_task_automation)**
 * ↪️ **[Remote Desktop Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remote_desktop_clients)**
 * ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [winfetch](https://github.com/lptstr/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Information Tools
-* ⭐ **[Windows Optimization Guide](https://rentry.co/mdl-optimize-guide)** / [Video](https://youtu.be/pJTCwSX9Ym8) / [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat)
+* ⭐ **[Windows Optimization Guide](https://forums.mydigitallife.net/threads/optimize-offline-guide-windows-debloating-tool-windows-1803-1903-19h2-1909-20h1-and-ltsc-2019.80038/)** / [Video](https://youtu.be/pJTCwSX9Ym8) / [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat)
 * ⭐ **[Ventoy](https://www.ventoy.net/en/index.html)**, **[Rufus](https://rufus.ie/)**, [AIO Boot](https://www.aioboot.com/), [UUP](https://pastebin.com/ybvKNan6) / [2](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x) or [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Create Bootable USB Drives
 * ⭐ **[GParted](https://gparted.org/)**, [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
 * ⭐ **[BleachBit](https://www.bleachbit.org/)**, [memreduct](https://github.com/henrypp/memreduct) or [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - Clean System Memory
