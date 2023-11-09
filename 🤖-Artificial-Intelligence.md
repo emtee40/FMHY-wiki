@@ -149,6 +149,7 @@
 * [Favird](https://favird.com/) - AI Directory
 * [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
 * [ToolScoutAI](https://toolscout.ai/) - AI Directory
+* [ListedAI](https://www.listedai.co/) - AI Directory
 * [AI Creator Tools](https://library.phygital.plus/) - AI Directory
 * [topai](https://topai.tools/) - AI Directory
 * [TheresAnAIForThat](https://theresanaiforthat.com/) - AI Directory
