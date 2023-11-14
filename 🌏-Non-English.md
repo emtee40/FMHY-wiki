@@ -17,53 +17,40 @@
 
 ## ▷ Downloading
 
-* [arabseed](https://xn--fhd75-tkh.arabseed.ws/) - Movies / TV
-* [arteenz](https://www.arteenz.com/) - Cartoons / Anime
-* [Shazam Music](https://t.me/shazam_music_uz) - Music / Telegram
+* [arabseed](https://xn--fhd75-tkh.arabseed.ws/) - Movies / TV / Sub / 1080p
+* [arteenz](https://www.arteenz.com/) - Cartoons / Anime / Dub / 720p
 * [NullNoss](https://www.nullnoss.org/) - Courses
 * [Courses4Arab](https://courses4arab.com/) - Programming Courses
 * [ArabicFonts](https://arabicfonts.net/) - Fonts
 
 ## ▷ Torrenting
 
-* [ArabP2P](https://www.arabp2p.net/) - Video
+* [ArabP2P](https://www.arabp2p.net/) - Video / Private Tracker
 
 ## ▷ Streaming
 
-* ⭐ **[FaselHD](https://www.faselhd.vip/)** - Movies / TV / Anime
-* [w.arlionz](https://arlionztv.click/) - Movies / TV
-* [aflaam](https://aflaam.com/) - Movies / TV
-* [LODYNET](https://lodynet.link/) - Movies / TV
-* [Fushaar](https://www.fushaar.com/), [2](https://fushaar.info/) - Movies / TV
-* [egydead](https://a23.egydead.live/) - Movies / TV / Anime
-* [akwam](https://ak.sv/) - Movies / TV
-* [wecima](https://xn--cdn5-8cgaaa.wecima.watch/) - Movies / TV / Anime / Cartoons / Wrestling
-* [Shooflive](https://r.shooflive.co/) - Movies / TV / Anime
-* [Shafilm](https://shafilm.vip/) - Movies / TV / Anime / Cartoons
-* [FajerShow](https://fajer.show) - Movies / TV / Cartoons
-* [cima-club](https://cima-club.vip/) - TV / Anime
-* [eshiq](https://e3sk.com/) - Turkish TV
-* [animebdk](https://animebdk.blogspot.com/) - Anime
-* [jotorrent](https://www.jotorrent.com/) - Anime / Open-Signups Each Month
-* [AnimeFlick](https://animeflick.net/) - Anime
-* [AnimeTak](https://animetak.org/) - Anime
-* [shahiid](https://shahiid-anime.net/) - Anime
-* [witanime](https://witanime.org/) - Anime
-* [animeblkom](https://animeblkom.net/) - Anime
-* [xsAnime](https://v.xsanime.com/) - Anime
-* [arabseed](https://xn--fhd75-tkh.arabseed.ws/) - Anime
-* [animetitans](https://animetitans.com/) - Anime
-* [gatecima](https://gatecima.com/) - Anime
-* [anime4up](https://anime4up.site/) - Anime
-* [animerco](https://animerco.com/) - Anime
-* [Arabsama](https://arabsama.net/) - Anime
-* [fomny](https://fomny.info/) - Live TV
-* [qayadat](https://play.qayadat.org/channels) - Live TV
-* [elahmad](http://www.elahmad.com/tv/arabic-channel.php) - Live TV
-* [YallAlive](https://yallalive.id/) - Live Soccer
-* [livehd7](https://livehd7.bio/) - Live Soccer
-* [melody4arab](https://melody4arab.com/) - Music
-* [al-fann](https://www.al-fann.net/) - Music
+* ⭐ **[FaselHD](https://www.faselhd.express/)** - Movies / TV / Anime / Sub / 1080p
+* [ArabLionz](https://arlionztv.click/) - Movies / TV / Sub / 1080p
+* [aflaam](https://aflaam.com/) - Movies / TV / Sub / 1080p
+* [LODYNET](https://lodynet.link/) - Movies / TV / Sub / 1080p
+* [egydead](https://a23.egydead.live/) - Movies / TV / Anime / Sub / 1080p
+* [akwam](https://ak.sv/) - Movies / TV / Sub / 1080p
+* [wecima](https://wecima.xyz/) - Movies / TV / Anime / Cartoons / Wrestling / Sub / 1080p
+* [arabseed](https://m1.arabseed.skin/) - Movies / TV / Wrestling / Sub / 1080p
+* [Shafilm](https://shafilm.vip/) - Movies / TV / Anime / Cartoons / 1080p
+* [Shooflive](https://r.shooflive.co/) - Movies / TV / Anime / Sub / 720p
+* [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p
+* [cima-club](https://cimacb.hair/) - TV / Anime / Sub / 720p
+* [AnimeTak](https://animetak.org/) - Anime / Sub / 1080p
+* [witanime](https://witanime.org/) - Anime / Sub / 1080p
+* [animeblkom](https://animeblkom.net/) - Anime / Sub / 1080p
+* [xsAnime](https://v.xsanime.com/) - Anime / Sub / 1080p
+* [anime4up](https://anime4up.cam/) - Anime / Sub / 1080p
+* [Animerco](https://animerco.org/) - Anime / Sub / 1080p
+* [shahiid](https://shahiid-anime.net/) - Anime / Sub / 720p
+* [jotorrent](https://www.jotorrent.com/) - Anime / Signups Open Every Month
+* [fomny](https://fomny.info/), [qayadat](https://live.qayadat.org/) or [elahmad](http://www.elahmad.com/tv/arabic-channel.php) - Live TV
+* [melody4arab](https://melody4arab.com/) or [al-fann](https://www.al-fann.net/) - Music
 
 ## ▷ Reading
 
@@ -73,7 +60,7 @@
 * [EbookSar](https://www.ebooksar.com/) - Books / [Telegram](https://t.me/ebooksar)
 * [AlarabiMag](https://www.alarabimag.com/) - Books
 * [Abjjad](https://www.abjjad.com/) - Books
-* [manganoon](https://oxapk.com/) - Manga / [Discord](https://discord.com/invite/Wcc69EyMs2)
+* [Manjanoon](https://manjanoon.com/) - Manga / [Discord](https://discord.com/invite/Wcc69EyMs2)
 * [3asq](https://3asq.org/) - Manga / [Discord](https://discord.com/invite/3asqmanga-tm-485359530482335765)
 * [GManga](https://gmanga.me/) - Manga
 * [galaxymanga](https://galaxymanga.org/) - Manga
@@ -1502,7 +1489,7 @@
 * [Tlandia](https://torrentlandia.site/) - Movies / Latino
 * [DiXvA](https://www.dixva.com/), [2](https://www.sinsitio.site/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
 * [Zonatorrent](https://zonatorrent.in/) - Movies / TV / Castilian / [Bypasser script](https://greasyfork.org/en/scripts/462510-spanish-torrent-sites-short-link-bypasser)
-* [unionfansub](https://foro.unionfansub.com/index.php) - Anime
+* [Unionfansub](https://foro.unionfansub.com/index.php) - Anime
 * [Akiba-kei](http://akiba-team.org/) - Anime
 * [Animextremist](http://animextremist.com/) - Anime / Manga
 * [epublibre](https://www.epublibre.org/) - Books
@@ -1527,7 +1514,7 @@
 * [Gnula.uno](https://gnula.uno/) - Movies / TV / Anime / Latino
 * [Cinecalidad](https://cinecalidad.gg/) - Movies / TV / Animation / Latino / [Telegram](https://t.me/cinecalidadchat)
 * [Cuevana2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
-* [locopelis](https://www.locopelis.com/), [2](https://www.repelis.net/) - Movies / NSFW / Latino
+* [Locopelis](https://www.locopelis.com/), [2](https://www.repelis.net/) - Movies / NSFW / Latino
 * [Fanpelis](https://fanpelis.la/) - Movies / TV / Anime / Latino
 * [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Anime / Latino / [Telegram](https://t.me/pelisplushd_nu)
 * [PelisPlusHD.so](https://pelisplushd.so/) - Movies / TV / Latino
@@ -1548,8 +1535,8 @@
 * [Dilo](https://www.dilo.nu/) - Movies / TV / Anime
 * [novelas360](https://novelas360.com/) - TV / Drama
 * [Tlnovelas](https://tlnovelas.net/) - TV / Drama
-* [asialiveaction](https://asialiveaction.com/) - Asian Drama
-* [doramasyt](https://www.doramasyt.com/) - Asian Drama
+* [Asialiveaction](https://asialiveaction.com/) - Asian Drama
+* [Doramasyt](https://www.doramasyt.com/) - Asian Drama
 * [Vix](https://www.vix.com/tv/) - TV / Latino
 * [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV / Castilian
 * [Cine Libre Online](https://www.cinelibreonline.com/) - YouTube Movies
