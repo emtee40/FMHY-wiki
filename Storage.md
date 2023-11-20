@@ -1022,7 +1022,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[Project GLD](https://github.com/Y0URD34TH/Project-GLD/)**
 * [Black Pearl Origin](https://github.com/BlackPearlOrigin/blackpearlorigin) / [Plugins](https://bpo-store.github.io/)
 
-[Launchbox](https://www.launchbox-app.com/), [GameHub](https://tkashkin.github.io/projects/gamehub/), [Arc](https://www.arcgames.com/en/about/client), [Gnome Games](https://wiki.gnome.org/Apps/Games), [Fuzion](https://fuzion.gg/)
+[Launchbox](https://www.launchbox-app.com/), [GameHub](https://tkashkin.github.io/projects/gamehub/), [Arc](https://www.arcgames.com/en/about/client), [Gnome Games](https://wiki.gnome.org/Apps/Games), [Fuzion](https://fuzion.gg/), [GameVault](https://gamevau.lt)
 
 ***
 
@@ -3120,7 +3120,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[ReVanced](https://revanced.app)** / [Extended](https://github.com/inotia00/ReVanced_Extended), [ReVanced APKs](https://revanced-apks.pages.dev/) or [RVX Lite](https://t.me/rvx_lite) - Latest Revanced Apps / [Guide](https://redd.it/xlcny9)
 * ⭐ **[ReVanced Manager](https://github.com/revanced/revanced-manager)**
-* ⭐ **[ReVanced Extended](https://github.com/inotia00/revanced-patches/tree/revanced-extended) / [Magisk Module](https://github.com/sixstrings/revanced-extended-magisk-module)
+* ⭐ **[ReVanced Extended](https://github.com/inotia00/revanced-patches/tree/revanced-extended)** / [Magisk Module](https://github.com/sixstrings/revanced-extended-magisk-module)
 * ⭐ **[ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module)**
 * ⭐ **[LibreTube](https://github.com/libre-tube/LibreTube)**
 * ⭐ **[NewPipe](https://newpipe.net/)** / [Sponsorblock](https://github.com/polymorphicshade/NewPipe)
