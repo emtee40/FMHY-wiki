@@ -776,74 +776,68 @@
 
 ## ▷ Streaming
 
-* [NRK TV](https://tv.nrk.no/) - Norwegian / Streaming / Movies / TV
+* [NRK TV](https://tv.nrk.no/) - Norwegian Movies / TV / Documentaries / Sub / 1080p
 
 ## ▷ Reading
 
-* [HF.UIO](https://www2.hf.uio.no/) - Books
-* [Nasjonalbiblioteket](https://www.nb.no/english/the-digitizing-process) - Books
+* [Nasjonalbiblioteket](https://www.nb.no/english/the-digitizing-process) - Books / Journals / Magazines / Maps / Music Sheets
+* [HF.UIO](https://www2.hf.uio.no/) - Books / Bibliographies
 
 ***
 
 # ► Persian
 
-* 🌐 **[Awesome Freedom](https://github.com/hiddify/awesome-freedom)** - Collection of Tools
-* 🌐 **[Awesome AI channels](https://github.com/AminTaheri23/Awesome-AI-telegram-gp-and-channel)** - Persian Telegram Bot Index
+* 🌐 **[Awesome Freedom](https://github.com/hiddify/awesome-freedom)** - Tools Index
+* 🌐 **[Awesome AI channels](https://github.com/AminTaheri23/Awesome-AI-telegram-gp-and-channel)** - AI Telegram Channels / Groups Index
+* 🌐 **[Free VPN Telegram Channels](https://bin.disroot.org/?85b66e37980b245e#DRbHouuNMfXGRdqPs68y6nGLULhHdvdXzuPdDmBxsyi2)** - Free VPNs Index
 * [Wudooh](https://wudooh.app/) - Make Persian Text Clearer
-* [Free VPN Telegram Channels](https://bin.disroot.org/?85b66e37980b245e#DRbHouuNMfXGRdqPs68y6nGLULhHdvdXzuPdDmBxsyi2) - Free VPN / Telegram
 * [Targoman](https://targoman.ir/) - Translator / [GitHub](https://github.com/targoman)
-* [Wiki Censorship](https://wikicensorship.github.io/) - Internet Censorship Encyclopedia
 * [cscot](https://cscot.pages.dev/) - V2Ray GeoIP Guide
 * [Persian Calendar](https://github.com/persian-calendar/persian-calendar) - Android Persian Calendar
 * [parseek](https://www.parseek.com/) - Search
 
 ## ▷ Downloading
 
-* ⭐ **[downloadha](https://www.downloadha.com/)** - Video / Audio 
-* [TelFiles_Bot](https://t.me/TelFiles_Bot) - Persian File to Direct Link Telegram Bot
-* [soft98](https://soft98.ir/) - Software / Courses / eBooks
-* [Persian Telegram Courses](https://rentry.co/sn66v)
-* [Old Persian Games](https://oldpersiangames.org/) - Iranian Made and Persian Dubbed Games
-* [TeleLeecherbot](https://t.me/TeleLeecherbot), [kLeechBot](https://t.me/kLeechBot) - Persian Movie Leech Telegram Bots
-* [FilmgramBot](https://t.me/FilmgramBot) or [FileMovieBot](https://t.me/FileMovieBot) - Persian Movie Search Telegram Bots
-* [Download.ir](https://download.ir/) - Software / Video/ Roms
-* [Patoghu](https://patoghu.com/) - Video / Audio
-* [dl1.3rver](https://dl1.3rver.org/), [2](https://dl3.3rver.org/) - Movies / TV
-* [dlfars](https://dlfars.pw/) - Movies / TV / Anime
-* [RooDL](https://roozdl1.com/) - Movies / TV / Anime
-* [SalamDL](https://salamdl.me/) - Movies / TV
-* [AvaMovie](https://avamovie2.info/) - Movies / TV
-* [Film2Media](https://www.f2m.top/) - Movies / TV
-* [AIOFilm](https://aiofilm.org/) - Movies / TV / Anime
-* [iranianfilmarch](https://t.me/iranianfilmarch) - Movies / Telegram
-* [alefmovie](https://alefmovie.website/) - Movies / TV / Iranian VPN Needed
-* [ValaMovie](https://valamovie.club/) - Movies / TV
-* [dlrozaneh](https://dlrozaneh.ir/) - Movies
-* [DigiMoviez](https://digimovie.vip/) - Movies / TV
-* [Tikfilmz](https://tikfilmz.ir/) - Movies / TV
-* [GanjDL](http://www.ganjdl.ir/) - Movies / TV
-* [KaranMovie](https://karanmovie.org/) - Movies / TV
-* [HamrahMovies](https://hamrahmoviez.ir/) - Movies / TV / [Telegram](https://t.me/hamrahmovieesir)
-* [DigiMoviez](https://digimovie.vip/) - Movies / TV
-* [HexDownload](https://hexdownload.co/) - Movies / TV
-* [pishgammovie](https://pishgammovie.ir/) - Movies / TV
-* [CenterDL](https://centerdl.ir/) - Movies / TV
-* [animesubtitle](https://animesubtitle.ir/) - Anime
-* [pop-music](https://pop-music.ir/) - MP3
-* [Just Music](https://just-music.ir/) - MP3
-* [MusicDagh](https://www.musicdagh.ir/) - MP3
-* [Musico](https://musico.ir/) - MP3
-* [GolsarMusic](https://golsarmusic.ir/) - MP3
-* [Download1Music](https://download1music.ir/) - MP3
-* [Music-fa](https://music-fa.com/) - MP3
-* [UpMusics](https://upmusics.com/) - MP3
-* [SevilMusic](https://sevilmusic.com/) - MP3
-* [MusicGeek](https://musicgeek.ir/) - MP3 / FLAC
-* [SongSara](https://songsara.net/) - MP3 / FLAC
-* [FLACColdSong](https://t.me/flacoldsong) - FLAC
+* ⭐ **[downloadha](https://www.downloadha.com/)** - Software / Games
+* 🌐 **[Persian Telegram Courses](https://rentry.co/sn66v)** - Persian Courses Index
+* [git_ir](https://t.me/git_ir) - Programming Courses
+* [Hide01](https://beta.hide01.ir/) - Cybersecurity Courses / Software
+* [soft98](https://soft98.ir/) - Courses / Software / Games
+* [Patoghu](https://patoghu.com/) - Software / Games
+* [Old Persian Games](https://oldpersiangames.org/) - Iranian Games
+* [Download.ir](https://download.ir/) - Video / Software / ROMs / Books
+* [dll.3rver](https://dl3.3rver.org/) - Video / Audio / 1080p
+* [dlfars](https://dlfars.pw/) - Movies / TV / Anime / Sub / 1080p
+* [RoozDL](https://roozdl1.com/) - Movies / TV / Anime / Sub / Dub / 1080p
+* [Film2Media](https://www.f2m.top/) - Movies / TV / Dub / 1080p
+* [AIOFilm](https://aiofilm.org/) - Movies / TV / Anime / Sub / 1080p
+* [dlrozaneh](https://dlrozaneh.ir/) - Movies / Sub / Dub / 1080p
+* [DigiMovie](https://digimovie58.pw/) - Movies / TV / Sub / Dub / 1080p
+* [Tikfilmz](https://tikfilmz.ir/) - Movies / TV / Sub / 1080p
+* [GanjDL](http://www.ganjdl.ir/) - Movies / TV / Sub / Dub / 1080p
+* [KaranMovie](https://karanmovie.org/) - Movies / TV / Sub / Dub / 1080p
+* [HamrahMovies](https://hamrahmoviez.ir/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/hamrahmovieesir)
+* [HexDownload](https://hexdownload.co/) - Movies / TV / Cartoons / Dub / 1080p
+* [pishgammovie](https://pishgammovie.ir/) - Movies / TV / Dub / 1080p
+* [CenterDL](https://centerdl.ir/) - Movies / TV / Sub / Dub / 1080p
+* [iranianfilmarch](https://t.me/iranianfilmarch) - Iranian Movies / 1080p
+* [AnimeSubtitle](https://animesubtitle.ir/) - Anime Subtitles
+* [FLACColdSong](https://t.me/flacoldsong) - Music / FLAC
+* [MusicGeek](https://musicgeek.ir/) - Music / MP3 / FLAC
+* [SongSara](https://songsara.net/) - Music / MP3 / FLAC
+* [pop-music](https://pop-music.ir/) - Music / MP3
+* [MusicDagh](https://www.musicdagh.ir/) - Music / MP3
+* [Musico](https://musico.ir/) - Music / MP3
+* [GolsarMusic](https://golsarmusic.ir/) - Music / MP3
+* [Download1Music](https://download1music.ir/) - Music / MP3
+* [Music-fa](https://music-fa.com/) - Music / MP3
+* [UpMusics](https://upmusics.com/) - Music / MP3
+* [SevilMusic](https://sevilmusic.com/) - Music / MP3
+* [Just Music](https://just-music.ir/) - Classical Music / MP3
 * [Pixinema](https://www.pixinema.ir/) - Soundtracks
-* [git_ir](https://t.me/git_ir) - Programming Training
-* [Hide01](https://hide01.ir/) - Security / Antivirus / Courses
+* [TelFiles_Bot](https://t.me/TelFiles_Bot) - File to Direct Link Telegram Bot
+* [TeleLeecherbot](https://t.me/TeleLeecherbot) or [kLeechBot](https://t.me/kLeechBot) - Movie Leech Telegram Bots
+* [FilmgramBot](https://t.me/FilmgramBot) or [FileMovieBot](https://t.me/FileMovieBot) - Movie Search Telegram Bots
 
 ## ▷ Torrenting
 
@@ -851,67 +845,60 @@
 
 ## ▷ Streaming
 
-* [dlfars](https://dlfars.pw/) - Movies / TV / Anime
-* [FarsiLand](https://farsiland.com/) - Movies / TV
-* [Nostalgik](https://nostalgiktv.org/) - Movies / TV
-* [IMVBox](https://www.imvbox.com/) - Movies
-* [naabmovie](https://naabmovie.ir/) - Movies / TV
-* [LiveFarsi](https://www.radiovatani.com/) - Movies / TV / Live
-* [Anten.ir](https://www.anten.ir/) - Live / TV / Sports
+* [FarsiLand](https://farsiland.com/) - Persian Movies / TV / 1080p
+* [IMVBox](https://www.imvbox.com/fa/) - Persian Movies / TV / 1080p
+* [RadioVatani](https://www.radiovatani.com/) - Persian Movies / TV / Live / 1080p
+* [Nostalgik](https://nostalgiktv.org/) - Persian Movies / TV / Cartoons / 720p
+* [naabmovie](https://naabmovie.ir/) - Movies / TV / Sub / 1080p
+* [Anten.ir](https://www.anten.ir/) - Live TV / Sports
 * [Sepehr](https://sepehrtv.ir/) - Live TV
 * [ParsaTV](https://www.parsatv.com/) - Live TV
-* [MusicGeek](https://musicgeek.ir/) - Music
-* [VMusic](https://vmusic.ir/) - Music
+* [MusicGeek](https://musicgeek.ir/) - Music / MP3
+* [VMusic](https://vmusic.ir/) - Music / MP3
 * [Awesome Persian Podcasts](https://github.com/ashkanRmk/awesome-persian-podcasts) - Podcasts
 
 ## ▷ Reading
 
 * [parsbook.com](https://www.parsbook.com/) - Educational / Programming / Engineering
-* [iranpaper](https://iranpaper.ir/) - Documents
 * [Afghanistandl](https://afghanistandl.nyu.edu/) - Historical Books
 * [TakBook](https://www.takbook.com/) - Books
 * [Motamem](https://motamem.org/) - Courses / Iranian IP required
 
 ***
 
+
 # ► Polish
 
-* [Sport TVP](https://sport.tvp.pl/) - Sports News
+* [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
 
 ## ▷ Downloading
 
-* [Dark Machine](https://darkmachine.pl/) - Video / Audio/ Books / Audiobooks / NSFW
-* [animezone](https://www.animezone.pl/) - Anime
+* [animezone](https://www.animezone.pl/) - Anime / Sub / 720p
 
 ## ▷ Torrenting
 
-* [polskie-torrenty](https://polskie-torrenty.net.pl/) - Video / Audio/ Books / NSFW
-* [devil-torrents](https://devil-torrents.pl/) - Video / Audio/ Books / NSFW
-* [PolishSource](https://polishsource.cz/)
+* [polskie-torrenty](https://polskie-torrenty.net.pl/) - Video / Audio / Books / NSFW
+* [devil-torrents](https://devil-torrents.pl/) - Video / Audio / Books / NSFW
 
 ## ▷ Streaming
 
-* [cda-hd](https://cda-hd.cc/) - Movies / TV
-* [filman.cc](https://filman.cc/) - Movies / TV
-* [Ekino-TV](https://ekino-tv.pl/) - Movies / TV
-* [Zerion.cc](https://zerion.cc/) - Movies / TV
-* [Vizjer](https://vizjer.pl/) - Movies / TV
-* [Zerknij](https://zerknij.tv/) - Movies / TV
-* [Kinomoc](https://kinomoc.com/) - Movies / TV
-* [Filser](https://filser.cc/) - Movies / TV
-* [iiTV](https://iitv.info/) - TV / Cartoons
-* [OpenClip](http://openclip.info/) - Movies / TV / Anime
-* [Shinden](https://shinden.pl/) - Anime / [Discord](https://discord.gg/xyH5uS6)
-* [Anime Odcinki](https://anime-odcinki.pl/) - Anime
-* [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
+* [Kinomoc](https://kinomoc.com/) - Movies / TV / Dub / 1080p
+* [cda-hd](https://cda-hd.cc/) - Movies / TV / Cartoons / Dub / 720p
+* [Zerion](https://zerion.cc/) - Movies / TV / Cartoons / Dub / 720p
+* [Filser](https://filser.cc/) - Movies / TV / Cartoons / Dub / 720p
+* [Vizjer](https://vizjer.pl/) - Movies / TV / Dub / 720p
+* [Zerknij](https://zerknij.tv/) - Movies / TV / Dub / 720p
+* [Ekino-TV](https://ekino-tv.pl/) - Movies / TV / Sub / 720p
+* [iiTV](https://iitv.info/) - TV / Cartoons / Dub / 720p
+* [Anime Odcinki](https://anime-odcinki.pl/) - Anime / Sub / 1080p
+* [Shinden](https://shinden.pl/) - Anime / Sub / 1080p / [Discord](https://discord.gg/xyH5uS6)
+* [Sport TVP](https://sport.tvp.pl/) - Live Sports
 
 ## ▷ Reading
 
-* [wolnelektury](https://wolnelektury.pl/) - Books / Fiction
+* [wolnelektury](https://wolnelektury.pl/) - Books / Fiction / Audiobooks
 * [Audiobook PL](https://audiobookpl.tumblr.com/) - Audiobooks
-* [K1n013f0ur's Pastebin](https://github.com/nbats/FMHYedit/blob/main/base64.md#k1n013f0urs-pastebin) - Audiobooks
-* [doci.pl](https://doci.pl/) - Documents
-* [docer.pl](https://docer.pl/) - Documents
+* [Doci.pl](https://doci.pl/) - Educational / Documents
 * [Academica](https://academica.edu.pl/) - Online Library
 
 ***
@@ -920,40 +907,33 @@
 
 * 🌐 **[Guia de Pirataria para Iniciantes](https://rentry.org/PiracyBG-PTBR)** - Portuguese Beginners Guide to Piracy
 * 🌐 **[Portuguese Piracy Sites](https://rentry.org/PortuguesePiracySites)** - Portuguese Piracy Sites
-* [Invertexto](https://www.invertexto.com) - Multiple Online Tools
+* 🌐 **[Invertexto](https://www.invertexto.com)** - Online Tools Index
 * [SAPO](https://www.sapo.pt) - Search
-* [Legendei.TV](https://legendei.tv), [Legendas.net](https://legendas.net), [Legenda Oficial](http://legendaoficial.net), [Legendas](https://legendas.co) or [Legendas Zone](https://www.legendas-zone.org) - Subtitles
 * [Legendas Brasil](https://legendasbrasil.org) - Subtitle Search App
-* [MD.Saúde](https://www.mdsaude.com) or [Tua Saúde](https://www.tuasaude.com) - Health News
-* [Dieta Emagrece](https://dietaemagrece.com.br) or [Beleza e Saúde](https://belezaesaude.com) - Health
-* [NONIOBlocker](https://github.com/DevTiagoCruz/NONIOBlocker) - News Site Adblocker
+* [Legendei.TV](https://legendei.tv), [Legendas.net](https://legendas.net), [Legenda Oficial](http://legendaoficial.net) or [Legendas](https://legendas.co) - Subtitles
 * [Educa Mais Brasil](https://www.educamaisbrasil.com.br/enem/guia-enem) - ENEM Study Material
 * [Universia](https://www.universia.net) - Portuguese University Search
 * [Flutterando](https://github.com/Flutterando/roadmap) - Flutter Guides
 * [Escola Kids](https://escolakids.uol.com.br) - Kids Learning
 * [Atari2600](https://www.atari2600.com.br) - Browser Emulator
 * [Racha Cuca](https://rachacuca.com.br) - Puzzles / Trivia
-* [Plagiarisma](https://plagiarisma.net/pt/) - Plagiarism Checker
-* [Gerador de Nomes de Fantasia](https://www.nomesdefantasia.com) - Fantasy Name Generator
-* [CatálogoApp](https://catalogoapp.mobi) - Portuguese Product Catalog
-* [Dicionário MPB](https://dicionariompb.com.br) - Top Song Charts
 * [Jogorama](https://jogorama.com.br) - Game Index / Tips
-* [Arquivo.pt](https://arquivo.pt) - History / Sociology / Linguistics Archives
+* [Dicionário MPB](https://dicionariompb.com.br) - Top Song Charts
 
 ## ▷ Downloading
 
 * ⭐ **[WR Educacional](https://www.wreducacional.com.br)** - Courses
-* [Rei dos Torrents](https://reidostorrents.com) - Video / Audio/ Books
-* [Os Reformados](https://osreformados.com) - Video / Audio / Magazines
-* [Baixar Séries MP4](https://baixarseriesmp4.eu) - Movies / TV / Anime
-* [Animes Totais](https://www.animestotais.xyz) - Movies / TV / Anime / Cartoons
-* [Séries Empire](https://seriesempire.com) - TV
-* [KSensei](https://karinsensei.com) - Anime
-* [Anipakku](https://anipakku.blogspot.com) - Anime / [Discord](https://discord.com/invite/Whu6RV9Gad)
-* [Baixar Vídeo](https://baixarvideo.com.br) - Portuguese Video Downloader
+* [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Books / Sub / Dub / 1080p
+* [Os Reformados](https://osreformados.com) - Video / Audio / Magazines / Sub / Dub / 1080p
+* [Baixar Séries MP4](https://baixarseriesmp4.eu) - Movies / TV / Anime / Sub / Dub / 1080p
+* [Animes Totais](https://www.animestotais.xyz) - Movies / TV / Anime / Cartoons / Sub / Dub / 1080p
+* [Séries Empire](https://seriesempire.com) - TV / Sub / Dub / 720p
+* [Anipakku](https://anipakku.blogspot.com) - Anime / Sub / 1080p / [Discord](https://discord.com/invite/Whu6RV9Gad)
+* [KSensei](https://karinsensei.com) - Anime / Sub / 720p
+* [Baixar Vídeo](https://baixarvideo.com.br) - Video Downloader
 * [Online Cursos Gratuitos](https://onlinecursosgratuitos.com) - Courses
 * [Escola Educação](https://escolaeducacao.com.br/estude-gratis) - Courses
-* [Mundo Ubuntu](https://www.mundoubuntu.com.br) - Courses
+* [Mundo Ubuntu](https://www.mundoubuntu.com.br) - Courses / Tech Guides
 
 ## ▷ Torrenting
 
@@ -962,35 +942,31 @@
 * [Filmes Grátis](https://filmesgratis.net) - Movies / TV
 * [Torrent dos Filmes](https://torrentdosfilmes.se) - Movies / TV
 * [Comando](https://comando.la) - Movies / TV
-* [tugaflix](https://tugaflix.best) - Movies / TV / Use Adblock
 * [Filmes Mega](https://filmesmega.co) - Movies / TV
 * [Mega Torrents](https://megatorrents.co) - Movies / TV
 * [Filmes Épicos](http://www.filmesepicos.com) - Movies
-* [Download Cult](http://downloadcult.org) - "Cult" Movies
+* [Download Cult](http://downloadcult.org) - Classic Movies
 * [Dark Animes](https://darkmahou.org) - Anime
 * [Anime No Sekai](https://www.ansktracker.net) - Anime WebIRC Tracker
-* [Sua Música](https://www.suamusica.com.br) - MP3
+* [Sua Música](https://www.suamusica.com.br) - Audio / MP3
 * [Livros e Cursos Download](https://timaterial.blogspot.com) - Courses
 
 ## ▷ Streaming
 
-* ⭐ **[Gyn Cursos](https://gyncursos.com.br)** - Courses
-* ⭐ **[iEstudar Cursos](https://iestudar.com)** - Courses
-* ⭐ **[Pensar Cursos](https://www.pensarcursos.com.br)** - Courses
-* [WarezCDN](https://warezcdn.com) - Movies / TV / Anime / API
-* [Vizer](https://vizer.tv) - Movies / TV / Anime
-* [SuperTela](https://supertela.gripe) - Movies / TV / Anime
-* [Quero Filmes HD](https://querofilmeshd.top) - Movies / TV
-* [TopFlix](https://topflix.tv) - Movies / TV
-* [GoFilmes](https://gofilmes.me/m/) - Movies / TV
-* [Os Teus Filmes Tuga](https://osteusfilmestuga.online) - Movies / TV / Anime / Cartoons
-* [tugaflix](https://tugaflix.best) Movies / TV / Use Adblock
-* [Filmes Online HD](https://www.filmesonlinehdgratis.com.br) - Movies / TV
+* ⭐ **[Gyn Cursos](https://gyncursos.com.br)**, **[iEstudar Cursos](https://iestudar.com)** or **[Pensar Cursos](https://www.pensarcursos.com.br)** - Courses
+* [WarezCDN](https://warezcdn.com) - API for Movies / TV / Anime
+* [Vizer](https://vizer.tv) - Movies / TV / Anime / Sub / Dub / 1080p
+* [SuperTela](https://supertela.zip) - Movies / TV / Anime / Dub / 1080p
+* [GoFilmes](https://gofilmes.me/m/) - Movies / TV / Sub / Dub / 1080p
+* [Os Teus Filmes Tuga](https://osteusfilmestuga.online) - Cartoons / 1080p
+* [tugaflix](https://tugaflix.best) Movies / TV / Sub / 1080p
+* [Quero Filmes HD](https://querofilmeshd.top) - Movies / TV / Sub / Dub / 720p
+* [Filmes Online HD](https://www.filmesonlinehdgratis.com.br) - Movies / TV / Sub / 720p
+* [99](https://www.99.media/pt/) - Documentaries / Sub / 1080p
+* [Libreflix](https://libreflix.org) - Portuguese TV / Documentaries / 720p
+* [NewZect](https://newzect.com) - Asian Drama / Sub / 720p
 * [NetMovies](https://www.netmovies.com.br) - Movies / TV / Requires Login
 * [Bombozila](https://bombozila.com) - Movies / TV / Requires Login
-* [Libreflix](https://libreflix.org) - Movies / TV
-* [NewZect](https://newzect.com) - Asian Drama
-* [99](https://www.99.media/pt/) - Documentaries
 * [Ver Futebol TV](https://verfutebol.online) - Live Sports
 * [Olhos na TV](https://www.olhosnatv.com.br) - Live TV / Sports
 * [Assistir TV Online Grátis](https://aovivo.pro/onde/) - Live TV / Sports
@@ -1013,7 +989,8 @@
 * [Escola Virtual](https://www.ev.org.br) - Courses
 * [Veduca](https://veduca.org) - Courses
 * [DIO](https://www.dio.me) - Development Courses
-* [Palco MP3](https://www.palcomp3.com.br) - Music
+* [Palco MP3](https://www.palcomp3.com.br) - Music / MP3
+* [Harpa Cristã](https://harpacrista.org), [2](https://apps.microsoft.com/store/detail/harpa-crist%C3%A3/9WZDNCRDPDWC), [3](https://play.google.com/store/apps/details?id=br.com.masterapps.harpacristagratis) - Christian Music / MP3
 * [Rádio J-Hero](https://radiojhero.com) - Radio
 * [Radios.com.br](https://www.radios.com.br) - Radio
 * [Radiosaovivo.net](https://radiosaovivo.net) - Radio
@@ -1030,7 +1007,6 @@
 * [Rádios7](http://www.radios7.com) - Radio
 * [Antena 1](https://www.antena1.com.br) - Radio
 * [CXRadio](https://www.cxradio.com.br) - Radio
-* [Harpa Cristã](https://harpacrista.org), [2](https://apps.microsoft.com/store/detail/harpa-crist%C3%A3/9WZDNCRDPDWC), [3](https://play.google.com/store/apps/details?id=br.com.masterapps.harpacristagratis) - Christian Music
 * [Flow Podcast](https://nv99.com.br/flow) - Political Podcast
 * [99Vidas](https://99vidas.com.br/) - Gaming Podcast
 * [cinematório](https://www.cinematorio.com.br) - Movie Podcasts
@@ -1040,7 +1016,6 @@
 * [Papo de Gordo](https://www.papodegordo.com.br/category/podcast/) - Podcasts
 * [Mundo Podcast](https://mundopodcast.com.br) - Podcasts
 * [Kboing FM](https://www.kboingfm.com.br/podcast/) - Podcasts
-* [TV Aberta](https://apkpure.com/br/tv-aberta-lite/tv.aberta.lite) - Live TV APK
 * [Tastemade](https://www.tastemade.com.br) - Recipe Videos
 
 ## ▷ Reading
@@ -1095,6 +1070,7 @@
 * [Estudos Bíblicos](https://estudos-biblicos.net), [2](https://estudos-biblicos.blogspot.com) - Bible Studies
 * [Apologeta](https://www.apologeta.com.br) - Bible Commentary
 * [biblia.com.br](https://biblia.com.br) or [iGuga](https://www.iguga.org) - Biblical Dictionary
+* [Arquivo.pt](https://arquivo.pt) - History / Sociology / Linguistics Archives
 
 ***
 
