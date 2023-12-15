@@ -118,13 +118,27 @@
 
 ***
 
+## ▷ App Launchers
+
+* ⭐ [Niagara Launcher](https://niagaralauncher.app/) - Single-Hand Launcher
+* ⭐ [Lawnchair](https://lawnchair.app/) - Pixel-Based Launcher / [Feed](https://github.com/LawnchairLauncher/lawnfeed/releases/download/v3.0.0/Lawnfeed.3.apk) / [Icons](https://github.com/LawnchairLauncher/lawnicons/releases/download/v2.5.0/Lawnicons-2.5.0.apk)
+* [SmartLauncher](https://www.smartlauncher.net/) - Minimalist / Clean Launcher
+* [Discreet Launcher](https://github.com/falzonv/discreet-launcher) - Minimalist / Clean Launcher
+* [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) - Minimalist / Clean Launcher
+* [KISS](https://kisslauncher.com/) - Low-Memory Usage Launcher
+* [NeoLauncher](https://github.com/NeoApplications/Neo-Launcher) - Customizable Launcher
+* [Olauncher](https://github.com/tanujnotes/Olauncher) - Minimalist Ad-Free Launcher
+* [Unlauncher](https://github.com/jkuester/unlauncher) - Distraction-Free Launcher
+* [Kvaesitso](https://kvaesitso.mm20.de/) - Search-Focused Launcher
+
+***
+
 # ► Android Tools
 
 ## ▷ Android Device
 
 * 🌐 **[Manufacturer Specific](https://rentry.org/ekrw4)** - Manufacturer Specific Mobile Tools
 * ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)**
-* ↪️ **[Custom Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_operating_systems)**
 * ↪️ **[App Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_launchers)**
 * ↪️ **[File Explorers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_file_explorers)**
 * ⭐ **[XDA](https://forum.xda-developers.com/)** - Android Discussion Forum
@@ -338,7 +352,6 @@
 * 🌐 **[SelfPrivacy](https://selfprivacy.org/)** - Self-Hosted Privacy Apps
 * ↪️ **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)**
 * ↪️ **[Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers)**
-* ⭐ **[GrapheneOS](https://grapheneos.org/)**, [Divestos](https://divestos.org/), [LeoS](https://leos-gsi.de/) or [CalyXOS](https://calyxos.org/) - Privacy Based OS
 * ⭐ **[TrackerControl](https://trackercontrol.org/)**, [Permission Pilot](https://github.com/d4rken-org/permission-pilot), [Exodus](https://reports.exodus-privacy.eu.org/en/), [Yivi](https://github.com/privacybydesign/irmamobile) or [HideDroid](https://github.com/Mobile-IoT-Security-Lab/HideDroid) - App Permission Managers
 * ⭐ **[Vigilante](https://github.com/FunkyMuse/Vigilante)**, [AntiStalker](https://www.mallocprivacy.com/) or [Privacy Indicator App](https://github.com/NitishGadangi/Privacy-Indicator-App) - Camera / Mic Access Indication
 * ⭐ **[VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-apps)** or [Pithus](https://beta.pithus.org/) - APK / URL Virus Scanners
@@ -358,7 +371,6 @@
 * [MastodonRedirect](https://github.com/zacharee/MastodonRedirect) - Fediverse Frontend Redirect
 * [Leon](https://f-droid.org/packages/com.svenjacobs.app.leon/) - Remove URL Tracking / [GitHub](https://github.com/svenjacobs/leon)
 * [Stealth](https://gitlab.com/cosmosapps/stealth) - Reddit Frontend
-* [Clipious](https://github.com/lamarios/clipious) - YouTube Frontend
 * [XPrivacyLua](https://lua.xprivacy.eu/) / [GitHub](https://github.com/M66B/XPrivacyLua/) - Privacy Manager
 * [LibChecker](https://github.com/LibChecker/LibChecker) - View App Third-Party Libraries
 * [OSS Release Tracker](https://github.com/jroddev/android-oss-release-tracker) - Open-Source App Update Tracker
@@ -556,6 +568,21 @@
 
 ***
 
+## ▷ Operating Systems
+
+* ⭐ **[CustomRomBay](https://customrombay.org/)** - ROMs Compatibility Search
+* ⭐ **[GrapheneOS](https://grapheneos.org/)** - Privacy Based OS
+* [/e/](https://e.foundation/e-os/) - Privacy Based OS
+* [Divestos](https://divestos.org/) - Privacy Based OS
+* [LeoS](https://leos-gsi.de/) - Privacy Based OS
+* [CalyXOS](https://calyxos.org/) - Privacy Based OS
+* [LineageOS](https://www.lineageos.org/) - CyanogenMod Fork / [MicroG](https://lineage.microg.org/)
+* [ProtonAOSP](https://protonaosp.org) - Minimal / Open-Source OS
+* [BlissROMs](https://blissroms.org/) - Open-Source / Customizable
+* [PixelExperience](https://get.pixelexperience.org/) - AOSP ROM with Google Pixel features
+
+***
+
 # ► Android Emulators 
 
 **Warning** - Closed-source emulators (like Nox) contain intrusive ads and trackers, so it's best to use open-source options or android subsystems (like WSA or WayDroid).
@@ -741,7 +768,6 @@
 * ⭐ **[Miru](https://miru.js.org/en/download)** - Movies / TV / Anime / [GitHub](https://github.com/miru-project/miru-app) / [Docs](https://miru.js.org/en/developer/) 
 * ⭐ **[Kodi](https://kodi.tv/)** - [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) / [Real-Debrid](https://real-debrid.com/)
 * ⭐ **[Syncler](https://syncler.net/)** - Movies / TV / [How-To](https://pastebin.com/VsiKV9rm) / [Providers](https://www.reddit.com/r/providers4syncler/)
-* ⭐ **[LibreTube](https://github.com/libre-tube/libretube)** or [Hyperion](https://github.com/zt64/Hyperion) - Youtube Frontends
 * ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp&gl=US)**, [DMS](https://github.com/anacrolix/dms), [Macast](https://github.com/xfangfang/Macast) or [Cinema Box](https://www.cinema-box.co.uk/) - Media Servers / Chromecast
 * ⭐ **[Trakt](https://play.google.com/store/apps/details?id=tv.trakt.trakt)**, [Showly 2.0](https://github.com/1RandomDev/showly-oss), [Cinexplore](https://fidloo.com/cinexplore/) or [SeriesGuide](https://seriesgui.de/) - Movie / TV Tracker
 * [PopcornTime](https://github.com/popcorn-official/popcorn-android) - Torrent Streaming / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
@@ -802,12 +828,13 @@
 ## ▷ Youtube Apps
 
 * ⭐ **[ReVanced Manager](https://revanced.app/download)** / [Guide](https://redd.it/xlcny9) - Patch YouTube, Reddit, X and other Apps
-* ⭐ **[LibreTube](https://github.com/libre-tube/LibreTube)**
-* ⭐ **[NewPipe](https://newpipe.net/)** / [Sponsorblock](https://github.com/polymorphicshade/NewPipe)
-* [Revanced-Extended Manager](https://github.com/inotia00/revanced-manager/releases/latest) / [Guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners/) - Extended patches for YT, YTMusic and Reddit
+* ⭐ **[LibreTube](https://github.com/libre-tube/LibreTube)** - YouTube Frontend
+* ⭐ **[NewPipe](https://newpipe.net/)** / [Sponsorblock](https://github.com/polymorphicshade/NewPipe) - YouTube and SoundCloud Frontend
+* [ReVanced-Extended Manager](https://github.com/inotia00/revanced-manager/releases/latest) / [Guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners/) - Extended patches for YT, YTMusic and Reddit
 * [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module/releases), [revanced-apks](https://github.com/revanced-apks/build-apps/releases), [docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced/releases) or [AT-YT](https://github.com/Zelooooo/AT-YT/releases) - Automated Patchers
 * [revanced-cli](https://github.com/ReVanced/revanced-cli/), [Revancify](https://github.com/decipher3114/Revancify) or [revanced-creator](https://github.com/XDream8/revanced-creator) - CLI Patchers
 * [Clipious](https://github.com/lamarios/clipious) - YouTube Frontend
+* [Hyperion](https://github.com/zt64/Hyperion) - Youtube Frontend
 * [VueTube](https://github.com/VueTubeApp/VueTube)
 * [SkyTube](https://github.com/SkyTubeTeam/SkyTube)
 * [FreeTubeCordova](https://github.com/MarmadileManteater/FreeTubeCordova)
