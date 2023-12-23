@@ -13,6 +13,7 @@
 
 # ► Proprietary LLMs
 
+* 🌐 **[Chatbot Arena](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)** - Chatbot Leaderboard
 * 🌐 **[Awesome-GPT4](https://gpt4.tools/)** - ChatGPT Resources
 * 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbot Index
 * 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)** - AI APIs and Sites
@@ -40,7 +41,7 @@
 
 # ► Open-Source LLMs
 
-* 🌐 **[Chatbot Arena](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)** or **[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - LLM Leaderboards
+* 🌐 **[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - LLM Leaderboard
 * ⭐ **[seait](https://github.com/diStyApps/seait)** - AI Installation Manager
 * ⭐ **[SillyTavern](https://github.com/SillyTavern/SillyTavern)** - Front-end for LLMs
 * ⭐ **[Mixtral 8x7b](https://huggingface.co/docs/transformers/model_doc/mixtral)** - Open Source LLM / [Guide](https://rentry.org/HowtoMixtral)
@@ -110,9 +111,9 @@
 * [Pinokio](https://pinokio.computer/) - Single Click AI Model Installer / [Discord](https://discord.gg/TQdNwadtE4)
 * [docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT Google Docs Addon
 * [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI
-* [ChatGPT File Uploader](https://chrome.google.com/webstore/detail/chatgpt-file-uploader/oaogphgfdbdbmhkiplemgehihiiececj) - File Upload Extension
+* [ChatGPT File Uploader](https://chromewebstore.google.com/detail/chatgpt-file-uploader/oaogphgfdbdbmhkiplemgehihiiececj) - File Upload Extension
 * [ChatGPT Advanced](https://tools.zmo.ai/webchatgpt) - Add Search Results to ChatGPT
-* [SublimeGPT](https://chrome.google.com/webstore/detail/sublimegpt-chatgpt-everyw/eecockeebhenbihmkaamjlgoehkngjea), [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) or [GPTGO](https://gptgo.ai/) - Add ChatGPT to Search Results
+* [SublimeGPT](https://chromewebstore.google.com/detail/sublimegpt-chatgpt-everyw/eecockeebhenbihmkaamjlgoehkngjea), [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) or [GPTGO](https://gptgo.ai/) - Add ChatGPT to Search Results
 * [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Merlin](https://merlin.foyer.work/) / [Unlimited](https://rentry.co/MerlinAI-Unlim) - ChatGPT Extensions
 * [Harpa](https://harpa.ai/) or [Glimpse](https://glimpse.surf/) - ChatGPT Chrome Extensions
 * [/r/ChatGPT](https://www.reddit.com/r/ChatGPT/) - ChatGPT Subreddit
@@ -120,7 +121,7 @@
 * [ShareGPT](https://sharegpt.com/) or [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
 * [VizGPT](https://www.vizgpt.ai/) - Chat Data Visualization
 * [DeepSheet](https://deepsheet.dylancastillo.co/) - Data Visualization AI
-* [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) or [ChatGPT Prompt Library](https://chrome.google.com/webstore/detail/chatgpt-prompt-library-te/hkabkcpdocmhidhbgfcpbadafacnekkl) - Autoclear Chats
+* [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) or [ChatGPT Prompt Library](https://chromewebstore.google.com/detail/chatgpt-prompt-library-te/hkabkcpdocmhidhbgfcpbadafacnekkl) - Autoclear Chats
 * [EditGPT](https://www.editgpt.app/) - Proofread Chats
 * [RepeatGPT](https://repeatgpt.com/) - Schedule Chats
 * [ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Matrix Theme
