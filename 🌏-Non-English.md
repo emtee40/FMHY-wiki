@@ -939,7 +939,6 @@
 * [Baixar Séries MP4](https://baixarseriesmp4.pm) - Movies / TV / Anime / Sub / Dub / 1080p
 * [Animes Totais](https://www.animestotais.xyz) - Movies / TV / Anime / Cartoons / Sub / Dub / 1080p
 * [Séries Empire](https://seriesempire.com) - TV / Sub / Dub / 720p
-* [Anipakku](https://anipakku.blogspot.com) - Anime / Sub / 1080p / [Discord](https://discord.com/invite/Whu6RV9Gad)
 * [KSensei](https://karinsensei.com) - Anime / Sub / 720p
 * [Baixar Vídeo](https://baixarvideo.com.br) - Video Downloader
 * [Online Cursos Gratuitos](https://onlinecursosgratuitos.com) - Courses
@@ -969,7 +968,6 @@
 * [Vizer](https://vizer.tv) - Movies / TV / Anime / Sub / Dub / 1080p
 * [SuperTela](https://supertela.zip) - Movies / TV / Anime / Dub / 1080p
 * [GoFilmes](https://gofilmes.me/m/) - Movies / TV / Sub / Dub / 1080p
-* [Os Teus Filmes Tuga](https://osteusfilmestuga.online) - Cartoons / 1080p
 * [tugaflix](https://tugaflix.best) Movies / TV / Sub / 1080p
 * [Quero Filmes HD](https://querofilmeshd.fun) - Movies / TV / Sub / Dub / 720p
 * [Filmes Online HD](https://www.filmesonlinehdgratis.com.br) - Movies / TV / Sub / 720p
@@ -995,7 +993,6 @@
 * [MOOC GGTE](https://moocs.ggte.unicamp.br) - Courses
 * [Download de Livros Grátis](https://download-de-livros-gratis.webnode.page) - Courses
 * [Núcleo do Conhecimento](https://www.nucleodoconhecimento.com.br) - Courses
-* [OpenupEd](https://www.openuped.eu/courses) - Courses
 * [Escola Virtual Gov](https://www.escolavirtual.gov.br/catalogo) - Courses
 * [Escola Virtual](https://www.ev.org.br) - Courses
 * [Veduca](https://veduca.org) - Courses
@@ -1051,7 +1048,6 @@
 * [Central Novel](https://centralnovel.com) - Light Novels
 * [Tsundoku Traduções](https://tsundoku.com.br) - Light Novels
 * [Empire Novels](https://empirenovels.com.br) - Light Novels
-* [kakuyomu](https://kakuyomu.jp/) - Light Novels
 * [My Light Novel](https://www.mylightnovel.com.br/) - Light Novels
 * [Revista PROGRAMAR](https://www.revista-programar.info) - Programming Magazine
 * [D&D 5e BR](https://dnd5ed.github.io) - Dungeons and Dragons Guides
@@ -1071,7 +1067,6 @@
 * [Brasil Escola](https://brasilescola.uol.com.br) - Learning Material
 * [Mundo Educação](https://mundoeducacao.uol.com.br) - Math / History
 * [Acessaber](https://acessaber.com.br) - Math Lessons
-* [Library Of Congress](https://www.loc.gov/collections/world-digital-library) - Historical Documents / Images
 * [BORE](https://obrasraras.usp.br) - Historical Documents
 * [Catraca Livre](https://catracalivre.com.br/criatividade/285-livros-de-comunicacao-para-download) - Communication / Culture Books
 * [Recanto das Letras](https://www.recantodasletras.com.br) - Text Archive
@@ -1291,7 +1286,7 @@
 * [EmojiTool](https://emojitool.com/) - Emoji Database
 * [TheToolBox](https://thetoolbox.es/) - Websites Index
 * [AIfindy](https://aifindy.com/) - AI Tools Index
-* [Diccionario RAE en un clic](https://chrome.google.com/webstore/detail/diccionario-rae-en-un-cli/gejdeepcjkfbepfkcfdgiodgoglakiii) - Dictionary Extension
+* [Diccionario RAE en un clic](https://chromewebstore.google.com/detail/diccionario-rae-en-un-cli/gejdeepcjkfbepfkcfdgiodgoglakiii) - Dictionary Extension
 * [El Museo de los 8 bits](https://museo8bits.com/) / [2](http://www.museo8bits.es/) - History of Computing
 * [TrustScam](https://trustscam.es/) - Website Security Analysis
 * [Steamcito](https://emilianog94.github.io/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos/landing/index.html) - Converts Steam Prices to Argentine Pesos
@@ -1641,7 +1636,7 @@
 * [VNTyping](https://vntyping.com/), [VietnameseTyping](https://vietnamesetyping.com/) or [VNKeys](https://www.vnkeys.net/) - Vietnamese Typing
 * [Mail1s](https://mail1s.com/) - Temp Email
 * [BeeCost](https://beecost.vn/) - E-commerce Price Tracker
-* [FBVN](https://chrome.google.com/webstore/detail/hlnhbiajcpmjpgpedgfdigiccejengbi) or [L.O.C](https://chrome.google.com/webstore/detail/eojdckfcadamkapabechhbnkleligand) - Friends Filter for Facebook
+* [FBVN](https://chromewebstore.google.com/detail/hlnhbiajcpmjpgpedgfdigiccejengbi) or [L.O.C](https://chromewebstore.google.com/detail/eojdckfcadamkapabechhbnkleligand) - Friends Filter for Facebook
 * [123Note](https://123note.net/), [Notepad](https://notepad.vn/), [GhiChu](https://ghichu.vn/) - Notepad Tools
 * [Random](https://random.com.vn/), [QuaySo](https://quayso.vn/) or [NgauNhien](https://ngaunhien.vn/) - Random Tools
 * [FPT.AI](https://fpt.ai/vi/tts) or [vbee](https://www.vbee.vn/) - Text to Speech
