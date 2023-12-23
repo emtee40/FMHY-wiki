@@ -193,8 +193,8 @@
 
 ## ▷ Privacy Indexes
 
-* ⭐ **[Awesome Privacy](https://awesome-privacy.xyz/)** / [2](https://github.com/pluja/awesome-privacy) - List of Privacy Software/Services
-* ⭐ **[Security List](https://security-list.js.org/)** - Collection of Tips/Resources for Protecting Privacy
+* ⭐ **[Awesome Privacy](https://awesome-privacy.xyz/)** / [2](https://github.com/pluja/awesome-privacy) - List of Privacy Software & Services
+* ⭐ **[Security List](https://security-list.js.org/)** - Collection of Tips & Resources for Protecting Privacy
 * ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** - Extensive Guide to Online Anonymity
 * ⭐ **[Privacy Guides](https://www.privacyguides.org/)** - Educational Guide
 * ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)** - Educational Guide
@@ -202,10 +202,10 @@
 * [Defensive Computing Checklist](https://defensivecomputingchecklist.com/) - Privacy Guide
 * [AvoidTheHack](https://avoidthehack.com/) - Privacy Blog
 * [Privacy Tools List](https://privacytoolslist.com/) - Privacy Tools
+* [Hostux](https://hostux.network/) - Privacy Tools
 * [Alternative Internet](https://github.com/redecentralize/alternative-internet) - Collection of Decentralised Tools
 * [EncryptedList](https://encryptedlist.xyz/) - List of Encrypted Services/Apps
 * [ProductivePrivacy](https://productiveprivacy.com/) - Privacy-Focused Productivity Apps 
-* [Hostux](https://hostux.network/) - Privacy Tools
 
 ***
 
@@ -405,7 +405,7 @@
 * ⭐ **[Proton](https://protonvpn.com)** - [Pricing](https://ibb.co/gg4VCDR) / No Torrenting w/ Free Version
 * ⭐ **[CryptoStorm](https://cryptostorm.is/)** - [Pricing](https://i.ibb.co/3m849CX/afe46b2ec3ec.png)
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN
-* ⭐ **[Warp](https://1.1.1.1/)** - Traffic Encryption VPN / [Client](https://github.com/ViRb3/wgcf) / [Unlimited Data](https://t.me/warpplus), [2](https://github.com/nxvvvv/warp-plus) / [WireGuard Guide](https://rentry.co/foss-warp) / [Warp Warning](https://rentry.co/warpwarning)
+* ⭐ **[Warp](https://1.1.1.1/)**, [2](https://1.0.0.1/) - Traffic Encryption VPN / [Client](https://github.com/ViRb3/wgcf) / [Unlimited Data](https://t.me/warpplus), [2](https://github.com/nxvvvv/warp-plus) / [WireGuard Guide](https://rentry.co/foss-warp) / [Warp Warning](https://rentry.co/warpwarning)
 * [Mullvad](https://mullvad.net/) - [Pricing](https://i.ibb.co/sHB33GJ/daf48a5ee585.png) / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
 * [IVPN](https://www.ivpn.net/) - [Pricing](https://i.ibb.co/6sQKrQL/e06bea93c5ba.png) / [Free Trial](https://redd.it/nzjmqa) / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/)
 * [OVPN](https://www.ovpn.com/) - [Pricing](https://ibb.co/BNmCJdS) / [No Logging](https://www.ovpn.com/en/blog/ovpn-wins-court-order)
