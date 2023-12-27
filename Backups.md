@@ -18,10 +18,6 @@
 
 ***
 
-**[NotABug Backup](https://notabug.org/nbatman/freemediaheckyeah/wiki/_pages)** - [Updated Daily]
-
-***
-
 **[Safe for Work Copy](https://rentry.org/piracy)** - [No NSFW, Updated Daily]
 
 ***
