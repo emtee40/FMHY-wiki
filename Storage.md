@@ -188,20 +188,6 @@ http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161
 
 ***
 
-## Color Palette Generators
-
-* ⭐ **[supercolorpalette](https://supercolorpalette.com/)**
-
-[SchemeColor](https://www.schemecolor.com/), [ColorSpace](https://mycolor.space/), [Adobe Color](https://color.adobe.com/), [0to255](https://0to255.com/), [Bootflat](https://bootflat.github.io/color-picker.html), [BrandColors](https://brandcolors.net/), [colorful gradients](https://colorfulgradients.tumblr.com/), [COLOURlovers](https://www.colourlovers.com/), [CoolHue](https://webkul.github.io/coolhue/), [Flat UI Colors 2](https://flatuicolors.com/), [Material UI](https://materialui.co/colors/), [Color Hunt](https://colorhunt.co/), [ColorsWall](https://colorswall.com/), [Pigment](https://pigment.shapefactory.co/), [Image to Color Palette Generator](https://www.patorjk.com/color-palette-generator/), [ColourCode](https://www.toptal.com/designers/colourcode/), [Colorscales](https://www.colorscales.com/en/start), [colors.lol](https://colors.lol/), [Color Palette Generator](https://www.degraeve.com/color-palette), [ColorBox](https://colorbox.io/), [Eva Design System](https://colors.eva.design/), [Scale](https://hihayk.github.io/scale/), [calcolor.co](https://calcolor.co/), [Color Lisa](https://colorlisa.com/), [Cohesive Colors](https://javier.xyz/cohesive-colors/), [Color Leap](https://colorleap.app/), [ColorHuddle](https://colorhuddle.co/), [Coolors](https://coolors.co/), [UI Colors](https://uicolors.app/create), [Randoma11y](https://randoma11y.com/), [Pywal](https://github.com/dylanaraps/pywal), [ColorKit](https://colorkit.co/color-palette-generator/), [Huemint](https://huemint.com/), [accessiblepalette](https://accessiblepalette.com/), [colorcolor](https://colorcolor.in/), [copypalette](https://copypalette.app/), [couleur.io](https://couleur.io/), [poolors](https://poolors.com/), [easycolour](https://easycolour.app/), [goodpalette](https://goodpalette.io/), [hue.tools](https://hue.tools/), [huey](https://huey.design/), [Schemist](https://schemist.fglt.fr/), [aicolors](https://aicolors.co/), [palettemaker](https://palettemaker.com/), [Branding Colors](https://brandingcolors.net/), [colorffy](https://colorffy.com/)
-
-***
-
-## Color Pickers
-
-[Colordot](https://color.hailpixel.com/), [Sorted CSS Colors](https://enes.in/sorted-colors/), [Chroma](https://chroma.spencerhamm.com/), [Adobe Color](https://color.adobe.com/explore), [Color Deck](https://color.obscuredetour.com/), [ColorKit](https://colorkit.io/), [Colorpicker](https://colorpicker.fr/), [Culrs](https://culrs.com/), [COLORWISE](https://colorwise.io/), [Geenes](https://geenes.app/welcome), [Image Color Picker](https://www.appypie.com/design/image-color-picker/), [Khroma](https://khroma.co/), [Just Color Picker](https://annystudio.com/software/colorpicker/), [Material Design Palette Generator](https://materialpalettes.com/), [Picular](https://picular.co/), [React Color](https://casesandberg.github.io/react-color/), [Leonardo](https://leonardocolor.io/), [Colors](https://clrs.cc/a11y/), [Color Picker](https://imagecolorpicker.com/), [cccolor](https://fffuel.co/cccolor/), [instant-eyedropper](https://github.com/miaupaw/instant-eyedropper), [ColorKit's Color Picker](https://colorkit.co/color-picker/), [epick](https://github.com/vv9k/epick)
-
-***
-
 ## Collaboration Platforms
 
 [Doozy](https://doozy.live/), [Zulip](https://zulip.com/), [Miro](https://miro.com/), [Mattermost](https://mattermost.com/), [Twake](https://twake.app/), [Asana](https://asana.com/), [Freedcamp](https://freedcamp.com/), [Lumeer](https://www.lumeer.io/), [Slab](https://slab.com/), [Focalboard](https://www.focalboard.com/), [WeKan](https://wekan.github.io/), [Kanboard](https://kanboard.org/), [Skiff](https://skiff.com/), [Mural](https://www.mural.co/), [Dendron](https://www.dendron.so/), [Lucidchart](https://www.lucidchart.com/), [Trello](https://trello.com/), [Planka](https://planka.app/), [Taskcafe](https://github.com/JordanKnott/taskcafe), [Room](https://room.sh/), [Atlassian](https://www.atlassian.com/), [linear](https://linear.app/)
