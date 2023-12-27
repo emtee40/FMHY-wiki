@@ -28,7 +28,7 @@
 
 ***
 
-**[Wayback Machine](https://web.archive.org/web/20211218000000*/https://www.reddit.com/r/FREEMEDIAHECKYEAH/)** - [Updated Periodically]
+**[Wayback Machine](https://web.archive.org/web/2/https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)** - [Updated Periodically]
 
 ***
 
