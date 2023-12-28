@@ -22,12 +22,6 @@
 
 ***
 
-**Alt Views** - [Updated Daily]
-
-**[Teddit](https://teddit.net/r/FREEMEDIAHECKYEAH/wiki)** / **[Photon](https://photon-reddit.com/r/freemediaheckyeah/wiki/index)**
-
-***
-
 **[Wayback Machine](https://web.archive.org/web/2/https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)** - [Updated Periodically]
 
 ***
