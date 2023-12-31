@@ -18,10 +18,6 @@
 
 ***
 
-**[Safe for Work Copy](https://rentry.org/piracy)** - [No NSFW, Updated Daily]
-
-***
-
 **[Wayback Machine](https://web.archive.org/web/2/https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)** - [Updated Periodically]
 
 ***
@@ -31,6 +27,14 @@
 **[Markdown Page](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page)** / [2](https://gist.githubusercontent.com/taskylizard/5ba73bf97dccf159316edcf4c6520856/raw/90fbdde564f53bfd02cce0190738d0d090bceb1c/fmhy.md) - [Updated Daily]
 
 **[Markdown Search](https://github.com/Rust1667/a-FMHY-search-engine)** - Markdown Search Engine
+
+***
+
+**Safe for Work versions** (no nsfw section)
+
+**[FMHY.xyz](http://fmhy.xyz/)** 
+
+**[rentry.org/piracy](https://rentry.org/piracy)**
 
 ***
 
