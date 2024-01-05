@@ -32,8 +32,6 @@
 
 **Safe for Work versions** (no nsfw section)
 
-**[FMHY.xyz](http://fmhy.xyz/)** 
-
 **[rentry.org/piracy](https://rentry.org/piracy)**
 
 ***
