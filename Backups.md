@@ -30,7 +30,7 @@
 
 ***
 
-**Safe for Work versions** (no nsfw section)
+**Safe for Work** (no nsfw section)
 
 **[rentry.org/piracy](https://rentry.org/piracy)**
 
