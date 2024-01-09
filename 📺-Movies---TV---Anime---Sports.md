@@ -4,11 +4,6 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/M6YMpcX)** - For mobile users
-
-***
-***
-
 # ► Streaming Sites
 
 ## ▷ Multi Server
