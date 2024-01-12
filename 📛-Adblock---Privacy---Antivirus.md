@@ -19,7 +19,7 @@
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
 * ↪️ **[Redirect Skippers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)**
 * ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Adblocker / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/) / [Advanced](https://youtu.be/2lisQQmWQkY)
-* ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads) / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
+* ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * ⭐ **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)** - Hide Website Overlays 
 * ⭐ **[Popupblocker All](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/)**, [PopUpOFF](https://romanisthere.github.io/PopUpOFF-Website/index.html) or [PopupBlocker](https://github.com/AdguardTeam/PopupBlocker) - Popup / New Tab Blockers
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Play Videos in Ad-Free Player
@@ -32,7 +32,7 @@
 
 ## ▷ DNS Adblocking
 
-* **Note** - If your goal is to block browser ads its best to just stick with uBlock Origin, as additional filters can cause conflicts or antiadblock. 
+* **Note** - If your goal is to block browser ads, it's best to just stick with uBlock Origin, as additional filters can cause conflicts or antiadblock. 
 
 ***
 
@@ -60,7 +60,6 @@
 * [no-google](https://github.com/nickspaargaren/no-google) - Block All Google Services 
 * [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Smart TV Ads
 * [ZoneWatcher](https://zonewatcher.com/) - DNS Backup Tool
-* [DNS Redirector](http://dnsredirector.com/) - DNS Redirector
 * [DNS Resolver Privacy-First](https://doh.tiar.app/) - DNS Resolver
 * [Technitium](https://technitium.com/dns) or [Hickory DNS](https://github.com/hickory-dns/hickory-dns) - Self-Hosted DNS Server
 * [DNS Perf](https://dnsperf.com/dns-speed-benchmark) or [NameBench](https://code.google.com/archive/p/namebench/) - DNS Speed Tests
@@ -167,7 +166,7 @@
 * [chausies encrypt](https://chausies.xyz/encrypt), [Steg Cloak](https://stegcloak.surge.sh/) or [spam mimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
 * [Paper Age](https://github.com/matiaskorhonen/paper-age) - Create Paper Backups of Secrets
 * [USBKill](https://github.com/hephaest0s/usbkill) - Anti-Forensic Kill-Switch
-* [HiddenVM](https://github.com/aforensics/HiddenVM) - Run a Oracle VM on TailsOS
+* [HiddenVM](https://github.com/aforensics/HiddenVM) - Run an Oracle VM on TailsOS
 * [V2Ray](https://v2ray.com/en/), [V2Fly](https://www.v2fly.org/), [V2RayN](https://github.com/freefq/free) or [v2ray-core](https://github.com/v2fly/v2ray-core) - DIY Privacy Network
 * V2Ray Tools - [GUI](https://github.com/2dust/v2rayN), [2](https://github.com/Qv2ray/Qv2ray) / [GeoIP](https://github.com/Loyalsoldier/geoip) / [Free Server](https://fanqiang.network/) / [Cloudflare Scan](https://cloudflare-v2ray.vercel.app/)/ [Tutorial](https://github.com/freefq/tutorials)
 * [FreeCarrierLookup](https://www.freecarrierlookup.com/) - Get Telephone Carrier Data 
@@ -225,11 +224,15 @@
 * 🌐 **[Awesome I2P](https://github.com/mikalv/awesome-i2p)** - I2P Resources
 * ↪️ **[Encrypted Messaging Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messengers)** / [2](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU) / [3](https://www.securemessagingapps.com/)
 * ↪️ **[Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)**
+* ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser
+* ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (w/o Tor network)
+* ⭐ **[arkenfox](https://github.com/arkenfox/user.js)**- Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI)
 * ⭐ **[PrivacySpy](https://privacyspy.org/)** or [Terms of Service; Didn't Read](https://tosdr.org/) - Sites Privacy Policies 
 * ⭐ **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support
-* ⭐ **[simplewall](https://www.henrypp.org/product/simplewall)**, [WFC](https://www.binisoft.org/wfc.php), [pfSense](https://www.pfsense.org/) / [How-to](https://youtu.be/am7xT-zU1Q0) or [Tinywall](https://tinywall.pados.hu/) - Firewall / Network Monitors
+* ⭐ **[simplewall](https://github.com/henrypp/simplewall)**, [WFC](https://www.binisoft.org/wfc.php), [pfSense](https://www.pfsense.org/) / [How-to](https://youtu.be/am7xT-zU1Q0) or [Tinywall](https://tinywall.pados.hu/) - Firewall / Network Monitors
 * ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
 * ⭐ **[GameIndustry](https://gameindustry.eu/en/)** - Block Trackers in Desktop / Mobile Games
+* [Librewolf](https://librewolf.net/)- Pre-tweaked Firefox Fork / **[Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)**
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - Password Strength Checker
 * [h8Mail](https://github.com/khast3x/h8mail) or [FirefoxMonitor](https://monitor.firefox.com/) - Data Breach Check
 * [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](https://leak-lookup.com/), [Trufflehog](https://github.com/trufflesecurity/trufflehog), [Database Search](https://search.0t.rocks/) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engines
@@ -279,16 +282,6 @@
 
 ***
 
-## ▷ Privacy Browsers
-
-* ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser
-* ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - Tor Browser Fork (w/o Tor network)
-* ⭐ **[Librewolf](https://librewolf.net/)**- Pre-tweaked Firefox Fork / **[Use Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater)**
-* ⭐ **[arkenfox](https://github.com/arkenfox/user.js)**- Firefox Privacy Tweak / [Video](https://youtu.be/F7-bW2y6lcI)
-* [Brave](https://brave.com/) - Chromium Based Browser
-
-***
-
 ## ▷ Privacy Extensions
 
 * ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Privacy Extension / Adblock / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/) / [Advanced](https://youtu.be/2lisQQmWQkY)
@@ -328,7 +321,7 @@
 * [Rimgo](https://codeberg.org/rimgo/rimgo) - Imgur Frontend
 * [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend
 * [Pixivfe](https://codeberg.org/VnPower/pixivfe) - Pixiv Frontend
-* [Gothub](https://codeberg.org/gothub/gothub) - Github Frontend
+* [Gothub](https://codeberg.org/gothub/gothub) - GitHub Frontend
 * [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - StackOverflow Frontend
 * [BreezeWiki](https://breezewiki.com/) - Fandom Frontend
 * [Tent](https://codeberg.org/sun/Tent) - Bandcamp Frontend
@@ -398,7 +391,7 @@
 
 # ► VPN
 
-* **Note** - For torrenting it's recommended to use a paid rather than free VPN. Free VPNs are only really useful for things like viewing sites blocked by your ISP / country.
+* **Note** - For torrenting, it's recommended to use a paid rather than free VPN. Free VPNs are only really useful for things like viewing sites blocked by your ISP / country.
 
 ***
 
@@ -450,16 +443,16 @@
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service
 * [Hide.me Firefox](https://addons.mozilla.org/en-US/firefox/addon/hide-me-vpn-free-proxy/) / [Chrome](https://chromewebstore.google.com/detail/hideme-proxy/ohjocgmpmlfahafbipehkhbaacoemojp) or [anonymoX](https://anonymox.net/en) - Free Proxy Service Browser Extension
 * [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
-* [CensorTracker](https://github.com/roskomsvoboda/censortracker), [FoxyProxy](https://getfoxyproxy.org/) or [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)  - Proxy Extensions
+* [CensorTracker](https://github.com/roskomsvoboda/censortracker), [FoxyProxy](https://getfoxyproxy.org/) or [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Proxy Extensions
 * [Acrylic](https://mayakron.altervista.org/) - DNS Cache Local Proxy
 * [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - DNS Encryption Local Proxy
 * [Proxifier](https://www.proxifier.com/) - Add proxy functionality to applications / [Keys](https://github.com/nbats/FMHYedit/blob/main/base64.md#proxifier-keys)
 * [Hiddify](https://hiddify.com/) - Auto-Proxy Client
-* [NginxProxyManager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Self-hosted Proxy Server
-* [Shadowsocks](https://shadowsocks.org/) / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/learnhard-cn/free_proxy_ss) / [Client](https://github.com/shadowsocks/shadowsocks-windows) - Proxy Client and Self-hostable Server
-* [Hysteria](https://github.com/apernet/hysteria) - Proxy Client and Self-hostable Server
-* [Xray](https://github.com/XTLS/Xray-core) - Proxy Client and Self-hostable Server / [Telegram](https://t.me/projectXray)
-* [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet), [Privoxy](https://www.privoxy.org/) / [Docker Build](https://github.com/binhex/arch-privoxyvpn) or [Tsunami](https://github.com/FogNetwork/Tsunami) - Self-hosted Proxy Websites
+* [NginxProxyManager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Self-Hosted Proxy Server
+* [Shadowsocks](https://shadowsocks.org/) / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/learnhard-cn/free_proxy_ss) / [Client](https://github.com/shadowsocks/shadowsocks-windows) - Proxy Client and Self-Hosted Server
+* [Hysteria](https://github.com/apernet/hysteria) - Proxy Client and Self-Hosted Server
+* [Xray](https://github.com/XTLS/Xray-core) - Proxy Client and Self-Hosted Server / [Telegram](https://t.me/projectXray)
+* [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet), [Privoxy](https://www.privoxy.org/) / [Docker Build](https://github.com/binhex/arch-privoxyvpn) or [Tsunami](https://github.com/FogNetwork/Tsunami) - Self-Hosted Proxy Websites
 * [1337x Proxy](https://redd.it/tz7nyx) - 1337x Proxy Guide / [Example](https://pastebin.com/3n5K0QrP)
 
 ***
