@@ -523,7 +523,7 @@
 * ⭐ **[Full4Movies](https://www.full4movies.mobi/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
 * ⭐ **[MoviesMod](https://moviesmod.dev/)** - Movies / TV / Sub / Dub / 1080p / [Telegram](https://telegram.dog/moviesmodorg) / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[Filmycity](https://filmycity.monster/)** - Movies / TV / Anime / 1080p
-* ⭐ **[AToZ Cartoonist](https://www.atozcartoonist.com/)** - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/EpQn49C4jX)
+* ⭐ **[AToZ Cartoonist](https://www.atozcartoonist.com/)** - Cartoons / Anime / Sub / Dub / 1080p / [Discord](https://discord.com/invite/EpQn49C4jX) / [Link Bypasser](https://greasyfork.org/en/scripts/484907)
 * ⭐ **[Free Lossless Desi Music](https://hindi-lossless.blogspot.com/)** - Music / FLAC
 * [MkvCinemas](https://mkvcinemas.mov/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
 * [MLWBD](https://mlwbd.run/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/mlwbdnew)
@@ -1390,11 +1390,9 @@
 * [Mega1080](https://www.mega1080.com/) - Movies / Documentaries / Latino
 * [mirandopeliculas](https://www.mirandopeliculas.com/) - Movies / TV / Latino
 * [TodoPelisHD](https://todopelishd.com/) - Movies / Latino
-* [Maxcine](https://www.maxcine.net/) - Movies / Sub / Dub / 720p
 * [Cine24h](https://cine24h.online/) - Movies / TV / Sub / Dub / 720p
 * [Peliculas 1k](https://www.peliculasmega1k.com/) - Movies / 720p
 * [subtituladas.com](https://subtituladas.com/) - Movies / Sub / 720p 
-* [EsmeraldaTorrent](https://esmeraldatorrent.com/) - Movies / 720p 
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
 * [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino / [Bypasser script](https://greasyfork.org/en/scripts/462492)
 * [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation / Latino
@@ -1440,6 +1438,7 @@
 * ⭐ **[Grantorrent.wtf](https://grantorrent.wtf/)** - Movies / TV / Documentaries / Castilian
 * ⭐ **[Elitetorrent](https://www.elitetorrent.wf/)** - Movies / TV / Anime / Castilian / Latino / VOSE
 * [Descargas2020](https://descargas2020.net/) - Movies / TV
+* [EsmeraldaTorrent](https://esmeraldatorrent.com/) - Movies / TV / Castilian
 * [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries / Castilian
 * [PediaTorrent](https://pediatorrent.com/) - Movies / TV / Documentaries / Castilian
 * [MoviesDVDR](https://www.moviesdvdr.co/) - Movies / Castilian
@@ -1478,6 +1477,7 @@
 * [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Anime / Latino / [Telegram](https://t.me/pelisplushd_nu)
 * [PelisPlusHD](https://pelisplusgo.vip/) - Movies / TV / Latino
 * [PelisxD](https://www.pelisxd.com/) - Movies / TV / Latino
+* [Maxcine](https://www.maxcine.net/) - Movies / Sub / Dub / 720p / Latino
 * [Cuevana8](https://ww3.cuevana8.com/) - Movies / TV
 * [PelisPedia.is](https://pelispedia.is/) - Movies / TV
 * [Gnula.se](https://gnula.se/) - TV / Anime
