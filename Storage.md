@@ -97,7 +97,16 @@
 
 ### To-Do Apps
 
-[Tasks](https://tasks.org/), [Any.do](https://www.any.do/), [Simpletask](https://github.com/mpcjanssen/simpletask-android), [Orgzly](https://github.com/orgzly/orgzly-android), [Tasky](https://github.com/thatsmanmeet/Tasky), [Alkaa](https://github.com/igorescodro/alkaa), [EverydayTasks](https://everydaytasks.jepfa.de/), [Taskito](https://taskito.io/), [discipline](https://discipline.io/), [noterly](https://play.google.com/store/apps/details?id=uk.co.tdsstudios.noterly)
+* [Tasks](https://tasks.org/) - Sync Supported
+* [Any.do](https://www.any.do/) - Sync Supported
+* [doable](https://doable.app/) - Sync Supported / Extensions
+* [Simpletask](https://github.com/mpcjanssen/simpletask-android) - Sync Supported
+* [Orgzly-revived](https://github.com/orgzly/orgzly-android) - Sync Supported 
+* [organice](https://organice.200ok.ch/) - Sync Supported / Account Required
+* [Tasky](https://github.com/thatsmanmeet/Tasky)
+* [Alkaa](https://github.com/igorescodro/alkaa)
+* [EverydayTasks](https://everydaytasks.jepfa.de/)
+* [Taskito](https://taskito.io/)
 
 ***
 
