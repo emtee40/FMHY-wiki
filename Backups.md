@@ -1,8 +1,16 @@
 **Websites** - [Updated Daily]
 
-**[FMHY.net](https://fmhy.net/)**  / [2](https://fmhy.pages.dev/) / [3](https://fmhy.github.io/FMHYedit/)
+**[FMHY.net](https://fmhy.net/)** / **[2](https://fmhy.pages.dev/)**
+
+**[FMHY.github.io](https://fmhy.github.io/FMHYedit/)**
 
 **[FMHY.tk](https://www.fmhy.tk/)**
+
+**[FMHY.xyz](https://fmhy.xyz/)** - No NSFW Section
+
+***
+
+**[Rentry Backup](https://rentry.co/FMHY)** / **[SFW Rentry](https://rentry.org/piracy)** - [Updated Daily]
 
 ***
 
@@ -11,10 +19,6 @@
 ***
 
 **[Saidit Backup](https://saidit.net/s/freemediaheckyeah/wiki/index)** - [Updated Daily]
-
-***
-
-**[Rentry Backup](https://rentry.co/FMHY)**  - [Updated Daily]
 
 ***
 
@@ -27,14 +31,6 @@
 **[Markdown Page](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page)** / [2](https://gist.githubusercontent.com/taskylizard/5ba73bf97dccf159316edcf4c6520856/raw/90fbdde564f53bfd02cce0190738d0d090bceb1c/fmhy.md) - [Updated Daily]
 
 **[Markdown Search](https://github.com/Rust1667/a-FMHY-search-engine)** - Markdown Search Engine
-
-***
-
-**Safe for Work** (no nsfw section)
-
-**[FMHY.xyz](https://fmhy.xyz/)**
-
-**[rentry.org/piracy](https://rentry.org/piracy)**
 
 ***
 
