@@ -1,6 +1,6 @@
 **Websites** - [Updated Daily]
 
-**[FMHY.net](https://fmhy.net/)**  / [2](https://fmhy.pages.dev/)
+**[FMHY.net](https://fmhy.net/)**  / [2](https://fmhy.pages.dev/) / [3](https://fmhy.github.io/FMHYedit/)
 
 **[FMHY.tk](https://www.fmhy.tk/)**
 
