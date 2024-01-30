@@ -264,7 +264,7 @@
 * [cytube](https://cytu.be/) - TV / Chat
 * [VaughnLive](https://vaughn.live/browse/misc) - TV / Chat
 * [Baked](https://baked.live/) - TV / Chat
-* [fun.cube](https://funcube.space/) - TV / Chat / [Backup](https://backup.funcube.space/)
+* [fun.cube](https://funcube.space/) - TV / Chat
 
 ***
 
@@ -763,7 +763,6 @@
 * [SubsPlease](https://subsplease.org/) - Sub
 * [DameDesuYo](https://damedesuyo.com/) - Sub 
 * [GoodJobMedia](https://www.goodjobmedia.com/) - Sub
-* [ASNet](https://asnet.pw/) - Sub
 * [Chihiro](https://chihiro-subs.com/) - Sub
 * [AnimeRG](https://animereleasegroup.blogspot.com/) - Sub / Dub
 * [Some-Stuffs](https://some-stuffs.com/) - Sub / [Discord](https://discord.gg/wYgXer2)
