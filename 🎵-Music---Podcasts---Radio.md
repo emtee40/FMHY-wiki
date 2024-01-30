@@ -92,7 +92,6 @@
 * [nuclear](https://nuclear.js.org/) - Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)
 * [FunkWhale](https://funkwhale.audio/) - Streaming
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
-* [Resso](https://www.resso.com/in/) - Streaming
 * [Musify](https://github.com/gokadzev/Musify) - Streaming
 * [MellowPlayer](https://colinduquesnoy.gitlab.io/MellowPlayer/) - Streaming
 * [Muffon](https://github.com/staniel359/muffon) - Streaming
@@ -304,12 +303,10 @@
 * [The Last Disaster](https://thelastdisaster.vip/) - Metal / Hardcore / Rock / 320kb / MP3 / FLAC
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool
 * [musify](https://musify.club/) - 320kb / MP3
-* [Black Organization](https://blackorganizationmp3.wixsite.com/music) - 320kb / MP3
 * [ccMixter](https://ccmixter.org/) - DL / Stream / 320kb / MP3 
 * [ShareMania](https://sharemania.us/) - 320kb / MP3
 * [RockDownload](https://www.rockdownload.org/) - 320kb / MP3
 * [SongsLover](https://songslover.vip/) - 256kb / MP3
-* [24naijamuzic](https://www20.24naijamuzic.com/) - 256kb / MP3
 * [Freemp3cloud](https://freemp3cloud.com) - 256kb / MP3
 * [Ezhevika](https://ezhevika.blogspot.com/) - 192kb / MP3
 * [Rhapsody](https://rentry.co/FMHYBase64#rhapsody) - 128kb / MP3
@@ -499,7 +496,6 @@
 * [VGMRips](https://vgmrips.net/packs/) - Retro Game Music Rips / VGM
 * [Zophar's](https://www.zophar.net/music) - Retro Game Music Rips / VGM
 * [GameOST](https://gameost.net/) - Game Soundtracks / MP3
-* [Roland SC-55](https://sc55.duke4.net/games.php) - Game Soundtracks / MP3
 * [retro.sx](https://retro.sx/) - Game Music Radio
 * [VIP VGM](https://www.vipvgm.net/) - Game Music Radio
 * [Cirrus Retro](https://cirrusretro.com/) - Game Music Radio
@@ -539,7 +535,7 @@
 * [Music-Map](https://www.music-map.com/), [Panther](http://panther.audio/), [Musicroamer](https://www.musicroamer.com/), [Gnoosic](https://www.gnoosic.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [SAGE](https://hate5six.com/sage), [LivePlasma](https://liveplasma.com/) or [GNOD](https://www.gnod.com/) - Artist Discovery Tools
 * [45Cat](https://www.45cat.com/) - Vinyl Ratings / Reviews
 * [TapeFear](https://www.tapefear.com/) or [SongsLikeX](https://songslikex.com/) - Spotify Song Discovery
-* [Spotalike](https://spotalike.com/), [playlist-generator](https://www.playlist-generator.com/), [Chat Jams](https://www.chatjams.ai/), [ChatGPTify](https://github.com/idilsulo/ChatGPTify), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [NautrualLanguage](https://www.naturallanguageplaylist.com/), [Highlights2SPotify](https://highlights2spotify.com/), [Ripple](https://ripple.orcas.land/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generators
+* [Spotalike](https://spotalike.com/), [playlist-generator](https://www.playlist-generator.com/), [Chat Jams](https://www.chatjams.ai/), [ChatGPTify](https://github.com/idilsulo/ChatGPTify), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [NautrualLanguage](https://www.naturallanguageplaylist.com/), [Highlights2SPotify](https://highlights2spotify.com/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generators
 * [Spoqify](https://spoqify.com/) - Anonymous Playlist Generator
 * [TuneMunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
 * [Forgotify](https://forgotify.com/) - Songs w/ No Plays on Spotify
@@ -555,6 +551,7 @@
 * [Acclaimed Music](https://www.acclaimedmusic.net/) - Discover Acclaimed Music of the Times
 * [Best Ever Albums](https://www.besteveralbums.com/index.php) or [AlbumByMood](https://www.albumbymood.com/) - Discover Albums
 * [MusicGenreTree](https://www.musicgenretree.org/chart.html) - Discover New Music by Genre
+* [EveryNoise](https://everynoise.com/) - Discover Music Genres
 * [SecondHandSongs](https://secondhandsongs.com/) or [WhoSampled](https://www.whosampled.com/) - Cover / Remix Databases
 * [SoundtrackTracklist](https://soundtracktracklist.com/) - Soundtrack Song Lists
 * [generasia](https://www.generasia.com/) - Asian Music Wiki
@@ -708,7 +705,7 @@
 
 ## ▷ Audio Editors
 
-* ⭐ **[G-MEH](https://g-meh.com/vst/)** - Audio Editor
+* ⭐ **[G-MEH](https://g-meh.com/vst/)** - Audio Editors
 * ⭐ **[Tenacity](https://tenacityaudio.org/)**, [2](https://www.audacityteam.org/) - Audio Editor
 * ⭐ **[Audioalter](https://audioalter.com/)** - Online Editor
 * ⭐ **[WavaCity](https://wavacity.com/)** - Online Editor
@@ -782,6 +779,7 @@
 ## ▷ Audio Plugins
 
 * 🌐 **[Open-Source Audio Plugins](https://github.com/webprofusion/OpenAudio)** - Plugin Projects Index
+* ⭐ **[G-MEH](https://g-meh.com/vst/)**
 * ⭐ **[/r/CrackedPluginsX](https://www.reddit.com/r/CrackedPluginsX/)** or [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - Plugin Subreddits
 * ⭐ **[PLUGG SUPPLY](https://t.me/pluggsupply)** - Telegram / [VK](https://vk.com/pluggsupply)
 * ⭐ **[Plugin Clouds](https://t.me/joinchat/eBPFLPGucTU5YjQ9)** - [Archive](https://t.me/plugincloudsarchive)
