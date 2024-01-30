@@ -85,7 +85,7 @@
 * [BooksToLearn](https://www.booktolearn.com) - Books
 * [PDFDrive.to](https://pdfdrive.to/) - Books
 * [DPLA](https://dp.la/) - Books
-* [Books'Cool](https://en.novelonlineread.com/) - Books
+* [Read Novels](https://en.novelonlineread.com/) - Books
 * [Dirzon](https://www.dirzon.com/) - Books
 * [EBooksCart](https://ebookscart.com/) - Books
 * [Novel12](https://novel12.com/) - Books
@@ -956,7 +956,6 @@
 * [RecommendMeABook](https://recommendmeabook.com/) - Book Recommendations
 * [WhichBook](https://www.whichbook.net/) - Book Recommendations
 * [Readow](https://readow.ai/) - Book Recommendations
-* [Readgeek](https://www.readgeek.com/) - Book Recommendations
 * [Shepherd](https://shepherd.com/) - Book Recommendations
 * [GoodBooks](https://www.goodbooks.io/) - Book Recommendations
 * [Literature-Map](https://www.literature-map.com/) - Book Recommendations
