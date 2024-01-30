@@ -476,7 +476,6 @@
 * [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
 * [LOLBeans](https://lolbeans.io/) - Fall Guys Clone
 * [Betrayal](https://betrayal.io/) - Among Us Clone
-* [BrainChef](http://brainchef.com/) - Browser MMORPG
 * [TownOfSalem](https://blankmediagames.com/TownOfSalem/) - Role-Based Mystery-Solving MMO
 * [Slither.io](http://slither.io/) or [worm.is](https://store.steampowered.com/app/466910/Wormis_The_Game/) - Grow the Longest Worm
 * [diep.io](https://diep.io/) or [Scenexe.io](https://scenexe.io/) - Become the Strongest Tank 
@@ -920,7 +919,6 @@
 * [SpinShare](https://spinsha.re/) - Spin Rhythm XD Custom Charts
 * [Oculess](https://github.com/basti564/Oculess) - Remove Oculus Quest Account Requirements & Telemetry
 * [ALVR](https://github.com/alvr-org/ALVR) - Stream VR Games from PC to Headset
-* [Defacto](https://defacto2.net/) - Retro NFOs
 * [ConceptArt](https://vk.com/conceptart) - Video Game Concept Art
 * [Whitescent Engine](https://apt.izzysoft.de/fdroid/index/apk/com.github.whitescent.engine) - Use Phone as Joy Stick / [GitHub](https://github.com/whitescent/Engine)
 * [JoystickGremlin](https://whitemagic.github.io/JoystickGremlin/) - Remap Joystick Devices
