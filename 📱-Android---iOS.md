@@ -939,9 +939,10 @@
 * [Sideloadly](https://sideloadly.io/) or [SignTools](https://github.com/SignTools/SignTools) - Sideloading Tool
 * [MacDirtyCow](https://faq.altstore.io/how-to-use-altstore/macdirtycow) - Remove 3-app limit
 * [Serotonin](https://github.com/mineek/Serotonin) - 16.0-16.6.1 Semi-Jailbreak
+* [Def1nit3lyN0tAJa1lbr3akTool](https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool/tree/v1.0.0) - 16.0-16.6.1 Semi-Untethered Jailbreak
 * [Meowbrek2](https://kok3shidoll.github.io/download/secret/meowbrek2.txt) - 15.0-15.8 Semi-Untethered Jailbreak
 * [nekoJB](https://nekojb.hhls.xyz/) - 15.0-15.8 Semi-Untethered Jailbreak
-* [palera1n](https://github.com/palera1n/palera1n) - 15.0-17.1 Jailbreak
+* [palera1n](https://github.com/palera1n/palera1n) - 15.0-17.3 Jailbreak
 * [checkra1n](https://checkra.in/) - 5s - X Jailbreak (12.0 - 14.8.1) / [Discord](https://discord.gg/NAxRYvysuc)
 * [Dopamine](https://github.com/opa334/Dopamine) - 15.0-15.4.1 Semi-Untethered Jailbreak
 * [Taurine](https://taurine.app/) - 14-14.8.1 Semi-Untethered Jailbreak
@@ -964,6 +965,7 @@
 * [Evasi0n7](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/file/1wc0HZgQ) - 7.0-7.0.6 Jailbreak / [5s / 5c](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/MxdDDS4b)
 * [p0sixspwn](https://ih8sn0w.com/p0sixspwn.html) - 6.1.3 up to 6.1.6 Jailbreak
 * [Evasi0n6](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/I5k1gaoQ) - 6.0-6.1.2 Jailbreak
+* [g1lbertJB](https://github.com/g1lbertJB/g1lbertJB/) - 5.0-6.1.2 Jailbreak / [CFW Tool](https://github.com/eatingurtoes/g1lbertCFW/)
 * [limera1n](https://limera1n.com/) - 3.2.2-4.2.1 Jailbreak
 * [JailbreakMe](https://www.jailbreakme.com/) - 3.1.2-iOS 4.0.1 Jailbreak
 * [redsn0w](https://sites.google.com/a/iphone-dev.com/files/home/) - 3.0-3.1 Jailbreak
