@@ -8,7 +8,11 @@
 
 ***
 
-**[Rentry Backup](https://rentry.co/FMHY)** / **[SFW Rentry](https://rentry.org/piracy)** - [Updated Daily]
+**[Reddit Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)** - [Updated Daily]
+
+***
+
+**[Rentry Backup](https://rentry.co/FMHY)** / **[SFW Rentry](https://rentry.co/piracy)** - [Updated Daily]
 
 ***
 
