@@ -498,6 +498,7 @@
 * [Walla VODs](https://vod.walla.co.il/) - Movies / TV
 * [JFC](https://jfc.org.il/) - Israel Movie Archive
 * [Animeil-TV](https://www.animeil-tv.com/) - Anime / [Telegram](https://t.me/AnimeILTVDiscussion)
+* [GURUTV](https://gurutv.online/) - Live TV
 
 ***
 
@@ -1386,6 +1387,7 @@
 * [Flipax2](https://flipax2.me/) - Video / Audio / Reading / Castilian
 * [Fiuxy2](https://fiuxy2.co/) - Video / Audio / Reading / NSFW / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [La Taberna Del Cangrejo](http://www.latabernadelcangrejo.eu/) - Video / Audio
+* [PelisEnHD](https://pelisenhd.org/) - Movies / TV / Anime / 4K / Latino / Castilian / [Partial Bypass](https://greasyfork.org/en/scripts/486337)
 * [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation / Latino / Castilian
 * [SomosMovies](https://somosmovies.com/) - Movies / TV
 * [VerePeliculas](https://wvw.verepeliculas.com/) - Movies / TV / Latino
@@ -1402,7 +1404,6 @@
 * [Relampago Movies](https://relampagomovies.com/) - Movies / Latino
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
 * [Hackstore.rs](https://hackstore.rs/) - Movies / TV / Anime / Latino / [Bypass](https://greasyfork.org/en/scripts/484944)
-* [PelisEnHD](https://pelisenhd.org/) - Movies / TV / Anime / Latino / Castilian / [Bypass](https://greasyfork.org/en/scripts/486337)
 * [Mega-Mkv](https://mega-mkv.com/) - Movies / TV / Latino / Castilian / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [Mega DVDRip](https://peliculas-dvdrip.com/) - Movies / TV / Latino / Castilian / [Bypass](https://greasyfork.org/en/scripts/477591)
 * [Mega 1 Link](https://mega1link.com/) - Movies / TV / Latino / Castilian / [Bypass](https://greasyfork.org/en/scripts/477591)
