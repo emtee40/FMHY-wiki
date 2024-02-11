@@ -617,7 +617,7 @@
 * [Audacious](https://audacious-media-player.org/) 
 * [Strawberry](https://www.strawberrymusicplayer.org/)
 * [Exaile](https://exaile.org/)
-* [JakJuk](https://www.jajuk.info/)
+* [Jajuk](https://www.jajuk.info/)
 * [quodlibet](https://github.com/quodlibet/quodlibet/)
 * [deadbeef](https://deadbeef.sourceforge.io/)
 * [groovebasin](https://github.com/andrewrk/groovebasin)
