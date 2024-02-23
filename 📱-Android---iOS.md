@@ -988,6 +988,7 @@
 * [FutureRestore](https://github.com/tihmstar/futurerestore) - Restore to Unsigned Firmware / [GUI](https://github.com/CoocooFroggy/FutureRestore-GUI/)
 * [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app) or [Zebra](https://getzbra.com/) -  iOS Package Managers
 * [Repo Updates](https://www.ios-repo-updates.com/) - App Repository Updates
+* [Roothide Bootstrap](https://github.com/roothide/Bootstrap) - Inject Tweaks into Apps without jailbreak (14.0-17.0) / [Tweaks](https://github.com/roothide/roothide.github.io)
 * [CyDown](https://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown) - Cracked Jailbreak Tweaks
 * [iDownloadBlog](https://www.idownloadblog.com) - Jailbreak News
 
