@@ -29,6 +29,7 @@
 * [SmashyStream](https://embed.smashystream.com/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
 * [HollyMovieHD](https://hollymoviehd.cc/), [YesHD](https://yeshd.net/) or [NovaMovie](https://novamovie.net/) - Movies / TV / Anime / 1080p / [Mirrors](https://hollymoviehd-official.com/)
 * [Seez](https://seez.su/) - Movies / TV / 1080p
+* [Movierr](https://ww3.movierr.site/) - Movies / TV / Anime / [Discord](https://discord.gg/sxKN424ZYK)
 * [Cinetide](https://cinetide.glitch.me/browse.html) - Movies / TV / Anime / 1080p
 * [AnyMovie](https://anymovie.cc/) - Movies / TV / 4K / 1080p
 * [MovieScene](https://moviescene.cc/) - Movies / TV / 1080p
@@ -448,6 +449,7 @@
 * [Sports Plus](https://en12.sportplus.live/) - Sports
 * [livetv](https://livetv747.me/enx/) - Sports
 * [SportsHD](http://sportshd.sx/) - Sports
+* [Shinigamii](https://www.shinigamii.pw/) - Sports
 * [VIP Box Sports](https://www.viprow.nu/) - Sports
 * [VIP Box](https://www.vipbox.lc/) - Sports
 * [Rakettv](https://rakettv.trendingpie.com/) - Sports
@@ -840,8 +842,8 @@
 * [Horror Sub-Genre Guide](https://i.ibb.co/F8Hj3xm/a76eecc33d4c.png) - List of Horror Genres
 * [Based on the Book](https://www.mymcpl.org/books-movies-music/read/based-on-the-book) - List of Movies Based on Books
 * [Find Movie](https://find-movie.info/) or [clip.cafe](https://clip.cafe/) - Movie Quote Databases / Search
-* [Ant Movie](https://www.antp.be/software/moviecatalog) or [libib](https://www.libib.com/) - Desktop Video Media Catalog
-* [MediaTracker](https://github.com/bonukai/MediaTracker) or [Flox](https://github.com/devfake/flox) - Self-Hosted Media Catalogs
+* [MediaTracker](https://github.com/bonukai/MediaTracker), [Ant Movie](https://www.antp.be/software/moviecatalog), [libib](https://www.libib.com/) or [Flox](https://github.com/devfake/flox) - Desktop Media Catalogs
+* [Seanime](https://seanime.rahim.app/) - Anime Desktop Catalog
 * [AniTrakt](https://anitrakt.huere.net/) - Trakt / MyAnimeList Sync
 * [cringeMDb](https://cringemdb.com/) - Find Movies Safe to Watch with Parents
 * [Age Rating JuJu](https://www.ageratingjuju.com/) - Media Age Ratings
