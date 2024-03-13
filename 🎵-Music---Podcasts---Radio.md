@@ -138,7 +138,7 @@
 * [i78s](https://i78s.org/), [UCSB Cylinders](https://cylinders.library.ucsb.edu/index.php), [CLPGS](https://www.clpgs.org.uk/), [Tinfoil](http://www.tinfoil.com/), [Phonobase](http://www.phonobase.org/index.php?langue=en) or [Archeophone](https://www.archeophone.org/windex.php) - Phonograph / Gramophone Recordings
 * [FirstSounds](https://www.firstsounds.org/) - Oldest Music Recordings
 * [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
-* [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medeival Music
+* [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medieval Music
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - East African Recordings
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games
 * [Openwhyd](https://openwhyd.org/) - Music Sharing Community / [Chrome](https://chromewebstore.google.com/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)
@@ -521,7 +521,8 @@
 * ⭐ **[AnyDecentMusic](http://www.anydecentmusic.com/)** - Album Review Aggregator
 * ⭐ **[RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/)** - Artist Recommendations by Genre
 * ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Artist Recommendations
-* ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV 
+* ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV
+* ⭐ **[Chosic](https://www.chosic.com/)**, [Dubolt](https://dubolt.com/) or [Maroofy](https://maroofy.com/) - Song Discovery Tools
 * ⭐ **[Discover Quickly](https://discoverquickly.com/)** - Discover Spotify Songs Easily
 * [Kworb](https://kworb.net/) - Music Top Charts
 * [TokBoard](https://tokboard.com/) or [TokChart](https://tokchart.com/) - TikTok Song Charts
@@ -543,7 +544,6 @@
 * [UpcomingPlaylists](https://www.upcomingplaylists.com/) - Playlists of Artists Playing Live Near You
 * [TuneMyMusic](https://www.tunemymusic.com/) - Transfer Playlists between Services
 * [Obscurify](https://obscurifymusic.com/) or [MusicTaste](https://musictaste.space/) - Compare Music Taste to Others
-* [Dubolt](https://dubolt.com/), [Maroofy](https://maroofy.com/) or [Chosic](https://www.chosic.com/) - Song Discovery Tools
 * [UnknownMusicBot](https://t.me/UnknownMusicBot) - Play a Random Rare Song from YouTube 
 * [Random Album Bookmark Script](https://pastebin.com/rR4qrvnX) - Find Random Albums
 * [1001 Albums Generator](https://1001albumsgenerator.com/) - Generates Random Album Each Weekday 
