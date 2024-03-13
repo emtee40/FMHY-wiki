@@ -475,13 +475,13 @@
 * [Acrylic](https://mayakron.altervista.org/) - DNS Cache Local Proxy
 * [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - DNS Encryption Local Proxy
 * [Proxifier](https://www.proxifier.com/) - Add Proxy Functionality to Apps / [Keys](https://rentry.co/FMHYBase64#proxifier-keys)
-* [wireproxy](https://github.com/pufferffish/wireproxy) - Use VPNs as proxys
+* [wireproxy](https://github.com/pufferffish/wireproxy) - Use VPNs as proxies
 * [Hiddify](https://hiddify.com/) - Auto-Proxy Client
 * [NginxProxyManager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Self-Hosted Proxy Server
 * [Shadowsocks](https://shadowsocks.org/) / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/learnhard-cn/free_proxy_ss), [3](https://shadowmere.akiel.dev/) / [Client](https://github.com/shadowsocks/shadowsocks-windows) - Proxy Client and Self-Hosted Server
 * [Hysteria](https://github.com/apernet/hysteria) - Proxy Client and Self-Hosted Server
 * [Xray](https://github.com/XTLS/Xray-core) - Proxy Client and Self-Hosted Server / [Telegram](https://t.me/projectXray)
-* [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet), [Privoxy](https://www.privoxy.org/) / [Docker Build](https://github.com/binhex/arch-privoxyvpn) or [Tsunami](https://github.com/FogNetwork/Tsunami) - Self-Hosted Proxy Websites
+* [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) or [Tsunami](https://github.com/FogNetwork/Tsunami) - Self-Hosted Proxy Websites
 * [1337x Proxy](https://redd.it/tz7nyx) - 1337x Proxy Guide / [Example](https://pastebin.com/3n5K0QrP)
 
 ***
@@ -501,7 +501,7 @@
 * [Blockaway](https://www.blockaway.net/)
 * [VPN Book](https://www.vpnbook.com/webproxy)
 * [CroxyProxy](https://www.croxyproxy.com/)
-* [ProxyPx](https://www.proxypx.com/)
+* [ProxyPx](https://croxyproxy.best/)
 * [ProxySite](https://www.proxysite.cc/) 
 * [ProxyOf2](https://proxyof2.com/)
 * [Proxy-URLs](https://www.proxy-urls.com/)
