@@ -904,6 +904,7 @@
 
 ## ▷ Geometry Dash Tools
 
+* 🌐 **[Cvolton Tools](https://github.com/Cvolton?tab=repositories)** - Multiple GD Tools
 * ⭐ **[Geode](https://geode-sdk.org/)** - Mod Menu & Modding Framework
 * ⭐ **[Demon List](https://pointercrate.com/demonlist/)**, [Challenge List](https://challengelist.gd/challenges/), [Unrated Demon List](https://udl.pages.dev/#/), [Rated Extremes List](https://aredl.pages.dev/), [Impossible List](https://docs.google.com/document/d/1byBf60vW_Tq7TjQPyniBxQ1Iw9CtSURJU4_Cl1IziqY/edit) - Demon Lists
 * ⭐ **[GDDP](https://gddp.pro/)** or [GD Demon Ladder](https://gdladder.com/) - Practice & Improve Your Skills
@@ -915,8 +916,11 @@
 * [GD Browser](https://gdbrowser.com/) - GD Level Browser
 * [GD Font Generator](https://gdcolon.com/gdfont) - Generate Custom GD Logos & Messages
 * [4GB Patch](https://ntcore.com/?page_id=371) - Lets GD use 4GB of RAM
-* [Nine Circles List](https://sites.google.com/view/nine-circles-demonlist/main-list)
-* [Mobile Demon List](https://mobilepointercrate.com/) / [60hz Mobile List](https://sites.google.com/view/gd-mobile-lists/top-100-demons-completed?authuser=0) - Mobile Demon Lists 
+* [Nine Circles List](https://sites.google.com/view/nine-circles-demonlist/main-list) - NC Level List
+* [Mobile Demon List](https://mobilepointercrate.com/) / [60hz Mobile List](https://sites.google.com/view/gd-mobile-lists/top-100-demons-completed?authuser=0) - Mobile Demon Lists
+* [GD Docs](https://github.com/gd-programming/gd.docs) - GD Programming Documentation
+* [GD History](https://history.geometrydash.eu/) - GD Archival Project / [Downloader](https://github.com/Cvolton/GDHistory-Downloader)
+* [GMD Private Server](https://github.com/Cvolton/GMDprivateServer) - Private Server Maker
 
 ***
 
