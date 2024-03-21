@@ -20,10 +20,6 @@
 
 ***
 
-**[Saidit Backup](https://saidit.net/s/freemediaheckyeah/wiki/index)** - [Updated Daily]
-
-***
-
 **[Wayback Machine](https://web.archive.org/web/2/https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)** - [Updated Periodically]
 
 ***
