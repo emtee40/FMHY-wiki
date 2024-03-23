@@ -59,6 +59,7 @@
 * [sourcehut](https://sr.ht/) - Public Project Index
 * [PiracyBank](https://piracybank.org/websites) - Sites with Detected Copyright Infringement
 * [ImageBoards](https://imageboards.net/), [Chan List](https://archive.is/Npzwl) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - Imageboard Index
+* [Single Serving Sites](https://singleservingsites.cool/) - Single-Purpose Sites
 * [Similar Sites](https://www.similarsites.com/), [SimilarWeb](https://www.similarweb.com/), [xRanks](https://xranks.com/), [similarsitesearch](https://www.similarsitesearch.com/), [TopSimilarSites](https://www.topsimilarsites.com/), [odir.us](https://odir.us/), [Sitelike.org](https://www.sitelike.org/), [SitesLike](https://www.siteslike.com/) - Similar Site Indexes
 
 ***
@@ -282,8 +283,9 @@
 * [aprs.fi](https://aprs.fi/) - Google Maps APRS
 * [satellite-map.gosur](https://satellite-map.gosur.com/), [MSN Weather Map](https://www.msn.com/en-us/weather/maps) or [Ventusky](https://www.ventusky.com/) - Weather Maps
 * [Cyclocane](https://www.cyclocane.com/) or [Tornado.live](https://tornado.live/) - Severe Weather Maps
-* [Windy](https://www.windy.com/) or [WebGL-Wind](https://mapbox.github.io/webgl-wind/demo/) - Wind Map 
+* [Windy](https://www.windy.com/) or [WebGL-Wind](https://mapbox.github.io/webgl-wind/demo/) - Wind Map
 * [Jetstream](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
+* [Tornado Archive](https://tornadoarchive.com/) - Tornado Data Visualization
 * [Air Now](https://gispub.epa.gov/airnow/), [AQICN](https://aqicn.org/map/world) or [Breezometer](https://www.breezometer.com/air-quality-map/) - Air Quality Maps
 * [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality Near Ukraine
 * [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Climate Sim](https://space.geometrian.com/calcs/climate-sim.php) or [ClimateCharts](https://climatecharts.net/) - Climate Maps
@@ -822,6 +824,7 @@
 * [Don’t kill my app!](https://dontkillmyapp.com/) - Manufacturer Battery Life vs. App Functionality
 * [PhoneSized](https://phonesized.com/) - Phone Size Comparisons
 * [DXOMARK](https://www.dxomark.com/) - Smartphone Quality Testing
+* [Dumbphone Finder](https://dumbphones.pory.app/) - Dumbphone Comparisons
 * [Camera Decision](https://cameradecision.com/) or [Digicamfinder](https://digicamfinder.com/) - Compare Cameras
 * [DVDReleaseDates](https://www.dvdsreleasedates.com/) - DVD Release Dates
 
@@ -1104,6 +1107,7 @@
 * [Google Doodles](https://www.google.com/doodles?q=interactive) - Interactive Google Doodles
 * [DriveMeInsane](https://drivemeinsane.com/) - Control a Home Automation System
 * [Genetic Walkers](https://rednuht.org/genetic_walkers/) - Genetic Algorithm Walkers
+* [A Better World](https://abw.blue/index_en.php) - Interactive History Changing Game
 * [DrivingSimulator](https://framesynthesis.com/drivingsimulator/maps/) - 2D Driving Simulator
 * [OpenScope](https://www.openscope.co/) - Air Traffic Control Simulator
 * [cnnix-steership](https://edition.cnn.com/interactive/2021/03/cnnix-steership/) - Steer through the Suez Canal
