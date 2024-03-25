@@ -109,9 +109,9 @@
 * [EpicFreeGamesList](https://josephmate.github.io/EpicFreeGamesList/) - Epic Free Games List
 * [Steam Mods](https://store.steampowered.com/search/?maxprice=free&category1=997) - Steam Mods
 * [Freetchio](https://shaigrorb.github.io/freetchio/) - itch.io Games
-* [/r/googleplaydeals](https://reddit.com/r/googleplaydeals) - APKs
-* [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - APKs
-* [App Sales](https://www.app-sales.net/) - APKs
+* [/r/googleplaydeals](https://reddit.com/r/googleplaydeals) - Free / Cheap APKs
+* [App Sales](https://www.app-sales.net/) - Free / Cheap APKs
+* [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - Free / Cheap Software & APKs
 * [NobsGames](https://nobsgames.stavros.io/android/?name=&genre=&rating__gt=&price=free) - Game APKs
 * [InstlApp](https://apps.apple.com/us/app/instlapp/id1502777382) - iOS Apps
 * [AppSumo Freebies](https://appsumo.com/tools/freebies/) - iOS Apps
@@ -133,10 +133,10 @@
 * 🌐 **[/m/food](https://www.reddit.com/user/Siryonkee/m/food/)** - Food Multireddit
 * 🌐 **[MapOfTheBest](https://mapofthebest.com/)** - Top Restaurant List
 * ↪️ **[Food Storage Tips](https://i.redd.it/qmcas4yuc2w81.png)** / [2](https://i.ibb.co/SKq3GT7/ca6f633c898b.png)
-* ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)** or [Pestle](https://apps.apple.com/au/app/pestle-kitchen-recipe-manager/id1574776971) - Recipe Managers
-* ⭐ **[Just the Recipe](https://www.justtherecipe.com/)**, [Copy Me That](https://www.copymethat.com/), [PlainOldRecipe](https://www.plainoldrecipe.com/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - Extract Ingredients from Recipe Pages
+* ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)** or [Pestle](https://pestlechef.app/) - Recipe Managers
+* ⭐ **[Just the Recipe](https://www.justtherecipe.com/)**, [Copy Me That](https://www.copymethat.com/) or [PlainOldRecipe](https://www.plainoldrecipe.com/) - Extract Ingredients Recipes / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) / [Chrome](https://chromewebstore.google.com/detail/ahlcdjbkdaegmljnnncfnhiioiadakae)
 * ⭐ **[Baking Calculators](https://bakingcalculators.com/)** - Measurement System Conversion Calculators
-* ⭐ **[Grocy](https://grocy.info/)** / [Android](https://github.com/patzly/grocy-android), [Listonic](https://new.app.listonic.com/en) or [Kitchen Owl](https://f-droid.org/en/packages/com.tombursch.kitchenowl/) - Grocery Managers
+* ⭐ **[Grocy](https://grocy.info/)** / [Android](https://patrickzedler.com/grocy/), [Listonic](https://new.app.listonic.com/en) or [Kitchen Owl](https://f-droid.org/en/packages/com.tombursch.kitchenowl/) - Grocery Managers
 * ⭐ **[Sporked](https://sporked.com/)** - Packaged Food Reviews
 * ⭐ **[Still Tasty](https://www.stilltasty.com/)** or [EatByDate](https://www.eatbydate.com/) - Shelf Life Guides
 * ⭐ **[OpenTable](https://www.opentable.com/)** - Restaurant Reservation Search
@@ -416,7 +416,7 @@
 
 * ⭐ **[KrebsOnSecurity](https://krebsonsecurity.com/)** - Security News
 * ⭐ **[Hacker News](https://news.ycombinator.com/)**, [2](https://www.hckrnws.com/) - Tech / Hacking News
-* ⭐ **Hacker News Tools** - [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://hn-recommend.julienc.me/) / [AI Chatbot](https://chathn.vercel.app/) / [Top Posts](https://hn.lindylearn.io/) / [Web App](https://hackerwebapp.com/) / [Mobile App](https://github.com/Livinglist/Hacki), [2](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [3](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901), [4](https://github.com/Mosc/Glider) 
+* ⭐ **Hacker News Tools** - [Highlighter](https://greasyfork.org/en/scripts/39311) / [Search](https://hn.algolia.com/), [2](https://hn-recommend.julienc.me/) / [AI Chatbot](https://chathn.vercel.app/) / [Top Posts](https://hn.lindylearn.io/) / [Web App](https://hackerwebapp.com/) / [Mobile App](https://github.com/Livinglist/Hacki), [2](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [3](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901), [4](https://github.com/Mosc/Glider) / [Self-Host](https://www.hn.plus/)
 * ⭐ **[Lobsters](https://lobste.rs/)** / [Highlighter](https://greasyfork.org/en/scripts/40906), [TechURLs](https://techurls.com/), [DevURLs](https://devurls.com/), [Techmeme](https://www.techmeme.com/m/), [The Brutalist Report](https://brutalist.report/) or [jimmyr](https://jimmyr.com/) - Tech / Programming News Aggregators
 * [HackerNoon](https://hackernoon.com/), [gHacks](https://www.ghacks.net/), [NeoWin](https://www.neowin.net/), [TweakTown](https://www.tweaktown.com/) or [TechSpot](https://www.techspot.com/) - Tech News
 * [TuxURLs](https://tuxurls.com/) - Linux News
@@ -569,7 +569,7 @@
 * [JobBoardSearch](https://jobboardsearch.com/), [CyberCoders](https://www.cybercoders.com/), [whoishiring](https://whoishiring.io/), [Toby Tools](https://rentry.co/qnu6x), [The Muse](https://www.themuse.com/search/) or [EuroJobs](https://eurojobs.com/) - Job Search
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
 * [RolePad](https://rolepad.com/) - Job Search Manager
-* [80,000 Hours](https://80000hours.org/) - Explore Career Options
+* [80,000 Hours](https://80000hours.org/) or [MyNextMove](https://www.mynextmove.org/) - Explore Career Options
 * [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - Career Guidance Subreddit
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / STEM Career Study Guides
 * [JustLanded](https://www.justlanded.com/) - Working & Living Abroad Guides
@@ -1195,6 +1195,7 @@
 * [Pushing Pixels](https://www.pushing-pixels.org/fui/) or [Saji8k](https://www.saji8k.com/kit-fui/) - Imaginary UI from Movies
 * [Nestflix](https://nestflix.fun/) - Fictional Media in Media Database
 * [TheFoodPlace](https://thefoodplace.cafe/) - Food / Beverages from The Good Place
+* [MadeHow](http://www.madehow.com/) - How Products Are Made
 * [BrickLink Studio](https://www.bricklink.com/v2/build/studio.page) - Lego Building Software
 * [Brickit](https://brickit.app/) - Scan Lego Collection for Build Ideas
 * [Building Instructions](https://www.lego.com/en-us/service/buildinginstructions) - Download Lego Instructions
