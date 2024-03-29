@@ -493,6 +493,7 @@
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
 * [Workout.lol](https://workout.lol/) - Create Workout Plans
 * [DAREBEE](https://darebee.com/) - Fitness Plans / Workouts
+* [Huberman Protocols](https://www.hubermanprotocols.org/) - Health / Fitness Tips
 * [Hevy](https://www.hevyapp.com/), [Massive](https://gitea.presley.nz/brandon.presley/Massive), [GymRoutines](https://codeberg.org/noahjutz/GymRoutines), [Boostcamp](https://www.boostcamp.app/) or [FitHero](https://fithero.app/) - Workout Trackers
 * [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
 * [GoldenCheetah](https://www.goldencheetah.org/), [AAT](https://bailu.ch/aat/) - Cycling / Biking Trackers
