@@ -34,11 +34,10 @@
 
 [Markdown Page](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page) / [2](https://gist.githubusercontent.com/taskylizard/5ba73bf97dccf159316edcf4c6520856/raw/90fbdde564f53bfd02cce0190738d0d090bceb1c/fmhy.md)
 
-[Markdown Search](https://github.com/Rust1667/a-FMHY-search-engine) - Markdown Search Engine
+[Markdown Search](https://github.com/Rust1667/a-FMHY-search-engine)
 
 ***
 
 **Backup Page Backups**
 
 [Reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups) / [Saidit](https://saidit.net/s/freemediaheckyeah/wiki/backups) / [GitHub](https://github.com/nbats/FMHY/wiki/Backups/) / [Rentry](https://rentry.co/FMHYbackups/)
-
