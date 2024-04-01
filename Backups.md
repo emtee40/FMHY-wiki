@@ -22,9 +22,9 @@
 
 **Safe for Work**
 
-**[FMHY.xyz](https://fmhy.xyz/)** - No NSFW sections or sites anywhere
+**[FMHY.xyz](https://fmhy.xyz/)**
 
-[SFW Rentry](https://rentry.co/piracy) - No NSFW sections
+[SFW Rentry](https://rentry.co/piracy)
 
 ***
 
