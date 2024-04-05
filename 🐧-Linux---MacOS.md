@@ -99,6 +99,24 @@
 
 ***
 
+## ► Linux Window Managers
+
+**Note** - Most Window Managers have a steep learning curve. Customization (or "ricing") is a requirement. [See below](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_customization) for some resources.
+
+***
+
+* 🌐 **[Window Manager Index](https://wiki.archlinux.org/title/Window_manager)** - List of Window Managers
+* 🌐 **[Wayland Compositor Index](https://wiki.archlinux.org/title/Wayland#Compositors)** - List of Wayland Compositors
+* ⭐ **[awesomewm](https://github.com/awesomeWM/awesome)** - Window Manager / [Arch Wiki](https://wiki.archlinux.org/title/Awesome)
+* ⭐ **[Hyprland](https://hyprland.org/)** -  Wayland Compositor / [Arch Wiki](https://wiki.archlinux.org/title/Hyprland)
+* [dwm](https://dwm.suckless.org) - Window Manager / [Arch Wiki](https://wiki.archlinux.org/title/Dwm)
+* [qtile](https://qtile.org/) - Window Manager / [Arch Wiki](https://wiki.archlinux.org/title/Qtile)
+* [xmonad](https://xmonad.org/) - Window Manager / [Arch Wiki](https://wiki.archlinux.org/title/Xmonad)
+* [bspwm](https://github.com/baskerville/bspwm) - Tiling Window Manager / [Binds](https://github.com/baskerville/sxhkd) / [Arch Wiki](https://wiki.archlinux.org/title/Bspwm)
+* [Sway](https://github.com/swaywm/sway) or [SwayFx](https://github.com/WillPower3309/swayfx)-  i3-compatible Wayland Compositor  / [Arch Wiki](https://wiki.archlinux.org/title/Sway)
+
+***
+
 # ► Linux Apps
 
 * ⭐ **[Bottles](https://usebottles.com/)** - Manage Wine containers
@@ -112,7 +130,6 @@
 * [nativefier_tauri](https://github.com/hamza72x/web2app) - Turn Webpages into Desktop Apps
 * [Autokey](https://github.com/autokey/autokey) - Linux Automation Utility
 * [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
-* [Enlightment](https://www.enlightenment.org/), [PaperWM](https://github.com/paperwm/PaperWM), [worm](https://github.com/codic12/worm), [dwm](https://dwm.suckless.org/), [qtile](https://qtile.org/), [xmonad](https://xmonad.org/), [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - Window Managers / [Sub](https://www.reddit.com/r/bspwm/) / [Binds](https://github.com/baskerville/sxhkd)
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
 * [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](https://remarkableapp.github.io/) - Markdown Editor
@@ -267,8 +284,7 @@ Linux Gaming Guide
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - Linux System Optimizer
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Linux Game Package Downloader
 * [mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) - Minecraft Android Bedrock Edition Launcher for Linux
-* [VinegarHQ](https://vinegarhq.org/) - Bootstrapper for Roblox Studio
-* [Bloxstrap](https://discord.com/invite/nKjV3mGq6R) - Roblox Launcher
+* [VinegarHQ](https://vinegarhq.org/) - Bootstrapper for Roblox / [Studio Only](https://vinegarhq.org/Home/rol_faq.html) 
 * [Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) / [Discord](https://discord.gg/ck37X6UWBp) - Genshin Impact Launcher
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in your Terminal (Recreation)
 * [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Game Boy Emulator
@@ -426,14 +442,18 @@ Linux Gaming Guide
 
 ***
 
-## ▷ Customization
+## ▷ Ricing / Customization
 
 * 🌐 **[Ricepedia](https://rizonrice.club/Main_Page)** - Linux Ricing Tools
 * ↪️ **[Linux Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_themes)** - Themes for Linux
+* ⭐ **[Elkowar's Wacky Widgets](https://github.com/elkowar/eww)** or **[Aylur's GTK Shell](https://github.com/Aylur/ags)** - Widgeting Systems
+* [end-4's Hyprland Dots](https://end-4.github.io/dots-hyprland-wiki/en/) - Simple Hyprland Config
+* [Nam's Ricing Guide](https://nam.is-a.dev/blog/ricing/) - Ricing Guide
+* [Gradience](https://github.com/GradienceTeam/Gradience) - Customize GNOME's Adwaita
 * [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
 * [Akira](https://github.com/akiraux/Akira) - UI/UX Customization
 * [Kvantum](https://github.com/tsujan/Kvantum) - Linux QT / KDE Theme Engine
-* [Polybar](https://github.com/polybar/polybar) or [lemonbar](https://github.com/LemonBoy/bar) - Customizable Status Bar
+* [Polybar (X11)](https://github.com/polybar/polybar) or [Waybar (Wayland)](https://github.com/Alexays/Waybar) - Customizable Status Bars
 * [MacBuntu Transformation Pack](https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html), [2](https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - Mac Theme
 * [Windows-10](https://b00merang.weebly.com/windows-10.html) - Windows 10 Theme
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme), [Moka](https://snwh.org/moka), [Numix](https://github.com/numixproject/numix-icon-theme) or [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Linux Icon Themes
