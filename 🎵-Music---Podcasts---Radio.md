@@ -139,7 +139,7 @@
 * [Russian Records](https://www.russian-records.com/) - Russian Record Recordings
 * [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medieval Music
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - East African Recordings
-* [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games
+* [Tabletop Audio](https://tabletopaudio.com/) - Ambient Downloadable/Streamable Audio for Tabletop Games 
 * [Openwhyd](https://openwhyd.org/) - Music Sharing Community / [Chrome](https://chromewebstore.google.com/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)
 * [Volume](https://volume.com/) - Live Cam Concerts
 * [Bandcamp New Tab](https://chromewebstore.google.com/detail/bandcamp-new-tab/nbabnnemlofbllcflfjpjgkgmcdbeemc) - Random Bandcamp Songs on New Tabs
@@ -256,7 +256,6 @@
 * [Noisli](https://www.noisli.com/) - Background Sounds for Productivity & Focus 
 * [Ambient-Mixer](https://movies.ambient-mixer.com/) - Ambient Media Inspired Sounds 
 * [Listen to Wikipedia](http://listen.hatnote.com/) - Wikipedia Recent Changes Feed Sounds
-* [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games 
 
 ***
 
@@ -381,7 +380,6 @@
 * [Guitars101](https://www.guitars101.com/) - Live Audio / Video
 * [SongStems](https://songstems.net/) - STEM Files
 * [BitMidi](https://bitmidi.com/), [Geocities Midi's](https://archive.org/details/archiveteam-geocities-midi-collection-2009) / [2](https://www.midicities.com/GeoCities), [Tricotism](https://www.tricotism.com/), [ArtScene](http://artscene.textfiles.com/music/midi/) or [VGMusic](https://www.vgmusic.com/) - MIDI Files
-* [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games 
 * [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [HookSounds](https://www.hooksounds.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/), [free stock music](https://www.free-stock-music.com/) or [Fugue](https://icons8.com/music) - Royalty Free Music
 * [Music Hoarders](https://discord.gg/d4hgc7GCAj) - Music Hoarding Community / [Wiki](https://wiki.musichoarders.xyz/)
 
@@ -561,7 +559,6 @@
 * [Music.ishkur](https://music.ishkur.com/) - Electronic Music Guide
 * [This Is What You Listen To](https://tiwylt.musimap.io/) - Song Genre / Info Analyzer
 * [Identifying Music Genres](https://chunisama.github.io/Identifying-Music-Genres/) - Compare Music Genres
-* [SpotiFictional](https://spotifictional.com/) - Music from Fictional Artists
 * [Loudness War](https://dr.loudness-war.info/) - Albums Dynamic Range Database
 * [rate.house](https://rate.house/) - Media Tracker
 * [MediaTracker](https://github.com/bonukai/MediaTracker) - Self-Hosted Media Tracker
