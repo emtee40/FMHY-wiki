@@ -1156,7 +1156,6 @@
 * [Death by AI](https://deathbyai.gg/) - Survival Plan Game
 * [Gpop.io](https://gpop.io/) - Rhythm Game
 * [Curve Fever](https://curvefever.pro/) - Line Battles
-* [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
 * [LOLBeans](https://lolbeans.io/) - Fall Guys Clone
 * [Betrayal](https://betrayal.io/) - Among Us Clone
 * [Yume Nikki Online Project](https://ynoproject.net/) - Multiplayer Yume Nikki / [Discord](https://discord.com/invite/fRG3AxUeKN)
