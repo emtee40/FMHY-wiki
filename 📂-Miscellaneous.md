@@ -8,6 +8,7 @@
 
 * 🌐 **[Dbzer0 Megathread](https://wiki.dbzer0.com/piracy/)** - Piracy Index
 * 🌐 **[/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)** - Piracy Index / [Rentry](https://rentry.co/megathread), [2](https://rentry.org/megathread)
+* 🌐 **[Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)** - Piracy Index
 * 🌐 **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.ripped.guide/)
 * 🌐 **[Esoterica Avenue](https://ori5000.github.io/)** - Piracy Index / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
 * 🌐 **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR-II)** - Site / Tool Index
@@ -18,7 +19,6 @@
 * 🌐 **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/)** - Japanese Piracy Index
 * ↪️ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
-* ↪️ **[OSINT Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_source_intelligence_indexes)**
 * ⭐ **[FMHY Guides](https://rentry.co/fmhy-guides)** - Automated Rentry Guide List / [Script](https://gist.github.com/Rust1667/e21e92ae385e71f0d87e869bed90fff2) / [Download](https://gist.github.com/Rust1667/efc055debaf4876e4de39cc0d32f18c1) / [Backup Rar](https://mega.nz/file/ajgAnZRY#dQgzhwk0v8L9PyoiSGzw54n1bUC35Brq2QgcK5bglHw)
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
 * ⭐ **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
@@ -67,23 +67,35 @@
 
 ## ▷ Awesome Lists
 
-* 🌐 **[Awesome List Index](https://github.com/topics/awesome)**
-* [Awesome Tech for Good](https://github.com/TechforgoodCAST/awesome-techforgood)
-* [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives)
-* [Awesome No-Login](https://github.com/aviaryan/awesome-no-login-web-apps)
-* [Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)
-* [Awesome Anime Sources](https://anshumanv.github.io/awesome-anime-sources/)
-* [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding)
-* [Awesome Uncopyright](https://github.com/johnjago/awesome-uncopyright)
-* [Track Awesome](https://www.trackawesomelist.com/)
-* [GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
-* [Generated Awesomeness](https://github.com/orsinium-labs/generated-awesomeness)
-* [Awesome](https://github.com/sindresorhus/awesome)
-* [AwesomeLists](https://awesomelists.top/) - Awesome List Search
-* [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Awesome List Stumble
-* [Awesome-CLI](https://github.com/umutphp/awesome-cli) - Awesome List CLI
-* [website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown) - Awesome List Markdown Extractor
+* 🌐 **[Awesome List Index](https://github.com/sindresorhus/awesome), [2](https://github.com/topics/awesome)** - All Awesome Lists
+* ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
+* [Awesome Tech for Good](https://github.com/TechforgoodCAST/awesome-techforgood) - Social-Impact Tech List
+* [Awesome OSS](https://github.com/RunaCapital/awesome-oss-alternatives) - Open-Source Alternatives to SaaS
+* [Awesome Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) - List of No-Login Web Apps
+* [Awesome Anime Sources](https://github.com/anshumanv/awesome-anime-sources) - List of All Things Anime
+* [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - List of Data-Hoarding Related Tools
+* [Awesome Uncopyright](https://github.com/johnjago/awesome-uncopyright) - List of All Things Public Domain
+* [Awesome CLI](https://github.com/umutphp/awesome-cli) - CLI Interface for Searching Awesome Lists
+* [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
+
+***
+
+## ▷ Open Source Intelligence
+
+* 🌐 **[Awesome OSINT](https://github.com/jivoi/awesome-osint)** - List of Awesome OSINT
+* ↪️ **[OSINT Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_osint_collections)**
+* ⭐ **[IntelTechniques](https://inteltechniques.com/index.html)** or [OSINT Techniques](https://www.osinttechniques.com/) - OSINT Resources
+* ⭐ **[Analyst Research Tools](https://analystresearchtools.com/)**
+* [Osintracker](https://www.osintracker.com/) - OSINT Investigations Tracker
+* [Cyber Detective](https://cybdetective.com/) / [GitHub](https://github.com/cipher387) - OSINT Tools, Techniques, and Projects
+* [Project Owl](https://discord.com/invite/projectowl) - OSINT Community
+* [OSINT Dojo](https://www.osintdojo.com/resources/) - OSINT Guides
+* [Hackers Arise OSINT](https://www.hackers-arise.com/osint) - OSINT Guides
+* [What is OSINT?](https://www.recordedfuture.com/blog/open-source-intelligence-definition) - Article
+* [The Key to Unlocking the Web’s Secrets](https://www.einvestigator.com/open-source-intelligence-tools/) - Article
+* [Toddington](https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/) - OSINT Search Resources
+* [Malfrat's OSINT Map](https://map.malfrats.industries/) - Interactive Map
+* [OH SHINT!](https://ohshint.gitbook.io/oh-shint-its-a-blog/) - OSINT Blog
 
 ***
 
