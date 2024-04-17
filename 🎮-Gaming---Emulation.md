@@ -405,6 +405,7 @@
 * [MiiCharacters](https://www.miicharacters.com/) - Famous Mii Creation Guides
 * [Buzz In](https://buzzin.live/) - Online Buzzer System
 * [Challonge](https://challonge.com/) - Tournament Creator / Manager
+* [Archipelago](https://archipelago.gg/) - Multi-Game Randomizer
 * [Medal](https://medal.tv/) - Shadowplay for non Nvidia Cards / [Premium Bypass](https://medalbypass.vercel.app/)
 * [Moments](https://steelseries.com/gg/moments) - Game Clip Tool
 * [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55)
@@ -863,6 +864,8 @@
 * [ArminC-AutoExec](https://github.com/ArmynC/ArminC-AutoExec) - ArminC's CS2 Config
 * [HLTV](https://www.hltv.org/) - Counter-Strike Leaderboards
 * [CS2 Browser](https://cs2browser.com/) - Counter-Strike 2 Server Browser
+* [Faceit](https://www.faceit.com/) - Matchmaking Client
+* [Faceit Finder](https://faceitfinder.com/) - Faceit Account Finder
 
 ***
 
@@ -895,6 +898,7 @@
 * [dhewm3](https://dhewm3.org/) - Doom 3 Source Port
 * [DoomsHack](https://doomshack.org/), [Doom Pastebin](https://pastebin.com/3DWF3Msq) or [Doom Wad Station](https://www.doomwadstation.net/) - Doom WADs
 * [DOOM FX](https://github.com/RandalLinden/DOOM-FX) - Doom SNES Source Code
+* [UltimateDoomBuilder](https://ultimatedoombuilder.github.io/) - Doom Map Builder
 
 ***
 
@@ -1156,6 +1160,7 @@
 * [Wanderers](https://wanderers.io/) - Real-Time Strategy Game
 * [TagPro](https://koalabeast.com/) - Capture the Flag
 * [Wings.io](https://wings.io/) - Plane Battles
+* [Smash Karts](https://smashkarts.io/) - Kart Battles
 * [Death by AI](https://deathbyai.gg/) - Survival Plan Game
 * [Gpop.io](https://gpop.io/) - Rhythm Game
 * [Curve Fever](https://curvefever.pro/) - Line Battles
@@ -1250,6 +1255,7 @@
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
 * [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
 * [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
+* [Web Paint-by-Number](https://webpbn.com/) or [Nonograms](https://www.nonograms.org/) - Graphic Crosswords
 * [eWordChallenge](https://www.ewordchallenge.net/) - Boggle Online
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
 * [MasasGames](https://masasgames.com/) - Virtual Escape Rooms
