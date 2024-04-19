@@ -40,4 +40,4 @@
 
 **Backup Page Backups**
 
-[Reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups) / [Saidit](https://saidit.net/s/freemediaheckyeah/wiki/backups) / [GitHub](https://github.com/nbats/FMHY/wiki/Backups/) / [Rentry](https://rentry.co/FMHYbackups/)
+[Reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups) / [GitHub](https://github.com/nbats/FMHY/wiki/Backups/) / [Rentry](https://rentry.co/FMHYbackups/)
