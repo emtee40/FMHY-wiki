@@ -845,6 +845,7 @@
 * [PokeGB](https://github.com/binji/pokegb) - Pokémon Blue Emulator
 * [PokemonLog](https://pokemonlog.com/), [PokeHarbor](https://www.pokeharbor.com/) or [Pokémon Coders](https://www.pokemoncoders.com/) - Hacked Pokémon ROMs
 * [pret](https://github.com/orgs/pret/repositories) - Pokémon Disassembly / Decompilation Projects
+* [PokéRogue](https://pokerogue.net/) - Pokémon Dungeon Crawler / [Discord](https://discord.com/invite/uWpTfdKG49)
 * [Gearoid Pokémon](https://gearoid.me/pokemon/) - Pokémon Guessing Game
 * [PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
 * [GameBanana](https://gamebanana.com/mods/games/14783) - Pokémon Brilliant Diamond / Shining Pearl Mods
