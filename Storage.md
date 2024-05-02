@@ -667,6 +667,55 @@
 
 ***
 
+## Music Notation Editors
+
+* ⭐ **[MuseScore](https://musescore.org/)** - Editor
+* [Noteflight](https://noteflight.com/) - Editor
+* [MC Musiceditor](https://www.mcmusiceditor.com/) - Editor
+* [Flat](https://flat.io/) - Editor
+* [Finale Notepad](https://www.finalemusic.com/products/notepad/) - Editor
+* [Score Perfect Professional](https://archive.org/details/score-perfect-professional-lite-5.1/) - Editor
+* [MusicWorks](https://www.tierramedia.com/) - Editor
+
+***
+
+## Music Sheet Collections
+
+### General Music Sheets
+
+* ⭐ **[Musescore.com](https://musescore.com/)** / [Downloader](https://github.com/LibreScore/dl-librescore) - Free Sheet Music
+* [8notes](https://www.8notes.com/) - Free Sheet Music
+* [Mutopia Project](https://www.mutopiaproject.org/) - Free Sheet Music
+* [sheetmusiceden](https://sheetmusiceden.com/) - Free Sheet Music
+* [Notes Box](https://notes-box.com/) - Free Sheet Music
+* [Musopen](https://musopen.org/) - Free Sheet Music
+* [Sheet Music International](https://sheetmusicinternational.com/) - Free Sheet Music
+* [CosandScores](http://waltercosand.com/CosandScores/) - Free Sheet Music
+* [free-scores](https://www.free-scores.com/free-sheet-music.php) - Free Sheet Music
+* [Sheet music for free](https://sheetmusicforfree.com/) - Free Sheet Music
+* [bateristaspt](https://www.bateristaspt.com/membros/drumscores/) - Free Sheet Music
+* [tchunes](https://www.daev.ca/tchunes/) - Free Sheet Music
+* [ScorSer](http://en.scorser.com/D/Sheet+music.html) - Free Sheet Music
+
+### Specific Music Sheets
+
+* [flutetunes](https://www.flutetunes.com/) or [Flue Music](https://drive.google.com/drive/folders/1WMtVRNqLFdEQ4X39Dpof9o5aWGJsdtFe?usp=sharing) - Flute Sheet Music
+* [Game Music Themes](https://www.gamemusicthemes.com/) - Video Game Sheet Music
+* [Ichigo's Sheet Music](https://ichigos.com/) - Video Game & Anime Sheet Music
+* [Piano Sheet Music](https://drive.google.com/drive/folders/0BxkQJMTuId4dfkxiM01GYnFBUFdDVmRHMGREM1JKYVdBajJtV2pVSExrS2txT1BOdXlfMUE?resourcekey=0-4uwizkHnsGLakmC-cA173A), [2](https://drive.google.com/drive/folders/1-hieArroBCq1x6z4GQ_gdFuyEz_Ftvxg) or [Anime Sheet Music](https://drive.google.com/drive/folders/0B2k9HIXzBEfMVlgxTlhNWThzZkk?resourcekey=0-q0RdwD55Az5S3NigaliZEA) - Sheet Music Drives
+* [ChoralWiki](https://www.cpdl.org/wiki/index.php/Main_Page) - Choral Music Sheets
+* [BandMusic PDF Library](https://bandmusicpdf.org/) - Golden Age Band Music Sheets
+* [themorgan](https://www.themorgan.org/music) or [Silent Film Archive](https://www.sfsma.org/) - Music Manuscripts
+* [DIAMM](https://www.diamm.ac.uk/) - Medieval Manuscripts
+* [UNT Digital Library](https://digital.library.unt.edu/explore/collections/VRBR/browse/) or [chopin](https://chopin.lib.uchicago.edu/) - Rare Manuscripts
+* [mozarteum](https://dme.mozarteum.at/DME/nma/nmapub_srch.php?l=2) - Digital Mozart Collection
+* [Brown University](https://library.brown.edu/cds/sheetmusic/afam/about.html) - African American Sheet Music
+* [Rochester University](https://urresearch.rochester.edu/viewInstitutionalCollection.action?collectionId=63), [Contemporary Music Score](https://escholarship.org/uc/uclamusicscores), [UNC](https://dc.lib.unc.edu/cdm/landingpage/collection/sheetmusic) - University Collections
+* [Sheet Music Consortium](https://digital.library.ucla.edu/sheetmusic/) - Search Universities
+* [Public Domain Sherpa](https://www.publicdomainsherpa.com/free-sheet-music.html) - Sheet Music Resources
+
+***
+
 ## MPV Shaders
 
 * [FSR](https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5)
