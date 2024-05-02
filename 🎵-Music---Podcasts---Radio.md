@@ -654,49 +654,28 @@
 
 ***
 
-## ▷ Sheet Music 
+## ▷ Sheet Music / Notation
 
-* ⭐ **[musescore](https://musescore.org/en)** / [Downloader](https://github.com/LibreScore/dl-librescore)
-* [Music Reader](https://music-reader.com/) - Practice Reading Sheet Music
-* [SheetHost](https://sheet.host/) - Publish Sheet Music
-* [VGLeadSheets](https://www.vgleadsheets.com/) or [GameMusicThemes](https://www.gamemusicthemes.com/) - Video Games
-* [FluteTunes](https://www.flutetunes.com/) or [Flue Music](https://drive.google.com/drive/folders/1WMtVRNqLFdEQ4X39Dpof9o5aWGJsdtFe?usp=sharing) - Flute
+* 🌐 **[Awesome Music Notation](https://github.com/noteflakes/awesome-music?tab=readme-ov-file#music-notation)** - Notation Tools
+* 🌐 **[Awesome Sheet Music](https://github.com/ad-si/awesome-sheet-music)** - Sheet Music Software & Resources
+* ↪️ **[Music Notation Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_notation_editors)**
+* ↪️ **[Music Sheet Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_sheet_collections)**
+* [Sheethost](https://sheet.host/) - Publish Sheet Music
+* [Swara Notebook](https://swaranotebook.com/) - Classical Indian Music Notation Generator
+* [The ABC Music Project](https://abc.sourceforge.net/) / [Editor](https://sourceforge.net/projects/toadflax/), [2](https://runabc.sourceforge.io/), [3](https://easyabc.sourceforge.net/) / [PNG Convert](https://sourceforge.net/projects/abccairo/) / [MIDI Convert](https://abcmidi.sourceforge.io/) / [Webpages](https://netabc.sourceforge.io/) - Notation Markup Language
+* [Chordly](https://chordly.co.uk/) - Chord Sheet Creator
+* [Piascore](https://apps.apple.com/us/app/piascore-hd/id406141702) - iOS Music Score Viewer
+* [IMSLP](https://imslp.org/wiki/Main_Page) - Public Domain Scores
+* [/r/sheetmusic](https://reddit.com/r/sheetmusic) - Reddit Community
+* [VGLeadSheets](https://www.vgleadsheets.com/) - Transcribe Video Game Music
+* [Omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart) - Python Music Transcription Library
+* [Soundslice](https://www.soundslice.com/transcribe/) - Manually Transcribe
+* [Audiveris](https://audiveris.github.io/audiveris/_pages/handbook/) - OMR Engine / [GitHub](https://github.com/Audiveris/audiveris)
+* [Oemer](https://github.com/BreezeWhite/oemer) - OMR Tool / [Colab](https://colab.research.google.com/github/BreezeWhite/oemer/blob/main/colab.ipynb) / [Demo](https://breezewhite.github.io/oemer/)
+* [Sheet Music Scanner](https://sheetmusicscanner.com/) - Mobile OMR App
+* [music-reader](https://music-reader.com/) - Practice Reading Sheet Music
 * [Sound Slice](https://soundslice.com/) or [Nootka](https://nootka.sourceforge.io/) - Sheet Music Learning
-* [IMSLP](https://imslp.org/wiki/Main_Page)
-* [awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music)
-* [/r/sheetmusic](https://reddit.com/r/sheetmusic)
-* [8notes](https://www.8notes.com/)
-* [mutopiaproject](https://www.mutopiaproject.org/)
-* [sheetmusiceden](https://sheetmusiceden.com/)
-* [musopen](https://musopen.org/)
-* [Sheet Music International](https://sheetmusicinternational.com/)
-* [1230james](https://1230james.xyz/music/)
-* [CosandScores](http://waltercosand.com/CosandScores/)
-* [Free Scores](https://m.free-scores.com/)
-* [torbybrand](https://torbybrand.com/sheet-music/)
-* [SheetMusicForFree](https://sheetmusicforfree.com/)
-* [bateristaspt](https://www.bateristaspt.com/membros/drumscores/)
-* [tchunes](https://www.daev.ca/tchunes/)
-* [Notes Box](https://notes-box.com/)
-* [urresearch](https://urresearch.rochester.edu/viewInstitutionalCollection.action?collectionId=63)
-* [escholarship](https://escholarship.org/uc/uclamusicscores)
-* [dlib](https://dlib.indiana.edu/variations/scores/)
-* [diamm](https://www.diamm.ac.uk/)
-* [themorgan](https://www.themorgan.org/music)
-* [unc](https://dc.lib.unc.edu/cdm/landingpage/collection/sheetmusic)
-* [ucla](https://digital.library.ucla.edu/sheetmusic/)
-* [brown](https://library.brown.edu/cds/sheetmusic/afam/about.html)
-* [mozarteum](https://dme.mozarteum.at/DME/nma/nmapub_srch.php?l=2)
-* [sfsma](https://www.sfsma.org/)
-* [digital.library](https://digital.library.unt.edu/explore/collections/VRBR/browse/), [chopin](https://chopin.lib.uchicago.edu/)
-* [Piano Sheet Music Drive](https://drive.google.com/drive/folders/0BxkQJMTuId4dfkxiM01GYnFBUFdDVmRHMGREM1JKYVdBajJtV2pVSExrS2txT1BOdXlfMUE?resourcekey=0-4uwizkHnsGLakmC-cA173A) / [2](https://drive.google.com/drive/folders/1-hieArroBCq1x6z4GQ_gdFuyEz_Ftvxg)
-* [Anime Sheet Music Drive](https://drive.google.com/drive/folders/0B2k9HIXzBEfMVlgxTlhNWThzZkk?resourcekey=0-q0RdwD55Az5S3NigaliZEA)
-* [cpdl](https://www.cpdl.org/wiki/index.php/Main_Page)
-* [Ichigos](https://ichigos.com/)
-* [free-scores](https://www.free-scores.com/free-sheet-music.php)
-* [bandmusicpdf](https://bandmusicpdf.org/)
-* [publicdomainsherpa](https://www.publicdomainsherpa.com/free-sheet-music.html)
-* [scorser](http://en.scorser.com/D/Sheet+music.html)
+* [Nutkus](https://sourceforge.net/projects/nutkus/) - Notation Learning Game
 
 ***
 
@@ -717,7 +696,7 @@
 
 # ► Audio Editing
 
-* 🌐 **[Awesome Music Production](https://github.com/ad-si/awesome-music-production)**, [Awesome Music](https://github.com/noteflakes/awesome-music) or [AFreeStudio](https://www.afreestudio.com/) - Music Production Indexes
+* 🌐 **[Awesome Music Production](https://github.com/ad-si/awesome-music-production)** or [AFreeStudio](https://www.afreestudio.com/) - Music Production Indexes
 * 🌐 **[MultiSong Leaderboard](https://mvsep.com/quality_checker/multisong_leaderboard)** - Music & Voice Separation AI Leaderboards
 * ↪️ **[AI Song Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_audio_generators)**
 * ↪️ **[Remove Vocals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remove_vocals)**
