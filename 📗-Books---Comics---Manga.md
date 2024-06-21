@@ -373,7 +373,7 @@
 * ⭐ **[MangaDex](https://mangadex.org/)** - [Downloader](https://mangadex-dl.mansuf.link/) / [Script](https://github.com/frozenpandaman/mangadex-dl)
 * ⭐ **[ComicK](https://comick.io/)**, [2](https://comick.cc/) - [Discord](https://discord.gg/comick)
 * ⭐ **[MangaSee](https://mangasee123.com/)**, [2](https://manga4life.com/)
-* ⭐ **[MangaPark](https://mangapark.net/)** - [Discord](https://discord.gg/jctSzUBWyQ)
+* ⭐ **[MangaPark](https://mangapark.net/)** - [Discord](https://discord.gg/jctSzUBWyQ) / [Proxies](https://rentry.co/mangapark)
 * ⭐ **[Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=)** - Torrents
 * ⭐ **[MangaPiracy](https://discord.gg/ZgMtAyxFSU)** - Manga Piracy Server / [Subreddit](https://reddit.com/r/MangaPiracy)
 * ⭐ **[Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Multi-Site Manga Search
@@ -714,6 +714,7 @@
 * [X-Files](https://doc.lagout.org/) - Tech / Programming
 * [#/g/sicp](https://g.sicp.me/books/) - Programming / Tech (35gb Torrent)
 * [ChessProgramming](https://www.chessprogramming.org/) - Chess Programming Wiki
+* [Hacker News Books](https://hackernewsbooks.com/) - Books Mentioned on HN
 
 ***
 
@@ -843,7 +844,7 @@
 * 🌐 **[Manuals & Schematics](https://redd.it/nlw3er),** [SafeManuals](https://safe-manuals.com/), [Manuzoid](https://manuzoid.com/), [manualzz](https://manualzz.com/), [ManualsNet](https://manualsnet.com/), [manua.ls](https://www.manua.ls/) or [ManualsLib](https://www.manualslib.com/) - Manual Directories
 * ⭐ **[RepairWiki](https://repair.wiki/)** - Repair Articles / [Old Layout](https://old.repair.wiki/)
 * [ManualLib](https://www.manuallib.com/) - Manual Search
-* [iFixIt](https://www.ifixit.com/Guide) - Repair Manuals
+* [iFixIt](https://www.ifixit.com/) - Repair Manuals
 * [WonderHowTo](https://www.wonderhowto.com/) - Tech How-to's
 * [manned.org](https://manned.org/) - Operating System Manuals
 * [Exploitee.rs](https://www.exploitee.rs/) - Device Exploitation Wiki
@@ -900,7 +901,7 @@
 * [Pickwick](https://pickwick.app/) - Fanfiction / Story Database
 * [ISFDB](https://isfdb.org/) - Speculative Fiction
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
-* [Romance.io](https://www.romance.io/ ) - Romance Database
+* [Romance.io](https://www.romance.io/) - Romance Database
 * [BookStash](https://bookstash.io/), [Summrize](https://www.summrize.com/) or [Glimbay](https://glimbay.netlify.app/) - Book Summaries
 * [/r/Marvel Recommended](https://www.reddit.com/r/Marvel/wiki/faq) - Marvel Comic Recommendations
 * [/r/DCcomics Recommended](https://www.reddit.com/r/DCcomics/wiki/recommended) - DC Comic Recommendations
