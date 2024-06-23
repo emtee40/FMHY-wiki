@@ -208,6 +208,7 @@
 * [BasedTools](https://www.basedtools.ai/) - AI Directory / [Discord](https://discord.gg/D8wYxUvwTD)
 * [It's Better With AI](https://itsbetterwithai.com/) - AI Directory
 * [Futurepedia](https://www.futurepedia.io/) - AI Directory
+* [funfun.tools](https://www.funfun.tools/) - AI Directory
 * [PowerUsers](https://powerusers.ai/) - AI Directory
 * [TheresAnAIForThat](https://theresanaiforthat.com/) - AI Directory
 * [AI Tools](https://aitools.fyi/) - AI Directory
