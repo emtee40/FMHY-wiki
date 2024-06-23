@@ -1092,13 +1092,13 @@
 
 ## Switch ROMs
 
-* [Ziperto](https://ziperto.com/) / Avoid [Fake](https://ibb.co/wWJbkX6) Buttons
-* [ROMSLAB](https://romslab.com/)
-* [NXBrew](https://nxbrew.com/) / Scroll past Download Setup buttons
+* [NXBrew](https://nxbrew.com/) / Scroll past Download Setup buttons / [Discord](https://discord.gg/UkBCS39dnJ)
+* [Ziperto](https://ziperto.com/) / Avoid [Fake](https://ibb.co/wWJbkX6) Buttons / [Discord](https://discord.gg/VgZ66bM87u)
 * [nsw2u](https://nsw2u.com/), [2](https://nsw2u.net/)
-* [NswRoms](https://nswrom.com/)
-* [ROMSim](https://romsim.com/) / [Discord](https://discord.gg/Zgdhq7xDcd)
+* [NswRom](https://nswrom.com/)
 * [taodung](https://taodung.com/)
+* [ROMSim](https://romsim.com/) / [Discord](https://discord.gg/Zgdhq7xDcd)
+* [ROMSLAB](https://romslab.com/)
 * [Hopmarks](https://www.hopmarks.com/) - Torrent
 
 ***
