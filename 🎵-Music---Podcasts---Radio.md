@@ -186,41 +186,35 @@
 
 ## ▷ Ambient / Relaxation
 
-* ⭐ **[Rainy Mood](https://www.rainymood.com/)** - Ambient Rain
-* ⭐ **[Chillhop](https://chillhop.com/)** - Lofi Radio
-* ⭐ **[lofi.cafe](https://www.lofi.cafe/)** - Lofi Radio
+* ⭐ **[Rainy Mood](https://www.rainymood.com/)**, [Rainbow Hunt](https://rainbowhunt.com/), [Pluvior](https://pluvior.com/), [rainfor.me](https://rainfor.me/), [Raining.fm](https://raining.fm/) or [Rainyscope](https://rainyscope.com/) - Ambient Rain
+* ⭐ **[lofi.cafe](https://www.lofi.cafe/)**, **[Chillhop](https://chillhop.com/)**, [Ambicular](https://ambicular.com/), [DevTunes FM](https://radio.madza.dev/), [Lofi Music](https://lofimusic.app/), [Lofi Player](https://lofi-players.netlify.app/), [lofi](https://lofi.co/), [Lofi Club](https://loficlub.vercel.app/) or [Lofi Limo](https://lofi.limo/) - Lofi Radio
 * ⭐ **[CityHop](https://www.cityhop.cafe/)** or [Japan Walkaround](https://thatguyedd.github.io/) - Lofi Radio / City Walks
 * ⭐ **[Coding Cat](https://hostrider.com/)** - Lofi Radio / Nyan Cat's Cousin
 * ⭐ **[HaloMe](https://halome.nu/)** - Halo Menu Screens
-* [Ambicular](https://ambicular.com/), [DevTunes FM](https://radio.madza.dev/), [Lofi Music](https://lofimusic.app/), [Lofi Player](https://lofi-players.netlify.app/), [Lofi Club](https://loficlub.vercel.app/), [Lofi Limo](https://lofi.limo/) or [Lofi Generator](https://lofigenerator.com/) - Lofi Radio
+* [Moodist](https://moodist.app/), [Soundscape](https://soundescape.io/), [Nature Mixer](https://naturemixer.com/), [myNoise](https://mynoise.net/) or [Ambiph](https://ambiph.one/) - Ambient Sound Mixers
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - Create Room / Lofi Player
-* [Music For Programming](https://musicforprogramming.net/latest/) or [Wisdom Tree](https://github.com/HACKER097/wisdom-tree/) - Music for Focus
+* [Music For Programming](https://musicforprogramming.net/latest/), [DevTunes FM](https://radio.madza.dev/) or [Wisdom Tree](https://github.com/HACKER097/wisdom-tree/) - Music for Focus
 * [Noizio](https://noiz.io/) - Ambient
 * [Calmsound](https://www.calmsound.com/) - Ambient
 * [Moss Garden](https://moss.garden/) - Ambient
 * [CalmyLeon](https://calmyleon.com/) - Ambient
 * [Ambie](https://ambieapp.com/) - Ambient
 * [Moodli](https://www.moodil.com/) - Ambient
-* [Soundscape](https://soundescape.io/) - Ambient
-* [Generative.fm](https://generative.fm/) - Ambient
+* [Generative.fm](https://generative.fm/) or [Lofi Generator](https://lofigenerator.com/) - Generative Ambient Music
 * [Relaxing Sounds](https://unifycosmos.com/relaxing-sounds/) - Ambient
 * [Noises Online](https://noises.online/) - Ambient
 * [Relaxing Sounds](https://www.shuteye.ai/relaxing-sounds/) - Ambient
 * [A Soft Murmur](https://asoftmurmur.com/) - Ambient
-* [Nature Mixer](https://naturemixer.com/) - Ambient
 * [Click Relax](https://click-relax.com/) - Ambient
 * [Moszen](https://www.moszen.com/) - Ambient
-* [Earth.fm](https://earth.fm/) - Ambient
-* [Moodist](https://moodist.app/) - Ambient
+* [Earth.fm](https://earth.fm/) or [tree.fm](https://www.tree.fm/) - Field Recordings
 * [Zen Sounds](https://app.zenflowchart.com/zen-sounds) - Ambient
 * [EcoSounds](https://en.ecosounds.net/) - Ambient
-* [Ambiph](https://ambiph.one/) - Ambient
-* [CanvasCycle](http://www.effectgames.com/demos/canvascycle/) - Ambient
+* [CanvasCycle](http://www.effectgames.com/demos/canvascycle/) - 8-bit Scenes with Ambient Sounds
 * [RelaxFrens](https://www.relaxfrens.com/) - Ambient
-* [Rainbow Hunt](https://rainbowhunt.com/), [Pluvior](https://pluvior.com/), [rainfor.me](https://rainfor.me/), [Raining.fm](https://raining.fm/) or [Rainyscope](https://rainyscope.com/) - Ambient Rain
 * [Sounds of Maine](https://soundsofmaine.life/) - Ambient Maine Sounds
-* [lofi](https://lofi.co/) or [Ambient Mixer](https://www.ambient-mixer.com/) - Ambient / Lofi
-* [tree.fm](https://www.tree.fm/) - Ambient Forest Sounds
+* [Ambient Mixer](https://www.ambient-mixer.com/) - Ambient / Lofi
+* [Ambient Mixer](https://www.ambient-mixer.com/) - User-Made Soundscapes
 * [VibeOcean](https://defonic.com/vibeocean.html) or [VirtCcean](https://virtocean.com/) - Ambient Ocean Sounds
 * [Calm](https://www.calm.com/app) - Meditation / Sleep Music
 * [Tide.fm](https://tide.fm/) - Meditation / Sleep Sounds
@@ -233,7 +227,6 @@
 * [I Miss My Bar](http://imissmybar.com/) - Ambient Bar Sounds
 * [HomeSick](https://scoreascore.com/homesick) - Ambient Home Sounds
 * [You are Listening To LA](http://youarelistening.to/) - Ambient City Sounds & Live LAPD Police Radio
-* [myNoise](https://mynoise.net/) - Background Noises & Interactive Soundscapes
 * [Ambient-Mixer](https://movies.ambient-mixer.com/) - Ambient Media Inspired Sounds
 * [Listen to Wikipedia](http://listen.hatnote.com/) - Wikipedia Recent Changes Feed Sounds
 
