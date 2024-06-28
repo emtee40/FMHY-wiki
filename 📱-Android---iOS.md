@@ -277,7 +277,7 @@
 * [Grammarly](https://rentry.co/FMHYBase64#grammarly-keyboard-premium) - Grammarly Keyboard Premium
 * [UnicodePad](https://play.google.com/store/apps/details?id=jp.ddo.hotmist.unicodepad) / [GitHub](https://github.com/Ryosuke839/UnicodePad) - Emoji / Unicode Manager
 * [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian/) or [Clipboard CopyPaste](https://www.evvasoft.com/ccp.html) - Clipboard Managers
-* [FlutterMarkdownEditor](https://github.com/adeeteya/FlutterMarkdownEditor) - Markdown Editor
+* [FlutterMarkdownEditor](https://github.com/adeeteya/FlutterMarkdownEditor) or [PocketMark](https://play.google.com/store/apps/details?id=com.ZetaDev.PocketMark) - Markdown Editors
 * [markdownr](https://github.com/sanzoghenzo/markdownr) - Webpage to Markdown Converter
 
 ***
