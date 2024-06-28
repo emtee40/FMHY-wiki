@@ -814,6 +814,7 @@
 
 ## ▷ Android Relaxation
 
+* ⭐ **[Calm](https://rentry.co/FMHYBase64#calm)** - Relaxation / Sleep App
 * [Rain Sounds](https://sleeprelaxapps.github.io/rainsounds/) - Ambient Rain
 * [A Soft Murmur](https://play.google.com/store/apps/details?id=com.gabemart.asoftmurmur) - Mix Ambient Sounds
 * [Tide.fm](https://pics.tide.moreless.io/site/tide.apk), [Serenity](https://github.com/YajanaRao/Serenity) / [Telegram](https://t.me/serenityapp) or [Noice](https://trynoice.com/) - Meditation / Sleep Sounds
@@ -892,10 +893,7 @@
 * ⭐ **[LibreTube](https://libretube.dev/)** - Ad-free YouTube
 * ⭐ **[NewPipe](https://newpipe.net/)** - Ad-free YouTube
 * ⭐ **[Tubular](https://github.com/polymorphicshade/Tubular)** - Ad-free YouTube / SponsorBlock / ReturnYTDislikes
-* ⭐ **[Seal](https://github.com/JunkFood02/Seal)** - YouTube Audio / Video Downloader
-* [YouTubeDL Android](https://github.com/yausername/youtubedl-android) - YouTube Audio / Video Downloader
-* [ytdlnis](https://github.com/deniscerri/ytdlnis) - YouTube Audio / Video Downloader
-* [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio / Video Downloader
+* ⭐ **[Seal](https://github.com/JunkFood02/Seal)**, [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [ytdlnis](https://github.com/deniscerri/ytdlnis) or [SongTube](https://github.com/SongTube/SongTube-App) - Audio / Video Downloaders
 * [GrayJay](https://grayjay.app/) - YouTube, Twitch, Rumble etc / [Gitlab](https://gitlab.futo.org/videostreaming/grayjay) / [Plugins](https://gitlab.futo.org/videostreaming/plugins)
 * [Clipious](https://github.com/lamarios/clipious) - Android Invidious Client
 * [Hyperion](https://github.com/zt64/Hyperion) - YouTube Frontend
