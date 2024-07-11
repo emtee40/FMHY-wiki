@@ -91,6 +91,7 @@
 * [Pandora](https://www.pandora.com/) - Browser Music
 * [Jango](https://jango.com/) - Browser Music
 * [Jamendo](https://www.jamendo.com/) - Browser Music
+* [WProject](https://wproject.vercel.app/) - Browser Music
 * [SoundClick](https://www.soundclick.com/default.cfm) - Browser Music
 * [Mixupload](https://mixupload.com/) - Browser Music
 * [Tancpol](https://tancpol.net/) - Browser Music
