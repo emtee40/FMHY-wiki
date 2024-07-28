@@ -740,6 +740,7 @@
 
 * 🌐 **[The Language Exchange Network](https://redd.it/5m5426)**, [2](https://docs.google.com/document/d/14is9MfGfKC-ptDhXGWLQFYSAaWTJSnUxj6zK0RGqNIk/) - Language Exchange Communities / [Discord](https://discord.gg/jxcVmHJ)
 * [InterPals](https://www.interpals.net/)
+* [Episoden](https://www.episoden.com/)
 * [Tandem](https://www.tandem.net/)
 * [Conversation Exchange](https://www.conversationexchange.com/)
 * [RhinoSpike](https://rhinospike.com/)
