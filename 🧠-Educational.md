@@ -133,9 +133,7 @@
 * ⭐ **[/r/educationalgifs](https://reddit.com/r/educationalgifs)** - Learn With GIFs
 * ⭐ **[/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/)** - Have Anything Explained Very Simply
 * ⭐ **[The Punctuation Guide](https://www.thepunctuationguide.com/)** - Punctuation Guide
-
-* [Stack Exchange](https://stackexchange.com/), [CuriousCat](https://curiouscat.live/) or [RetroSpring](https://retrospring.net/) - Q&A Communities
-
+* [Stack Exchange](https://stackexchange.com/) or [CuriousCat](https://curiouscat.live/) - Q&A Communities
 * [AFAIK](https://afaik.io/) - Learning Map / [Discord](https://discord.gg/mMNwRvWM8s)
 * [Open Educational Resources](https://cdn-infographic.pressidium.com/wp-content/uploads/How-to-Search-for-Open-Educational-Resources-Infographic.jpg) - How to search for Open Educational Resources
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
