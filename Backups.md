@@ -1,43 +1,42 @@
-**Websites**
-
-**[FMHY.net](https://fmhy.net/)** 
-
-[fmhy.github.io](https://fmhy.github.io/FMHYedit/)
-
-[fmhy.pages.dev](https://fmhy.pages.dev/)
-
-[old.fmhy.net](https://old.fmhy.net/)
+### [FMHY-Search](https://fmhy-search.streamlit.app/)
+Search engine hosted on Streamlit
 
 ***
 
-**Backups**
-
-**[Reddit Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)** / [Wayback](https://web.archive.org/web/2/https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
-
-[Rentry Backup](https://rentry.co/FMHY)
-
-[GitHub Backup](https://github.com/fmhy/FMHY/wiki)
+### [FMHY.net Search](https://fmhy.net/)
+Search engine hosted on FMHY.net
 
 ***
 
-**Safe for Work**
-
-**[FMHY.xyz](https://fmhy.xyz/)**
-
-[SFW Rentry](https://rentry.co/piracy)
+### [old.fmhy.net Search](https://old.fmhy.net/search)
+Search engine hosted on old.fmhy.net
 
 ***
 
-**Markdown**
-
-[Markdown Files](https://github.com/fmhy/FMHYedit/archive/refs/heads/main.zip)
-
-[Markdown Page](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page) / [2](https://gist.githubusercontent.com/taskylizard/5ba73bf97dccf159316edcf4c6520856/raw/90fbdde564f53bfd02cce0190738d0d090bceb1c/fmhy.md)
-
-[Markdown Search](https://github.com/Rust1667/a-FMHY-search-engine)
+### [GitHub Search](https://github.com/nbats/FMHY/search?q=&type=wikis)
+GitHub page search engine
 
 ***
 
-**Backup Page Backups**
+### [Bookmark HTML](https://github.com/fmhy/bookmarks)
+Turn FMHY into Bookmarks
 
-[Reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups) / [GitHub](https://github.com/nbats/FMHY/wiki/Backups/) / [Rentry](https://rentry.co/FMHYbackups/)
+***
+
+### [Python Script](https://github.com/Rust1667/a-FMHY-search-engine)
+Search markdown via python script
+
+***
+
+### [Raw Markdown](https://api.fmhy.net/single-page)
+Search markdown manually (ctrl+f)
+
+***
+
+### [Google CSEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_custom_search_engines)
+Multi-site search engines
+
+***
+
+### [Dupe Checker](https://gitlab.com/cevoj/fmhy-dupe-checker)
+FMHY Dupe Check Tool
