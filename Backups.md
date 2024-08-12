@@ -1,42 +1,41 @@
-### [FMHY-Search](https://fmhy-search.streamlit.app/)
-Search engine hosted on Streamlit
+**Websites**
+
+**[FMHY.net](https://fmhy.net/)** 
+
+[fmhy.github.io](https://fmhy.github.io/FMHYedit/)
+
+[fmhy.pages.dev](https://fmhy.pages.dev/)
+
+[old.fmhy.net](https://old.fmhy.net/)
 
 ***
 
-### [FMHY.net Search](https://fmhy.net/)
-Search engine hosted on FMHY.net
+**Backups**
+
+**[Reddit Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)** / [Wayback](https://web.archive.org/web/2/https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
+
+[Rentry Backup](https://rentry.co/FMHY)
+
+[GitHub Backup](https://github.com/fmhy/FMHY/wiki)
 
 ***
 
-### [old.fmhy.net Search](https://old.fmhy.net/search)
-Search engine hosted on old.fmhy.net
+**Safe for Work**
+
+**[FMHY.xyz](https://fmhy.xyz/)**
+
+[SFW Rentry](https://rentry.co/piracy)
 
 ***
 
-### [GitHub Search](https://github.com/nbats/FMHY/search?q=&type=wikis)
-GitHub page search engine
+**Markdown**
+
+[Markdown Files](https://github.com/fmhy/FMHYedit/archive/refs/heads/main.zip)
+
+[Markdown Page](https://api.fmhy.net/single-page
 
 ***
 
-### [Bookmark HTML](https://github.com/fmhy/bookmarks)
-Turn FMHY into Bookmarks
+**Backup Page Backups**
 
-***
-
-### [Python Script](https://github.com/Rust1667/a-FMHY-search-engine)
-Search markdown via python script
-
-***
-
-### [Raw Markdown](https://api.fmhy.net/single-page)
-Search markdown manually (ctrl+f)
-
-***
-
-### [Google CSEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_custom_search_engines)
-Multi-site search engines
-
-***
-
-### [Dupe Checker](https://gitlab.com/cevoj/fmhy-dupe-checker)
-FMHY Dupe Check Tool
+[Reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups) / [GitHub](https://github.com/nbats/FMHY/wiki/Backups/) / [Rentry](https://rentry.co/FMHYbackups/)
