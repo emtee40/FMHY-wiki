@@ -32,7 +32,7 @@
 
 [Markdown Files](https://github.com/fmhy/FMHYedit/archive/refs/heads/main.zip)
 
-[Markdown Page](https://api.fmhy.net/single-page
+[Markdown Page](https://api.fmhy.net/single-page)
 
 ***
 
