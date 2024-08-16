@@ -922,6 +922,7 @@ https://aniwow.in/ has only dubs though
 * [Napisy24](https://napisy24.pl/), [GrupaHatak](https://grupahatak.pl/) or [KickAssSubtitles](https://kickasssubtitles.com/pl) - Subtitles
 * [Tekstowo](https://www.tekstowo.pl/) - Lyrics
 * [JakDojade](https://jakdojade.pl/) - Public Transport Map
+* [AnimeSub.info](http://animesub.info/) - Anime Subtitles
 
 ## ▷ Downloading / Pobieranie
 * ⭐ **[Grupa Mirai](https://www.grupa-mirai.pl/)** - Anime / Sub / 1080p / [Discord](https://discord.gg/WyXrp6ZK5J)
@@ -966,6 +967,8 @@ https://aniwow.in/ has only dubs though
 * [wolnelektury](https://wolnelektury.pl/) - Books / Fiction / Audiobooks
 * [Audiobook PL](https://audiobookpl.tumblr.com/) - Audiobooks
 * [Academica](https://academica.edu.pl/) - Online Library
+* [doci PL](https://doci.pl/) - Books
+* [Docer PL](https://docer.pl/) - Books
 
 ***
 
@@ -1240,7 +1243,6 @@ https://aniwow.in/ has only dubs though
 * [EX-FS](https://ex-fs.net/) - Movies / TV / Anime / Dub / 1080p
 * [KinoGo](https://kinogo.biz/) - Movies / TV / Anime / Dub / 1080p
 * [KinoFlux](https://kinoflux.biz/) - Movies / TV / Dub / 1080p
-* [zona.plus](https://w140.zona.plus/) - Movies / TV / Dub / 1080p
 * [KinoKrad](https://kinokrad.film/) - Movies / TV / Dub / 1080p
 * [baskino](https://baskino.film/) - Movies / Dub / 1080p
 * [gidonline](https://gidonline.eu/) - Movies / TV / Anime / Sub / Dub / 1080p
