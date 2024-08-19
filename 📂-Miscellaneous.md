@@ -1142,7 +1142,7 @@ https://github.com/NobodyForNothing/blood-pressure-monitor-fl
 * [FandomPost](https://fandompost.vbulletin.net/) - Fandom Discussions
 * [AnimeSuki](https://forums.animesuki.com/), [AnimeUKNews](https://forums.animeuknews.net/) or [Fanverse](https://www.fanverse.org/) - Anime Discussion
 * [/r/Piracy](https://www.reddit.com/r/Piracy/) - Piracy Discussion
-* [Resetera](https://www.resetera.com/) - Game Discussion
+* [Resetera](https://www.resetera.com/) or [RakcetBoy](https://racketboy.com/forum/) - Game Forums
 * [NotAlwaysRight](https://notalwaysright.com/) - Customer Service Stories
 * [Marijuana Subs](https://www.reddit.com/r/trees/wiki/entreddits_social) - Marijuana Subreddits
 * [GrassCity](https://forum.grasscity.com/) - Marijuana Forum
@@ -1385,7 +1385,7 @@ https://github.com/NobodyForNothing/blood-pressure-monitor-fl
 * [Fold N Fly](https://www.foldnfly.com/) - Paper Airplane Guides
 * [TwistyPuzzles](https://twistypuzzles.com/) or [HyperCubing](https://hypercubing.xyz/) - Twisty Puzzle Wikis
 * [Game a-b-street](https://a-b-street.github.io/docs/) - Traffic Simulation
-* [Deaddit](https://deaddit.xyz/) - Reddit w/ AI Genrated Posts & Comments
+* [Deaddit](https://deaddit.xyz/) - Reddit w/ AI Generated Posts & Comments
 * [Moral Machine](https://www.moralmachine.net/) - Decision-Making AIs
 * [Chirper](https://chirper.ai/) - AI Generated Twitter
 * [Judge My Music](https://pudding.cool/2021/10/judge-my-music/) - Have an AI Judge Your Taste in Music
