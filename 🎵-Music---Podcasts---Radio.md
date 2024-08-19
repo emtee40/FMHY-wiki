@@ -229,7 +229,6 @@
 * [Download Bandcamp](https://downloadmusicschool.com/bandcamp/) - Bandcamp / 128kb MP3
 * [DownloadSound](https://downloadsound.cloud/) - SoundCloud / 128kb MP3 / [Discord](https://discord.com/invite/39bEkYuzrN)
 * [SoundcloudMP3](https://soundcloudmp3.cc/) - SoundCloud / 128kb MP3
-* [SASRIP](https://sasrip.sas41.com/) - Multi-Site
 
 ***
 
@@ -702,6 +701,7 @@
 * ↪️ **[Remove Vocals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remove_vocals)**
 * ⭐ **[KVR Audio](https://www.kvraudio.com/)** or [VI-CONTROL](https://vi-control.net/community/) - Audio Production News / Forums
 * [ProducerLibrary](https://producerlibrary.carrd.co/) - Audio Production Tutorials / [Discord](https://discord.gg/KfyHfUTjsK)
+* [We Suck At Producing](https://discord.gg/wsap) - Audio Production Discord
 * [Demucs](https://github.com/adefossez/demucs) / [Colab](https://colab.research.google.com/drive/1dC9nVxk3V_VPjUADsnFu8EiT-xnU1tGH?usp=s), [Vocal Remover](https://separatemusic.com/), [Acapella-Extractor](https://www.acapella-extractor.com/), [splitmysong](https://www.splitmysong.com/), [free-music-demixer](https://freemusicdemixer.com/), [Mikrotakt](https://mikrotakt.app/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate Voice from Instrumentals
 * [Adobe Enhance](https://podcast.adobe.com/enhance) - Speech Enhancer
 * [Chowdhury DSP](https://chowdsp.com/products.html) - Audio Signal Processing
@@ -800,7 +800,7 @@
 
 ## ▷ Freeware Plugins
 
-* 🌐 **[Free VST Plguins](https://bedroomproducersblog.com/free-vst-plugins/)**, [2](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8##gid=0) - Freeware Plugin Index
+* 🌐 **[Free VST Plugins](https://bedroomproducersblog.com/free-vst-plugins/)**, [2](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8##gid=0) - Freeware Plugin Index
 * 🌐 **[Open-Source Audio Plugins](https://openaudio.webprofusion.com/)** - Open Source Plugin Projects Index
 * ⭐ **[Surge XT](https://surge-synthesizer.github.io/)** - Hybrid / Subtractive Synth
 * ⭐ **[Vital](https://vital.audio/)** or [Helm](https://tytel.org/helm/) - Wavetable Synth
@@ -810,6 +810,7 @@
 * [ChowMultiTool](https://github.com/Chowdhury-DSP/ChowMultiTool) - Open Source
 * [SPARTA](https://leomccormack.github.io/sparta-site/) - Open Source
 * [ZynAddSubFX](https://zynaddsubfx.sourceforge.io/)
+* [KoanSound](https://discord.gg/koansound) - Plugins / Discord
 * [GuitarML](https://guitarml.com/index.html) or [TONEX CS](https://www.ikmultimedia.com/products/tonex/#tonexcs) - Custom AI Guitar Tones
 * [samplv1](https://samplv1.sourceforge.io/) - Voice Synth
 * [/r/SynthRecipes](https://www.reddit.com/r/synthrecipes/) - Synth Request Subreddit
