@@ -47,7 +47,7 @@
 * [OAICHAT](https://chat.oaichat.cc/), [2](https://chat.sorapi.dev/), [3](https://ffa.chat/) - GPT-4o / Multiple Chatbots
 * [GPT4o.so](https://gpt4o.so/app) - GPT-4o
 * [Zhucn](https://zhucn.org/) - GPT-4o Mirror Pool
-* [LibreChat](https://librechat.ai/) - Multiple Chatbots
+* [LibreChat](https://librechat.ai/) - Multiple Chatbots / [Discord](https://discord.librechat.ai/)
 * [DuckDuckGo AI](https://duck.ai/) - Multiple Chatbots
 * [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
 * [infermatic](https://infermatic.ai/) / [Discord](https://discord.gg/9GUXmDx9GF) - Multiple Chatbots
@@ -56,8 +56,8 @@
 * [freegpt4](https://rentry.org/freegpt4) - Free GPT-4 Methods
 * [Meta AI](https://www.meta.ai/) - Llama 3 Chatbot
 * [NVIDIA NIM](https://build.nvidia.com/) - Llama 3
-* [Phind](https://www.phind.com/) - Llama Search Engine
-* [Morphic](https://www.morphic.sh/) - AI Search Engine
+* [Phind](https://www.phind.com/) - Llama Search Engine / [Discord](https://discord.gg/S25yW8TebZ)
+* [Morphic](https://www.morphic.sh/) - AI Search Engine / [Discord](https://discord.gg/zRxaseCuGq)
 * [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - AI Search Engine
 * [Komo](https://komo.ai/) - AI Search Engine
 * [iAsk](https://iask.ai/) - AI Search Engine
