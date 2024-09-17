@@ -657,13 +657,8 @@ https://github.com/Akylas/alpimaps
 * ⭐ **[Google Play Games](https://play.google.com/googleplaygames)** - Android Mobile Games on Windows
 * [AOPC](https://aopc.dev/) - Android Desktop OS Forums
 * [Docker Android](https://github.com/budtmo/docker-android) - Android on Docker
-* [Nox](https://www.bignox.com/) / [Debloat](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48)
-* [BlueStacks](https://www.bluestacks.com/)
-* [GameLoop](https://www.gameloop.com/)
-* [MuMu](https://www.mumuplayer.com/)
-* [MeMu](https://www.memuplay.com/) / [Debloat](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
-* [LDPlayer](https://www.ldplayer.net/) / [Debloat](https://gist.github.com/TameemS/894cdb8adae1d6042a5f21c4e80bcd9e/)
-* [Genymotion](https://www.genymotion.com/download/)
+* [Genymotion](https://www.genymotion.com/download/) - Cloud Emulator
+* [Nox](https://www.bignox.com/) / [Debloat](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48), [BlueStacks](https://www.bluestacks.com/), [GameLoop](https://www.gameloop.com/), [MuMu](https://www.mumuplayer.com/), [MeMu](https://www.memuplay.com/) / [Debloat](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8), [LDPlayer](https://www.ldplayer.net/) / [Debloat](https://gist.github.com/TameemS/894cdb8adae1d6042a5f21c4e80bcd9e/) - Android Emulators
 
 ***
 
