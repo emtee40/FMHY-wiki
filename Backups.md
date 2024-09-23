@@ -6,15 +6,13 @@
 
 [old.fmhy.net](https://old.fmhy.net/)
 
-[SFW Rentry](https://rentry.co/piracy) (no nsfw section)
-
 ***
 
 **Backups**
 
 **[Reddit Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)** / [Wayback](https://web.archive.org/web/2/https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
 
-[Rentry Backup](https://rentry.co/FMHY)
+[Rentry Backup](https://rentry.co/FMHY) / [SFW Rentry](https://rentry.co/piracy)
 
 [GitHub Backup](https://github.com/fmhy/FMHY/wiki)
 
