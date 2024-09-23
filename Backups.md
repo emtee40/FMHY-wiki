@@ -6,6 +6,8 @@
 
 [old.fmhy.net](https://old.fmhy.net/)
 
+[SFW Rentry](https://rentry.co/piracy) (no nsfw section)
+
 ***
 
 **Backups**
@@ -15,14 +17,6 @@
 [Rentry Backup](https://rentry.co/FMHY)
 
 [GitHub Backup](https://github.com/fmhy/FMHY/wiki)
-
-***
-
-**Safe for Work**
-
-**[FMHY.xyz](https://fmhy.xyz/)**
-
-[SFW Rentry](https://rentry.co/piracy)
 
 ***
 
