@@ -2,8 +2,6 @@
 
 **[FMHY.net](https://fmhy.net/)** 
 
-[fmhy.github.io](https://fmhy.github.io/FMHYedit/)
-
 [fmhy.pages.dev](https://fmhy.pages.dev/)
 
 [old.fmhy.net](https://old.fmhy.net/)
