@@ -12,9 +12,17 @@
 
 **[Reddit Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)** / [Wayback](https://web.archive.org/web/2/https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
 
-[Rentry Backup](https://rentry.co/FMHY) / [SFW Rentry](https://rentry.co/piracy)
+[Rentry Backup](https://rentry.co/FMHY)
 
 [GitHub Backup](https://github.com/fmhy/FMHY/wiki)
+
+***
+
+**Safe for Work**
+
+[FMHY.xyz](https://fmhy.xyz/)
+
+[SFW Rentry](https://rentry.org/piracy)
 
 ***
 
