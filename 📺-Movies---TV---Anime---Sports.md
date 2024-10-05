@@ -14,7 +14,7 @@
 * ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / 1080p
 * ⭐ **[HydraHD](https://hydrahd.cc/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
 * ⭐ **[KipFlix](https://kipflix.xyz/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/tDKYeh9eQn)
-* ⭐ **[Nunflix](https://nunflix-firebase.firebaseapp.com/)**, [2](https://nunflix.live/), [3](https://nunflix.com/), [4](https://nunflix-firebase.web.app/), [5](https://nunflix-ey9.pages.dev/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/CXVyfhgn26)
+* ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix.live/), [3](https://nunflix.com/), [4](https://nunflix-firebase.web.app/), [5](https://nunflix-ey9.pages.dev/), [6](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/CXVyfhgn26)
 * ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://streamflix.space/) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/C8fyfz5pYz)
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
 * ⭐ **[Autoembed](https://watch.autoembed.cc/)** - Movies / TV / Anime / Drama / 4K / 1080p / [API Docs](https://autoembed.cc/#api/) / [Discord](https://discord.gg/BWDSXV9aX4)
@@ -77,7 +77,6 @@
 * [TVids](https://www.tvids.net/), [2](https://watch-tvseries.net/) - Movies / TV / Anime / 1080p
 * [HollyMovieHD](https://hollymoviehd.cc/), [2](https://yeshd.net/), [3](https://novamovie.net/) - Movies / TV / Anime / 1080p / [Clones](https://hollymoviehd-official.com/)
 * [ProjectFreeTV](https://projectfreetv.sx/) - Movies / TV / 1080p
-* [1HD](https://1hd.to/) - Movies / TV / 1080p
 * [YassFlix](https://yassflix.live/) - Movies / TV / Anime / 1080p
 * [EuroPixHD](https://europixhd.pro/) - Movies / TV / Anime / 1080p
 * [EMovies](https://emovies.si/), [2](https://xtv.to/) - Movies / TV / Anime / 1080p
