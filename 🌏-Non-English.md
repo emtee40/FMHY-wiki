@@ -1658,13 +1658,12 @@
 * ⭐ **[Voz.vn](https://voz.vn/)**, **[TECHRUM.VN](https://www.techrum.vn/)** or **[WhiteHat.vn](https://whitehat.vn/)** - Tech Forum
 * ⭐ **[J2team](https://www.facebook.com/groups/j2team.community)** - Tech Community
 * ⭐ **[Unikey](https://www.unikey.org/en/)**, [Vietkey](https://vietkey.com.vn/) or [EVkey](https://evkeyvn.com/) - Vietnamese Typing Software
+* ⭐ **[Baomoi](https://baomoi.com/)** - News Aggregator / [Mobile](https://play.google.com/store/apps/details?id=com.epi&hl=en_US)
 * [Quantrimang](https://quantrimang.com/), [Anonyviet](https://anonyviet.com/) - Tech News
-* [VozForums](https://vozforum.org/) - Tech Forum
 * [Phudeviet](http://phudeviet.org/) - Subtitles
 * [Zalo](https://id.zalo.me/), [2](https://chat.zalo.me/) - Chat App / [Dark Mode](https://zadark.com/) / [Desktop](https://zalo.me/pc) / [Android](https://play.google.com/store/apps/details?id=com.zing.zalo&hl=en) / [iOS](https://apps.apple.com/us/app/zalo/id579523206)
 * [CocCoc](https://coccoc.com/search) - Search
 * [Speedtest](https://speedtest.vn/), [Vinahost](https://speedtest.vinahost.vn/) - Internet Speed Test
-* [Baomoi](https://baomoi.com/) - News Aggregator / [Mobile](https://play.google.com/store/apps/details?id=com.epi&hl=en_US)
 * [BizTime](https://biztime.com.vn/), [HahaLolo](https://www.hahalolo.com/) or [Lotus](https://lotus.vn/) - Social Networks
 * [Forumvi](https://www.forumvi.com/) - Create a Forum
 * [LichAm](https://licham.net/), [XemLichAm](https://www.xemlicham.com/) or [LichAmHomNay](https://licham.com.vn/) - Lunar Calendar
@@ -1700,7 +1699,6 @@
 * [HDVietnam](https://www.hdvietnam.xyz/) - Video / Audio
 * [TinMp3](https://tinmp3.com/) - Music
 * [NhacHay360](https://nhachayvn.net/) - Music
-* [123doc](https://123docz.net/trang-chu.htm) - Doccumentary
 
 ## ▷ Torrenting / Tải tệp bằng torrent
 
@@ -1710,6 +1708,8 @@
 
 ## ▷ Streaming / Phát trực tuyến
 
+* ⭐ **[VTVGo](https://vtvgo.vn/)** - Live TV
+* ⭐ **[ZingMP3](https://zingmp3.vn/)** - Music
 * [LuotPhim](https://luotphimtv1.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [BiluTV](https://bilutvw.com/) - Movies / TV / Anime / Sub / Dub
 * [JenkaStudioVN](https://www.jenkastudiovn.net/) - Movies / Anime / Sub / Dub / 1080p
@@ -1736,7 +1736,6 @@
 * [Tokuvn](https://tokuvn.com/) - Tokusatsu / Sub
 * [Mocha](https://video.mocha.com.vn/) - Video / 1080p
 * [MyClip](https://myclip.vn/) - Video / 1080p
-* [VTVGo](https://vtvgo.vn/) - Live TV
 * [TV360](https://tv360.vn/) - Live TV / Sub / 1080p
 * [TVHayHD](http://xemtv.tvhayhd.tv/) - Live TV / 720p
 * [Xtv](https://xemtiviviet.net/) - Live TV / 1080p
@@ -1746,7 +1745,6 @@
 * [HPlus](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV Show / 1080p
 * [THVL](https://www.thvli.vn/) - Live TV / TV Show / Movies / Dub
 * [VTC](https://portal.vtc.gov.vn/live) - Live TV / Dub / 1080p
-* [ZingMP3](https://zingmp3.vn/) - Music
 * [NhacCuaTui](https://www.nhaccuatui.com/) - Music
 * [Muvi](https://muvi.vn/) - Music
 * [Nhacvn](https://nhac.vn/) - Music
@@ -1773,6 +1771,7 @@
 * [DocSach24](https://docsach24.co/) - Books
 * [SachHay](https://www.sachhayonline.com/) - Books
 * [TruyenPlus](https://Truyenplus.vn) - Books / Novel
+* [Violet](https://violet.vn) - Educational Books / Documents
 * [DocTaiLieu](https://doctailieu.com/) - Educational Books / Documents
 * [Fecomic](https://fecomic.cc/) - Manga / Manhwa / Manhua
 * [Truyencc](https://truyencc.com/) - Manga / Manhwa / Manhua
