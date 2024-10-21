@@ -4,6 +4,8 @@
 
 [fmhy.pages.dev](https://fmhy.pages.dev/)
 
+[fmhy.lol](https://fmhy.lol/)
+
 [old.fmhy.net](https://old.fmhy.net/)
 
 ***
