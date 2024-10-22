@@ -392,7 +392,7 @@
 
 ## ▷ Proxy Apps
 
-* ⭐ **[SecureDNSClient](https://github.com/msasanmh/SecureDNSClient)** - DNS Proxy GUI / [Guide](https://rentry.co/SecureDNSClient)
+* ⭐ **[DNSveil](https://github.com/msasanmh/DNSveil)** - DNS Proxy GUI / [Guide](https://rentry.co/SecureDNSClient)
 * ⭐ **[zapret](https://github.com/bol-van/zapret)**, **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI) / [2](https://github.com/Virenbar/GDPIControl), [PowerTunnel](https://github.com/krlvm/PowerTunnel) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - DPI Circumvention Local Proxies
 * [Psiphon](https://psiphon.ca/) - Free Proxy / VPN
 * [Lantern](https://lantern.io/) - Free Proxy / Slowed Past 250mb
