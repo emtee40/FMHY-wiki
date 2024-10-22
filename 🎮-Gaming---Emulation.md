@@ -109,7 +109,7 @@
 * 🌐 **[Awesome Terminal Games](https://ligurio.github.io/awesome-ttygames/)** - ASCII Terminal Games
 * 🌐 **[Kliktopia](https://kliktopia.org/)** - Klik Games
 * ⭐ **[OpenRCT2](https://openrct2.io/)**, [2](https://openrct2.org/) - Open-Source RollerCoaster Tycoon 2
-* [Minetest](https://www.minetest.net/) or [Classicube](https://www.classicube.net/) - Open-Source Minecraft Alternatives
+* [Luanti](https://www.luanti.org/) / [GitHub](https://github.com/luanti-org) or [Classicube](https://www.classicube.net/) - Open-Source Minecraft Alternatives
 * [OpenFortress](https://openfortress.fun/) - Team Fortress 2 Mod
 * [TF2 Classic](https://tf2classic.com/) - Team Fortress 2 Classic Mod
 * [RisingHub](https://risinghub.net/) - Battlefield Heroes Revival Project
@@ -245,7 +245,7 @@
 * [ROM-Collections](https://rentry.co/FMHYBase64#rom-collections) - ROMs
 * [WowROMs](https://wowroms.com/en) - ROMs
 * [Edge Emulation](https://edgeemu.net/) - ROMs
-* [Zophar's Domain](https://www.zophar.net/) - Emulators / ROM Hacks
+* [Zophar's Domain](https://www.zophar.net/) - Emulators / ROM Mods
 * [TheRomDepot](https://theromdepot.com/) - ROMs
 * [BlueRoms](https://www.blueroms.ws/) - Emulators / ROMs / Torrents
 * [Arquivista ROMs](https://rentry.co/FMHYBase64#arquivista) - ROMs
@@ -294,10 +294,12 @@
 * [AtariMania](https://www.atarimania.com/) - ROMs / Emulators / Atari Consoles
 * [NesFiles](https://www.nesfiles.com/) - ROMs / NES
 * [/1CC/](https://1cc.kr.eu.org/1cc/index.html) / [Discord](https://discord.com/invite/e7xffWFf9p), [ROMs For MAME](https://www.romsformame.com/), [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [MAME World](https://mameworld.info/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
-* [Newer Team](https://newerteam.com/) - Newer Super Mario Bros. DS / Wii
-* [SMWCentral](https://smwcentral.net/) - Hacked Super Mario World ROMs
-* [Wario Land Hack Vault](https://wario-land.github.io/HackVault/index.html) - Hacked Wario Land ROMs
-* [Pokemerald](https://pokemerald.com/) or [PokemonXenoverse](https://pokemonxenoverse.com/) - Pokémon ROM Hacks
+* [Kuribo64](https://kuribo64.net/) - ROM Modding Community
+* [Newer Team](https://newerteam.com/) or [NSMBHD](https://nsmbhd.net/) - Super Mario Bros. DS / Wii Mods
+* [SMWCentral](https://smwcentral.net/) - Super Mario World ROM Mods
+* [Wario Land Vault](https://wario-land.github.io/HackVault/index.html) - Wario Land ROM Mods
+* [Pokemerald](https://pokemerald.com/) or [PokemonXenoverse](https://pokemonxenoverse.com/) - Pokémon ROM Mods
+* [MetroidConstruction](https://metroidconstruction.com/) - Metroid ROM Modding Community / [Discord](https://discord.gg/xDwaaqa)
 * [PICOwesome](https://rentry.co/FMHYBase64#picowesome) - PICO-8 ROMs
 * [POP Unofficial Website](https://popuw.com/) - Prince of Persia ROMs / Mods
 * [Ship of Harkinian](https://www.shipofharkinian.com/) - Ocarina of Time PC Port / [Discord](https://discord.com/invite/shipofharkinian) / [GitHub](https://github.com/HarbourMasters/Shipwright)
@@ -339,7 +341,7 @@
 * [MSXGamesWorld](https://www.msxgamesworld.com/) or [CheatMSX](https://www.cheatmsx.com/) - MSX Browser Emulators
 * [CommodoreGames](https://www.commodoregames.net/) or [C64Online](https://c64online.com/) - C64 Browser Emulators
 * [SMBGames](https://smbgames.be/) - Super Mario Browser Emulator
-* [SMWGames](https://www.smwgames.com/) - Hacked Super Mario World Browser Emulators
+* [SMWGames](https://www.smwgames.com/) - Modded Super Mario World Browser Emulators
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
 * [SMBX2](http://codehaus.wohlsoft.ru/index.php) - Super Mario Enhancement Mod / [Video](https://youtu.be/15ia-OiEFzQ) / [Discord](https://discord.com/invite/aCZqadJ)
 * [Super Mario and the Rainbow Stars](https://superstarshi.github.io/smatrs/) - Super Mario Mod / [Video](https://youtu.be/SqQuI1AbSQw) / [Discord](https://discord.gg/GBXUa7NF2J)
@@ -447,7 +449,7 @@
 * [Unblock KISD](https://sites.google.com/view/unblockkisd/), [Tyrone's Unblocked](https://sites.google.com/site/tyronesgamesez/) or [UBG365](https://ubg365.github.io/) - Browser Games / Unblocked at Schools
 * [CoolMathGames](https://www.coolmathgames.com/) - Browser Game Site (disguised as edu games)
 * [FlashMuseum](https://flashmuseum.org/), [Flash Arch](https://flasharch.com/en) or [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Flash Games
-* [Arcade Prehacks](https://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
+* [Arcade Prehacks](https://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Mods
 * [Js13kGames](https://js13kgames.com/entries), [HTML5 Games](https://html5games.com/) or [TheBestarcade](https://html5.thebestarcadescript.com/) - HTML5 Games
 * [iogames.space](https://iogames.space/), [itch.io](https://graebor.itch.io/), [Kindanice](https://kindanice.itch.io/), [Jezzamon](https://jezzamon.itch.io/), [Modd.io](https://www.modd.io/) or [Kevin Games](https://kevin.games/) - .io Games
 
