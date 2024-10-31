@@ -73,7 +73,6 @@
 * ⭐ **[HackNation](https://hacksnation.com/)** - Courses
 * ⭐ **[TutsNode](https://tutsnode.net/)** - Courses
 * ⭐ **[tut4dl](https://tut4it.com/)** - Courses
-* ⭐ **[InfiCourses](https://www.inficourses.com/)** - Courses
 * [Revival](https://rentry.co/FMHYBase64#revival) - Courses
 * [FreeEducationWeb](https://freeeducationweb.com/) - Courses
 * [FreeCourseDL](https://freecoursedl.com/) - Courses
@@ -81,6 +80,7 @@
 * [FreeCourseSite](https://freecoursesite.com/), [2](https://freecoursesites.com/) - Courses
 * [technet24](https://technet24.ir/category/videos) - Courses
 * [AfraTafreeh](https://afratafreeh.com/) - Courses
+* [InfiCourses](https://www.inficourses.com/) - Courses
 * [learningDL](https://learningdl.net/) - Courses / Leech required
 * [LinkedIn_Learning](https://t.me/linkedin_learning) - LinkedIn Courses
 * [CertCommunity](https://www.certcommunity.org/forum/) - IT Cert Courses
@@ -1202,7 +1202,7 @@
 * [General Index](https://archive.org/details/GeneralIndex) - Article Metadata Mining Project
 * [Papertag](https://www.papertag.app/) - Attach Digital Content to Paper
 * [Graded](https://nightdreamgames.com/graded) - Grades Tracker / Android / [GitHub](https://github.com/NightDreamGames/Graded)
-* [CalculateCGPA](https://www.calculatecgpa.com/) - Calculate GPA
+* [CalculateCGPA](https://cgpacalcs.com/) - Calculate GPA
 * [guIHelp](https://discord.gg/rgF9jY8CpH) - Bartleby, Quizlet, Coursehero & Scribd Discord Bot
 * [LearnedEasy](https://learnedeasy.com/) - Create Summaries / Quizzes from Books
 * [SearchifyX](https://github.com/daijro/SearchifyX) - Search Flashcards
