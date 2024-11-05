@@ -664,7 +664,6 @@ https://github.com/Akylas/alpimaps
 * [Docker Android](https://github.com/budtmo/docker-android) - Android on Docker
 * [Genymotion](https://www.genymotion.com/download/) - Cloud Emulator
 * [Nox](https://www.bignox.com/) - Android Emulator / [Debloat](https://gist.github.com/TameemS/72c4b92131977aced56e727d51599a48) 
-* [MSI App Player](https://www.msi.com/Landing/appplayer) - Android Emulator / Debloated BlueStacks
 * [BlueStacks](https://www.bluestacks.com/) - Android Emulator
 * [GameLoop](https://www.gameloop.com/) - Android Emulator
 * [MuMu](https://www.mumuplayer.com/) - Android Emulator
