@@ -176,7 +176,6 @@
 
 ### Customizable New Tab Page
 
-* ⭐ **[Tab with A view](https://www.withaview.co/ext/)** - Virtual Sights New Tab Page
 * ⭐ **[MineWeather](https://github.com/sawyerpollard/MineWeather)** - Weather-Based Minecraft New Tab Page
 * ⭐ **[Anori](https://anori.app/)** - Customizable New Tab
 * [TabWave](https://www.tabwave.app/) - Minimal / Productivity New Tab
@@ -402,6 +401,9 @@
 * ⭐ **[Firebase](https://firebase.google.com/products/hosting)**
 * ⭐ **[Cloudflare Workers](https://workers.cloudflare.com/)**
 * ⭐ **[Sourcehut Pages](https://srht.site/)**
+* ⭐ **[Neocities](https://neocities.org/)**
+* ⭐ **[nekoweb](https://nekoweb.org/)**
+* ⭐ **[Eleventy](https://11ty.dev/)**
 * [Web 1.0 Hosting](https://web1.0hosting.net/)
 * [Codeberg Pages](https://codeberg.page/)
 * [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html)
@@ -409,6 +411,23 @@
 * [W3Schools Spaces](https://www.w3schools.com/spaces/)
 * [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/)
 * [render](https://render.com/)
+* [Straw.Page](https://straw.page/)
+* [Own Free Website](https://www.own-free-website.com)
+* [itty.bitty](https://itty.bitty.site/)
+* [mmm](https://build.mmm.page/)
+* [cargo](https://cargo.site/)
+* [Jigsy](https://jigsy.com/)
+* [Temper](https://temper.one/)
+* [Mobirise](https://mobirise.com/)
+* [Silex](https://www.silex.me/)
+* [Publii](https://getpublii.com/)
+* [Kinsta](https://kinsta.com/static-site-hosting/)
+* [Pelican](https://getpelican.com/)
+* [Lexi's Hosting](https://hosting.lexiqqq.com/)
+* [Reocities](https://www.reocities.xyz/)
+* [yay.boo](https://yay.boo/)
+* [Web 1.0 Hosting](http://web1.0hosting.net/) 
+
 
 ### Dynamic Page Hosting
 
@@ -578,6 +597,7 @@
 * [Quick LaTeX](https://quicklatex.com/) - Generate LaTeX Images
 * [Tips for Writing a Research Paper using LaTeX](https://github.com/guanyingc/latex_paper_writing_tips)
 * [MathB.in](https://mathb.in/) - Share Mathematics with LaTeX and Markdown
+* [SimpleTex](https://simpletex.net/) - Formula Recognition to MathML and LaTeX / [Online](https://simpletex.net/ai/latex_ocr)
 * [Math Scan](https://github.com/ekrem-qb/math_scan), [RapidLatexOCR](https://github.com/RapidAI/RapidLatexOCR) or [LaTeX-OCR](https://lukas-blecher.github.io/LaTeX-OCR/) - Extract Mathematical Expressions
 
 ***
@@ -1192,14 +1212,6 @@
 * ⭐ **[vitepress](https://vitepress.dev/)**
 
 [retype](https://retype.com/), [Feather Wiki](https://feather.wiki/), [SouPalt](https://soupault.app/), [Barly](https://github.com/charludo/barely), [Zola](https://www.getzola.org/), [Jamstack Generators](https://jamstack.org/generators/), [Jekyll](https://jekyllrb.com/), [Tails](https://devdojo.com/tails), [vveb](https://www.vvveb.com/), [Potion](https://potion.so/), [8b](https://8b.com/), [WebFlow](https://webflow.com/), [Universe](https://onuniverse.com/), [Website.com](https://www.website.com/), [GrapeDrop](https://grapedrop.com/), [Specctr](https://specctr.com/cloud/home), [Astro](https://astro.build/), [TypeDream](https://typedream.com/), [Processwire](https://processwire.com/), [Google Sites](https://sites.google.com/new), [AngelFire](https://www.angelfire.lycos.com/), [Odoo](https://www.odoo.com/app/website), [Docusaurus](https://github.com/facebook/docusaurus), [Docsify](https://docsify.js.org/)
-
-### Simple Site Creators
-
-* ⭐ **[Neocities](https://neocities.org/)**
-* ⭐ **[nekoweb](https://nekoweb.org/)**
-* ⭐ **[Eleventy](https://11ty.dev/)**
-
-[Straw.Page](https://straw.page/), [Own Free Website](https://www.own-free-website.com), [itty.bitty](https://itty.bitty.site/), [mmm](https://build.mmm.page/), [cargo](https://cargo.site/), [Jigsy](https://jigsy.com/), [Temper](https://temper.one/), [Mobirise](https://mobirise.com/), [Silex](https://www.silex.me/), [Publii](https://getpublii.com/), [Kinsta](https://kinsta.com/static-site-hosting/), [Pelican](https://getpelican.com/), [Lexi's Hosting](https://hosting.lexiqqq.com/), [Reocities](https://www.reocities.xyz/), [yay.boo](https://yay.boo/), [Web 1.0 Hosting](http://web1.0hosting.net/) 
 
 ***
 
