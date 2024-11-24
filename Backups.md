@@ -10,7 +10,7 @@
 
 **Backups**
 
-**[Reddit Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)** / [Wayback](https://web.archive.org/web/2/https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
+**[Reddit Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)** / [Wayback](https://web.archive.org/web/2/https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/), [2](https://archive.is/zI0NT)
 
 [Rentry Backup](https://rentry.co/FMHY)
 
