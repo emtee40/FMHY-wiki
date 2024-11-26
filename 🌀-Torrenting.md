@@ -128,6 +128,7 @@
 * [qBitMF](https://github.com/qBitMF/qBitMF) - Multi-Connection Tool
 * [VueTorrent](https://github.com/WDaan/VueTorrent) - Web Client
 * [rqBit](https://github.com/ikatson/rqbit/) - Rust Client
+* [qBit Manage](https://github.com/StuffAnThings/qbit_manage) - Manager / Automation Tool
 * [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
 * [Docker QBT](https://github.com/linuxserver/docker-qbittorrent) or [QBT VPN](https://github.com/binhex/arch-qbittorrentvpn) - Docker Builds
 * [QBT Mega](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent_MEGA.ipynb) - Mega Upload Script
