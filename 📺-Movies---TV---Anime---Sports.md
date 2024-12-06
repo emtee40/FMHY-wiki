@@ -13,7 +13,6 @@
 * ⭐ **[Broflix](https://broflix.cc/)** - Movies / TV / Anime
 * ⭐ **[HydraHD](https://hydrahd.cc/)** - Movies / TV / Anime / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
 * ⭐ **[456movie](https://456movie.com/)**, [2](https://www.345movies.com/), [3](https://111movies.com/) - Movies / TV
-* ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * ⭐ **[PopcornMovies](https://popcornmovies.to/)** - Movies / TV / Anime
 * ⭐ **[movie-web Instances](https://erynith.github.io/movie-web-instances/)** - Movies / TV / Anime / Auto-Next / [Docs](https://docs.undi.rest/)
 * ⭐ **[StreamFlix](https://watch.streamflix.one/)**, [2](https://streamflix.space/) - Movies / TV / Anime / [Discord](https://discord.gg/C8fyfz5pYz)
@@ -21,6 +20,7 @@
 * ⭐ **[Autoembed](https://watch.autoembed.cc/)** - Movies / TV / Anime / Drama / [API Docs](https://autoembed.cc/#api/) / [Discord](https://discord.gg/BWDSXV9aX4)
 * ⭐ **[Novafork](https://novafork.com/)** - Movies / TV / [Discord](https://discord.gg/XbDBBmh5FY) / [GitHub](https://github.com/fanlimgames/novafork)
 * ⭐ **[Nunflix](https://nunflix.org/)**, [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - Movies / TV / Anime / Auto-Next / [Docs](https://nunflix-info.vercel.app/), [2](https://nunflix-doc.pages.dev/) / [Discord](https://discord.gg/CXVyfhgn26)
+* [RgShows](https://www.rgshows.me/) - Movies / TV / Anime / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 * [Heartive](https://heartive.pages.dev/) - Movies / TV / Anime
 * [watch.lonelil](https://watch.lonelil.ru/) - Movies / TV / Anime / [Add Sources](https://watch.lonelil.ru/onboarding/extension) / [Discord](https://discord.com/invite/BKts6Jb5sA) / [Telegram](https://t.me/watchlonelil)
 * [Zilla-XR](https://zilla-xr.xyz/) - Movies / TV / Anime
