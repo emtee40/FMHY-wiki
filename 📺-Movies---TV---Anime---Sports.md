@@ -79,8 +79,6 @@
 * [6Movies](https://6movies.stream/) - Movies / TV / Anime
 * [Mapple.tv](https://mapple.tv/) - Movies / TV / Anime
 * [MyFlizerz](https://myflixerz.vip/) - Movies / TV / Anime
-* [r123movie](https://r123movie.com/) - Movies / TV / Anime
-* [Daitign](https://daiflix.daitign.com/) - Movies / TV / Anime / Signup Required
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e) - Multi-Site Search
 
 ***
