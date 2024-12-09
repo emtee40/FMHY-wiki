@@ -18,6 +18,12 @@
 
 ***
 
+**[Libreddit Instances](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)** 
+
+Add `/r/FREEMEDIAHECKYEAH/wiki/index` to the end of any instances url
+
+***
+
 **Safe for Work**
 
 [FMHY.xyz](https://fmhy.xyz/)
