@@ -406,9 +406,9 @@
 * ⭐ **[Strims](https://strims.in/)** - Sports
 * ⭐ **[OlympicStreams](https://olympicstreams.co/)** - Sports
 * ⭐ **[Mazespin](https://mazespin.live/)** - Motorsports / Football / Cycling / [Discord](https://discord.com/invite/mazespin)
+* [CricHD](https://crichd.li/), [TotalSportek](https://totalsportek.me/) or [StreamEast](https://streameast.bz/) - Sports
 * [MutStreams](https://mutstreams.com) - Sports
 * [HydraHD Sports](https://hydrahd.me/livesports) - Sports
-* [CricHD](https://crichd.li/), [TotalSportek](https://totalsportek.me/) or [StreamEast](https://streameast.bz/) - Sports
 * [Streameast](https://www.streameast.co/v8/) - Sports
 * [AllReplays](https://allreplays.com/) - Sports
 * [RiveStream](https://rivestream.live/livesports) - Sports
