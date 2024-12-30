@@ -998,13 +998,6 @@ https://github.com/Akylas/alpimaps
 * [Noteful](https://apps.apple.com/app/id1587904334) or [Highlights](https://highlightsapp.net/) - PDF Note-Taking
 * [Git Journal](https://gitjournal.io/) - Mobile Markdown Notes
 * [iSH Shell](https://ish.app/) or [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - Terminal Emulators
-* [Sigma](https://apps.apple.com/app/id1594702352) - Combine Social Media Apps
-* [Enmity](https://github.com/enmity-mod/enmity) / [Discord](https://discord.gg/rMdzhWUaGT) or [BunnyTweak](https://github.com/bunny-mod/BunnyTweak) - Discord Clients
-* [Apollo](https://apps.apple.com/app/id979274575) / Use [Artemis](https://chariz.com/get/artemis) / [Tweak](https://redd.it/14osa6i), [OpenArtemis](https://apps.apple.com/app/id6473462587) or [⁠Winston](https://winston.cafe/) - Reddit Clients
-* [BHTwitter](https://github.com/BandarHL/BHTwitter), [2](https://github.com/ghl3m0n/FuckElon) or [TikTok++](https://github.com/raulsaeed/TikTokPlusPlus) - Tweaked Twitter Clients
-* [⁠SCInsta](https://github.com/SoCuul/SCInsta) - Tweaked Instagram Client
-* [Frosty](https://www.frostyapp.io/) - Twitch Frontend / [GitHub](https://github.com/tommyxchow/frosty)
-* [⁠Chatsen](https://chatsen.app/) - Cross-Platform Twitch Chat / [GitHub](https://github.com/chatsen/chatsen) / [Discord](https://discord.com/invite/5G8hpgHkXB)
 * [Local Time Generator](https://www.icloud.com/shortcuts/6bd103c2be0148c1b9c30abb7a72bc94) - Generate Discord Timestamps / Shortcut
 * [UTM](https://getutm.app/) - Virtual Machines
 * [Lock Launcher](https://www.locklauncher.com/) - Lock Screen App Launcher
@@ -1107,6 +1100,23 @@ https://github.com/Akylas/alpimaps
 
 ***
 
+# ► iOS Sideloading
+
+* 🌐 **[ReJail](https://rejail.ru/)** - Cracked Tweaks Repository
+* ⭐ **[Sideloading Guide](https://ios.cfw.guide/sideloading-apps/)** or [PuReEnVyUs](https://sideloading.vercel.app/) - Sideloading Guides
+* ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** or [TrollApps](https://github.com/TheResonanceTeam/TrollApps/) / [Discord](https://discord.gg/PrF6XqpGgX) - Non-Appstore Apps / No-Jailbreak / 14.0-17.0 / [Decrypt](https://github.com/donato-fiore/TrollDecrypt)
+* ⭐ **[SideStore](https://sidestore.io/)** - Non-Jailbreak Sideloading App (iOS 14.0 & Above) / [App Limit Bypass](https://rentry.co/FMHYBase64#sparsebox) / [Guide](https://redd.it/1g0n1z4)
+* ⭐ **[Sideloadly](https://sideloadly.io/)** - Non-Jailbreak Sideloading (iOS 7.0 & Above)
+* ⭐ **[Feather](https://github.com/khcrysalis/Feather)** - Sideloading App (iOS 15.0 & Above) / Requires Apple Dev Certificate
+* [AltStore Classic](https://altstore.io/) - Non-Jailbreak Sideloading App (iOS 14.0 & Above) / [Repo Viewer](https://therealfoxster.github.io/altsource-viewer/), [2](https://altsource.by.lao.sb/browse/) / [AltServer](https://github.com/NyaMisty/AltServer-Linux) / [Guide](https://faq.altstore.io/altstore-classic/how-to-install-altstore-windows)
+* [IPA iBot](https://t.me/ipa_ibot) - Apple Dev Certificate Manager Bot
+* [SignTools](https://github.com/SignTools/SignTools) - Self-Hosted App Signer
+* [LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run Apps Without Installing
+* [TestFlight](https://testflight.apple.com/) - Test Beta Apps
+* [/r/sideloaded](https://reddit.com/r/sideloaded) - Sideloading Subreddit
+
+***
+
 ## ▷ iOS Adblocking
 
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
@@ -1139,23 +1149,6 @@ https://github.com/Akylas/alpimaps
 
 ***
 
-# ► iOS Sideloading
-
-* 🌐 **[ReJail](https://rejail.ru/)** - Cracked Tweaks Repository
-* ⭐ **[Sideloading Guide](https://ios.cfw.guide/sideloading-apps/)** or [PuReEnVyUs](https://sideloading.vercel.app/) - Sideloading Guides
-* ⭐ **[TrollStore](https://github.com/opa334/TrollStore)** or [TrollApps](https://github.com/TheResonanceTeam/TrollApps/) / [Discord](https://discord.gg/PrF6XqpGgX) - Non-Appstore Apps / No-Jailbreak / 14.0-17.0 / [Decrypt](https://github.com/donato-fiore/TrollDecrypt)
-* ⭐ **[SideStore](https://sidestore.io/)** - Non-Jailbreak Sideloading App (iOS 14.0 & Above) / [App Limit Bypass](https://rentry.co/FMHYBase64#sparsebox) / [Guide](https://redd.it/1g0n1z4)
-* ⭐ **[Sideloadly](https://sideloadly.io/)** - Non-Jailbreak Sideloading (iOS 7.0 & Above)
-* ⭐ **[Feather](https://github.com/khcrysalis/Feather)** - Sideloading App (iOS 15.0 & Above) / Requires Apple Dev Certificate
-* [AltStore Classic](https://altstore.io/) - Non-Jailbreak Sideloading App (iOS 14.0 & Above) / [Repo Viewer](https://therealfoxster.github.io/altsource-viewer/), [2](https://altsource.by.lao.sb/browse/) / [AltServer](https://github.com/NyaMisty/AltServer-Linux) / [Guide](https://faq.altstore.io/altstore-classic/how-to-install-altstore-windows)
-* [IPA iBot](https://t.me/ipa_ibot) - Apple Dev Certificate Manager Bot
-* [SignTools](https://github.com/SignTools/SignTools) - Self-Hosted App Signer
-* [LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run Apps Without Installing
-* [TestFlight](https://testflight.apple.com/) - Test Beta Apps
-* [/r/sideloaded](https://reddit.com/r/sideloaded) - Sideloading Subreddit
-
-***
-
 # ► iOS Apps
 
 * 🌐 **[CyPwn](https://ipa.cypwn.xyz/)** - Tweaked App Library / [AltStore](https://ipa.cypwn.xyz/cypwn.json) / [Discord](https://discord.gg/cypwn)
@@ -1184,6 +1177,28 @@ https://github.com/Akylas/alpimaps
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive / [Search Engine](https://iphoneosobscura.litten.ca/)
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
 * [DecryptedAppStore](https://armconverter.com/decryptedappstore), [Eevee IPA Decrypter](https://t.me/eeveedecrypterbot) or [decrypt.day](https://decrypt.day/) - Decrypt iOS Apps
+
+***
+
+## ▷ Social Media Apps
+
+* ⭐ **[Enmity](https://github.com/enmity-mod/enmity)** / [Discord](https://discord.gg/rMdzhWUaGT) or [BunnyTweak](https://github.com/bunny-mod/BunnyTweak) - Discord Clients
+* ⭐ **[Winston](https://winston.cafe/)** or [OpenArtemis](https://apps.apple.com/app/id6473462587) - Reddit Clients
+* ⭐ **[Voyager](https://apps.apple.com/app/id6451429762) / [GitHub](https://github.com/aeharding/voyager)**, [Mlem](https://apps.apple.com/app/id6450543782) / [GitHub](https://github.com/mlemgroup/mlem) or [Thunder](https://apps.apple.com/app/id6450518497) / [GitHub](https://github.com/thunder-app/thunder) - Lemmy Clients
+* ⭐ **[tooot](https://tooot.app/)** or [Mastodon](https://apps.apple.com/app/id1571998974) - Mastodon Clients / [Improved Notifications](https://lucasggamerm.github.io/moshidon/) / [GitHub](https://github.com/LucasGGamerM/moshidon)
+* ⭐ **[BHTwitter](https://github.com/BandarHL/BHTwitter)** or [Twitter Branding](https://github.com/ghl3m0n/FuckElon) - Twitter Apps
+* [Openvibe](https://openvibe.social/) or [Sigma](https://apps.apple.com/app/id1594702352) - Combine Social Media Apps
+* [SNMessenger](https://github.com/NguyenASang/SNMessenger) - Facebook Messenger Tweak
+* [Frosty](https://www.frostyapp.io/) / [GitHub](https://github.com/tommyxchow/frosty) or [TwitchAdBlock](https://github.com/level3tjg/TwitchAdBlock) - Twitch Clients
+* [⁠Chatsen](https://chatsen.app/) - Cross-Platform Twitch Chat / [GitHub](https://github.com/chatsen/chatsen) / [Discord](https://discord.com/invite/5G8hpgHkXB)
+* [Graysky](https://graysky.app/) - Bluesky Client 
+* [Updoot](https://updoot.app/) - Reddit Saved Post / Comment Manager
+* [Chan](https://github.com/moffatman/chan) - 4Chan App
+* [SCInsta](https://github.com/SoCuul/SCInsta) or [Nyx](https://t.me/sezoapp) - Instagram Tweaks
+* [BHTikTok++](https://github.com/raulsaeed/TikTokPlusPlus) - TikTok Tweaks / [Telegram](https://t.me/BHTikTokPlusPlus)
+* [WhatsAppPatcher](https://github.com/Schwartzblat/WhatsAppPatcher) or [WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp Patchers
+* [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
+* [FakeWhats](https://www.fakewhats.com/) or [FakeInfo](https://fakeinfo.net/fake-whatsapp-chat-generator) - Fake WhatsApp Messages
 
 ***
 
