@@ -1100,7 +1100,7 @@ https://github.com/Akylas/alpimaps
 
 ***
 
-# ► iOS Sideloading
+## ▷ iOS Sideloading
 
 * 🌐 **[ReJail](https://rejail.ru/)** - Cracked Tweaks Repository
 * ⭐ **[Sideloading Guide](https://ios.cfw.guide/sideloading-apps/)** or [PuReEnVyUs](https://sideloading.vercel.app/) - Sideloading Guides
