@@ -275,17 +275,11 @@ You can use code: `FREEDOM100` on their site to get the full version free
 
 ***
 
-#### Death Date Calcs
+#### Edith Login
 
-* https://deathdate.info/
-* https://www.deathdate.org/
-* https://www.free-fortuneteller.com/deathdate
-* http://deathclock.com/
-* https://www.death-clock.org/
+`user: edith` 
+`pw: jarvis`
 
-***
-
-####
 ***
 
 ####
