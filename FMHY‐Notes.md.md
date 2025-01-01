@@ -318,7 +318,9 @@ Create a account on Broadcom support portal to download the exe. After that the 
 
 ***
 
-####
+#### Driver Note
+
+Don't install all at once, only get the drivers you actually need, getting them all can break your audio
 
 ***
 
