@@ -60,7 +60,9 @@ LuckyPatcher's download link luckypatchers.com/download contains malware. It red
 
 ***
 
-####
+#### NekoBoxForAndroid Warning
+
+If downloaded on phone with google play updates must be disabled
 
 ***
 
