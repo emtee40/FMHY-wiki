@@ -365,7 +365,11 @@ LightDLMovies is known for having popups / redirects, make sure you have an adbl
 
 ***
 
-####
+#### YTS / Yify Note
+
+YTS / Yify has many fake ripoff sites out there, make 100% sure you're on one of the official domains before downloading.
+ 
+Official domains: `https://www.yifystatus.com`
 
 ***
 
