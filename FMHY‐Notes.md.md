@@ -98,7 +98,9 @@ You can also do `https://www.google.com/s2/favicons?domain=URL&sz=64` where URL 
 
 ***
 
-####
+#### Sanet Warning
+
+Note that Sanet has been known to host things like KMS Matrix, so its best to avoid it for software and games
 
 ***
 
