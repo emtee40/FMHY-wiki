@@ -136,7 +136,9 @@ According to their FAQ question "When will my files expire?", you must login to 
 
 ***
 
-####
+#### Megabasterd Note
+
+Free proxies work but they are very hit and miss
 
 ***
 
