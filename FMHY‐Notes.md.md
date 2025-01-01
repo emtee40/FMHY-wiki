@@ -302,7 +302,9 @@ YouTube is supposed to do this automatically, but there are lots of cases where 
  
 ***
 
-####
+#### MVSEP Note
+
+Register for wav and flac output, and lower queue times
 
 ***
 
