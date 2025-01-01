@@ -295,8 +295,11 @@ YouTube is supposed to do this automatically, but there are lots of cases where 
 
 ***
 
-####
+#### Tabiverse Extensions
 
+* https://addons.mozilla.org/firefox/addon/tabiverse/
+* https://chromewebstore.google.com/detail/hpplgjkooibhfkmmepoikcjpadcojcik
+ 
 ***
 
 ####
