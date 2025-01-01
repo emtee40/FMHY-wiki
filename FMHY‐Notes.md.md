@@ -74,7 +74,9 @@ Eruda Console for mobile browsers bookmarklet:
 
 ***
 
-####
+#### SnapTube Note
+
+We recommend using the mod as there are many fake versions on search engines
 
 ***
 
