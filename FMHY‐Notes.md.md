@@ -347,7 +347,9 @@ Supported devices (Latest experimental) => `https://openrgb.org/devices.html`
 
 ***
 
-####
+#### Vidplay Note
+
+Note this site has a similar design to hydra but different sources
 
 ***
 
