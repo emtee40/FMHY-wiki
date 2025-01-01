@@ -324,7 +324,10 @@ Don't install all at once, only get the drivers you actually need, getting them 
 
 ***
 
-####
+#### Dolby Access / Atmos Note
+
+Many headsets come with Dolby Access for free without really letting users know. You can check if you're licensed by opening Dolby Access, going to settings, and looking in the bottom right corner. Its much better than things like iCue or similar apps.
+
 ***
 
 ####
