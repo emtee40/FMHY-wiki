@@ -124,7 +124,9 @@ Its been claimed its malware, but its only based on an incident from 4 years ago
 
 ***
 
-####
+#### Filebin Warning
+
+ Anyone with a link to a "bin" has full access to it. They can add new files, delete existing files, etc
 
 ***
 
