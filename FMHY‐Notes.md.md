@@ -256,7 +256,9 @@ Useful if you're a coffee enthusiast. The methods are created by James Hoffmann,
 
 ***
 
-####
+#### Freedom Model Note
+
+You can use code: `FREEDOM100` on their site to get the full version free
 
 ***
 
