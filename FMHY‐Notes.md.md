@@ -196,7 +196,9 @@ Game-2u works for PS4, but we'd avoid their other sections as there are better s
 
 ***
 
-####
+#### Eaglercraft Note
+
+Play on Chromium-based browsers for the best performance
 
 ***
 
