@@ -214,15 +214,25 @@ Its not recommended to use these unless you know what you're doing. Always resea
 
 ***
 
-####
+#### Zoom Page Addons
+
+* https://addons.mozilla.org/en-US/firefox/addon/zoom-page-we/
+* https://chrome.google.com/webstore/detail/zoom-page-we/bcdjhkphgmiapajkphennjfgoehpodpk
 
 ***
 
-####
+#### ScrollAnywhere Addons
+
+* https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/
+* https://chrome.google.com/webstore/detail/scrollanywhere/jehmdpemhgfgjblpkilmeoafmkhbckhi
+* https://addons.opera.com/en/extensions/details/scrollanywhere/?display=en
 
 ***
 
-####
+#### Clipboard2File Addons
+
+* https://github.com/vord1080/clipboard2file/
+* https://github.com/daijro/Clipboard2File-Chrome
 
 ***
 
