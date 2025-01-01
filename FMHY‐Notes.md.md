@@ -359,7 +359,9 @@ Version of Rive w/ alt servers
 
 ***
 
-####
+#### LightDLMovies Note
+
+LightDLMovies is known for having popups / redirects, make sure you have an adblocker enabled when using the site
 
 ***
 
