@@ -262,7 +262,10 @@ You can use code: `FREEDOM100` on their site to get the full version free
 
 ***
 
-####
+#### Forest Extensions
+
+* https://addons.mozilla.org/en-US/firefox/addon/forest-stay-focused-be-present/
+* https://chrome.google.com/webstore/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk
 
 ***
 
