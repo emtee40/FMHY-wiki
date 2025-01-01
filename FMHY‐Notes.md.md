@@ -130,7 +130,9 @@ Its been claimed its malware, but its only based on an incident from 4 years ago
 
 ***
 
-####
+#### Filelu Warning
+
+According to their FAQ question "When will my files expire?", you must login to your account at least once a month to prevent account deletion due to inactivity
 
 ***
 
