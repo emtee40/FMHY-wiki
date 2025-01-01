@@ -190,7 +190,9 @@ The hash does not match the gog-games database because the digital file signatur
 
 ***
 
-####
+#### Game-2u PS4 Note
+
+Game-2u works for PS4, but we'd avoid their other sections as there are better sites 
 
 ***
 
