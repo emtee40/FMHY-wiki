@@ -86,7 +86,9 @@ The site itself is safe, but in the past they've used leaked public certificates
 
 ***
 
-####
+#### Reaper Note
+
+Asks user to buy after 60 days, but you can just close the popup and keep using for free
 
 ***
 
