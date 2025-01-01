@@ -308,7 +308,13 @@ Register for wav and flac output, and lower queue times
 
 ***
 
-####
+#### VMware Workstation Note
+
+`https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html`
+ 
+Create a account on Broadcom support portal to download the exe. After that the program itself requires no license if you click "For Personal Use."
+ 
+`https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro`
 
 ***
 
