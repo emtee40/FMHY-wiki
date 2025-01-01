@@ -48,10 +48,9 @@ The site is safe, but they are known for mislabeling things like RockMods releas
 
 #### APKMirror Extensions
 
-* Chrome: https://chrome.google.com/webstore/detail/toolbox-for-google-play-s/fepaalfjfchbdianlgginbmpeeacahoo
-* Opera: https://addons.opera.com/en/extensions/details/toolbox-for-google-play-storetm/
-* Edge: https://addons.opera.com/en/extensions/details/toolbox-for-google-play-storetm/
-* Firefox: https://addons.mozilla.org/en-US/firefox/addon/toolbox-google-play-store/ 
+* https://addons.mozilla.org/en-US/firefox/addon/toolbox-google-play-store/ 
+* https://chrome.google.com/webstore/detail/toolbox-for-google-play-s/fepaalfjfchbdianlgginbmpeeacahoo
+* https://addons.opera.com/en/extensions/details/toolbox-for-google-play-storetm/
 
 ***
 
