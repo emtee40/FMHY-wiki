@@ -269,7 +269,9 @@ You can use code: `FREEDOM100` on their site to get the full version free
 
 ***
 
-####
+#### Breeze Wiki Mirrors
+
+`https://docs.breezewiki.com/Links.html#(part._.Mirrors)`
 
 ***
 
