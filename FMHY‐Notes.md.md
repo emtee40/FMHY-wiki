@@ -136,6 +136,18 @@ According to their FAQ question "When will my files expire?", you must login to 
 
 ***
 
+#### Enhancer for YT Note
+
+Chromium (Chrome and Edge store) uses the latest version of the extension which is V3
+
+Firefox uses an old version of the extension which is V2
+
+If you decide to use on Firefox, you will have to refresh the page each time just for the extension to load on the YouTube page.
+
+This is why we recommend to use on Chromium browsers only.
+
+***
+
 #### Megabasterd Note
 
 Free proxies work but they are very hit and miss
