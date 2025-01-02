@@ -14,6 +14,12 @@ There will still be IP quota limits, but it's fairly lenient (imo) and if you do
 
 ***
 
+#### Buzzheavier Warning
+
+Make sure you have a adblocker when using Buzzheavier as there are hidden ads on download pages with malicious content. Both the download button and torrent buttons should automatically start a download in your browser, NOT redirect you to another page.
+
+***
+
 #### Mobilism Ranks
 
 The users in red. Administrators are members assigned with the highest level of control over the entire board. Usually they’re Section Heads. Most Administrators are Section Heads but not all Section Heads are administrators.
