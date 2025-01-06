@@ -13,7 +13,6 @@
 1. - How well does the search engine work?
 1. - Does it have movies, shows, anime?
 1. - Does the site have watchlists, continue watching or history?
-1. - Do they have anything else unique, KDrama, live tv, etc?
 1. - Does the site have tools for discovery like recommendations, collections or AI?
 
 ✔️= 2 points
@@ -22,7 +21,7 @@
 
 ***
 ## Cineby 
-### Score: 24/26
+### Score: 22/24
 1. Streams load very fast. ✔️
 1. The content is 1080p+ and allows switching to lower quality. ✔️
 1. Finds popular things with no issue, including older content. ✔️
@@ -34,12 +33,11 @@
 1. Search engine works well, it shows results as you type. ✔️
 1. It has movies, shows and anime. ✔️
 1. The site has watchlists + history. ✔️
-1. They have multiple languages + live tv. ✔️
 1. Site is lacking in terms of media discovery tools. ❌ 
 
 ***
 ## Freek
-### Score: 21/26
+### Score: 21/24
 1. Streams load very fast. ✔️
 1. Content is 1080p and can be changed lower. ✔️
 1. Find streams quickly, including older content. ✔️
@@ -51,5 +49,21 @@
 1. Search engine seems to work fine, no complaints. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site has watchlists + history. ✔️
-1. Doesn't host anything like live tv or kdrama yet but may in the future. ❌
 1. Site is lacking in terms of media discovery options. ❌
+
+***
+## 456movie
+### Score: 19/26
+
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. It finds streams very fast, including very old obscure content. ✔️
+1. 15 sources, but they dont auto-switch if one fails. ⚠️
+1. Site does not have auto-next / autoplay options. ❌
+1. Site just uses whatever player the particular source has, but they all work fine. ⚠️
+1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
+1. Most of their sources allow subtitles. ✔️
+1. Search engine works, but it doesn't show covers when searching. ⚠️
+1. Has movies, shows, anime? ✔️
+1. Site has continue watching. ✔️
+1. Has AI recommendation tool. ✔️
