@@ -1,5 +1,3 @@
-# Stream Site Grading
-
 **What we look for**:
 
 1. - How fast do streams load?
