@@ -17,6 +17,21 @@
 ❌= 0 points
 
 ***
+## Rive
+### Score: 21/22
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. Finds both new and old content consistently. ✔️
+1. 23 english hosts + 6 non english, but it does not auto-switch if one fails. ⚠️
+1. Auto-next works as expected. ✔️
+1. Very unique UI, lots of look at and click, one of the best. ✔️
+1. Site allows you to add, search and adjust subtitles. ✔️
+1. Search works well, shows results as you type. ✔️
+1. It has movies, show and anime. ✔️
+1. It has watchlists and continue watching. ✔️
+1. It has a recommendations, collections, and an AI. ✔️
+
+***
 ## Cineby 
 ### Score: 20/22
 1. Streams load very fast. ✔️
