@@ -15,6 +15,20 @@
 ❌= 0 points
 
 ***
+## movie-web Instances
+### Score: 20/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. They have 9 sources, and it does auto-switch if one fails. ✔️
+1. Site does have auto-next. ✔️
+1. Very nice UI, search works well, lots of user settings. ✔️
+1. You can add, search or adjust subtitles on the site. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has continue watching options. ✔️
+1. Site has good sorting + random suggestions and editor picks. ✔️
+
+***
 ## Cineby 
 ### Score: 19/20
 1. Streams load very fast. ✔️
@@ -143,7 +157,6 @@
 ***
 ## catflix
 ### Score: 14/20
-
 1. Streams load very fast. ✔️
 1. Content is 1080p, but it can't be lowered. ⚠️
 1. Finds streams consistently for both new and old content. ✔️
@@ -156,7 +169,6 @@
 1. Site is lacking in terms of media discovery options. ❌
 
 ***
-
 ## StreamFlix
 ### Score: 13/20
 1. Streams load very fast. ✔️
@@ -169,5 +181,3 @@
 1. It has movies, shows and anime. ✔️
 1. Site has history + watchlists. ✔️
 1. Has decent content sorting, but more discoverability options could be added. ⚠️
-
-
