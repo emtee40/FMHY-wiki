@@ -15,6 +15,20 @@
 ❌= 0 points
 
 ***
+## Cineby 
+### Score: 19/20
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. 8 english + 8 non english sources that auto-switch if one fails. ✔️
+1. Auto-next works as expected. ✔️
+1. UI is solid, feels clean and modern. ✔️
+1. You can add your own subtitles, search for subtitles, and adjust them. ✔️
+1. It has movies, shows and anime. ✔️
+1. The site has watchlists + history. ✔️
+1. Has decent sorting options, but recommendations tools or collections could be added. ⚠️
+
+***
 ## Rive
 ### Score: 19/20
 1. Streams load very fast. ✔️
@@ -27,20 +41,6 @@
 1. It has movies, show and anime. ✔️
 1. It has watchlists and continue watching. ✔️
 1. It has a recommendations, collections, and an AI. ✔️
-
-***
-## Cineby 
-### Score: 18/20
-1. Streams load very fast. ✔️
-1. The content is 1080p+ and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. 8 english + 8 non english sources that auto-switch if one fails. ✔️
-1. Auto-next works as expected. ✔️
-1. UI is solid, feels clean and modern. ✔️
-1. You can add your own subtitles, search for subtitles, and adjust them. ✔️
-1. It has movies, shows and anime. ✔️
-1. The site has watchlists + history. ✔️
-1. Site is lacking in terms of media discovery tools. ❌ 
 
 ***
 ## Broflix
