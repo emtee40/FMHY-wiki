@@ -71,6 +71,20 @@
 1. Has AI recommendation tool. ✔️
 
 ***
+## Freek
+### Score: 16/20
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be changed lower. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. They have 3 sources but they don't auto-switch if one fails. ⚠️
+1. Site has no auto-next. ❌
+1. Its solid, has good user settings, feels modern. ✔️
+1. Allows adding + searching your own subtitles. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watchlists + history. ✔️
+1. Has decent sorting options, but not much in terms of discovery tools. ⚠️
+
+***
 ## PopcornMovies
 ### Score: 16/20
 1. Streams load, but it take a second. ⚠️
@@ -99,18 +113,18 @@
 1. Its alright, it has lot of options for filtering. ⚠️
 
 ***
-## Freek
+## RgShows
 ### Score: 15/20
 1. Streams load very fast. ✔️
-1. Content is 1080p and can be changed lower. ✔️
+1. The content is in 1080p, but can only be lowered on some players. ⚠️
 1. Finds streams quickly, including older content. ✔️
-1. They have 3 sources but they don't auto-switch if one fails. ⚠️
-1. Site has no auto-next. ❌
-1. Its solid, has good user settings, feels modern. ✔️
-1. Allows adding + searching your own subtitles. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watchlists + history. ✔️
-1. Site is lacking in terms of media discovery options. ❌
+1. 25 english hosts + 3 non eng, but they don't auto-switch if one fails. ⚠️
+1. Site does not have auto-next episodes. ❌
+1. UI is decent, feels modern, has lots of user settings. ✔️
+1. Players have built in subtitles for most content. ✔️
+1. Has movies, shows, anime. ✔️
+1. Site has continue watching. ✔️
+1. Decent sorting options but more discovery tools could be added. ⚠️
 
 ***
 ## catflix
@@ -125,20 +139,6 @@
 1. Site auto searches for subtitles. ✔️
 1. Site has movies and shows but no anime. ⚠️
 1. Site allows you to add favorites. ✔️
-1. Site is lacking in terms of media discovery options. ❌
-
-***
-## RgShows
-### Score: 14/20
-1. Streams load very fast. ✔️
-1. The content is in 1080p, but can only be lowered on some players. ⚠️
-1. Finds streams quickly, including older content. ✔️
-1. 25 english hosts + 3 non eng, but they don't auto-switch if one fails. ⚠️
-1. Site does not have auto-next episodes. ❌
-1. UI is decent, feels modern, has lots of user settings. ✔️
-1. Players have built in subtitles for most content. ✔️
-1. Has movies, shows, anime. ✔️
-1. Site has continue watching. ✔️
 1. Site is lacking in terms of media discovery options. ❌
 
 ***
