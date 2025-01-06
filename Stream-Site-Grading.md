@@ -142,7 +142,7 @@
 1. Site is lacking in terms of media discovery options. ❌
 
 ***
-## Novafork
+## Novafork (testing)
 ###
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
