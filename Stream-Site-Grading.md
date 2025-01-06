@@ -53,7 +53,7 @@
 
 ***
 ## 456movie
-### Score: 19/26
+### Score: 19/24
 
 1. Streams load very fast. ✔️
 1. Content is in 1080p and can be changed lower. ✔️
