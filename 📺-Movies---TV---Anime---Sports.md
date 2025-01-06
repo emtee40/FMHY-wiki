@@ -7,12 +7,11 @@
 # ► Streaming Sites
 
 * ⭐ **[Cineby](https://www.cineby.app/)** or [Bitcine](https://www.bitcine.app/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/C2zGTdUbHE) (unofficial)
-* ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / Auto-Next
+* ⭐ **[Freek](https://freek.to/)** - Movies / TV / Anime / Autoplay
 * ⭐ **[456movie](https://456movie.com/)**, [2](https://www.345movies.com/) - Movies / TV
 * ⭐ **[Broflix](https://broflix.cc/)** - Movies / TV / Anime
 * ⭐ **[Rive](https://rivestream.live/)**, [2](https://rivestream.xyz/), [3](https://cinemaos-v2.vercel.app/) - Movies / TV / Anime / [Status](https://rentry.co/rivestream) / [Discord](https://discord.gg/6xJmJja8fV)
 * ⭐ **[RgShows](https://www.rgshows.me/)** - Movies / TV / Anime / [Guide](https://www.rgshows.me/guide.html) / [Discord](https://discord.gg/bosskingdom-comeback-1090560322760347649)
-* ⭐ **[Smashystream](https://smashystream.xyz/)**, [2](https://smashy.stream/), [3](https://flix.smashystream.xyz/), [4](https://smashystream.com/)- Movies / TV / Anime
 * ⭐ **[Catflix](https://catflix.su/)** - Movies / TV / Auto-Next
 * ⭐ **[HydraHD](https://hydrahd.me/)** - Movies / TV / Anime / [Telegram](https://t.me/+BUrW9XlfiW1lNDQ0)
 * ⭐ **[PopcornMovies](https://popcornmovies.to/)** - Movies / TV / Anime
@@ -32,6 +31,7 @@
 * [SFlix](https://sflix2.to/), [2](https://vidstream.to/), [3](https://gostream.to/) - Movies / TV / [Clones](https://rentry.co/sflix) / Use Adblocker
 * [Cataz](https://cataz.ru/), [2](https://projectfreetv.sx/) - Movies / TV - Movies / TV / Anime
 * [NEPU](https://nepu.to/) - Movies / TV / Anime / 4K / Auto-Next / **Use Adblock** / [Discord](https://discord.gg/nepu)
+* [Smashystream](https://smashystream.xyz/), [2](https://smashy.stream/), [3](https://flix.smashystream.xyz/), [4](https://smashystream.com/)- Movies / TV / Anime
 * [RidoMovies](https://ridomovies.tv/) - Movies / TV
 * [M4uFree](https://m4ufree.se/) - Movies / TV / Anime / [Clones](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [EE3](https://ee3.me/), [2](https://rips.cc/) - Movies / 720p / Invite Code: fmhy / Sign-Up Required
