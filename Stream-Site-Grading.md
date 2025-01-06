@@ -92,6 +92,22 @@
 1. Site is lacking in terms of media discovery options. ❌
 
 ***
+## catflix
+### Score: 16/22
+
+1. Streams load very fast. ✔️
+1. Content is 1080p, but it can't be lowered. ⚠️
+1. Find streams consistently for both new and old content. ✔️
+1. They have 5 sources, and main player never fails. ✔️
+1. Site does not have auto-next. ❌
+1. Site is simple but very clean. ✔️
+1. Site auto searches for subtitles. ✔️
+1. Search works as expected. ✔️
+1. Site has movies and shows but no anime. ⚠️
+1. Site allows you to add favorites. ✔️
+1. Site is lacking in terms of media discovery options. ❌
+
+***
 ## RgShows
 ### Score: 16/22
 1. Streams load very fast. ✔️
@@ -105,3 +121,4 @@
 1. Has movies, shows, anime. ✔️
 1. Site has continue watching. ✔️
 1. Site is lacking in terms of media discovery options. ❌
+
