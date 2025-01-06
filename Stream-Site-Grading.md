@@ -92,7 +92,7 @@
 1. Site is lacking in terms of media discovery options. ❌
 
 ***
-##RgShows
+## RgShows
 ### Score: 16/22
 1. Streams load very fast. ✔️
 1. The content is in 1080p, but can only be lowered on some players. ⚠️
