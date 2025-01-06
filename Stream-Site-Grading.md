@@ -82,7 +82,7 @@
 1. Streams load very fast. ✔️
 1. Content is 1080p and can be changed lower. ✔️
 1. Find streams quickly, including older content. ✔️
-1. They have 3 sources but they don't switch if one fails. ⚠️
+1. They have 3 sources but they don't auto-switch if one fails. ⚠️
 1. Site has no auto-next. ❌
 1. Its solid, has good user settings, feels modern. ✔️
 1. Allows adding + searching your own subtitles. ✔️
@@ -113,7 +113,7 @@
 1. Streams load very fast. ✔️
 1. The content is in 1080p, but can only be lowered on some players. ⚠️
 1. Find streams quickly, including older content. ✔️
-1. 25 english hosts + 3 non eng, but they don't switch if one fails. ⚠️
+1. 25 english hosts + 3 non eng, but they don't auto-switch if one fails. ⚠️
 1. Site does not have auto-next episodes. ❌
 1. UI is decent, feels modern, has lots of user settings. ✔️
 1. Players have built in subtitles for most content. ✔️
@@ -122,3 +122,17 @@
 1. Site has continue watching. ✔️
 1. Site is lacking in terms of media discovery options. ❌
 
+***
+## HydraHD
+### Score: 16/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Find streams quickly, including older content. ✔️
+1. 7 english servers + 3 non eng, but they don't auto-switch if one fails. ⚠️
+1. Site does not have auto-next. ❌
+1. UI isn't bad, but it could be improved. ⚠️
+1. Players have built in subtitles for most content. ✔️
+1. Search engine works as expected. ✔️
+1. Has movies, shows and anime. ✔️
+1. Has continue watching + favorites. ✔️
+1. Site is lacking in terms of media discovery options. ❌
