@@ -6,7 +6,7 @@
 1. - Is the content in 1080p, and can it be changed lower?
 1. - How consistently does it find streams, including older content without issues?
 1. - How many sources do they have, and does it auto switch if one fails?
-1. - Does the site have episode autoplay?
+1. - Does the site have episode auto-next / autoplay?
 1. - Is the sites player good? Does it have extra features like casting, PiP etc?
 1. - How is the sites UI? Is it nice to look at? What user-settings does it have? 
 1. - Do they have good subtitle features?
