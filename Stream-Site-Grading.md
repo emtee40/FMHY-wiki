@@ -61,7 +61,7 @@
 ### Score: 16/20
 1. Streams load, but it take a second. ⚠️
 1. Content is 1080p, but it cant be lowered. ⚠️
-1. Find streams quickly, including older content. ✔️
+1. Finds streams quickly, including older content. ✔️
 1. It has 3 hosts, and it does auto-switch if one fails. ✔️
 1. The site does have episode auto-next. ✔️
 1. UI is very good, modern looking with lots to look at. ✔️
@@ -89,7 +89,7 @@
 ### Score: 15/20
 1. Streams load very fast. ✔️
 1. Content is 1080p and can be changed lower. ✔️
-1. Find streams quickly, including older content. ✔️
+1. Finds streams quickly, including older content. ✔️
 1. They have 3 sources but they don't auto-switch if one fails. ⚠️
 1. Site has no auto-next. ❌
 1. Its solid, has good user settings, feels modern. ✔️
@@ -104,7 +104,7 @@
 
 1. Streams load very fast. ✔️
 1. Content is 1080p, but it can't be lowered. ⚠️
-1. Find streams consistently for both new and old content. ✔️
+1. Finds streams consistently for both new and old content. ✔️
 1. They have 5 sources, and main player never fails. ✔️
 1. Site does not have auto-next. ❌
 1. Site is simple but very clean. ✔️
@@ -118,7 +118,7 @@
 ### Score: 14/20
 1. Streams load very fast. ✔️
 1. The content is in 1080p, but can only be lowered on some players. ⚠️
-1. Find streams quickly, including older content. ✔️
+1. Finds streams quickly, including older content. ✔️
 1. 25 english hosts + 3 non eng, but they don't auto-switch if one fails. ⚠️
 1. Site does not have auto-next episodes. ❌
 1. UI is decent, feels modern, has lots of user settings. ✔️
@@ -132,7 +132,7 @@
 ### Score: 14/20
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
-1. Find streams quickly, including older content. ✔️
+1. Finds streams quickly, including older content. ✔️
 1. 7 english servers + 3 non eng, but they don't auto-switch if one fails. ⚠️
 1. Site does not have episode auto-next. ❌
 1. UI isn't bad, but it could be improved. ⚠️
@@ -140,3 +140,17 @@
 1. Has movies, shows and anime. ✔️
 1. Has continue watching + favorites. ✔️
 1. Site is lacking in terms of media discovery options. ❌
+
+***
+## Novafork
+###
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. - How many sources do they have, and does it auto switch if one fails?
+1. - Does the site have auto-next episodes?
+1. - How is the sites UI? Is it nice to look at? What user-settings does it have? How does search work?
+1. - Do they have good subtitle features?
+1. - Does it have movies, shows, anime?
+1. - Does the site have watchlists, continue watching or history?
+1. - Does the site have tools for discovery like recommendations, collections or AI?
