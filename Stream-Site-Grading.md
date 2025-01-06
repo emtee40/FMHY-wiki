@@ -23,7 +23,7 @@
 1. The content is 1080p+ and allows switching to lower quality. ✔️
 1. Finds popular things with no issue, including older content. ✔️
 1. 8 english + 8 non english sources that auto-switch if one fails. ✔️
-1. Autoplay is available when you click a episode list. ✔️
+1. Autoplay and auto-next are available. ✔️
 1. UI is solid, feels clean and modern. ✔️
 1. You can add your own subtitles, search for subtitles, and adjust them. ✔️
 1. Search engine works well, it shows results as you type. ✔️
@@ -33,12 +33,12 @@
 
 ***
 ## Freek
-### Score: 19/22
+### Score: 18/22
 1. Streams load very fast. ✔️
 1. Content is 1080p and can be changed lower. ✔️
 1. Find streams quickly, including older content. ✔️
 1. They have 3 sources but they don't switch if one fails. ⚠️
-1. Autoplay can be enabled in the players settings. ✔️
+1. Autoplay can be enabled in the players settings, but no auto-next. ⚠️
 1. Its solid, has good user settings, feels modern. ✔️
 1. Allows adding + searching your own subtitles. ✔️
 1. Search engine seems to work fine, no complaints. ✔️
@@ -49,7 +49,6 @@
 ***
 ## 456movie
 ### Score: 18/22
-
 1. Streams load very fast. ✔️
 1. Content is in 1080p and can be changed lower. ✔️
 1. It finds streams very fast, including very old obscure content. ✔️
@@ -61,3 +60,18 @@
 1. Has movies, shows, anime? ✔️
 1. Site has continue watching. ✔️
 1. Has AI recommendation tool. ✔️
+
+***
+## Broflix
+### Score: 18/22
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. It finds streams very fast, including very old obscure content. ✔️
+1. They have 11 sources, but it does not auto-switch if one fails. ⚠️
+1. Site has autoplay, but no auto-next. ⚠️
+1. Sites UI is very good, player is good, its one of the best to look at. ✔️
+1. Most of their sources allow subtitles. ✔️
+1. Search engine works as expected. ✔️
+1. It has movies, shows, anime. ✔️
+1. The site has continue watching and watchlists. ✔️
+1. Site is lacking in terms of media discovery options. ❌
