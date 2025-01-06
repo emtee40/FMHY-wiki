@@ -154,3 +154,20 @@
 1. Site has movies and shows but no anime. ⚠️
 1. Site allows you to add favorites. ✔️
 1. Site is lacking in terms of media discovery options. ❌
+
+***
+
+## StreamFlix
+### Score: 13/20
+1. Streams load very fast. ✔️
+1. Lots of content is 720p or lower. ❌
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 2 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have auto-next. ❌
+1. UI isn't bad, but could be improved. ⚠️
+1. Has built in subs for most content + allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has history + watchlists. ✔️
+1. Has decent content sorting, but more discoverability options could be added. ⚠️
+
+
