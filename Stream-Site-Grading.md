@@ -57,6 +57,20 @@
 1. Has AI recommendation tool. ✔️
 
 ***
+## PopcornMovies
+### Score: 16/20
+1. Streams load, but it take a second. ⚠️
+1. Content is 1080p, but it cant be lowered. ⚠️
+1. Find streams quickly, including older content. ✔️
+1. It has 3 hosts, and it does auto-switch if one fails. ✔️
+1. The site does have episode auto-next. ✔️
+1. UI is very good, modern looking with lots to look at. ✔️
+1. Site is missing subtitles for many things. ❌
+1. They have movies, shows and anime. ✔️
+1. Has watchlists when you make account. ✔️
+1. Lots of different collections to browse. ✔️
+
+***
 ## Broflix
 ### Score: 15/20
 1. Streams load very fast. ✔️
@@ -126,17 +140,3 @@
 1. Has movies, shows and anime. ✔️
 1. Has continue watching + favorites. ✔️
 1. Site is lacking in terms of media discovery options. ❌
-
-***
-## PopcornMovies
-### Score: /20
-1. Streams load, but it take a second. ⚠️
-1. Content is 1080p, but it cant be lowered. ⚠️
-1. Find streams quickly, including older content. ✔️
-1. It has 3 hosts, and it does auto-switch if one fails. ✔️
-1. The site does have episode auto-next. ✔️
-1. UI is very good, modern looking with lots to look at. ✔️
-1. Site is missing subtitles for many things. ❌
-1. - Does it have movies, shows, anime?
-1. - Does the site have watchlists, continue watching or history?
-1. - Does the site have tools for discovery like recommendations, collections or AI?
