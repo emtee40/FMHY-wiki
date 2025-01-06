@@ -99,6 +99,20 @@
 1. Site is lacking in terms of media discovery options. ❌
 
 ***
+## HydraHD
+### Score: 14/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. 7 english servers + 3 non eng, but they don't auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI isn't bad, but it could be improved. ⚠️
+1. Players have built in subtitles for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Has continue watching + favorites. ✔️
+1. Site is lacking in terms of media discovery options. ❌
+
+***
 ## catflix
 ### Score: 14/20
 
@@ -125,20 +139,6 @@
 1. Players have built in subtitles for most content. ✔️
 1. Has movies, shows, anime. ✔️
 1. Site has continue watching. ✔️
-1. Site is lacking in terms of media discovery options. ❌
-
-***
-## HydraHD
-### Score: 14/20
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. 7 english servers + 3 non eng, but they don't auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI isn't bad, but it could be improved. ⚠️
-1. Players have built in subtitles for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Has continue watching + favorites. ✔️
 1. Site is lacking in terms of media discovery options. ❌
 
 ***
