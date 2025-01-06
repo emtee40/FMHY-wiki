@@ -57,6 +57,20 @@
 1. It has a recommendations, collections, and an AI. ✔️
 
 ***
+## Hexa
+### Score: 19/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 13 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does have episode auto-next. ✔️
+1. UI is very nice, feels modern and search works well. ✔️
+1. Has built in subs for most content and allows adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watchlists and continue watching. ✔️
+1. Site has collections, recommendations and mood search. ✔️
+
+***
 ## Broflix
 ### Score: 17/20
 1. Streams load very fast. ✔️
@@ -161,7 +175,7 @@
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams quickly, including older content. ✔️
 1. 21 servers, but they don't auto-switch if ones fails. ⚠️
-1. Some servers have auto-next, but many don't. ⚠️
+1. Some servers have episode auto-next, but many don't. ⚠️
 1. Site is very nice to look at, search works well. ✔️
 1. Players have built in subtitles for most content. ✔️
 1. It has movies, shows and anime. ✔️
@@ -175,7 +189,7 @@
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
 1. Has 6 english and 3 non eng servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have auto-next. ❌
+1. Site does not have episode auto-next. ❌
 1. UI is decent, seems modern, but probably has room for improvement. ⚠️
 1. Site has subtitles for most content. ✔️
 1. It has movies, shows and anime. ✔️
@@ -189,7 +203,7 @@
 1. Content is 1080p, but it can't be lowered. ⚠️
 1. Finds streams consistently for both new and old content. ✔️
 1. They have 5 sources, and main player never fails. ✔️
-1. Site does not have auto-next. ❌
+1. Site does not have episode auto-next. ❌
 1. Site is simple but very clean. ✔️
 1. Site auto searches for subtitles. ✔️
 1. Site has movies and shows but no anime. ⚠️
@@ -203,7 +217,7 @@
 1. Lots of content is 720p or lower. ❌
 1. Finds streams consistently for both new and old content. ✔️
 1. Has 2 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have auto-next. ❌
+1. Site does not have episode auto-next. ❌
 1. UI isn't bad, but could be improved. ⚠️
 1. Has built in subs for most content + allows adjustments. ✔️
 1. It has movies, shows and anime. ✔️
