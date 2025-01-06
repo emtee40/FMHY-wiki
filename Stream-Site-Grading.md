@@ -155,6 +155,20 @@
 1. Has decent sorting, but better discoverability options could be added. ⚠️
 
 ***
+## Autoembed
+### Score: 15/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 6 english and 3 non eng servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have auto-next. ❌
+1. UI is decent, seems modern, but probably has room for improvement. ⚠️
+1. Site has subtitles for most content. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site does have watchlist. ✔️
+1. Site has decent sorting options, but more discoverability options would be nice. ⚠️
+
+***
 ## catflix
 ### Score: 14/20
 1. Streams load very fast. ✔️
