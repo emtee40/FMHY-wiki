@@ -127,6 +127,20 @@
 1. Decent sorting options but more discovery tools could be added. ⚠️
 
 ***
+## Novafork
+### Score 15/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. 21 servers, but they don't auto-switch if ones fails. ⚠️
+1. Some servers have auto-next, but many don't. ⚠️
+1. Site is very nice to look at, search works well. ✔️
+1. Players have built in subtitles for most content. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has no watchlists or history. ❌
+1. Has decent sorting, but better discoverability options could be added. ⚠️
+
+***
 ## catflix
 ### Score: 14/20
 
@@ -140,17 +154,3 @@
 1. Site has movies and shows but no anime. ⚠️
 1. Site allows you to add favorites. ✔️
 1. Site is lacking in terms of media discovery options. ❌
-
-***
-## Novafork (testing)
-###
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. - How many sources do they have, and does it auto switch if one fails?
-1. - Does the site have auto-next episodes?
-1. - How is the sites UI? Is it nice to look at? What user-settings does it have? How does search work?
-1. - Do they have good subtitle features?
-1. - Does it have movies, shows, anime?
-1. - Does the site have watchlists, continue watching or history?
-1. - Does the site have tools for discovery like recommendations, collections or AI?
