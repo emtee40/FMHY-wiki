@@ -7,14 +7,14 @@
 1. - How consistently does it find streams, including older content without issues?
 1. - How many sources do they have, and does it auto switch if one fails?
 1. - Does the site have episode autoplay?
-1. - Is the sites player good? Does it have extra features like casting, picture-in picture etc?
+1. - Is the sites player good? Does it have extra features like casting, PiP etc?
 1. - How is the sites UI? Is it nice to look at? What user-settings does it have? 
 1. - Do they have good subtitle features?
 1. - How well does the search engine work?
 1. - Does it have movies, shows, anime?
 1. - Does the site have watchlists, continue watching or history?
 1. - Do they have anything else unique, KDrama, live tv, etc?
-1. - Does the site have tools for media discovery like recommendations, collections or AI?
+1. - Does the site have tools for discovery like recommendations, collections or AI?
 
 ✔️= 2 points
 ⚠️= 1 point
