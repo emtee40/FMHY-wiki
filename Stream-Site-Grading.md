@@ -43,6 +43,20 @@
 1. Site is lacking in terms of media discovery tools. ❌ 
 
 ***
+## Broflix
+### Score: 17/20
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. It finds streams very fast, including very old obscure content. ✔️
+1. They have 11 sources, but it does not auto-switch if one fails. ⚠️
+1. Site has no auto-next. ❌
+1. Sites UI is very good, player is good, its one of the best to look at. ✔️
+1. Most of their sources allow subtitles. ✔️
+1. It has movies, shows, anime. ✔️
+1. The site has continue watching and watchlists. ✔️
+1. Does have a search AI to help find new stuff. ✔️
+
+***
 ## 456movie
 ### Score: 17/20
 1. Streams load very fast. ✔️
@@ -69,20 +83,6 @@
 1. They have movies, shows and anime. ✔️
 1. Has watchlists when you make account. ✔️
 1. Lots of different collections to browse. ✔️
-
-***
-## Broflix
-### Score: 15/20
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. It finds streams very fast, including very old obscure content. ✔️
-1. They have 11 sources, but it does not auto-switch if one fails. ⚠️
-1. Site has no auto-next. ❌
-1. Sites UI is very good, player is good, its one of the best to look at. ✔️
-1. Most of their sources allow subtitles. ✔️
-1. It has movies, shows, anime. ✔️
-1. The site has continue watching and watchlists. ✔️
-1. Site is lacking in terms of media discovery options. ❌
 
 ***
 ## HydraHD
