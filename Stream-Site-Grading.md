@@ -24,7 +24,7 @@
 1. Finds both new and old content consistently. ✔️
 1. 23 english hosts + 6 non english, but it does not auto-switch if one fails. ⚠️
 1. Auto-next works as expected. ✔️
-1. Very unique UI, lots of look at and click, one of the best. ✔️
+1. Very unique UI, lots of user-settings, one of the best. ✔️
 1. Site allows you to add, search and adjust subtitles. ✔️
 1. Search works well, shows results as you type. ✔️
 1. It has movies, show and anime. ✔️
@@ -91,3 +91,17 @@
 1. Site has watchlists + history. ✔️
 1. Site is lacking in terms of media discovery options. ❌
 
+***
+##RgShows
+### Score: 16/22
+1. Streams load very fast. ✔️
+1. The content is in 1080p, but can only be lowered on some players. ⚠️
+1. Find streams quickly, including older content. ✔️
+1. 25 english hosts + 3 non eng, but they don't switch if one fails. ⚠️
+1. Site does not have auto-next episodes. ❌
+1. UI is decent, feels modern, has lots of user settings. ✔️
+1. Players have built in subtitles for most content. ✔️
+1. Search engine works as expected. ✔️
+1. Has movies, shows, anime. ✔️
+1. Site has continue watching. ✔️
+1. Site is lacking in terms of media discovery options. ❌
