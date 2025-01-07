@@ -267,6 +267,20 @@
 1. Site has no sorting or content discoverability options. ❌
 
 ***
+## CorsFlix
+### Score: 15/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 26 english servers and 6 non eng, but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is good, feels modern and shows results as you type. ✔️
+1. Has built in subs for most content. ✔️
+1. Has movies shows and anime. ✔️
+1. Site has watchlists. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## 7Xtream
 ### Score: 15/20
 1. Streams load very fast. ✔️
