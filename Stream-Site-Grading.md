@@ -151,7 +151,7 @@
 1. UI is solid, feels very modern. ✔️
 1. Site has subtitles for most content. ✔️
 1. It has movies, shows and anime. ✔️
-1. Site does have watchlist. ✔️
+1. Site does have watchlist when you signup. ✔️
 1. Site has decent sorting options, but more discoverability options would be nice. ⚠️
 
 ***
@@ -391,6 +391,20 @@
 1. Has movies shows and anime. ✔️
 1. Has watchlists when you signup. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
+## ValhallaStream
+### Score: 14/20
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be changed lower. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 8 servers, but does not auto-switch when one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is very nice, feels modern, search shows results as you type. ✔️
+1. Most sources include subtitles. ✔️
+1. Has movies shows and anime. ✔️
+1. Site has watch list when you signup, but requires google. ⚠️
+1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 
 ***
 ## Wovie
