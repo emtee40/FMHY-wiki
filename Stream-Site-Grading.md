@@ -365,6 +365,20 @@
 1. Site has no sorting or content discoverability options. ❌
 
 ***
+## Watch2Day
+### Score: 12/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 9 servers but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is decent but has room for improvement. ⚠️
+1. Has built in subs for most things and allows adjustments. ✔️
+1. Has movies shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## M4uFree
 ### Score: 12/20
 1. Streams load very fast. ✔️
@@ -643,3 +657,34 @@
 1. Has movies shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
+## 
+### Score: /20
+1. - How fast do streams load?
+1. - Is the content in 1080p, and can it be changed lower?
+1. - How consistently does it find streams, including older content without issues?
+1. - How many sources do they have, and does it auto switch if one fails?
+1. - Does the site have auto-next episodes?
+1. - How is the sites UI / player? Is it nice to look at? What user-settings does it have? How does search work?
+1. - Do they have good subtitle features?
+1. - Does it have movies, shows, anime?
+1. - Does the site have watchlists, continue watching or history?
+1. - Does the site have tools for discovery like recommendations, collections or AI?
+
+
+
+
