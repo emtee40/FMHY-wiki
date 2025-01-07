@@ -68,7 +68,7 @@
 1. Allows adding + searching your own subtitles. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site has watchlists + history. ✔️
-1. Has decent sorting options, but not much in terms of discovery tools. ⚠️
+1. Has decent sorting options, but not much in terms of media discovery tools. ⚠️
 
 ***
 ## Broflix
@@ -110,7 +110,7 @@
 1. Has built in subs for most content and allows adjustments. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site does have watchlists and continue watching. ✔️
-1. Has decent sorting options, but not much in terms of discovery tools. ⚠️
+1. Has decent sorting options, but not much in terms of media discovery tools. ⚠️
 
 ***
 ## NetPlayz
@@ -194,7 +194,7 @@
 1. Players have built in subtitles for most content. ✔️
 1. Has movies, shows, anime. ✔️
 1. Site has continue watching, but no sort of watchlists. ⚠️
-1. Decent sorting options but more discovery tools could be added. ⚠️
+1. Decent sorting options but more media iscovery tools could be added. ⚠️
 
 ***
 ## Nunflix
