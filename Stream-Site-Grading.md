@@ -491,7 +491,7 @@
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
 ***
-## NetMirror (testing)
+## NetMirror
 ### Score: 9/20
 1. Streams load very fast. ✔️
 1. Has 720p only, but can be lowered. ⚠️
