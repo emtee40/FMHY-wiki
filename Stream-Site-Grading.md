@@ -323,6 +323,20 @@
 1. Site has no sorting or content discoverability options. ❌
 
 ***
+## PrimeWire
+### Score: 11/20
+1. Uses file hosts which are known for being slow sometimes. ⚠️
+1. Mix of 720p/1080p, and quality cannot be changed. ⚠️
+1. Very good for both new and old content. ✔️
+1. Generally 10+ sources for most content, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is alright but has room for improvement. ⚠️
+1. Doesn't have subtitles for most content. ❌
+1. It has movies, shows and anime. ✔️
+1. Site has a library feature. ✔️
+1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+
+***
 ## FireFlix
 ### Score: 10/20
 1. Streams load very fast. ✔️
