@@ -491,6 +491,20 @@
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
 ***
+## SpenEmbed
+### Score: 9/20
+1. Streams load very fast. ✔️
+1. Has 1080p, but can't be lowered. ⚠️
+1. Good for new content, but struggles to find older stuff. ⚠️
+1. Only 2 sources and does not auto-switch if one fails. ❌
+1. Site does not have episode auto-next. ❌
+1. UI has lots of room for improvement. ❌
+1. Has built in subs for most content. ✔️
+1. Site has movies and shows, but not much anime. ⚠️
+1. Site has continue watching. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## HollyMovieHD
 ### Score: 9/20
 1. Streams load very fast. ✔️
