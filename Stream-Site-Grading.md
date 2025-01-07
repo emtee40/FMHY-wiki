@@ -349,3 +349,17 @@
 1. Site has movies and shows, but not much anime. ⚠️
 1. Site has continue watching. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+
+***
+## SFlix
+### Score: 10/20
+1. Servers can be good, but are known for occasional inconsistency. ⚠️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Only 2 sources and does not auto-switch if one fails. ❌
+1. Site does not have episode auto-next. ❌
+1. UI feels dated, has lots of room for improvement. ❌
+1. Has built in subs for most content and allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has no watchlists, continue watching or history. ❌
+1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
