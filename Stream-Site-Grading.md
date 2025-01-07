@@ -659,6 +659,20 @@
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
 ***
+## TVids
+### Score: 11/20
+1. Servers can be good, but are known for occasional inconsistency. ⚠️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Site has 12 servers and does auto-switch if one fails. ✔️
+1. Site does not have episode auto-next. ❌
+1. Site feels dated, lots of room for improvement. ❌
+1. Has built in subs for most content and allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## SFlix
 ### Score: 10/20
 1. Servers can be good, but are known for occasional inconsistency. ⚠️
