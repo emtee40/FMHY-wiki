@@ -407,6 +407,20 @@
 1. Site has no sorting or content discoverability options. ❌
 
 ***
+## EnjoyTown
+### Score: 13/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 8 servers but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is good, feels very modern. ✔️
+1. Site has subtitles for most content. ✔️
+1. Has movies shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## BrocoFlix
 ### Score: 12/20
 1. Streams load very fast. ✔️
@@ -784,19 +798,7 @@
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
-***
-## EnjoyTown
-### Score: /20
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 8 servers but does not auto-switch if one fails. ⚠️
-1. * Does the site have auto-next episodes?
-1. * How are the site's UI, player and search? Are they nice overall? What sort of user settings does it have?
-1. * What sort of subtitle features does the site have?
-1. * Does it have movies, shows and anime?
-1. * Does the site have watch lists, history or continue watching?
-1. * Does the site have tools for discovery like sorting, recommendations, collections, AI, etc?
+
 
 
 
