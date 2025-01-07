@@ -365,6 +365,20 @@
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
 ***
+## Wovie
+### Score: 14/20
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be changed lower. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. They have 11 sources, and main one almost always works. ✔️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is good, feels modern, displays results as you search. ✔️
+1. Allows adding + searching your own subtitles. ✔️
+1. Has movies shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## StreamFlix
 ### Score: 13/20
 1. Streams load very fast. ✔️
