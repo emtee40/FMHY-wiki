@@ -71,8 +71,22 @@
 1. Has decent sorting options, but not much in terms of discovery tools. ⚠️
 
 ***
+## Broflix
+### Score: 18/20
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. It finds streams very fast, including very old obscure content. ✔️
+1. They have 11 sources, and main one almost always works. ✔️
+1. Site has no auto-next. ❌
+1. Sites UI is very good, player is good, its one of the best to look at. ✔️
+1. Most of their sources allow subtitles. ✔️
+1. It has movies, shows, anime. ✔️
+1. The site has continue watching and watchlists. ✔️
+1. Does have a search AI to help find new stuff. ✔️
+
+***
 ## Hexa
-### Score: 19/20
+### Score: 18/20
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
@@ -82,21 +96,7 @@
 1. Has built in subs for most content and allows adjustments. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site does have watchlists and continue watching. ✔️
-1. Site has collections, recommendations and mood search. ✔️
-
-***
-## Broflix
-### Score: 17/20
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. It finds streams very fast, including very old obscure content. ✔️
-1. They have 11 sources, but it does not auto-switch if one fails. ⚠️
-1. Site has no auto-next. ❌
-1. Sites UI is very good, player is good, its one of the best to look at. ✔️
-1. Most of their sources allow subtitles. ✔️
-1. It has movies, shows, anime. ✔️
-1. The site has continue watching and watchlists. ✔️
-1. Does have a search AI to help find new stuff. ✔️
+1. Has decent sorting options, but not much in terms of discovery tools. ⚠️
 
 ***
 ## 456movie
@@ -559,3 +559,17 @@
 1. Has movies shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
+## AZMovies
+### Score: /20
+1. Streams load very fast. ✔️
+1. Content 720p and cannot be lowered. ❌
+1. Good for both new and old content. ✔️
+1. Has 5 sources but does not auto-switch if one fails. ⚠️
+1. Has no shows so doesn't need auto-next. ⚠️
+1. UI is alright but has room for improvements. ⚠️
+1. Site is lacking subtitle features. ❌
+1. - Does it have movies, shows, anime?
+1. - Does the site have watchlists, continue watching or history?
+1. - Does the site have tools for discovery like recommendations, collections or AI?
