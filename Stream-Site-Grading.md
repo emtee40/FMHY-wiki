@@ -638,7 +638,7 @@
 1. Finds streams consistently for both new and old content. ✔️
 1. Has 3 servers, but does not auto-switch if ones fails. ⚠️
 1. Site does not have episode auto-next. ❌
-1. Site US has room for improvement. ❌
+1. Site UI has room for improvement. ❌
 1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
