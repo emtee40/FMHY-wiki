@@ -1091,21 +1091,3 @@
 1. Has movies shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-
-
-
-BELOW IS FOR COPY/PASTE
-
-***
-## 
-### Score: /20
-1. * How fast do streams load?
-1. * Is the content in 1080p, and can it be changed?
-1. * How consistently does it find streams, including older content, without issues?
-1. * How consistent are their servers? How many are there? Does it auto-switch if one fails?
-1. * Does the site have auto-next episodes?
-1. * How are the site's UI, player and search? Are they nice overall? What sort of user settings does it have?
-1. * What sort of subtitle features does the site have?
-1. * Does it have movies, shows and anime?
-1. * Does the site have watch lists, history or continue watching?
-1. * Does the site have tools for discovery like sorting, recommendations, collections, AI, etc?
