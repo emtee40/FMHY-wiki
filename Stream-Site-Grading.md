@@ -212,11 +212,11 @@
 
 ***
 ## RgShows
-### Score: 15/20
+### Score: 16/20
 1. Streams load very fast. ✔️
 1. The content is in 1080p, but can only be lowered on some players. ⚠️
 1. Finds streams quickly, including older content. ✔️
-1. 25 english hosts + 3 non eng, but they don't auto-switch if one fails. ⚠️
+1. 25 english hosts + 3 non eng, and main almost always works. ✔️
 1. Site does not have auto-next episodes. ❌
 1. UI is decent, feels modern, has lots of user settings. ✔️
 1. Players have built in subtitles for most content. ✔️
