@@ -281,6 +281,20 @@
 1. Site is lacking in terms of media discovery options. ❌
 
 ***
+## Soaper.TV
+### Score: 14/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Only 2 sources and does not auto-switch if one fails. ❌
+1. Site has episode auto-next. ✔️
+1. Site feels dated, lots of room for improvement. ❌
+1. Has built in subs for most content and allows adjustments. ✔️
+1. Has movies shows and anime. ✔️
+1. Has watchlists when you signup. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## StreamFlix
 ### Score: 13/20
 1. Streams load very fast. ✔️
