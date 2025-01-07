@@ -477,6 +477,20 @@
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 
 ***
+## Way2Movies
+### Score: 12/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 10 servers + 1 non eng but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is decent, seems modern, but probably has room for improvement. ⚠️
+1. Most sources have subs built in. ✔️
+1. Has movies shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## FshareTV
 ### Score: 12/20
 1. Streams load, but it takes a second. ⚠️
@@ -769,7 +783,6 @@
 1. Has movies shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-
 
 
 
