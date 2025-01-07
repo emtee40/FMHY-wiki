@@ -575,6 +575,20 @@
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 
 ***
+## BitSearch
+### Score: 8/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for newer content, but struggles with older stuff. ⚠️
+1. Site only has 1 source and its not always consistent. ❌
+1. Site does not have episode auto-next. ❌
+1. Its a torrent site mainly so kinda hard to judge, but its decent. ⚠️
+1. Site is lacking subtitle features. ❌
+1. Has movies shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## AZMovies
 ### Score: 7/20
 1. Streams load very fast. ✔️
