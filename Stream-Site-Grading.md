@@ -547,6 +547,20 @@
 1. Site has no sorting or content discoverability options. ❌
 
 ***
+## PrimeFlix
+### Score: 11/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 13 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI has room for improvement. ❌
+1. Allows adding + searching your own subtitles. ✔️
+1. Has movies shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## PrimeWire
 ### Score: 11/20
 1. Uses file hosts which are known for being slow sometimes. ⚠️
