@@ -463,6 +463,20 @@
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 
 ***
+## OnionPlay
+### Score: 9/20
+1. Streams load very fast. ✔️
+1. Content mostly 720p and can't change quality. ❌
+1. Good for both new and old content. ✔️
+1. Only 1 source but it generally works. ✔️
+1. Site does not have episode auto-next. ❌
+1. UI is alright but has room for improvement. ⚠️
+1. Site is missing subtitle features. ❌
+1. Has movies shows and anime. ✔️
+1. Does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## HollyMovieHD
 ### Score: 9/20
 1. Streams load very fast. ✔️
