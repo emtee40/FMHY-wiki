@@ -248,7 +248,7 @@
 1. Site does not have episode auto-next. ❌
 1. UI is good, feels very modern and search shows results as you type. ✔️
 1. Has built in subs for most content and allows you to upload your own and make adjustments. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site has watchlists and history. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 
@@ -290,7 +290,7 @@
 1. Site does not have episode auto-next. ❌
 1. UI is good, feels modern and shows results as you type. ✔️
 1. Has built in subs for most content. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site has watchlists. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -304,7 +304,7 @@
 1. Site does have auto-next. ✔️
 1. UI is decent but there's room for improvement. ⚠️
 1. Most players have built in subs. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site has favorites and  continue watching. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -318,7 +318,7 @@
 1. Site does not have episode auto-next. ❌
 1. UI is nice, feels unique, modern, and search shows results as you type. ✔️
 1. Has built in subs for most content + allows adjustments or adding own. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site does have watchlist when you signup. ✔️
 1. Has sorting options and some collections, but overall content discovery tools could be added / improved. ⚠️
 
@@ -332,7 +332,7 @@
 1. Site does not have episode auto-next. ❌
 1. Just a clone of Rive with less features and players. ⚠️
 1. Has built in subs for most content. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site has watchlists and continue watching. ✔️
 1. Has decent sorting options, but content discovery tools or collections could be added. ⚠️
 
@@ -346,7 +346,7 @@
 1. Site does not have episode auto-next. ❌
 1. Sites UI is good, feels very modern, shows results as you type. ✔️
 1. Has built in subs for most content. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site has watch lists when you signup.  ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -360,7 +360,7 @@
 1. Site does not have episode auto-next. ❌
 1. Sites UI and player are good, site feels modern. ✔️
 1. Has built in subs for most content and allows adjustments. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site has watchlists and continue watching. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -374,7 +374,7 @@
 1. Site does not have episode auto-next. ❌
 1. UI is solid, feels modern and shows results as you search. ✔️
 1. Has built in subs for most content and allows adjustments. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site has ontinue watching when you signup. ⚠️
 1. Has decent sorting options, but more discoverability options would be nice. ⚠️
 
@@ -402,7 +402,7 @@
 1. Site does not have episode auto-next. ❌
 1. UI and player are nice, search shows results as you type. ✔️
 1. Has subs for most content and allows adding your own and adjusting. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Has collections and AI recommendations, but is still a bit lacking in terms of sorting. ⚠️
 
@@ -416,7 +416,7 @@
 1. Site has episode auto-next. ✔️
 1. Site feels dated, lots of room for improvement. ❌
 1. Has built in subs for most content and allows adjustments. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Has watchlists when you signup. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -430,7 +430,7 @@
 1. Site does not have episode auto-next. ❌
 1. UI is very nice, feels modern, search shows results as you type. ✔️
 1. Most sources include subtitles. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site has watch list when you signup, but requires google. ⚠️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 
@@ -444,7 +444,7 @@
 1. Site does not have episode auto-next. ❌
 1. UI is alright but has room for improvement. ⚠️
 1. Most sources include subtitles. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site has continue watching, but no sort of watchlists. ⚠️
 1. Has a random movie button, but otherwise is lacking in terms of content discoverability and sorting. ❌
 
@@ -458,7 +458,7 @@
 1. Site does not have episode auto-next. ❌
 1. Sites UI is good, feels modern, displays results as you search. ✔️
 1. Allows adding + searching your own subtitles. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -472,7 +472,7 @@
 1. Site does not have episode auto-next. ❌
 1. Site is Autoembed clone so its nice. ✔️
 1. Has built in subs for most content and allows adjustments. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Has watch lists if you signup. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -528,7 +528,7 @@
 1. Site does not have episode auto-next. ❌
 1. Sites UI is good, feels very modern. ✔️
 1. Site has subtitles for most content. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -542,7 +542,7 @@
 1. Site does not have episode auto-next. ❌
 1. Sites UI is alright but has room for improvement. ⚠️
 1. Has built in subs for most content. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Has decent sorting options, but media discovery tools could be added. ⚠️
 
@@ -570,7 +570,7 @@
 1. Site does not have episode auto-next. ❌
 1. Sites UI is very clean and easy to use. ✔️
 1. Has built in subs for most content and allows adjustments. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -584,7 +584,7 @@
 1. Site does not have episode auto-next. ❌
 1. UI is decent but has room for improvement. ⚠️
 1. Has built in subs for most things and allows adjustments. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -598,7 +598,7 @@
 1. Site does not have episode auto-next. ❌
 1. Sites UI has room for improvement. ❌
 1. Site has built in subs for most content, and allows adding your own and adjusting. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site has continue watching, but no sort of watchlists. ⚠️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -640,7 +640,7 @@
 1. Site does not have episode auto-next. ❌
 1. Site US has room for improvement. ❌
 1. Has built in subs for most content. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site has some sorting options, but is lacking in terms of content discoverability. ⚠️
 
@@ -654,7 +654,7 @@
 1. Site does not have episode auto-next. ❌
 1. UI is decent, seems modern, but probably has room for improvement. ⚠️
 1. Most sources have subs built in. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -668,7 +668,7 @@
 1. Site does not have episode auto-next. ❌
 1. Sites UI is alright but has room for improvement. ⚠️
 1. Has built in subs for most content. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -682,7 +682,7 @@
 1. Site does not have episode auto-next. ❌
 1. Sites UI is alright but has room for improvement. ⚠️
 1. Has built in subs for most content. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -738,7 +738,7 @@
 1. Site does not have episode auto-next. ❌
 1. UI is alright but has room for improvements. ⚠️
 1. Allows adding + searching your own subtitles. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -752,7 +752,7 @@
 1. Site does not have episode auto-next. ❌
 1. UI is alright but has room for improvement. ⚠️
 1. Most sources have subs built in. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -766,7 +766,7 @@
 1. Site does not have episode auto-next. ❌
 1. Sites UI has room for improvement. ❌
 1. Has built in subs for most content. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site has history when you create account. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -780,7 +780,7 @@
 1. Site does have episode auto-next. ✔️
 1. Site has nice UI, feels modern, search shows results as you type. ✔️
 1. Site has built in subs for most content, allows you to upload your own and make adjustments. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -808,7 +808,7 @@
 1. Site does not have episode auto-next. ❌
 1. UI has room for improvement. ❌
 1. Allows adding + searching your own subtitles. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -822,7 +822,7 @@
 1. Site does not have episode auto-next. ❌
 1. Sites UI is alright but has room for improvement. ⚠️
 1. Site is lacking subtitle features. ❌
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Has sorting options and some collections, but overall content discovery tools could be added / improved. ⚠️
 
@@ -850,7 +850,7 @@
 1. Site does not have episode auto-next. ❌
 1. Site feels dated, lots of room for improvement. ❌
 1. Site is missing subs for most content. ❌
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site has watchlists when you signup. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 
@@ -864,7 +864,7 @@
 1. Site does not have episode auto-next. ❌
 1. Site UI feels dated, lots of room for improvement. ❌
 1. Players have built in subtitles for most content. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability. ❌
 
@@ -878,7 +878,7 @@
 1. Site does not have episode auto-next. ❌
 1. Site feels dated, lots of room for improvement. ❌
 1. Site is missing subtitle features. ❌
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Has watchlists when you signup. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -906,7 +906,7 @@
 1. Site does not have episode auto-next. ❌
 1. UI is very simple, lots of room for improvement. ❌
 1. Has built in subs for most content. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -920,7 +920,7 @@
 1. Site does not have episode auto-next. ❌
 1. Sites UI looks okay, but has room for improvement, and is slow. ❌
 1. Most sources include subtitles. ✔️
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site has watch list when you signup, but requires google. ⚠️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -976,7 +976,7 @@
 1. Site does not have episode auto-next. ❌
 1. UI is alright but has room for improvement. ⚠️
 1. Site is missing subtitle features. ❌
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -990,7 +990,7 @@
 1. Site does not have episode auto-next. ❌
 1. Sites UI is dated, has lots of room for improvement. ❌
 1. Site is lacking subtitle features. ❌
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Has no watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -1046,7 +1046,7 @@
 1. Site does not have episode auto-next. ❌
 1. Its a torrent site mainly so kinda hard to judge, but its decent. ⚠️
 1. Site is lacking subtitle features. ❌
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
@@ -1088,6 +1088,6 @@
 1. Site does not have episode auto-next. ❌
 1. Site feels dated, lots of room for improvement. ❌
 1. Site is lacking subtitle features. ❌
-1. Has movies shows and anime. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
