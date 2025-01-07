@@ -491,6 +491,20 @@
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
 ***
+## NetMirror (testing)
+### Score: 9/20
+1. Streams load very fast. ✔️
+1. Has 720p only, but can be lowered. ⚠️
+1. Site is hit and miss in terms of finding content. ❌
+1. Only 1 server, but it almost always works. ✔️
+1. Site does not have episode auto-next. ❌
+1. UI is decent, seems modern, but probably has room for improvement. ⚠️
+1. Site has subs for most content and allows adjustments. ✔️
+1. Site has movies and shows, but not much anime. ⚠️
+1. Site does not have watchlists, continue watching or history? ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## Cataz
 ### Score: 8/20
 1. Uses file hosts which are known for being slow sometimes. ⚠️
@@ -503,17 +517,3 @@
 1. Site has movies and shows, but not much anime. ⚠️
 1. Site has history and watchlists. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-
-***
-## NetMirror (testing)
-### Score: /20
-1. Streams load very fast. ✔️
-1. - Is the content in 1080p, and can it be changed lower?
-1. - How consistently does it find streams, including older content without issues?
-1. - How many sources do they have, and does it auto switch if one fails?
-1. - Does the site have auto-next episodes?
-1. - How is the sites UI / player? Is it nice to look at? What user-settings does it have? How does search work?
-1. - Do they have good subtitle features?
-1. - Does it have movies, shows, anime?
-1. - Does the site have watchlists, continue watching or history?
-1. - Does the site have tools for discovery like recommendations, collections or AI?
