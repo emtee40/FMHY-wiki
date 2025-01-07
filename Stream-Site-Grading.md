@@ -43,6 +43,20 @@
 1. Has decent sorting options, but recommendations tools or collections could be added. ⚠️
 
 ***
+## Freek
+### Score: 19/20
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be changed lower. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 3 sources and main generally always works. ✔️
+1. Site has no auto-next. ✔️
+1. Its solid, has good user settings, feels modern. ✔️
+1. Allows adding + searching your own subtitles. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watchlists + history. ✔️
+1. Has decent sorting options, but not much in terms of discovery tools. ⚠️
+
+***
 ## Rive
 ### Score: 19/20
 1. Streams load very fast. ✔️
@@ -69,20 +83,6 @@
 1. Has movies, shows and anime. ✔️
 1. Site does have watchlists and continue watching. ✔️
 1. Site has collections, recommendations and mood search. ✔️
-
-***
-## Freek
-### Score: 17/20
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be changed lower. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. Has 3 sources and main generally always works. ✔️
-1. Site has no auto-next. ❌
-1. Its solid, has good user settings, feels modern. ✔️
-1. Allows adding + searching your own subtitles. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watchlists + history. ✔️
-1. Has decent sorting options, but not much in terms of discovery tools. ⚠️
 
 ***
 ## Broflix
@@ -447,3 +447,17 @@
 1. Site has movies and shows, but not much anime. ⚠️
 1. Site has history and watchlists. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+
+***
+## HollyMovieHD
+### Score: /20
+1. Streams load very fast. ✔️
+1. - Is the content in 1080p, and can it be changed lower?
+1. - How consistently does it find streams, including older content without issues?
+1. - How many sources do they have, and does it auto switch if one fails?
+1. - Does the site have auto-next episodes?
+1. - How is the sites UI / player? Is it nice to look at? What user-settings does it have? How does search work?
+1. - Do they have good subtitle features?
+1. - Does it have movies, shows, anime?
+1. - Does the site have watchlists, continue watching or history?
+1. - Does the site have tools for discovery like recommendations, collections or AI?
