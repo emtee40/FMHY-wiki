@@ -85,6 +85,20 @@
 1. Does have a search AI to help find new stuff. ✔️
 
 ***
+## PopcornMovies
+### Score: 18/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, but it cant be lowered. ⚠️
+1. Finds streams quickly, including older content. ✔️
+1. It has 3 hosts, and it does auto-switch if one fails. ✔️
+1. The site does have episode auto-next. ✔️
+1. UI is very good, modern looking with lots to look at. ✔️
+1. Has built in subs for most content. ✔️
+1. They have movies, shows and anime. ✔️
+1. Has watchlists and history when you make account. ✔️
+1. Has decent sorting and some collections, but more media discoverability options could be added. ⚠️
+
+***
 ## Hexa
 ### Score: 18/20
 1. Streams load very fast. ✔️
@@ -223,20 +237,6 @@
 1. It has movies, shows and anime. ✔️
 1. Site has watchlists when you signup. ✔️
 1. Has decent content sorting, but more discoverability options could be added. ⚠️
-
-***
-## PopcornMovies
-### Score: 16/20
-1. Streams load, but it takes a second. ⚠️
-1. Content is 1080p, but it cant be lowered. ⚠️
-1. Finds streams quickly, including older content. ✔️
-1. It has 3 hosts, and it does auto-switch if one fails. ✔️
-1. The site does have episode auto-next. ✔️
-1. UI is very good, modern looking with lots to look at. ✔️
-1. Site is missing subtitles for many things. ❌
-1. They have movies, shows and anime. ✔️
-1. Has watchlists and history when you make account. ✔️
-1. Lots of different collections to browse. ✔️
 
 ***
 ## VidBox
