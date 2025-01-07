@@ -363,3 +363,17 @@
 1. It has movies, shows and anime. ✔️
 1. Site has no watchlists, continue watching or history. ❌
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+
+***
+## Cataz
+### Score: 8/20
+1. Uses file hosts which are known for being slow sometimes. ⚠️
+1. Content mostly 720p and can't change quality. ❌
+1. Good for both new and old content. ✔️
+1. 15+ hosts on most content, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Site feels dated, lots of room for improvement. ❌
+1. Most content does not much subs. ❌
+1. Site has movies and shows, but not much anime. ⚠️
+1. Site has history and watchlists. ✔️
+1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
