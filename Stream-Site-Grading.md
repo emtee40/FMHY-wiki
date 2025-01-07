@@ -25,7 +25,7 @@
 1. Very nice UI, search works well, lots of user settings. ✔️
 1. You can add, search or adjust subtitles on the site. ✔️
 1. It has movies, shows and anime. ✔️
-1. Site has continue watching options. ✔️
+1. Site has continue watching options that can be synced. ✔️
 1. Site has good sorting + random suggestions and editor picks. ✔️
 
 ***
@@ -99,20 +99,6 @@
 1. Has decent sorting options, but not much in terms of discovery tools. ⚠️
 
 ***
-## 456movie
-### Score: 17/20
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. It finds streams very fast, including very old obscure content. ✔️
-1. 15 sources, but they dont auto-switch if one fails. ⚠️
-1. Site does not have auto-next. ❌
-1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
-1. Most of their sources allow subtitles. ✔️
-1. Has movies, shows, anime? ✔️
-1. Site has continue watching. ✔️
-1. Has AI recommendation tool. ✔️
-
-***
 ## NetPlayz
 ### Score: 17/20
 1. Some servers load fast, but main has issues sometimes. ⚠️
@@ -137,21 +123,35 @@
 1. UI isn't bad, but it could be improved. ⚠️
 1. Players have built in subtitles for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Has continue watching + favorites. ✔️
+1. Has continue watching + favorites that can be synced. ✔️
 1. Its alright, it has options for filters, but more content discoverability options would be nice. ⚠️
+
+***
+## 456movie
+### Score: 16/20
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. It finds streams very fast, including very old obscure content. ✔️
+1. 15 sources, but they dont auto-switch if one fails. ⚠️
+1. Site does not have auto-next. ❌
+1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
+1. Most of their sources allow subtitles. ✔️
+1. Has movies, shows, anime? ✔️
+1. Site has continue watching, but no watchlists. ⚠️
+1. Has AI recommendation tool. ✔️
 
 ***
 ## RgShows
 ### Score: 16/20
 1. Streams load very fast. ✔️
-1. The content is in 1080p, but can only be lowered on some players. ⚠️
+1. The content is in 1080p, and can be lowered and most servers. ✔️
 1. Finds streams quickly, including older content. ✔️
 1. 25 english hosts + 3 non eng, and main almost always works. ✔️
 1. Site does not have auto-next episodes. ❌
 1. UI is decent, feels modern, has lots of user settings. ✔️
 1. Players have built in subtitles for most content. ✔️
 1. Has movies, shows, anime. ✔️
-1. Site has continue watching. ✔️
+1. Site has continue watching, but no sort of watchlists. ⚠️
 1. Decent sorting options but more discovery tools could be added. ⚠️
 
 ***
@@ -393,20 +393,6 @@
 1. Site has no sorting or content discoverability options. ❌
 
 ***
-## stream fr
-### Score: 13/20
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 21 servers, but does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites UI has room for improvement. ❌
-1. Site has built in subs for most content, and allows adding your own and adjusting. ✔️
-1. Has movies shows and anime. ✔️
-1. Site has continue watching. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-
-***
 ## BrocoFlix
 ### Score: 12/20
 1. Streams load very fast. ✔️
@@ -432,6 +418,20 @@
 1. Has built in subs for most things and allows adjustments. ✔️
 1. Has movies shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
+## stream fr
+### Score: 12/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 21 servers, but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI has room for improvement. ❌
+1. Site has built in subs for most content, and allows adding your own and adjusting. ✔️
+1. Has movies shows and anime. ✔️
+1. Site has continue watching, but no sort of watchlists. ⚠️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
 ***
@@ -603,20 +603,6 @@
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
 ***
-## FireFlix
-### Score: 10/20
-1. Streams load very fast. ✔️
-1. Main server is 720p or lower for a lot of content. ❌
-1. Site is good for newer content but not as good for older stuff. ⚠️
-1. Has 10 hosts, but does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI is pretty good, looks moderns, search shows results as you type. ✔️
-1. Site is lacking in terms of subtitle features. ❌
-1. Site has movies and shows, but not much anime. ⚠️
-1. Site has continue watching. ✔️
-1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-
-***
 ## SFlix
 ### Score: 10/20
 1. Servers can be good, but are known for occasional inconsistency. ⚠️
@@ -631,6 +617,20 @@
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 
 ***
+## FireFlix
+### Score: 9/20
+1. Streams load very fast. ✔️
+1. Main server is 720p or lower for a lot of content. ❌
+1. Site is good for newer content but not as good for older stuff. ⚠️
+1. Has 10 hosts, but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is pretty good, looks moderns, search shows results as you type. ✔️
+1. Site is lacking in terms of subtitle features. ❌
+1. Site has movies and shows, but not much anime. ⚠️
+1. Site has continue watching, but no sort of watchlists. ⚠️
+1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+
+***
 ## OnionPlay
 ### Score: 9/20
 1. Streams load very fast. ✔️
@@ -642,20 +642,6 @@
 1. Site is missing subtitle features. ❌
 1. Has movies shows and anime. ✔️
 1. Does not have watchlists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-
-***
-## SpenEmbed
-### Score: 9/20
-1. Streams load very fast. ✔️
-1. Has 1080p, but can't be lowered. ⚠️
-1. Good for new content, but struggles to find older stuff. ⚠️
-1. Only 2 sources and does not auto-switch if one fails. ❌
-1. Site does not have episode auto-next. ❌
-1. UI has lots of room for improvement. ❌
-1. Has built in subs for most content. ✔️
-1. Site has movies and shows, but not much anime. ⚠️
-1. Site has continue watching. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
 ***
@@ -684,6 +670,20 @@
 1. Site has subs for most content and allows adjustments. ✔️
 1. Site has movies and shows, but not much anime. ⚠️
 1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
+## SpenEmbed
+### Score: 8/20
+1. Streams load very fast. ✔️
+1. Has 1080p, but can't be lowered. ⚠️
+1. Good for new content, but struggles to find older stuff. ⚠️
+1. Only 2 sources and does not auto-switch if one fails. ❌
+1. Site does not have episode auto-next. ❌
+1. UI has lots of room for improvement. ❌
+1. Has built in subs for most content. ✔️
+1. Site has movies and shows, but not much anime. ⚠️
+1. Site has continue watching, but no sort of watchlists. ⚠️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
 ***
