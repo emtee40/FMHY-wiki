@@ -141,6 +141,20 @@
 1. Site has sorting options, but a bit more could be added for discoverability. ⚠️
 
 ***
+## Mapple.tv
+### Score: 16/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 9 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Very nice UI, looks modern, search works well. ✔️
+1. Has built in subs for most content. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has watchlists when you signup. ✔️
+1. Has decent content sorting, but more discoverability options could be added. ⚠️
+
+***
 ## PopcornMovies
 ### Score: 16/20
 1. Streams load, but it take a second. ⚠️
