@@ -407,6 +407,20 @@
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 
 ***
+## Levidia
+### Score: 11/20
+1. Streams load, but it take a second. ⚠️
+1. Site gives both 1080p/720p options. ✔️
+1. Good for both new and old content. ✔️
+1. Only 1 host, but it generally always works. ✔️
+1. Site does not have episode auto-next. ❌
+1. Site feels dated, lots of room for improvement. ❌
+1. Site is missing subtitle features. ❌
+1. Has movies shows and anime. ✔️
+1. Has watchlists when you signup. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## FireFlix
 ### Score: 10/20
 1. Streams load very fast. ✔️
@@ -461,4 +475,3 @@
 1. Site has movies and shows, but not much anime. ⚠️
 1. Site has history and watchlists. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-
