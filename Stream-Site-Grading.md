@@ -435,6 +435,20 @@
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 
 ***
+## 6Movies
+### Score: 11/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, but can't be lowered. ⚠️
+1. Good for both new and old content. ✔️
+1. Has 5 hosts, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Site feels dated, lots of room for improvement. ❌
+1. Site is missing subs for most content. ❌
+1. Has movies shows and anime. ✔️
+1. Site has watchlists when you signup. ✔️
+1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+
+***
 ## Levidia
 ### Score: 11/20
 1. Streams load, but it takes a second. ⚠️
