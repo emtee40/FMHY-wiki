@@ -207,7 +207,7 @@
 1. UI is very good, modern looking with lots to look at. ✔️
 1. Site is missing subtitles for many things. ❌
 1. They have movies, shows and anime. ✔️
-1. Has watchlists when you make account. ✔️
+1. Has watchlists and history when you make account. ✔️
 1. Lots of different collections to browse. ✔️
 
 ***
@@ -475,6 +475,20 @@
 1. Site only has movies. ❌
 1. Site allows you to create playlists. ✔️
 1. Site has sorting options, random movies, and playlist generators. ✔️
+
+***
+## Hopcorn
+### Score: 12/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 10 servers but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is alright but has room for improvements. ⚠️
+1. Allows adding + searching your own subtitles. ✔️
+1. Has movies shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
 
 ***
 ## LookMovie
