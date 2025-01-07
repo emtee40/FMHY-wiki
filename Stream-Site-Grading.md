@@ -185,7 +185,7 @@
 ***
 ## PopcornMovies
 ### Score: 16/20
-1. Streams load, but it take a second. ⚠️
+1. Streams load, but it takes a second. ⚠️
 1. Content is 1080p, but it cant be lowered. ⚠️
 1. Finds streams quickly, including older content. ✔️
 1. It has 3 hosts, and it does auto-switch if one fails. ✔️
@@ -379,6 +379,20 @@
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 
 ***
+## MP4Hydra
+### Score: 12/20
+1. Streams load, but it takes a second. ⚠️
+1. Has 1080p, but can't be changed lower. ⚠️
+1. Good for both new and old content. ✔️
+1. Has has 2 sources, but doesn't auto-switch if one fails. ⚠️
+1. Site only has movies so it doesn't need auto-switch. ⚠️
+1. Site feels dated, lots of room for improvement. ❌
+1. Has built in subs for most content and allows adjusting. ✔️
+1. Site only has movies. ❌
+1. Site allows you to create playlists. ✔️
+1. Site has sorting options, random movies, and playlist generators. ✔️
+
+***
 ## Heartive
 ### Score: 11/20
 1. Streams load very fast. ✔️
@@ -409,7 +423,7 @@
 ***
 ## Levidia
 ### Score: 11/20
-1. Streams load, but it take a second. ⚠️
+1. Streams load, but it takes a second. ⚠️
 1. Site gives both 1080p/720p options. ✔️
 1. Good for both new and old content. ✔️
 1. Only 1 host, but it generally always works. ✔️
