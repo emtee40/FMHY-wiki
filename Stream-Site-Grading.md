@@ -194,7 +194,7 @@
 1. Players have built in subtitles for most content. ✔️
 1. Has movies, shows, anime. ✔️
 1. Site has continue watching, but no sort of watchlists. ⚠️
-1. Decent sorting options but more media iscovery tools could be added. ⚠️
+1. Decent sorting options but more media discovery tools could be added. ⚠️
 
 ***
 ## Nunflix
