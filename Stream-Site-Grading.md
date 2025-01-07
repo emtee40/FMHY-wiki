@@ -309,6 +309,20 @@
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
 ***
+## Cinema Deck
+### Score: 15/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 6 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is good, feels very modern, shows results as you type. ✔️
+1. Has built in subs for most content. ✔️
+1. Has movies shows and anime. ✔️
+1. Site has watch lists when you signup.  ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## zmov
 ### Score: 15/20
 1. Streams load very fast. ✔️
@@ -867,7 +881,6 @@
 1. Has movies shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-
 
 
 
