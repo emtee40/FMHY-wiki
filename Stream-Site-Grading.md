@@ -15,8 +15,7 @@
 ❌= 0 points
 
 ***
-## movie-web Instances
-### Score: 20/20
+## movie-web Instances 20/20
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
