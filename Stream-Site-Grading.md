@@ -309,6 +309,20 @@
 1. Site is lacking in terms of sorting or content discoverability options. ❌
 
 ***
+## EE3
+### Score: 13/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, but cannot be changed. ⚠️
+1. Good for both new and old content. ✔️
+1. Only 1 source but it generally works. ✔️
+1. Site has movies only so it doesn't need episode auto-next. ⚠️
+1. UI is alright but has room for improvement. ⚠️
+1. Has built in subs for most content. ✔️
+1. Sites only has movies. ❌
+1. Site has watchlists, continue watching and history. ✔️
+1. Site has no sorting or content discoverability options. ❌
+
+***
 ## BrocoFlix
 ### Score: 12/20
 1. Streams load very fast. ✔️
