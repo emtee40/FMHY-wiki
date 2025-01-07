@@ -211,6 +211,20 @@
 1. Lots of different collections to browse. ✔️
 
 ***
+## 7Xtream
+### Score: 16/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 19 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is alright but has room for improvement. ⚠️
+1. Has built in subs for most content and allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has watchlists. ✔️
+1. Site has sorting options, and similar + recommended on each page. ✔️
+
+***
 ## VidBox
 ### Score: 16/20
 1. Streams load very fast. ✔️
@@ -279,20 +293,6 @@
 1. Has movies shows and anime. ✔️
 1. Site has watchlists. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
-
-***
-## 7Xtream
-### Score: 15/20
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. Has 19 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is alright but has room for improvement. ⚠️
-1. Has built in subs for most content and allows adjustments. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has watchlists. ✔️
-1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 
 ***
 ## Noxe
