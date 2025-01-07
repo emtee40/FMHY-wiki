@@ -627,8 +627,22 @@
 1. Sites UI and player are both good, feel modern. ✔️
 1. Site is lacking subtitle features. ❌
 1. It has movies, shows and anime. ✔️
-1. Site tracks last things watched, but is otherwise lacking watchlists and history. ❌
+1. Site tracks last thing watched, but is otherwise lacking watchlists and history. ❌
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+
+***
+## Vidplay
+### Score: 12/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 3 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Site US has room for improvement. ❌
+1. Has built in subs for most content. ✔️
+1. Has movies shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site has some sorting options, but is lacking in terms of content discoverability. ⚠️
 
 ***
 ## Way2Movies
@@ -1049,7 +1063,6 @@
 1. Has movies shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-
 
 
 
