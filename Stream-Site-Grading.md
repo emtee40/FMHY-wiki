@@ -827,6 +827,20 @@
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 
 ***
+## YassFlix
+### Score: 11/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 5 sources but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Site UI feels dated, lots of room for improvement. ❌
+1. Players have built in subtitles for most content. ✔️
+1. Has movies shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability. ❌
+
+***
 ## Levidia
 ### Score: 11/20
 1. Streams load, but it takes a second. ⚠️
