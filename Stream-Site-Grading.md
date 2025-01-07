@@ -113,6 +113,20 @@
 1. Has decent sorting options, but not much in terms of media discovery tools. ⚠️
 
 ***
+## HydraHD
+### Score: 17/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. 7 english servers + 3 non eng and main one almost always works. ✔️
+1. Site does not have episode auto-next. ❌
+1. UI feels modern, lots of features like ratings / mark as watched etc. ✔️
+1. Players have built in subtitles for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Has continue watching + favorites that can be synced. ✔️
+1. Its alright, it has options for filters, but more content discoverability options would be nice. ⚠️
+
+***
 ## NetPlayz
 ### Score: 17/20
 1. Some servers load fast, but main has issues sometimes. ⚠️
@@ -139,20 +153,6 @@
 1. It has movies, shows and anime. ✔️
 1. Site has watchlists. ✔️
 1. Site has sorting options, and similar + recommended on each page. ✔️
-
-***
-## HydraHD
-### Score: 16/20
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. 7 english servers + 3 non eng and main one almost always works. ✔️
-1. Site does not have episode auto-next. ❌
-1. UI isn't bad, but it could be improved. ⚠️
-1. Players have built in subtitles for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Has continue watching + favorites that can be synced. ✔️
-1. Its alright, it has options for filters, but more content discoverability options would be nice. ⚠️
 
 ***
 ## 456movie
