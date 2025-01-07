@@ -603,6 +603,20 @@
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
 ***
+## downloads-anymovies
+### Score: 5/20
+1. Uses file host which is known for being slow sometimes. ⚠️
+1. Site has 1080p but can't be lowered. ⚠️
+1. Good for both new and old content. ✔️
+1. Only 1 server which can be inconsistent. ❌
+1. Only has movies so does not need episode auto-next. ⚠️
+1. Site feels dated, lots of room for improvement. ❌
+1. Site is lacking subtitle features. ❌
+1. Sites only has movies. ❌
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## SkyMovies
 ### Score: 4/20
 1. Uses file host that is pretty slow. ❌
