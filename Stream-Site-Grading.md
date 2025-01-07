@@ -132,7 +132,7 @@
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams quickly, including older content. ✔️
-1. 7 english servers + 3 non eng and main one always always works. ✔️
+1. 7 english servers + 3 non eng and main one almost always works. ✔️
 1. Site does not have episode auto-next. ❌
 1. UI isn't bad, but it could be improved. ⚠️
 1. Players have built in subtitles for most content. ✔️
@@ -756,7 +756,19 @@
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
-
+***
+## Noxe
+### Score: /20
+1. Some servers load fast, but main has issues sometimes. ⚠️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 12 sources but does not auto-switch if one fails. ⚠️
+1. Site does have auto-next. ✔️
+1. - How is the sites UI / player? Is it nice to look at? What user-settings does it have? How does search work?
+1. - Do they have good subtitle features?
+1. - Does it have movies, shows, anime?
+1. - Does the site have watchlists, continue watching or history?
+1. - Does the site have tools for discovery like recommendations, collections or AI?
 
 
 
