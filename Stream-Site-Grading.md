@@ -435,6 +435,20 @@
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 
 ***
+## HollyMovieHD
+### Score: 9/20
+1. Streams load very fast. ✔️
+1. Has 1080p, but can't be changed lower. ⚠️
+1. Good for both new and old content. ✔️
+1. Only 1 source for most things, but it almost always works. ✔️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is dated, has lots of room for improvement. ❌
+1. Site is lacking subtitle features. ❌
+1. Has movies shows and anime. ✔️
+1. Has no watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## Cataz
 ### Score: 8/20
 1. Uses file hosts which are known for being slow sometimes. ⚠️
@@ -448,16 +462,3 @@
 1. Site has history and watchlists. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 
-***
-## HollyMovieHD
-### Score: /20
-1. Streams load very fast. ✔️
-1. - Is the content in 1080p, and can it be changed lower?
-1. - How consistently does it find streams, including older content without issues?
-1. - How many sources do they have, and does it auto switch if one fails?
-1. - Does the site have auto-next episodes?
-1. - How is the sites UI / player? Is it nice to look at? What user-settings does it have? How does search work?
-1. - Do they have good subtitle features?
-1. - Does it have movies, shows, anime?
-1. - Does the site have watchlists, continue watching or history?
-1. - Does the site have tools for discovery like recommendations, collections or AI?
