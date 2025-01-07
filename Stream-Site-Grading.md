@@ -4,7 +4,7 @@
 1. - How consistently does it find streams, including older content without issues?
 1. - How many sources do they have, and does it auto switch if one fails?
 1. - Does the site have auto-next episodes?
-1. - How is the sites UI? Is it nice to look at? What user-settings does it have? How does search work?
+1. - How is the sites UI / player? Is it nice to look at? What user-settings does it have? How does search work?
 1. - Do they have good subtitle features?
 1. - Does it have movies, shows, anime?
 1. - Does the site have watchlists, continue watching or history?
@@ -293,3 +293,17 @@
 1. It has movies, shows and anime. ✔️
 1. Site has no watchlists, history or continue watching. ❌
 1. Site has no sorting or content discoverability options. ❌
+
+***
+## xPrime
+### Score: /20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. They have 4 servers and they do auto-switch if one fails. ✔️
+1. - Does the site have auto-next episodes?
+1. - How is the sites UI? Is it nice to look at? What user-settings does it have? How does search work?
+1. - Do they have good subtitle features?
+1. - Does it have movies, shows, anime?
+1. - Does the site have watchlists, continue watching or history?
+1. - Does the site have tools for discovery like recommendations, collections or AI?
