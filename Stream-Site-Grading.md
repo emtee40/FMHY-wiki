@@ -960,7 +960,7 @@
 1. Site is good for newer content but not as good for older stuff. ⚠️
 1. Has 10 hosts, but does not auto-switch if one fails. ⚠️
 1. Site does not have episode auto-next. ❌
-1. UI is pretty good, looks moderns, search shows results as you type. ✔️
+1. UI is pretty good, looks modern, search shows results as you type. ✔️
 1. Site is lacking in terms of subtitle features. ❌
 1. Site has movies and shows, but not much anime. ⚠️
 1. Site has continue watching, but no sort of watchlists. ⚠️
