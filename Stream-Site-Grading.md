@@ -267,6 +267,20 @@
 1. Has decent content sorting, but more discoverability options could be added. ⚠️
 
 ***
+## BrocoFlix
+### Score: 12/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 6 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is decent, looks modern, but has room for improvement. ⚠️
+1. Most content has built in subs. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site has no sorting or content discoverability options. ❌
+
+***
 ## Heartive
 ### Score: 11/20
 1. Streams load very fast. ✔️
