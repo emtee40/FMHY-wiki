@@ -337,6 +337,20 @@
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
 ***
+## Filmex
+### Score: 15/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 7 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is solid, feels modern and shows results as you search. ✔️
+1. Has built in subs for most content and allows adjustments. ✔️
+1. Has movies shows and anime. ✔️
+1. Site has ontinue watching when you signup. ⚠️
+1. Has decent sorting options, but more discoverability options would be nice. ⚠️
+
+***
 ## catflix
 ### Score: 14/20
 1. Streams load very fast. ✔️
@@ -901,7 +915,7 @@
 
 
 
-FOR COPY/PASTE
+BELOW IS FOR COPY/PASTE
 ***
 ## 
 ### Score: /20
