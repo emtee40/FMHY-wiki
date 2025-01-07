@@ -365,6 +365,20 @@
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 
 ***
+## FshareTV
+### Score: 12/20
+1. Streams load, but it takes a second. ⚠️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Only 3 servers and main almost always works. ✔️
+1. Site has no shows so it doesn't need episode auto-next. ⚠️
+1. UI is decent but has room for improvement. ⚠️
+1. Allows searching and adjusting subtitles. ✔️
+1. Site is only movies. ❌
+1. Site has no watchlists, continue watching or history. ❌
+1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+
+***
 ## RidoMovies
 ### Score: 12/20
 1. Streams load very fast. ✔️
