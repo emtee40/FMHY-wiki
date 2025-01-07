@@ -463,6 +463,20 @@
 1. Site has sorting options, random movies, and playlist generators. ✔️
 
 ***
+## LookMovie
+### Score: 12/20
+1. 10 second wait to get to content. ❌
+1. Site is capped at 480p. ❌
+1. Good for both new and old content. ✔️
+1. Only 1 source, but it almost always works. ✔️
+1. Site does have episode auto-next. ✔️
+1. Site has nice UI, feels modern, search shows results as you type. ✔️
+1. Site has built in subs for most content, allows you to upload your own and make adjustments. ✔️
+1. Has movies shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## Heartive
 ### Score: 11/20
 1. Streams load very fast. ✔️
@@ -671,9 +685,6 @@
 1. Has movies shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-
-
-
 
 
 
