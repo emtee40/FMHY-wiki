@@ -323,6 +323,20 @@
 1. Has sorting options and some collections, but overall content discovery tools could be added / improved. ⚠️
 
 ***
+## nKiri
+### Score: 15/20
+1. Streams load very fast. ✔️
+1. The content is 1080p and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 5 sources but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Just a clone of Rive with less features and players. ⚠️
+1. Has built in subs for most content. ✔️
+1. Has movies shows and anime. ✔️
+1. Site has watchlists and continue watching. ✔️
+1. Has decent sorting options, but recommendations tools or collections could be added. ⚠️
+
+***
 ## Cinema Deck
 ### Score: 15/20
 1. Streams load very fast. ✔️
