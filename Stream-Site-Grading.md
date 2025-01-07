@@ -337,6 +337,20 @@
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 
 ***
+## RidoMovies
+### Score: 12/20
+1. Streams load very fast. ✔️
+1. Content mostly 720p and can't change quality. ❌
+1. Good for both new and old content. ✔️
+1. Only have 1 source for most content, but it almost always works. ✔️
+1. Site does not have episode auto-next. ❌
+1. Site feels dated, has lots of room for improvement. ❌
+1. Has subs built in for most content. ✔️
+1. Site has movies and shows, but not much anime. ⚠️
+1. Has watchlists when you signup. ✔️
+1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+
+***
 ## Heartive
 ### Score: 11/20
 1. Streams load very fast. ✔️
