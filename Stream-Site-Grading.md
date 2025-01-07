@@ -113,6 +113,20 @@
 1. Has decent sorting options, but more discoverability options would be nice. ⚠️
 
 ***
+## 7Xtream
+### Score: 17/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 19 servers and gives user option to auto-switch. ✔️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is alright but has room for improvement. ⚠️
+1. Has built in subs for most content and allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has watchlists. ✔️
+1. Site has sorting options, and similar + recommended on each page. ✔️
+
+***
 ## HydraHD
 ### Score: 16/20
 1. Streams load very fast. ✔️
@@ -223,20 +237,6 @@
 1. They have movies, shows and anime. ✔️
 1. Has watchlists and history when you make account. ✔️
 1. Lots of different collections to browse. ✔️
-
-***
-## 7Xtream
-### Score: 16/20
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. Has 19 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is alright but has room for improvement. ⚠️
-1. Has built in subs for most content and allows adjustments. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has watchlists. ✔️
-1. Site has sorting options, and similar + recommended on each page. ✔️
 
 ***
 ## VidBox
