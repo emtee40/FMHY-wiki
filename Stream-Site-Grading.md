@@ -321,3 +321,17 @@
 1. It has movies, shows and anime. ✔️
 1. Site has no watchlists, history or continue watching. ❌
 1. Site has no sorting or content discoverability options. ❌
+
+***
+## FireFlix
+### Score: 10/20
+1. Streams load very fast. ✔️
+1. Main server is 720p or lower for a lot of content. ❌
+1. Site is good for newer content but not as good for older stuff. ⚠️
+1. Has 10 hosts, but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is pretty good, looks moderns, search shows results as you type. ✔️
+1. Site is lacking in terms of subtitle features. ❌
+1. Site has movies and shows, but not much anime. ⚠️
+1. Site has continue watching. ✔️
+1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
