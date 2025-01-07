@@ -295,6 +295,20 @@
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 
 ***
+## zmov
+### Score: 15/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 12 english servers + 5 non eng, but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI and player are good, site feels modern. ✔️
+1. Has built in subs for most content and allows adjustments. ✔️
+1. Has movies shows and anime. ✔️
+1. Site has watchlists and continue watching. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## catflix
 ### Score: 14/20
 1. Streams load very fast. ✔️
