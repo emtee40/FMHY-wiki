@@ -939,6 +939,20 @@
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
 ***
+## SpenEmbed
+### Score: 10/20
+1. Streams load very fast. ✔️
+1. Has 1080p and can be lowered. ✔️
+1. Good for new content, but struggles to find older stuff. ⚠️
+1. 7 sources and does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI has lots of room for improvement. ❌
+1. Has built in subs for most content. ✔️
+1. Site has movies and shows, but not much anime. ⚠️
+1. Site has continue watching, but no sort of watchlists. ⚠️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## SFlix
 ### Score: 10/20
 1. Servers can be good, but are known for occasional inconsistency. ⚠️
@@ -1020,20 +1034,6 @@
 1. Site has subs for most content and allows adjustments. ✔️
 1. Site has movies and shows, but not much anime. ⚠️
 1. Site does not have watchlists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-
-***
-## SpenEmbed
-### Score: 8/20
-1. Streams load very fast. ✔️
-1. Has 1080p, but can't be lowered. ⚠️
-1. Good for new content, but struggles to find older stuff. ⚠️
-1. Only 2 sources and does not auto-switch if one fails. ❌
-1. Site does not have episode auto-next. ❌
-1. UI has lots of room for improvement. ❌
-1. Has built in subs for most content. ✔️
-1. Site has movies and shows, but not much anime. ⚠️
-1. Site has continue watching, but no sort of watchlists. ⚠️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
 ***
