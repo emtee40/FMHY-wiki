@@ -309,6 +309,20 @@
 1. Site has no sorting or content discoverability options. ❌
 
 ***
+## NEPU
+### Score: 12/20
+1. Streams load very fast. ✔️
+1. Most content is 1080p (or 4k in some cases), but cannot be lowered. ⚠️
+1. Good for both new and old content. ✔️
+1. Only have 1 source for most content, but it almost always works. ✔️
+1. Site does not have episode auto-next. ❌
+1. Sites UI and player are both good, feel modern. ✔️
+1. Site is lacking subtitle features. ❌
+1. It has movies, shows and anime. ✔️
+1. Site tracks last things watched, but is otherwise lacking watchlists and history. ❌
+1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+
+***
 ## Heartive
 ### Score: 11/20
 1. Streams load very fast. ✔️
