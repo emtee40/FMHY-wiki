@@ -54,7 +54,7 @@
 1. You can add your own subtitles, search for subtitles, and adjust them. ✔️
 1. It has movies, shows and anime. ✔️
 1. The site has watchlists + history. ✔️
-1. Has decent sorting options, but recommendations tools or collections could be added. ⚠️
+1. Has decent sorting options, but content discovery tools or collections could be added. ⚠️
 
 ***
 ## Freek
@@ -334,7 +334,7 @@
 1. Has built in subs for most content. ✔️
 1. Has movies shows and anime. ✔️
 1. Site has watchlists and continue watching. ✔️
-1. Has decent sorting options, but recommendations tools or collections could be added. ⚠️
+1. Has decent sorting options, but content discovery tools or collections could be added. ⚠️
 
 ***
 ## Cinema Deck
@@ -531,6 +531,20 @@
 1. Has movies shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
+## YoYoMovies
+### Score: 13/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 4 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is alright but has room for improvement. ⚠️
+1. Has built in subs for most content. ✔️
+1. Has movies shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Has decent sorting options, but media discovery tools could be added. ⚠️
 
 ***
 ## BrocoFlix
@@ -1027,6 +1041,7 @@
 
 
 BELOW IS FOR COPY/PASTE
+
 ***
 ## 
 ### Score: /20
