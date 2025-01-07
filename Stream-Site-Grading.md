@@ -2,13 +2,13 @@
 1. - How fast do streams load?
 1. - Is the content in 1080p, and can it be changed lower?
 1. - How consistently does it find streams, including older content without issues?
-1. - How consistent are their servers, how many are there, and does it auto switch if one fails?
+1. - How consistent are their servers? How many are there? Does it auto switch if one fails?
 1. - Does the site have auto-next episodes?
-1. - How is the sites UI / player? Is it nice to look at? What user-settings does it have? How does search work?
-1. - Do they have good subtitle features?
-1. - Does it have movies, shows, anime?
-1. - Does the site have watchlists, continue watching or history?
-1. - Does the site have tools for discovery like recommendations, collections or AI?
+1. - How are the sites UI, player and search? Are they nice overall? What sort of user settings does it have?
+1. - What sort of subtitle features does the site have?
+1. - Does it have movies, shows and anime?
+1. - Does the site have watchlists, history or continue watching?
+1. - Does the site have tools for discovery like sorting, recommendations, collections, AI etc?
 
 ✔️= 2 points
 ⚠️= 1 point
