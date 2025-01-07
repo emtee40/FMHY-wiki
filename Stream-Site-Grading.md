@@ -529,7 +529,7 @@
 1. UI is decent, seems modern, but probably has room for improvement. ⚠️
 1. Site has subs for most content and allows adjustments. ✔️
 1. Site has movies and shows, but not much anime. ⚠️
-1. Site does not have watchlists, continue watching or history? ❌
+1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
 ***
@@ -545,3 +545,17 @@
 1. Site has movies and shows, but not much anime. ⚠️
 1. Site has history and watchlists. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+
+***
+## SkyMovies
+### Score: 4/20
+1. Uses file host that is pretty slow. ❌
+1. Content mostly 720p but it does give lower options too. ⚠️
+1. Good for newer content but struggles finding older stuff. ⚠️
+1. Only 1 source and isn't very consistent. ❌
+1. Site does not have episode auto-next. ❌
+1. Site feels dated, lots of room for improvement. ❌
+1. Site is lacking subtitle features. ❌
+1. Has movies shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
