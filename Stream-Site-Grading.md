@@ -141,6 +141,20 @@
 1. Has AI recommendation tool. ✔️
 
 ***
+## Autoembed
+### Score: 16/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 6 english and 3 non eng servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is solid, feels very modern. ✔️
+1. Site has subtitles for most content. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site does have watchlist. ✔️
+1. Site has decent sorting options, but more discoverability options would be nice. ⚠️
+
+***
 ## RgShows
 ### Score: 16/20
 1. Streams load very fast. ✔️
@@ -251,20 +265,6 @@
 1. It has movies, shows and anime. ✔️
 1. Site has no watchlists or history. ❌
 1. Has decent sorting, but better discoverability options could be added. ⚠️
-
-***
-## Autoembed
-### Score: 15/20
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 6 english and 3 non eng servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI is decent, seems modern, but probably has room for improvement. ⚠️
-1. Site has subtitles for most content. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site does have watchlist. ✔️
-1. Site has decent sorting options, but more discoverability options would be nice. ⚠️
 
 ***
 ## xPrime
@@ -882,10 +882,24 @@
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
+***
+## WatchHQ
+### Score: /20
+1. Streams load very fast. ✔️
+1. Has 1080p and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. 9 servers, but you have to select them in sites setting rather than player. ❌
+1. Site does not have episode auto-next. ❌
+1. * How are the site's UI, player and search? Are they nice overall? What sort of user settings does it have?
+1. * What sort of subtitle features does the site have?
+1. * Does it have movies, shows and anime?
+1. * Does the site have watch lists, history or continue watching?
+1. * Does the site have tools for discovery like sorting, recommendations, collections, AI, etc?
 
 
 
 
+FOR COPY/PASTE
 ***
 ## 
 ### Score: /20
