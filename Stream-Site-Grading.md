@@ -547,6 +547,20 @@
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 
 ***
+## AZMovies
+### Score: 7/20
+1. Streams load very fast. ✔️
+1. Content 720p and cannot be lowered. ❌
+1. Good for both new and old content. ✔️
+1. Has 5 sources but does not auto-switch if one fails. ⚠️
+1. Has no shows so doesn't need auto-next. ⚠️
+1. UI is alright but has room for improvements. ⚠️
+1. Site is lacking subtitle features. ❌
+1. site only has movies. ❌
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## SkyMovies
 ### Score: 4/20
 1. Uses file host that is pretty slow. ❌
@@ -559,17 +573,3 @@
 1. Has movies shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-
-***
-## AZMovies
-### Score: /20
-1. Streams load very fast. ✔️
-1. Content 720p and cannot be lowered. ❌
-1. Good for both new and old content. ✔️
-1. Has 5 sources but does not auto-switch if one fails. ⚠️
-1. Has no shows so doesn't need auto-next. ⚠️
-1. UI is alright but has room for improvements. ⚠️
-1. Site is lacking subtitle features. ❌
-1. - Does it have movies, shows, anime?
-1. - Does the site have watchlists, continue watching or history?
-1. - Does the site have tools for discovery like recommendations, collections or AI?
