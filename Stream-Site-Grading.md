@@ -99,20 +99,6 @@
 1. Has AI recommendation tool. ✔️
 
 ***
-## NetPlayz
-### Score: 17/20
-1. Some servers load fast, but main has issues sometimes. ⚠️
-1. Lots of content is 720p, but quality can be changed. ⚠️
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 14 english and 4 non eng servers and it does auto-switch if ones fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. Sites UI and player are both nice and modern feeling. ✔️
-1. Has built in subs for most content + allows adjustments or adding own. ✔️
-1. It has movies, shows and anime. ✔️
-1. Has history and watchlist. ✔️
-1. Has decent sorting options, but more discoverability options would be nice. ⚠️
-
-***
 ## Freek
 ### Score: 16/20
 1. Streams load very fast. ✔️
@@ -181,6 +167,20 @@
 1. They have movies, shows and anime. ✔️
 1. Has watchlists when you make account. ✔️
 1. Lots of different collections to browse. ✔️
+
+***
+## NetPlayz
+### Score: 16/20
+1. Some servers load fast, but main has issues sometimes. ⚠️
+1. Lots of content is 720p, but quality can be changed. ⚠️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 14 english and 4 non eng servers and it does auto-switch if ones fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites player is nice, but over all site UI could be improved. ⚠️
+1. Has built in subs for most content + allows adjustments or adding own. ✔️
+1. It has movies, shows and anime. ✔️
+1. Has history and watchlist. ✔️
+1. Has decent sorting options, but more discoverability options would be nice. ⚠️
 
 ***
 ## HydraHD
