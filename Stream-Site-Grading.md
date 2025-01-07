@@ -127,6 +127,20 @@
 1. Has decent sorting options, but more discoverability options would be nice. ⚠️
 
 ***
+## HydraHD
+### Score: 16/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. 7 english servers + 3 non eng and main one always always works. ✔️
+1. Site does not have episode auto-next. ❌
+1. UI isn't bad, but it could be improved. ⚠️
+1. Players have built in subtitles for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Has continue watching + favorites. ✔️
+1. Its alright, it has options for filters, but more content discoverability options would be nice. ⚠️
+
+***
 ## Nunflix
 ### Score: 16/20
 1. Streams load very fast. ✔️
@@ -181,20 +195,6 @@
 1. They have movies, shows and anime. ✔️
 1. Has watchlists when you make account. ✔️
 1. Lots of different collections to browse. ✔️
-
-***
-## HydraHD
-### Score: 15/20
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. 7 english servers + 3 non eng, but they don't auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI isn't bad, but it could be improved. ⚠️
-1. Players have built in subtitles for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Has continue watching + favorites. ✔️
-1. Its alright, it has options for filters, but more content discoverability options would be nice. ⚠️
 
 ***
 ## RgShows
