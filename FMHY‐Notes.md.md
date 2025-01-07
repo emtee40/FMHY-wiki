@@ -226,6 +226,12 @@ Game-2u works for PS4, but we'd avoid their other sections as there are better s
 
 ***
 
+#### movie-web Extension
+
+Extension requires excessive permissions, so sure to use it on a browser with no personal info, or a new browser profile.
+
+***
+
 #### Eaglercraft Note
 
 Play on Chromium-based browsers for the best performance
