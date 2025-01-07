@@ -799,6 +799,20 @@
 1. Site is lacking in terms of content discoverability and sorting. ❌
 
 ***
+## Cinebook
+### Score: 11/20
+1. Streams load very fast, but site is slow. ⚠️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 6 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI looks okay, but has room for improvement, and is slow. ❌
+1. Most sources include subtitles. ✔️
+1. Has movies shows and anime. ✔️
+1. Site has watch list when you signup, but requires google. ⚠️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## SFlix
 ### Score: 10/20
 1. Servers can be good, but are known for occasional inconsistency. ⚠️
