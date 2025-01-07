@@ -99,6 +99,20 @@
 1. Has AI recommendation tool. ✔️
 
 ***
+## NetPlayz
+### Score: 17/20
+1. Some servers load fast, but main has issues sometimes. ⚠️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 14 english and 4 non eng servers and it does auto-switch if ones fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites player is nice, but overall site UI could be improved. ⚠️
+1. Has built in subs for most content + allows adjustments or adding own. ✔️
+1. It has movies, shows and anime. ✔️
+1. Has history and watchlist. ✔️
+1. Has decent sorting options, but more discoverability options would be nice. ⚠️
+
+***
 ## Freek
 ### Score: 16/20
 1. Streams load very fast. ✔️
@@ -251,20 +265,6 @@
 1. It has movies, shows and anime. ✔️
 1. Site has watchlists. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-
-***
-## NetPlayz
-### Score: 15/20
-1. Some servers load fast, but main has issues sometimes. ⚠️
-1. Lots of content is 720p or lower. ❌
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 14 english and 4 non eng servers and it does auto-switch if ones fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. Sites player is nice, but overall site UI could be improved. ⚠️
-1. Has built in subs for most content + allows adjustments or adding own. ✔️
-1. It has movies, shows and anime. ✔️
-1. Has history and watchlist. ✔️
-1. Has decent sorting options, but more discoverability options would be nice. ⚠️
 
 ***
 ## catflix
