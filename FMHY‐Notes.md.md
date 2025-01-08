@@ -228,7 +228,7 @@ Game-2u works for PS4, but we'd avoid their other sections as there are better s
 
 #### movie-web Extension
 
-Extension requires excessive permissions, so sure to use it on a browser with no personal info, or a new browser profile.
+Extension requires excessive permissions, so make sure to use it in a new browser, or a new browser profile.
 
 ***
 
