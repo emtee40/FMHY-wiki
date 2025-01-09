@@ -664,7 +664,8 @@
 
 ## ▷ Torrenting
 
-* ⭐ **[TamilBlasters](https://1tamilblasters.net/)** - Movies
+* ⭐ **[TamilBlasters](https://1tamilblasters.net/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Langauges
+* ⭐ **[TamilMV](https://www.1tamilmv.app/)** - Movies / TV / Sub / Dub / 1080p / 4K / Anime / Indian Langauges
 
 ## ▷ Streaming
 
@@ -693,7 +694,9 @@
 * [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p / [Telegram](https://t.me/cloudy_pk)
 * [MovieHDPlus](https://www.moviehdplus.com/) - South Asian Movies / TV / Sub / Dub / 720p
 * [HindiPix](https://hindipix.com/) - Movies / TV / Dub / 720p
+* [StreamBlasters](https://streamblasters.pm/)  - Movies / TV / Dub
 * [TamilCrow](https://www.1tamilcrow.net/) - Tamil Movies / TV / Dub / 720p
+* [TamilGun](https://tamilgun.group/) - Tamil Movies / TV / Dub / 720p
 * [cinemakick](https://www.cinemakick.com/) - Movies / TV / Dub / 720p
 * [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
 * [mxplayer](https://www.mxplayer.in) - Movies
