@@ -29,6 +29,20 @@
 1. Site has good sorting + random suggestions and editor picks. ✔️
 
 ***
+## Freek
+### Score: 20/20
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be changed lower. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 3 sources and main generally always works. ✔️
+1. Auto-next works as expected. ✔️
+1. Its solid, has good user settings, feels modern. ✔️
+1. Allows adding + searching your own subtitles. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watchlists + history. ✔️
+1. Has decent sorting options, and AI bot, history recommendations. ✔️
+
+***
 ## Rive
 ### Score: 20/20
 1. Streams load very fast. ✔️
@@ -55,20 +69,6 @@
 1. It has movies, shows and anime. ✔️
 1. The site has watchlists + history. ✔️
 1. Has decent sorting options, but content discovery tools or collections could be added. ⚠️
-
-***
-## Freek
-### Score: 19/20
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be changed lower. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. Has 3 sources and main generally always works. ✔️
-1. Auto-next works as expected. ✔️
-1. Its solid, has good user settings, feels modern. ✔️
-1. Allows adding + searching your own subtitles. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watchlists + history. ✔️
-1. Has decent sorting options, but not much in terms of media discovery tools. ⚠️
 
 ***
 ## 456movie
