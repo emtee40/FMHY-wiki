@@ -72,7 +72,7 @@
 
 ***
 ## 456movie
-### Score: 19/20
+### Score: 18/20
 1. Streams load very fast. ✔️
 1. Content is in 1080p and can be changed lower. ✔️
 1. It finds streams very fast, including very old obscure content. ✔️
@@ -82,7 +82,7 @@
 1. Most of their sources allow subtitles. ✔️
 1. Has movies, shows, anime? ✔️
 1. Site has continue watching, watchlists history etc. ✔️
-1. Has AI recommendation tool. ✔️
+1. Has AI recommendation tool, but more could be added in terms of media discoverability. ⚠️
 
 ***
 ## Broflix
