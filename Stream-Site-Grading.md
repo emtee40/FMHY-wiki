@@ -113,6 +113,20 @@
 1. Has decent sorting options, but not much in terms of media discovery tools. ⚠️
 
 ***
+## xPrime
+### Score: 18/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. They have 4 servers and they do auto-switch if one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites UI feels modern, has cool features like trailers when you hover on content. ✔️
+1. Has built in subs for most content and allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has watchlists and continue watching. ✔️
+1. Site has no sorting or content discoverability options. ❌
+
+***
 ## HydraHD
 ### Score: 17/20
 1. Streams load very fast. ✔️
@@ -237,20 +251,6 @@
 1. It has movies, shows and anime. ✔️
 1. Site has watchlists when you signup. ✔️
 1. Has decent content sorting, but more discoverability options could be added. ⚠️
-
-***
-## xPrime
-### Score: 16/20
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. They have 4 servers and they do auto-switch if one fails. ✔️
-1. Site does not have episode auto-next. ❌
-1. Sites UI feels modern, has cool features like trailers when you hover on content. ✔️
-1. Has built in subs for most content and allows adjustments. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has watchlists and continue watching. ✔️
-1. Site has no sorting or content discoverability options. ❌
 
 ***
 ## VidBox
