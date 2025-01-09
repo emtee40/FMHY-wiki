@@ -393,6 +393,20 @@
 1. Has decent sorting options, but more discoverability options would be nice. ⚠️
 
 ***
+## Watch2Day
+### Score: 14/20
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 9 servers but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is decent but has room for improvement. ⚠️
+1. Has built in subs for most things and allows adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watchlists. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+
+***
 ## catflix
 ### Score: 14/20
 1. Streams load very fast. ✔️
@@ -598,20 +612,6 @@
 1. Site does not have episode auto-next. ❌
 1. Sites UI is very clean and easy to use. ✔️
 1. Has built in subs for most content and allows adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-
-***
-## Watch2Day
-### Score: 12/20
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 9 servers but does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI is decent but has room for improvement. ⚠️
-1. Has built in subs for most things and allows adjustments. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
