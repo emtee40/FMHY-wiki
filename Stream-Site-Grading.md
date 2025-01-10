@@ -108,7 +108,7 @@
 1. Site has auto-next but its currently broken. ✔️
 1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
 1. Most of their sources allow subtitles. ✔️
-1. Has movies, shows, anime? ✔️
+1. Has movies, shows, anime. ✔️
 1. Site has continue watching, watchlists history etc. ✔️
 1. Has AI recommendation tool, but more could be added in terms of media discoverability. ⚠️
 
