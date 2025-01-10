@@ -1,4 +1,5 @@
 **What we look for**:
+
 1. * How fast do streams load?
 1. * Is the content in at least 1080p, and can it be lowered?
 1. * How consistently does it find streams, including older content, without issues?
@@ -10,6 +11,8 @@
 1. * Does the site have watch lists, history or continue watching?
 1. * Does the site have tools for discovery like sorting, recommendations, collections, AI, etc?
 1. * Does the site have any 4K content?
+
+**Note** - We will likely add categories for things like mobile optimization, intro skip, cross platform watchlist sync & more in the future.
 
 ✔️= 2 points
 ⚠️= 1 point
