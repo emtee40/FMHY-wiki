@@ -135,7 +135,7 @@
 1. Has built in subs for most content and allows adjustments. ✔️
 1. It has movies, shows and anime. ✔️
 1. Site has watchlists. ✔️
-1. Site has sorting options, and similar + recommended on each page. ✔️
+1. Site has sorting options, random movies, similar + recommended on each page. ✔️
 1. Site does not have 4K content. ❌
 
 ***
