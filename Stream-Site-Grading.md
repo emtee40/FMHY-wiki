@@ -12,7 +12,7 @@
 1. * Does the site have tools for discovery like sorting, recommendations, collections, AI, etc?
 1. * Does the site have any 4K content?
 
-**Note** - We will likely add categories like mobile optimization, intro skip, cross platform watchlist sync & more in the future.
+**Note** - We will likely add categories for mobile optimization, intro skip, cross platform watchlist sync, & more in the future.
 
 ✔️= 2 points
 ⚠️= 1 point
