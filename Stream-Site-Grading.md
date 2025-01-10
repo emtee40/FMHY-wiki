@@ -718,6 +718,7 @@
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site has some sorting options, but is lacking in terms of content discoverability. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## Way2Movies
@@ -732,6 +733,7 @@
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## MovieUwU TV
@@ -746,6 +748,7 @@
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## CucuFlix
@@ -760,6 +763,7 @@
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## FshareTV
@@ -774,6 +778,7 @@
 1. Site is only movies. ❌
 1. Site has no watchlists, continue watching or history. ❌
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## RidoMovies
@@ -788,6 +793,7 @@
 1. Site has movies and shows, but not much anime. ⚠️
 1. Has watchlists when you signup. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## MP4Hydra
@@ -802,6 +808,7 @@
 1. Site only has movies. ❌
 1. Site allows you to create playlists. ✔️
 1. Site has sorting options, random movies, and playlist generators. ✔️
+1. Site does not have 4K content. ❌
 
 ***
 ## Hopcorn
@@ -816,6 +823,7 @@
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## MyFlixed
@@ -830,6 +838,7 @@
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## SlideMovies
@@ -844,6 +853,7 @@
 1. Has movies, shows and anime. ✔️
 1. Site has history when you create account. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## LookMovie
@@ -858,6 +868,7 @@
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## PrimeFlix
@@ -872,6 +883,7 @@
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## MultiMovies
@@ -886,6 +898,7 @@
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Has sorting options and some collections, but overall content discovery tools could be added / improved. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## PrimeWire
@@ -900,6 +913,7 @@
 1. It has movies, shows and anime. ✔️
 1. Site has a library feature. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## 6Movies
@@ -914,6 +928,7 @@
 1. Has movies, shows and anime. ✔️
 1. Site has watchlists when you signup. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## YassFlix
@@ -928,6 +943,7 @@
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## Levidia
@@ -942,6 +958,7 @@
 1. Has movies, shows and anime. ✔️
 1. Has watchlists when you signup. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## TVids
@@ -956,6 +973,7 @@
 1. It has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## Mokmobi
@@ -970,6 +988,7 @@
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## Cinebook
@@ -984,6 +1003,7 @@
 1. Has movies, shows and anime. ✔️
 1. Site has watch list when you signup, but requires google. ⚠️
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## SpenEmbed
@@ -998,6 +1018,7 @@
 1. Site has movies and shows, but not much anime. ⚠️
 1. Site has continue watching, but no sort of watchlists. ⚠️
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## SFlix
@@ -1012,6 +1033,7 @@
 1. It has movies, shows and anime. ✔️
 1. Site has no watchlists, continue watching or history. ❌
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## Show Flix
@@ -1026,6 +1048,7 @@
 1. Site has movies and shows, but not much anime. ⚠️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## FireFlix
@@ -1040,6 +1063,7 @@
 1. Site has movies and shows, but not much anime. ⚠️
 1. Site has continue watching, but no sort of watchlists. ⚠️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## OnionPlay
@@ -1054,6 +1078,7 @@
 1. Has movies, shows and anime. ✔️
 1. Does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## HollyMovieHD
@@ -1068,6 +1093,7 @@
 1. Has movies, shows and anime. ✔️
 1. Has no watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## NetMirror
@@ -1082,6 +1108,7 @@
 1. Site has movies and shows, but not much anime. ⚠️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## Cataz
@@ -1096,6 +1123,7 @@
 1. Site has movies and shows, but not much anime. ⚠️
 1. Site has history and watchlists. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## BitSearch
@@ -1110,6 +1138,7 @@
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## AZMovies
@@ -1124,6 +1153,7 @@
 1. site only has movies. ❌
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## downloads-anymovies
@@ -1138,6 +1168,7 @@
 1. Sites only has movies. ❌
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## SkyMovies
@@ -1152,3 +1183,4 @@
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
