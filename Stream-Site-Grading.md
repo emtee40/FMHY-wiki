@@ -112,7 +112,7 @@
 1. Content is in 1080p and can be changed lower. ✔️
 1. It finds streams very fast, including very old obscure content. ✔️
 1. 15 sources, but they dont auto-switch if one fails. ⚠️
-1. Site has auto-next but its currently broken. ✔️
+1. Site does have auto-next. ✔️
 1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
 1. Most of their sources allow subtitles. ✔️
 1. Has movies, shows, anime. ✔️
