@@ -91,21 +91,6 @@
 1. Site does not have 4K content. ❌
 
 ***
-## 456movie
-### Score: 18/22
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. It finds streams very fast, including very old obscure content. ✔️
-1. 15 sources, but they dont auto-switch if one fails. ⚠️
-1. Site does have auto-next. ✔️
-1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
-1. Most of their sources allow subtitles. ✔️
-1. Has movies, shows, anime. ✔️
-1. Site has continue watching, watchlists history etc. ✔️
-1. Has AI recommendation tool, but more could be added in terms of media discoverability. ⚠️
-1. Site does not have 4K content. ❌
-
-***
 ## Hexa
 ### Score: 18/22
 1. Streams load very fast. ✔️
@@ -148,6 +133,21 @@
 1. Has movies, shows and anime. ✔️
 1. Has continue watching + favorites that can be synced. ✔️
 1. Its alright, it has options for filters, but more content discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
+
+***
+## 456movie
+### Score: 17/22
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. It finds streams very fast, including very old obscure content. ✔️
+1. 15 sources, but they dont auto-switch if one fails. ⚠️
+1. Site does have auto-next. ✔️
+1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
+1. Most of their sources allow subtitles. ✔️
+1. Has movies, shows, anime. ✔️
+1. Site has continue watching, watchlists history etc. ✔️
+1. Has AI recommendation tool, but it only gives 1 movie, more discoverability options could be added. ❌
 1. Site does not have 4K content. ❌
 
 ***
