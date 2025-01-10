@@ -1,6 +1,6 @@
 **What we look for**:
 1. * How fast do streams load?
-1. * Is the content in 1080p, and can it be changed?
+1. * Is the content in at least 1080p, and can it be lowered?
 1. * How consistently does it find streams, including older content, without issues?
 1. * How consistent are their servers? How many are there? Does it auto-switch if one fails?
 1. * Does the site have auto-next episodes?
@@ -9,56 +9,15 @@
 1. * Does it have movies, shows and anime?
 1. * Does the site have watch lists, history or continue watching?
 1. * Does the site have tools for discovery like sorting, recommendations, collections, AI, etc?
+1. * Does the site have any 4K content?
 
 ✔️= 2 points
 ⚠️= 1 point
 ❌= 0 points
 
 ***
-## movie-web Instances
-### Score: 20/20
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. They have 9 sources, and it does auto-switch if one fails. ✔️
-1. Site does have auto-next. ✔️
-1. Very nice UI, search works well, lots of user settings. ✔️
-1. You can add, search or adjust subtitles on the site. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has continue watching options that can be synced. ✔️
-1. Site has good sorting + random suggestions and editor picks. ✔️
-
-***
-## Freek
-### Score: 20/20
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be changed lower. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. Has 3 sources and main generally always works. ✔️
-1. Auto-next works as expected. ✔️
-1. Its solid, has good user settings, feels modern. ✔️
-1. Allows adding + searching your own subtitles. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watchlists + history. ✔️
-1. Has decent sorting options, and AI bot, history recommendations. ✔️
-
-***
-## Rive
-### Score: 20/20
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. Finds both new and old content consistently. ✔️
-1. 23 english hosts + 6 non english and does auto-switch if ones fails. ✔️
-1. Auto-next works as expected. ✔️
-1. Very unique UI, lots of user-settings, one of the best. ✔️
-1. Site allows you to add, search and adjust subtitles. ✔️
-1. It has movies, show and anime. ✔️
-1. It has watchlists and continue watching. ✔️
-1. It has a recommendations, collections, and an AI. ✔️
-
-***
 ## Cineby 
-### Score: 19/20
+### Score: 21/22
 1. Streams load very fast. ✔️
 1. The content is 1080p+ and allows switching to lower quality. ✔️
 1. Finds popular things with no issue, including older content. ✔️
@@ -69,10 +28,56 @@
 1. It has movies, shows and anime. ✔️
 1. The site has watchlists + history. ✔️
 1. Has decent sorting options, but content discovery tools or collections could be added. ⚠️
+1. Site does have 4K content. ✔️
+
+***
+## movie-web Instances
+### Score: 20/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. They have 9 sources, and it does auto-switch if one fails. ✔️
+1. Site does have auto-next. ✔️
+1. Very nice UI, search works well, lots of user settings. ✔️
+1. You can add, search or adjust subtitles on the site. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has continue watching options that can be synced. ✔️
+1. Site has good sorting + random suggestions and editor picks. ✔️
+1. Site does not have 4K content. ❌
+
+***
+## Freek
+### Score: 20/22
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be changed lower. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 3 sources and main generally always works. ✔️
+1. Auto-next works as expected. ✔️
+1. Its solid, has good user settings, feels modern. ✔️
+1. Allows adding + searching your own subtitles. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watchlists + history. ✔️
+1. Has decent sorting options, and AI bot, history recommendations. ✔️
+1. Site does not have 4K content. ❌
+
+***
+## Rive
+### Score: 20/22
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. Finds both new and old content consistently. ✔️
+1. 23 english hosts + 6 non english and does auto-switch if ones fails. ✔️
+1. Auto-next works as expected. ✔️
+1. Very unique UI, lots of user-settings, one of the best. ✔️
+1. Site allows you to add, search and adjust subtitles. ✔️
+1. It has movies, show and anime. ✔️
+1. It has watchlists and continue watching. ✔️
+1. It has a recommendations, collections, and an AI. ✔️
+1. Site does not have 4K content. ❌
 
 ***
 ## Broflix
-### Score: 18/20
+### Score: 18/22
 1. Streams load very fast. ✔️
 1. Content is in 1080p and can be changed lower. ✔️
 1. It finds streams very fast, including very old obscure content. ✔️
@@ -83,10 +88,11 @@
 1. It has movies, shows, anime. ✔️
 1. The site has continue watching and watchlists. ✔️
 1. Does have a search AI to help find new stuff. ✔️
+1. Site does not have 4K content. ❌
 
 ***
 ## PopcornMovies
-### Score: 18/20
+### Score: 18/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, but it cant be lowered. ⚠️
 1. Finds streams quickly, including older content. ✔️
@@ -97,10 +103,11 @@
 1. They have movies, shows and anime. ✔️
 1. Has watchlists and history when you make account. ✔️
 1. Has decent sorting and some collections, but more media discoverability options could be added. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## 456movie
-### Score: 18/20
+### Score: 18/22
 1. Streams load very fast. ✔️
 1. Content is in 1080p and can be changed lower. ✔️
 1. It finds streams very fast, including very old obscure content. ✔️
@@ -111,10 +118,11 @@
 1. Has movies, shows, anime. ✔️
 1. Site has continue watching, watchlists history etc. ✔️
 1. Has AI recommendation tool, but more could be added in terms of media discoverability. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## Hexa
-### Score: 18/20
+### Score: 18/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
@@ -125,10 +133,11 @@
 1. Has movies, shows and anime. ✔️
 1. Site does have watchlists and continue watching. ✔️
 1. Has decent sorting options, but not much in terms of media discovery tools. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## xPrime
-### Score: 18/20
+### Score: 18/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams quickly, including older content. ✔️
@@ -139,10 +148,11 @@
 1. It has movies, shows and anime. ✔️
 1. Site has watchlists and continue watching. ✔️
 1. Site has no sorting or content discoverability options. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## HydraHD
-### Score: 17/20
+### Score: 17/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams quickly, including older content. ✔️
@@ -153,10 +163,11 @@
 1. Has movies, shows and anime. ✔️
 1. Has continue watching + favorites that can be synced. ✔️
 1. Its alright, it has options for filters, but more content discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## NetPlayz
-### Score: 17/20
+### Score: 17/22
 1. Some servers load fast, but main has issues sometimes. ⚠️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
@@ -167,10 +178,11 @@
 1. It has movies, shows and anime. ✔️
 1. Has history and watchlist. ✔️
 1. Has decent sorting options, but more discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## 7Xtream
-### Score: 17/20
+### Score: 17/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams quickly, including older content. ✔️
@@ -181,10 +193,11 @@
 1. It has movies, shows and anime. ✔️
 1. Site has watchlists. ✔️
 1. Site has sorting options, and similar + recommended on each page. ✔️
+1. Site does not have 4K content. ❌
 
 ***
 ## RgShows
-### Score: 16/20
+### Score: 16/22
 1. Streams load very fast. ✔️
 1. The content is in 1080p, and can be lowered and most servers. ✔️
 1. Finds streams quickly, including older content. ✔️
@@ -195,10 +208,11 @@
 1. Has movies, shows, anime. ✔️
 1. Site has continue watching, but no sort of watchlists. ⚠️
 1. Decent sorting options but more media discovery tools could be added. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## Autoembed
-### Score: 16/20
+### Score: 16/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
@@ -209,10 +223,11 @@
 1. It has movies, shows and anime. ✔️
 1. Site does have watchlist when you signup. ✔️
 1. Site has decent sorting options, but more discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## Nunflix
-### Score: 16/20
+### Score: 16/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
@@ -223,10 +238,11 @@
 1. It has movies, shows and anime. ✔️
 1. Site has watchlists when you signup. ✔️
 1. Site has decent sorting options, but more discoverability tools could be added. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## Zilla
-### Score: 16/20
+### Score: 16/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
@@ -237,10 +253,11 @@
 1. Has movies, shows and anime. ✔️
 1. Site has watchlists + continue watching. ✔️
 1. Site has sorting options, but a bit more could be added for discoverability. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## Mapple.tv
-### Score: 16/20
+### Score: 16/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
@@ -251,10 +268,11 @@
 1. It has movies, shows and anime. ✔️
 1. Site has watchlists when you signup. ✔️
 1. Has decent content sorting, but more discoverability options could be added. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## VidBox
-### Score: 16/20
+### Score: 16/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
@@ -265,10 +283,11 @@
 1. Has movies, shows and anime. ✔️
 1. Site has watchlists and history. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## Novafork
-### Score 15/20
+### Score 15/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams quickly, including older content. ✔️
@@ -279,10 +298,11 @@
 1. It has movies, shows and anime. ✔️
 1. Site has no watchlists or history. ❌
 1. Has decent sorting, but better discoverability options could be added. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## CorsFlix
-### Score: 15/20
+### Score: 15/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
@@ -293,10 +313,11 @@
 1. Has movies, shows and anime. ✔️
 1. Site has watchlists. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## Noxe
-### Score: 15/20
+### Score: 15/22
 1. Some servers load fast, but main has issues sometimes. ⚠️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
@@ -307,10 +328,11 @@
 1. Has movies, shows and anime. ✔️
 1. Site has favorites and  continue watching. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## PressPlay
-### Score: 15/20
+### Score: 15/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for new content, but struggles to find older stuff. ⚠️
@@ -321,10 +343,11 @@
 1. Has movies, shows and anime. ✔️
 1. Site does have watchlist when you signup. ✔️
 1. Has sorting options and some collections, but overall content discovery tools could be added / improved. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## nKiri
-### Score: 15/20
+### Score: 15/22
 1. Streams load very fast. ✔️
 1. The content is 1080p and allows switching to lower quality. ✔️
 1. Finds popular things with no issue, including older content. ✔️
@@ -335,10 +358,11 @@
 1. Has movies, shows and anime. ✔️
 1. Site has watchlists and continue watching. ✔️
 1. Has decent sorting options, but content discovery tools or collections could be added. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## watch.inzi
-### Score: 15/20
+### Score: 15/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
@@ -349,10 +373,11 @@
 1. Has movies, shows and anime. ✔️
 1. Has watchlists and continue watching. ✔️
 1. Has collection and search filters, but more content discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## Cinema Deck
-### Score: 15/20
+### Score: 15/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
@@ -363,10 +388,11 @@
 1. Has movies, shows and anime. ✔️
 1. Site has watch lists when you signup.  ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## zmov
-### Score: 15/20
+### Score: 15/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
@@ -377,10 +403,11 @@
 1. Has movies, shows and anime. ✔️
 1. Site has watchlists and continue watching. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## Filmex
-### Score: 15/20
+### Score: 15/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
@@ -391,10 +418,11 @@
 1. Has movies, shows and anime. ✔️
 1. Site has ontinue watching when you signup. ⚠️
 1. Has decent sorting options, but more discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## Watch2Day
-### Score: 14/20
+### Score: 14/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
@@ -405,10 +433,11 @@
 1. Has movies, shows and anime. ✔️
 1. Site does have watchlists. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## catflix
-### Score: 14/20
+### Score: 14/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, but it can't be lowered. ⚠️
 1. Finds streams consistently for both new and old content. ✔️
@@ -419,234 +448,11 @@
 1. Site has movies and shows but no anime. ⚠️
 1. Site allows you to add favorites. ✔️
 1. Site is lacking in terms of media discovery options. ❌
-
-***
-## Flicker
-### Score: 14/20
-1. Streams load very fast. ✔️
-1. Site has 1080p and can be switched. ✔️
-1. Good for both new and old content. ✔️
-1. Site has 7 servers, but does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI and player are nice, search shows results as you type. ✔️
-1. Has subs for most content and allows adding your own and adjusting. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
-1. Has collections and AI recommendations, but is still a bit lacking in terms of sorting. ⚠️
-
-***
-## Soaper.TV
-### Score: 14/20
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Only 2 sources and does not auto-switch if one fails. ❌
-1. Site has episode auto-next. ✔️
-1. Site feels dated, lots of room for improvement. ❌
-1. Has built in subs for most content and allows adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Has watchlists when you signup. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-
-***
-## ValhallaStream
-### Score: 14/20
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be changed lower. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. Has 8 servers, but does not auto-switch when one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI is very nice, feels modern, search shows results as you type. ✔️
-1. Most sources include subtitles. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watch list when you signup, but requires google. ⚠️
-1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-
-***
-## KaitoVault
-### Score: 14/20
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be changed lower. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. Has 4 sources and main generally always works. ✔️
-1. Site does not have episode auto-next. ❌
-1. UI is alright but has room for improvement. ⚠️
-1. Most sources include subtitles. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has continue watching, but no sort of watchlists. ⚠️
-1. Has a random movie button, but otherwise is lacking in terms of content discoverability and sorting. ❌
-
-***
-## Wovie
-### Score: 14/20
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be changed lower. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. They have 11 sources, and main one almost always works. ✔️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is good, feels modern, displays results as you search. ✔️
-1. Allows adding + searching your own subtitles. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-
-***
-## WatchHQ
-### Score: 14/20
-1. Streams load very fast. ✔️
-1. Has 1080p and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. 9 servers, but you have to select them in sites setting rather than player. ❌
-1. Site does not have episode auto-next. ❌
-1. Site is Autoembed clone so its nice. ✔️
-1. Has built in subs for most content and allows adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Has watch lists if you signup. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-
-***
-## StreamFlix
-### Score: 13/20
-1. Streams load very fast. ✔️
-1. Lots of content is 720p or lower. ❌
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 2 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI isn't bad, but could be improved. ⚠️
-1. Has built in subs for most content + allows adjustments. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has history + watchlists. ✔️
-1. Has decent content sorting, but more discoverability options could be added. ⚠️
-
-***
-## Smashystream
-### Score: 13/20
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 12 servers, but does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites player is nice but overall site UI has room for improvement. ⚠️
-1. Some servers have subs, but main is usually missing them. ⚠️
-1. It has movies, shows and anime. ✔️
-1. Has watchlists and history. ✔️
-1. Site is lacking in terms of sorting or content discoverability options. ❌
-
-***
-## EE3
-### Score: 13/20
-1. Streams load very fast. ✔️
-1. Content is 1080p, but cannot be changed. ⚠️
-1. Good for both new and old content. ✔️
-1. Only 1 source but it generally works. ✔️
-1. Site has movies only so it doesn't need episode auto-next. ⚠️
-1. UI is alright but has room for improvement. ⚠️
-1. Has built in subs for most content. ✔️
-1. Sites only has movies. ❌
-1. Site has watchlists, continue watching and history. ✔️
-1. Site has no sorting or content discoverability options. ❌
-
-***
-## EnjoyTown
-### Score: 13/20
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 8 servers but does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is good, feels very modern. ✔️
-1. Site has subtitles for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-
-***
-## YoYoMovies
-### Score: 13/20
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 4 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is alright but has room for improvement. ⚠️
-1. Has built in subs for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
-1. Has decent sorting options, but media discovery tools could be added. ⚠️
-
-***
-## BrocoFlix
-### Score: 12/20
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. Has 6 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI is decent, looks modern, but has room for improvement. ⚠️
-1. Most content has built in subs. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
-1. Site has no sorting or content discoverability options. ❌
-
-***
-## Heartive
-### Score: 12/20
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. Has 19 sources and main generally always works. ✔️
-1. Site does not have episode auto-next. ❌
-1. UI has a room for improvement. ❌
-1. Most sources have subs built in. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has no watchlists, history or continue watching. ❌
-1. Site has no sorting or content discoverability options. ❌
-
-***
-## Nova
-### Score: 12/20
-1. Streams load very fast. ✔️
-1. The content is 1080p or higher, but can't be lowered. ⚠️
-1. Good for both new and old content. ✔️
-1. Has 7 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is very clean and easy to use. ✔️
-1. Has built in subs for most content and allows adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-
-***
-## stream fr
-### Score: 12/20
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 21 servers, but does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites UI has room for improvement. ❌
-1. Site has built in subs for most content, and allows adding your own and adjusting. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has continue watching, but no sort of watchlists. ⚠️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-
-***
-## M4uFree
-### Score: 12/20
-1. Streams load very fast. ✔️
-1. Has 1080p content, but cannot be lowered. ⚠️
-1. Good for both new and old content. ✔️
-1. Has 4 sources and main generally works. ✔️
-1. Site does not have episode auto-next. ❌
-1. UI feels dated, lots of room for improvement. ❌
-1. Site is lacking subtitle features. ❌
-1. It has movies, shows and anime. ✔️
-1. Has watchlists when you signup. ✔️
-1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## NEPU
-### Score: 12/20
+### Score: 14/22
 1. Streams load very fast. ✔️
 1. Most content is 1080p (or 4k in some cases), but cannot be lowered. ⚠️
 1. Good for both new and old content. ✔️
@@ -657,10 +463,251 @@
 1. It has movies, shows and anime. ✔️
 1. Site tracks last thing watched, but is otherwise lacking watchlists and history. ❌
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+1. Site does have some content in 4K. ✔️
+
+***
+## Flicker
+### Score: 14/22
+1. Streams load very fast. ✔️
+1. Site has 1080p and can be switched. ✔️
+1. Good for both new and old content. ✔️
+1. Site has 7 servers, but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI and player are nice, search shows results as you type. ✔️
+1. Has subs for most content and allows adding your own and adjusting. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Has collections and AI recommendations, but is still a bit lacking in terms of sorting. ⚠️
+1. Site does not have 4K content. ❌
+
+***
+## Soaper.TV
+### Score: 14/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Only 2 sources and does not auto-switch if one fails. ❌
+1. Site has episode auto-next. ✔️
+1. Site feels dated, lots of room for improvement. ❌
+1. Has built in subs for most content and allows adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Has watchlists when you signup. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+
+***
+## ValhallaStream
+### Score: 14/22
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be changed lower. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 8 servers, but does not auto-switch when one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is very nice, feels modern, search shows results as you type. ✔️
+1. Most sources include subtitles. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watch list when you signup, but requires google. ⚠️
+1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
+
+***
+## KaitoVault
+### Score: 14/22
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be changed lower. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 4 sources and main generally always works. ✔️
+1. Site does not have episode auto-next. ❌
+1. UI is alright but has room for improvement. ⚠️
+1. Most sources include subtitles. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has continue watching, but no sort of watchlists. ⚠️
+1. Has a random movie button, but otherwise is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+
+***
+## Wovie
+### Score: 14/22
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be changed lower. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. They have 11 sources, and main one almost always works. ✔️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is good, feels modern, displays results as you search. ✔️
+1. Allows adding + searching your own subtitles. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+
+***
+## WatchHQ
+### Score: 14/22
+1. Streams load very fast. ✔️
+1. Has 1080p and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. 9 servers, but you have to select them in sites setting rather than player. ❌
+1. Site does not have episode auto-next. ❌
+1. Site is Autoembed clone so its nice. ✔️
+1. Has built in subs for most content and allows adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Has watch lists if you signup. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+
+***
+## StreamFlix
+### Score: 13/22
+1. Streams load very fast. ✔️
+1. Lots of content is 720p or lower. ❌
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 2 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI isn't bad, but could be improved. ⚠️
+1. Has built in subs for most content + allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has history + watchlists. ✔️
+1. Has decent content sorting, but more discoverability options could be added. ⚠️
+1. Site does not have 4K content. ❌
+
+***
+## Smashystream
+### Score: 13/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 12 servers, but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites player is nice but overall site UI has room for improvement. ⚠️
+1. Some servers have subs, but main is usually missing them. ⚠️
+1. It has movies, shows and anime. ✔️
+1. Has watchlists and history. ✔️
+1. Site is lacking in terms of sorting or content discoverability options. ❌
+1. Site does not have 4K content. ❌
+
+***
+## EE3
+### Score: 13/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, but cannot be changed. ⚠️
+1. Good for both new and old content. ✔️
+1. Only 1 source but it generally works. ✔️
+1. Site has movies only so it doesn't need episode auto-next. ⚠️
+1. UI is alright but has room for improvement. ⚠️
+1. Has built in subs for most content. ✔️
+1. Sites only has movies. ❌
+1. Site has watchlists, continue watching and history. ✔️
+1. Site has no sorting or content discoverability options. ❌
+1. Site does not have 4K content. ❌
+
+***
+## EnjoyTown
+### Score: 13/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 8 servers but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is good, feels very modern. ✔️
+1. Site has subtitles for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+
+***
+## YoYoMovies
+### Score: 13/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 4 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is alright but has room for improvement. ⚠️
+1. Has built in subs for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Has decent sorting options, but media discovery tools could be added. ⚠️
+1. Site does not have 4K content. ❌
+
+***
+## BrocoFlix
+### Score: 12/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 6 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is decent, looks modern, but has room for improvement. ⚠️
+1. Most content has built in subs. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site has no sorting or content discoverability options. ❌
+1. Site does not have 4K content. ❌
+
+***
+## Heartive
+### Score: 12/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 19 sources and main generally always works. ✔️
+1. Site does not have episode auto-next. ❌
+1. UI has a room for improvement. ❌
+1. Most sources have subs built in. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has no watchlists, history or continue watching. ❌
+1. Site has no sorting or content discoverability options. ❌
+1. Site does not have 4K content. ❌
+
+***
+## Nova
+### Score: 12/22
+1. Streams load very fast. ✔️
+1. The content is 1080p or higher, but can't be lowered. ⚠️
+1. Good for both new and old content. ✔️
+1. Has 7 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is very clean and easy to use. ✔️
+1. Has built in subs for most content and allows adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+
+***
+## stream fr
+### Score: 12/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 21 servers, but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI has room for improvement. ❌
+1. Site has built in subs for most content, and allows adding your own and adjusting. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has continue watching, but no sort of watchlists. ⚠️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+
+***
+## M4uFree
+### Score: 12/22
+1. Streams load very fast. ✔️
+1. Has 1080p content, but cannot be lowered. ⚠️
+1. Good for both new and old content. ✔️
+1. Has 4 sources and main generally works. ✔️
+1. Site does not have episode auto-next. ❌
+1. UI feels dated, lots of room for improvement. ❌
+1. Site is lacking subtitle features. ❌
+1. It has movies, shows and anime. ✔️
+1. Has watchlists when you signup. ✔️
+1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
 
 ***
 ## Vidplay
-### Score: 12/20
+### Score: 12/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
@@ -674,7 +721,7 @@
 
 ***
 ## Way2Movies
-### Score: 12/20
+### Score: 12/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
@@ -688,7 +735,7 @@
 
 ***
 ## MovieUwU TV
-### Score: 12/20
+### Score: 12/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
@@ -702,7 +749,7 @@
 
 ***
 ## CucuFlix
-### Score: 12/20
+### Score: 12/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
@@ -716,7 +763,7 @@
 
 ***
 ## FshareTV
-### Score: 12/20
+### Score: 12/22
 1. Streams load, but it takes a second. ⚠️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
@@ -730,7 +777,7 @@
 
 ***
 ## RidoMovies
-### Score: 12/20
+### Score: 12/22
 1. Streams load very fast. ✔️
 1. Content mostly 720p and can't change quality. ❌
 1. Good for both new and old content. ✔️
@@ -744,7 +791,7 @@
 
 ***
 ## MP4Hydra
-### Score: 12/20
+### Score: 12/22
 1. Streams load, but it takes a second. ⚠️
 1. Has 1080p, but can't be changed lower. ⚠️
 1. Good for both new and old content. ✔️
@@ -758,7 +805,7 @@
 
 ***
 ## Hopcorn
-### Score: 12/20
+### Score: 12/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
@@ -772,7 +819,7 @@
 
 ***
 ## MyFlixed
-### Score: 12/20
+### Score: 12/22
 1. Streams load very fast. ✔️
 1. Content is 1080p and can be lowered. ✔️
 1. Good for both new and old content. ✔️
@@ -786,7 +833,7 @@
 
 ***
 ## SlideMovies
-### Score: 12/20
+### Score: 12/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, but cannot be changed. ⚠️
 1. Good for both new and old content. ✔️
@@ -800,7 +847,7 @@
 
 ***
 ## LookMovie
-### Score: 12/20
+### Score: 12/22
 1. 10 second wait to get to content. ❌
 1. Site is capped at 480p. ❌
 1. Good for both new and old content. ✔️
@@ -814,7 +861,7 @@
 
 ***
 ## PrimeFlix
-### Score: 11/20
+### Score: 11/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
@@ -828,7 +875,7 @@
 
 ***
 ## MultiMovies
-### Score: 11/20
+### Score: 11/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
@@ -842,7 +889,7 @@
 
 ***
 ## PrimeWire
-### Score: 11/20
+### Score: 11/22
 1. Uses file hosts which are known for being slow sometimes. ⚠️
 1. Mix of 720p/1080p, and quality cannot be changed. ⚠️
 1. Very good for both new and old content. ✔️
@@ -856,7 +903,7 @@
 
 ***
 ## 6Movies
-### Score: 11/20
+### Score: 11/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, but can't be lowered. ⚠️
 1. Good for both new and old content. ✔️
@@ -870,7 +917,7 @@
 
 ***
 ## YassFlix
-### Score: 11/20
+### Score: 11/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
@@ -884,7 +931,7 @@
 
 ***
 ## Levidia
-### Score: 11/20
+### Score: 11/22
 1. Streams load, but it takes a second. ⚠️
 1. Site gives both 1080p/720p options. ✔️
 1. Good for both new and old content. ✔️
@@ -898,7 +945,7 @@
 
 ***
 ## TVids
-### Score: 11/20
+### Score: 11/22
 1. Servers can be good, but are known for occasional inconsistency. ⚠️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
@@ -912,7 +959,7 @@
 
 ***
 ## Mokmobi
-### Score: 11/20
+### Score: 11/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
@@ -926,7 +973,7 @@
 
 ***
 ## Cinebook
-### Score: 11/20
+### Score: 11/22
 1. Streams load very fast, but site is slow. ⚠️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
@@ -940,7 +987,7 @@
 
 ***
 ## SpenEmbed
-### Score: 10/20
+### Score: 10/22
 1. Streams load very fast. ✔️
 1. Has 1080p and can be lowered. ✔️
 1. Good for new content, but struggles to find older stuff. ⚠️
@@ -954,7 +1001,7 @@
 
 ***
 ## SFlix
-### Score: 10/20
+### Score: 10/22
 1. Servers can be good, but are known for occasional inconsistency. ⚠️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
@@ -968,7 +1015,7 @@
 
 ***
 ## Show Flix
-### Score: 10/20
+### Score: 10/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for new content, but struggles to find older stuff. ⚠️
@@ -982,7 +1029,7 @@
 
 ***
 ## FireFlix
-### Score: 9/20
+### Score: 9/22
 1. Streams load very fast. ✔️
 1. Main server is 720p or lower for a lot of content. ❌
 1. Site is good for newer content but not as good for older stuff. ⚠️
@@ -996,7 +1043,7 @@
 
 ***
 ## OnionPlay
-### Score: 9/20
+### Score: 9/22
 1. Streams load very fast. ✔️
 1. Content mostly 720p and can't change quality. ❌
 1. Good for both new and old content. ✔️
@@ -1010,7 +1057,7 @@
 
 ***
 ## HollyMovieHD
-### Score: 9/20
+### Score: 9/22
 1. Streams load very fast. ✔️
 1. Has 1080p, but can't be changed lower. ⚠️
 1. Good for both new and old content. ✔️
@@ -1024,7 +1071,7 @@
 
 ***
 ## NetMirror
-### Score: 9/20
+### Score: 9/22
 1. Streams load very fast. ✔️
 1. Has 720p only, but can be lowered. ⚠️
 1. Site is hit and miss in terms of finding content. ❌
@@ -1038,7 +1085,7 @@
 
 ***
 ## Cataz
-### Score: 8/20
+### Score: 8/22
 1. Uses file hosts which are known for being slow sometimes. ⚠️
 1. Content mostly 720p and can't change quality. ❌
 1. Good for both new and old content. ✔️
@@ -1052,7 +1099,7 @@
 
 ***
 ## BitSearch
-### Score: 8/20
+### Score: 8/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for newer content, but struggles with older stuff. ⚠️
@@ -1066,7 +1113,7 @@
 
 ***
 ## AZMovies
-### Score: 7/20
+### Score: 7/22
 1. Streams load very fast. ✔️
 1. Content 720p and cannot be lowered. ❌
 1. Good for both new and old content. ✔️
@@ -1080,7 +1127,7 @@
 
 ***
 ## downloads-anymovies
-### Score: 5/20
+### Score: 5/22
 1. Uses file host which is known for being slow sometimes. ⚠️
 1. Site has 1080p but can't be lowered. ⚠️
 1. Good for both new and old content. ✔️
@@ -1094,7 +1141,7 @@
 
 ***
 ## SkyMovies
-### Score: 4/20
+### Score: 4/22
 1. Uses file host that is pretty slow. ❌
 1. Content mostly 720p but it does give lower options too. ⚠️
 1. Good for newer content but struggles finding older stuff. ⚠️
