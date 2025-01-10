@@ -76,6 +76,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## Broflix
+### Score: 18/22
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. It finds streams very fast, including very old obscure content. ✔️
+1. They have 11 sources, and main one almost always works. ✔️
+1. Site has no auto-next. ❌
+1. Sites UI is very good, player is good, its one of the best to look at. ✔️
+1. Most of their sources allow subtitles. ✔️
+1. It has movies, shows, anime. ✔️
+1. The site has continue watching and watchlists. ✔️
+1. Site has a very nice AI recommendation tool that seems to work well. ✔️
+1. Site does not have 4K content. ❌
+
+***
 ## PopcornMovies
 ### Score: 18/22
 1. Streams load very fast. ✔️
@@ -103,21 +118,6 @@
 1. Has movies, shows and anime. ✔️
 1. Site does have watchlists and continue watching. ✔️
 1. Has decent sorting options, but not much in terms of media discovery tools. ⚠️
-1. Site does not have 4K content. ❌
-
-***
-## Broflix
-### Score: 17/22
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. It finds streams very fast, including very old obscure content. ✔️
-1. They have 11 sources, and main one almost always works. ✔️
-1. Site has no auto-next. ❌
-1. Sites UI is very good, player is good, its one of the best to look at. ✔️
-1. Most of their sources allow subtitles. ✔️
-1. It has movies, shows, anime. ✔️
-1. The site has continue watching and watchlists. ✔️
-1. Has AI recommendation tool, but more could be added in terms of media discoverability. ⚠️
 1. Site does not have 4K content. ❌
 
 ***
