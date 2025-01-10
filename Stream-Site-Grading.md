@@ -51,7 +51,7 @@
 1. Streams load very fast. ✔️
 1. Content is 1080p and can be changed lower. ✔️
 1. Finds streams quickly, including older content. ✔️
-1. Has 3 sources and main generally always works. ✔️
+1. Has 3 sources but main almost always works. ✔️
 1. Auto-next works as expected. ✔️
 1. Its solid, has good user settings, feels modern. ✔️
 1. Allows adding + searching your own subtitles. ✔️
