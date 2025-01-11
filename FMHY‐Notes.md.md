@@ -366,6 +366,12 @@ Many headsets come with Dolby Access for free without really letting users know.
 
 ***
 
+#### RedditFilter Note
+
+Go to Settings → Feed Filter and untoggle 'Promoted' to not see ads.
+
+***
+
 #### OpenRBG Beta
 
 How to download OpenRGB beta.
