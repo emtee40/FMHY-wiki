@@ -20,7 +20,7 @@
 
 ***
 ## Cineby 
-### Score: 21/22
+### Score: 22/22
 1. Streams load very fast. ✔️
 1. The content is 1080p+ and allows switching to lower quality. ✔️
 1. Finds popular things with no issue, including older content. ✔️
@@ -30,7 +30,7 @@
 1. You can add your own subtitles, search for subtitles, and adjust them. ✔️
 1. It has movies, shows and anime. ✔️
 1. The site has watchlists + history. ✔️
-1. Has decent sorting options, but content discovery tools or collections could be added. ⚠️
+1. Has sorting options + recommendations based on logged in user history. ✔️
 1. Site does have 4K content. ✔️
 
 ***
