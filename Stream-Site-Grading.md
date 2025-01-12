@@ -289,6 +289,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## StreamFlix
+### Score: 15/22
+1. Streams load very fast. ✔️
+1. Lots of content is 720p or lower. ❌
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 2 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI isn't bad, but could be improved. ⚠️
+1. Has built in subs for most content + allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has history + watchlists. ✔️
+1. Has decent content sorting, but more discoverability options could be added. ⚠️
+1. Site does have 4K, theres a guide in their discord. ✔️
+
+***
 ## Novafork
 ### Score 15/22
 1. Streams load very fast. ✔️
@@ -556,21 +571,6 @@
 1. Has movies, shows and anime. ✔️
 1. Has watch lists if you signup. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site does not have 4K content. ❌
-
-***
-## StreamFlix
-### Score: 13/22
-1. Streams load very fast. ✔️
-1. Lots of content is 720p or lower. ❌
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 2 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI isn't bad, but could be improved. ⚠️
-1. Has built in subs for most content + allows adjustments. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has history + watchlists. ✔️
-1. Has decent content sorting, but more discoverability options could be added. ⚠️
 1. Site does not have 4K content. ❌
 
 ***
