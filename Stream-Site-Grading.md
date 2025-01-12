@@ -30,7 +30,7 @@
 1. You can add your own subtitles, search for subtitles, and adjust them. ✔️
 1. It has movies, shows and anime. ✔️
 1. The site has watchlists + history. ✔️
-1. Has sorting options + recommendations based on logged in user history. ✔️
+1. Has sorting options + recommendations user history when you login. ✔️
 1. Site does have 4K content. ✔️
 
 ***
