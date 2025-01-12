@@ -604,6 +604,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## GallaTube
+### 13/22
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 16 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Site UI is nice, feels modern, has lots of themes. ✔️
+1. Has built in subs for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Has a random button, but is otherwise lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+
+***
 ## EnjoyTown
 ### Score: 13/22
 1. Streams load very fast. ✔️
@@ -631,6 +646,21 @@
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Has decent sorting options, but media discovery tools could be added. ⚠️
+1. Site does not have 4K content. ❌
+
+***
+## uFlix
+### 13/22
+1. 1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 5 servers but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Site UI is alright but has room for improvement. ⚠️
+1. Has built in subs for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Has decent sorting options, but not much in terms of media discovery tools. ⚠️
 1. Site does not have 4K content. ❌
 
 ***
@@ -1009,6 +1039,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## Soapy
+### 11/22
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 4 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI has room for improvement. ❌
+1. Has built in subs for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+
+***
 ## SpenEmbed
 ### Score: 10/22
 1. Streams load very fast. ✔️
@@ -1049,6 +1094,21 @@
 1. Sites UI is alright but has room for improvement. ⚠️
 1. Has built in subs for most content. ✔️
 1. Site has movies and shows, but not much anime. ⚠️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+
+***
+## ReelZone
+### 10/22
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 7 servers, but they don't auto-switch if one fails, and you need to go back a page to try another. ❌
+1. Site does not have episode auto-next. ❌
+1. Sites UI has lots of room for improvement. ❌
+1. Has built in subs for most content. ✔️
+1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site does not have 4K content. ❌
