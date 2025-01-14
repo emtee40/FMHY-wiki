@@ -64,6 +64,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## 456movie
+### Score: 20/22
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. It finds streams very fast, including very old obscure content. ✔️
+1. 15 sources and it does auto-switch when one fails. ✔️
+1. Site does have auto-next. ✔️
+1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
+1. Most of their sources allow subtitles. ✔️
+1. Has movies, shows, anime. ✔️
+1. Site has continue watching, watchlists history etc. ✔️
+1. Has AI for recommendations and recommendations at top of site. ✔️
+1. Site does not have 4K content. ❌
+
+***
 ## Rive
 ### Score: 20/22
 1. Streams load very fast. ✔️
@@ -76,21 +91,6 @@
 1. It has movies, show and anime. ✔️
 1. It has watchlists and continue watching. ✔️
 1. It has a recommendations, collections, and an AI. ✔️
-1. Site does not have 4K content. ❌
-
-***
-## 456movie
-### Score: 19/22
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. It finds streams very fast, including very old obscure content. ✔️
-1. 15 sources, but they dont auto-switch if one fails. ⚠️
-1. Site does have auto-next. ✔️
-1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
-1. Most of their sources allow subtitles. ✔️
-1. Has movies, shows, anime. ✔️
-1. Site has continue watching, watchlists history etc. ✔️
-1. Has AI for recommendations and recommendations at top of site. ✔️
 1. Site does not have 4K content. ❌
 
 ***
