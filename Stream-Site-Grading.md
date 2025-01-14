@@ -305,17 +305,17 @@
 
 ***
 ## AbleFlix
-### Score: 15/22
+### Score: 17/22
 1. Streams load very fast. ✔️
 1. Content is 1080p and can be changed lower. ✔️
 1. Finds streams quickly, including older content. ✔️
-1. Has 17 servers, but does not auto-switch if ones fails. ⚠️
+1. Has 17 servers and main almost always works. ✔️
 1. Site does not have episode auto-next. ❌
 1. Sites UI is nice, feels modern. ✔️
 1. Most sources have subs built in. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site does have watch lists. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 1. Site does not have 4K content. ❌
 
 ***
