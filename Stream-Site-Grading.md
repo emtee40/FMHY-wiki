@@ -575,7 +575,7 @@
 
 ***
 ## Smashystream
-### Score: 13/22
+### Score: 14/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
@@ -585,7 +585,7 @@
 1. Some servers have subs, but main is usually missing them. ⚠️
 1. It has movies, shows and anime. ✔️
 1. Has watchlists and history. ✔️
-1. Site is lacking in terms of sorting or content discoverability options. ❌
+1. Has decent sorting options but is otherwise lacking content discoverability options. ⚠️
 1. Site does not have 4K content. ❌
 
 ***
