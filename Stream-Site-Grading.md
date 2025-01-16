@@ -169,6 +169,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## HydraHD
+### Score: 17/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. 7 english servers + 3 non eng and does auto-switch when one fails (bravo to delta but no indication). ✔️
+1. Site does not have episode auto-next. ❌
+1. UI feels modern, lots of features like ratings / mark as watched etc. ✔️
+1. Players have built in subtitles for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Has continue watching + favorites that can be synced. ✔️
+1. Its alright, it has options for filters, but more content discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
+
+***
 ## RgShows
 ### Score: 17/22
 1. Streams load very fast. ✔️
@@ -226,21 +241,6 @@
 1. It has movies, shows and anime. ✔️
 1. Has history and watchlist. ✔️
 1. Has decent sorting options, but more discoverability options would be nice. ⚠️
-1. Site does not have 4K content. ❌
-
-***
-## HydraHD
-### Score: 16/22
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. 7 english servers + 3 non eng and does auto-switch when one fails (bravo to delta but no indication). ✔️
-1. Site does not have episode auto-next. ❌
-1. UI feels modern, lots of features like ratings / mark as watched etc. ✔️
-1. Players have built in subtitles for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Has continue watching + favorites that can be synced. ✔️
-1. Its alright, it has options for filters, but more content discoverability options would be nice. ⚠️
 1. Site does not have 4K content. ❌
 
 ***
