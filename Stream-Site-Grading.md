@@ -95,12 +95,12 @@
 
 ***
 ## Broflix
-### Score: 18/22
+### Score: 20/22
 1. Streams load very fast. ✔️
 1. Content is in 1080p and can be changed lower. ✔️
 1. It finds streams very fast, including very old obscure content. ✔️
 1. They have 11 sources, and main one almost always works. ✔️
-1. Site has no auto-next. ❌
+1. Site does have auto-next. ✔️
 1. Sites UI is very good, player is good, its one of the best to look at. ✔️
 1. Most of their sources allow subtitles. ✔️
 1. It has movies, shows, anime. ✔️
