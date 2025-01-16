@@ -588,21 +588,6 @@
 1. Site does have some content in 4K. ✔️
 
 ***
-## EE3
-### Score: 13/22
-1. Streams load very fast. ✔️
-1. Content is 1080p, but cannot be changed. ⚠️
-1. Good for both new and old content. ✔️
-1. Only 1 source but it generally works. ✔️
-1. Site has movies only so it doesn't need episode auto-next. ⚠️
-1. UI is alright but has room for improvement. ⚠️
-1. Has built in subs for most content. ✔️
-1. Sites only has movies. ❌
-1. Site has watchlists, continue watching and history. ✔️
-1. Site has no sorting or content discoverability options. ❌
-1. Site does not have 4K content. ❌
-
-***
 ## Wovie
 ### Score: 13/22
 1. Streams load very fast. ✔️
@@ -735,6 +720,21 @@
 1. It has movies, shows and anime. ✔️
 1. Has watchlists when you signup. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
+
+***
+## EE3
+### Score: 12/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, but cannot be changed. ⚠️
+1. Good for both new and old content. ✔️
+1. Only 1 source but its good. ⚠️
+1. Site has movies only so it doesn't need episode auto-next. ⚠️
+1. UI is alright but has room for improvement. ⚠️
+1. Has built in subs for most content. ✔️
+1. Sites only has movies. ❌
+1. Site has watchlists, continue watching and history. ✔️
+1. Site has no sorting or content discoverability options. ❌
 1. Site does not have 4K content. ❌
 
 ***
@@ -1043,7 +1043,7 @@
 1. 10 second wait to get to content. ❌
 1. Site is capped at 480p. ❌
 1. Good for both new and old content. ✔️
-1. Only 1 source. ⚠️
+1. Only 1 source but it is fast. ⚠️
 1. Site does have episode auto-next. ✔️
 1. Site has nice UI, feels modern, search shows results as you type. ✔️
 1. Site has built in subs for most content, allows you to upload your own and make adjustments. ✔️
@@ -1073,7 +1073,7 @@
 1. Streams load, but it takes a second. ⚠️
 1. Site gives both 1080p/720p options. ✔️
 1. Good for both new and old content. ✔️
-1. Only 1 host. ⚠️
+1. Only 1 host but its decent. ⚠️
 1. Site does not have episode auto-next. ❌
 1. Site feels dated, lots of room for improvement. ❌
 1. Site is missing subtitle features. ❌
@@ -1129,11 +1129,11 @@
 
 ***
 ## OnionPlay
-### Score: 9/22
+### Score: 8/22
 1. Streams load very fast. ✔️
 1. Content mostly 720p and can't change quality. ❌
 1. Good for both new and old content. ✔️
-1. Only 1 source but it generally works. ✔️
+1. Only 1 source but it generally works. ⚠️
 1. Site does not have episode auto-next. ❌
 1. UI is alright but has room for improvement. ⚠️
 1. Site is missing subtitle features. ❌
@@ -1148,7 +1148,7 @@
 1. Streams load very fast. ✔️
 1. Has 720p only, but can be lowered. ⚠️
 1. Site is hit and miss in terms of finding content. ❌
-1. Only 1 server. ⚠️
+1. Only 1 server but its decent. ⚠️
 1. Site does not have episode auto-next. ❌
 1. UI is decent, seems modern, but probably has room for improvement. ⚠️
 1. Site has subs for most content and allows adjustments. ✔️
@@ -1163,7 +1163,7 @@
 1. Streams load very fast. ✔️
 1. Has 1080p, but can't be changed lower. ⚠️
 1. Good for both new and old content. ✔️
-1. Only 1 source for most things. ⚠️
+1. Only 1 source for most things but it works. ⚠️
 1. Site does not have episode auto-next. ❌
 1. Sites UI is dated, has lots of room for improvement. ❌
 1. Site is lacking subtitle features. ❌
