@@ -499,6 +499,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## Smashystream
+### Score: 14/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 12 servers, but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites player is nice but overall site UI has room for improvement. ⚠️
+1. Some servers have subs, but main is usually missing them. ⚠️
+1. It has movies, shows and anime. ✔️
+1. Has watchlists and history. ✔️
+1. Has decent sorting options but is otherwise lacking content discoverability options. ⚠️
+1. Site does not have 4K content. ❌
+
+***
 ## KaitoVault
 ### Score: 14/22
 1. Streams load very fast. ✔️
@@ -571,21 +586,6 @@
 1. Has movies, shows and anime. ✔️
 1. Has watch lists if you signup. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site does not have 4K content. ❌
-
-***
-## Smashystream
-### Score: 14/22
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 12 servers, but does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites player is nice but overall site UI has room for improvement. ⚠️
-1. Some servers have subs, but main is usually missing them. ⚠️
-1. It has movies, shows and anime. ✔️
-1. Has watchlists and history. ✔️
-1. Has decent sorting options but is otherwise lacking content discoverability options. ⚠️
 1. Site does not have 4K content. ❌
 
 ***
