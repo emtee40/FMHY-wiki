@@ -234,7 +234,7 @@
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams quickly, including older content. ✔️
-1. 7 english servers + 3 non eng but does not autoswitch when one fails. ⚠️
+1. 7 english servers + 3 non eng and does auto-switch when one fails (bravo to delta but no indication). ✔️
 1. Site does not have episode auto-next. ❌
 1. UI feels modern, lots of features like ratings / mark as watched etc. ✔️
 1. Players have built in subtitles for most content. ✔️
