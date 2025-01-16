@@ -265,7 +265,7 @@
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
 1. Has 12 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have auto-next. ❌
+1. Site does not have episode auto-next. ❌
 1. Site is very nice to look at, seems modern, search works well, one of the best. ✔️
 1. Site has built in subs for most things and allows adjustments. ✔️
 1. It has movies, shows and anime. ✔️
