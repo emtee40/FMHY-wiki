@@ -334,6 +334,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## MyFlixed
+### Score: 15/22
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 7 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is alright but has room for improvement, content opens new tabs for everything. ⚠️
+1. Most sources have subs built in. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watchlists and history. ✔️
+1. Has decent sorting options, but more media discoverability options could be added. ⚠️
+1. Site does not have 4K content. ❌
+
+***
 ## Novafork
 ### Score 15/22
 1. Streams load very fast. ✔️
@@ -808,21 +823,6 @@
 1. Site does not have episode auto-next. ❌
 1. UI is alright but has room for improvements. ⚠️
 1. Allows adding + searching your own subtitles. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site does not have 4K content. ❌
-
-***
-## MyFlixed
-### Score: 12/22
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 7 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI is alright but has room for improvement. ⚠️
-1. Most sources have subs built in. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
