@@ -49,33 +49,18 @@
 1. Site does not have 4K content. ❌
 
 ***
-## Freek
-### Score: 20/22
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be changed lower. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. Has 3 sources but main almost always works. ✔️
-1. Auto-next works as expected. ✔️
-1. Its solid, has good user settings, feels modern. ✔️
-1. Allows adding + searching your own subtitles. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watchlists + history. ✔️
-1. Has decent sorting options, and AI bot, history recommendations. ✔️
-1. Site does not have 4K content. ❌
-
-***
-## 456movie
+## Broflix
 ### Score: 20/22
 1. Streams load very fast. ✔️
 1. Content is in 1080p and can be changed lower. ✔️
 1. It finds streams very fast, including very old obscure content. ✔️
-1. 15 sources and it does auto-switch when one fails. ✔️
+1. They have 11 sources, and main one almost always works. ✔️
 1. Site does have auto-next. ✔️
-1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
+1. Sites UI is very good, player is good, its one of the best to look at. ✔️
 1. Most of their sources allow subtitles. ✔️
-1. Has movies, shows, anime. ✔️
-1. Site has continue watching, watchlists history etc. ✔️
-1. Has AI for recommendations and recommendations at top of site. ✔️
+1. It has movies, shows, anime. ✔️
+1. The site has continue watching and watchlists. ✔️
+1. Site has a very nice AI recommendation tool that seems to work well. ✔️
 1. Site does not have 4K content. ❌
 
 ***
@@ -94,18 +79,33 @@
 1. Site does not have 4K content. ❌
 
 ***
-## Broflix
+## 456movie
 ### Score: 20/22
 1. Streams load very fast. ✔️
 1. Content is in 1080p and can be changed lower. ✔️
 1. It finds streams very fast, including very old obscure content. ✔️
-1. They have 11 sources, and main one almost always works. ✔️
+1. 15 sources and it does auto-switch when one fails. ✔️
 1. Site does have auto-next. ✔️
-1. Sites UI is very good, player is good, its one of the best to look at. ✔️
+1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
 1. Most of their sources allow subtitles. ✔️
-1. It has movies, shows, anime. ✔️
-1. The site has continue watching and watchlists. ✔️
-1. Site has a very nice AI recommendation tool that seems to work well. ✔️
+1. Has movies, shows, anime. ✔️
+1. Site has continue watching, watchlists history etc. ✔️
+1. Has AI for recommendations and recommendations at top of site. ✔️
+1. Site does not have 4K content. ❌
+
+***
+## Freek
+### Score: 20/22
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be changed lower. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 3 sources but main almost always works. ✔️
+1. Auto-next works as expected. ✔️
+1. Its solid, has good user settings, feels modern. ✔️
+1. Allows adding + searching your own subtitles. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watchlists + history. ✔️
+1. Has decent sorting options, and AI bot, history recommendations. ✔️
 1. Site does not have 4K content. ❌
 
 ***
