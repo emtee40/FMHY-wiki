@@ -304,6 +304,20 @@
 1. Site does not have 4K content. ❌
 
 ***
+## AbleFlix
+### Score: 15/22
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be changed lower. ✔️
+1. Has 16 servers but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is nice, feels modern. ✔️
+1. Most sources have subs built in. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watch lists. ✔️
+1. Site has some sorting options and gives homepage recommendations based on watched content. ✔️
+1. Site does not have 4K content. ❌
+
+***
 ## Watch2Day
 ### Score: 15/22
 1. Streams load very fast. ✔️
@@ -451,20 +465,6 @@
 1. Has movies, shows and anime. ✔️
 1. Site has ontinue watching when you signup. ⚠️
 1. Has decent sorting options, but more discoverability options would be nice. ⚠️
-1. Site does not have 4K content. ❌
-
-***
-## AbleFlix
-### Score: 14/22
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be changed lower. ✔️
-1. Has 16 servers but does not auto-switch if one fails. ❌
-1. Site does not have episode auto-next. ❌
-1. Sites UI is nice, feels modern. ✔️
-1. Most sources have subs built in. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have watch lists. ✔️
-1. Site has some sorting options and gives homepage recommendations based on watched content. ✔️
 1. Site does not have 4K content. ❌
 
 ***
