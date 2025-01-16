@@ -589,6 +589,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## M4uFree
+### Score: 13/22
+1. Streams load very fast. ✔️
+1. Has 1080p and can be lowered on most servers. ✔️
+1. Good for both new and old content. ✔️
+1. Has 4 sources and main generally works. ✔️
+1. Site does not have episode auto-next. ❌
+1. UI feels dated, lots of room for improvement. ❌
+1. Site is lacking subtitle features. ❌
+1. It has movies, shows and anime. ✔️
+1. Has watchlists when you signup. ✔️
+1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
+
+***
 ## NEPU
 ### Score: 13/22
 1. Streams load very fast. ✔️
@@ -721,21 +736,6 @@
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site does not have 4K content. ❌
-
-***
-## M4uFree
-### Score: 12/22
-1. Streams load very fast. ✔️
-1. Has 1080p content, but cannot be lowered. ⚠️
-1. Good for both new and old content. ✔️
-1. Has 4 sources and main generally works. ✔️
-1. Site does not have episode auto-next. ❌
-1. UI feels dated, lots of room for improvement. ❌
-1. Site is lacking subtitle features. ❌
-1. It has movies, shows and anime. ✔️
-1. Has watchlists when you signup. ✔️
-1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 1. Site does not have 4K content. ❌
 
 ***
