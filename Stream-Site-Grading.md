@@ -49,21 +49,6 @@
 1. Site does not have 4K content. ❌
 
 ***
-## Broflix
-### Score: 20/22
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. It finds streams very fast, including very old obscure content. ✔️
-1. They have 11 sources, but 
-1. Site does have auto-next. ✔️
-1. Sites UI is very good, player is good, its one of the best to look at. ✔️
-1. Most of their sources allow subtitles. ✔️
-1. It has movies, shows, anime. ✔️
-1. The site has continue watching and watchlists. ✔️
-1. Site has a very nice AI recommendation tool that seems to work well. ✔️
-1. Site does not have 4K content. ❌
-
-***
 ## Rive
 ### Score: 20/22
 1. Streams load very fast. ✔️
@@ -106,6 +91,21 @@
 1. Has movies, shows and anime. ✔️
 1. Site has watchlists + history. ✔️
 1. Has decent sorting options, and AI bot, history recommendations. ✔️
+1. Site does not have 4K content. ❌
+
+***
+## Broflix
+### Score: 19/22
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. It finds streams very fast, including very old obscure content. ✔️
+1. They have 11 sources, but don't auto-switch if one fails. ⚠️
+1. Site does have auto-next. ✔️
+1. Sites UI is very good, player is good, its one of the best to look at. ✔️
+1. Most of their sources allow subtitles. ✔️
+1. It has movies, shows, anime. ✔️
+1. The site has continue watching and watchlists. ✔️
+1. Site has a very nice AI recommendation tool that seems to work well. ✔️
 1. Site does not have 4K content. ❌
 
 ***
