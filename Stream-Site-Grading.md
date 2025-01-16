@@ -364,6 +364,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## Soaper.TV
+### Score: 15/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Only 2 sources and does not auto-switch if one fails. ⚠️
+1. Site has episode auto-next. ✔️
+1. Site feels dated, lots of room for improvement. ❌
+1. Has built in subs for most content and allows adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Has watchlists when you signup. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+
+***
 ## CorsFlix
 ### Score: 15/22
 1. Streams load very fast. ✔️
@@ -526,21 +541,6 @@
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Has collections and AI recommendations, but is still a bit lacking in terms of sorting. ⚠️
-1. Site does not have 4K content. ❌
-
-***
-## Soaper.TV
-### Score: 14/22
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Only 2 sources and does not auto-switch if one fails. ❌
-1. Site has episode auto-next. ✔️
-1. Site feels dated, lots of room for improvement. ❌
-1. Has built in subs for most content and allows adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Has watchlists when you signup. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site does not have 4K content. ❌
 
 ***
