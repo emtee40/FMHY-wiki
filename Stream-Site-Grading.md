@@ -139,6 +139,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## StreamFlix
+### Score: 19/22
+1. Streams load very fast. ✔️
+1. Has 1080p content and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 2 servers, and does auto-switch if one fails. ✔️
+1. Site does not have episode auto-next. ❌
+1. UI is good, feels modern, shows results as you type. ✔️
+1. Has built in subs for most content + allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has history + watchlists. ✔️
+1. Has decent content sorting, but more discoverability options could be added. ⚠️
+1. Site does have 4K, theres a guide in their discord. ✔️
+
+***
 ## PopcornMovies
 ### Score: 18/22
 1. Streams load very fast. ✔️
@@ -272,21 +287,6 @@
 1. Site does have watchlists. ✔️
 1. Site has good sorting options, but could use a bit more in terms of media discovery. ⚠️
 1. Site does not have 4K content. ❌
-
-***
-## StreamFlix
-### Score: 16/22
-1. Streams load very fast. ✔️
-1. Lots of content is 720p or lower. ❌
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 2 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI is good, feels modern, shows results as you type. ✔️
-1. Has built in subs for most content + allows adjustments. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has history + watchlists. ✔️
-1. Has decent content sorting, but more discoverability options could be added. ⚠️
-1. Site does have 4K, theres a guide in their discord. ✔️
 
 ***
 ## Zilla
