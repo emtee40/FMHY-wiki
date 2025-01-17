@@ -229,6 +229,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## Watch2Day
+### Score: 17/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 9 servers but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Site has good UI, feels modern, shows results as you type. ✔️
+1. Has built in subs for most things and allows adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watchlists. ✔️
+1. Site has good sorting options and a AI to give random recommendations. ✔️
+1. Site does not have 4K content. ❌
+
+***
 ## 7Xtream
 ### Score: 17/22
 1. Streams load very fast. ✔️
@@ -271,21 +286,6 @@
 1. It has movies, shows and anime. ✔️
 1. Site does have watchlist when you signup. ✔️
 1. Site has decent sorting options, but more discoverability options would be nice. ⚠️
-1. Site does not have 4K content. ❌
-
-***
-## Watch2Day
-### Score: 16/22
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 9 servers but does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Site has good UI, feels modern, shows results as you type. ✔️
-1. Has built in subs for most things and allows adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have watchlists. ✔️
-1. Site has good sorting options, but could use a bit more in terms of media discovery. ⚠️
 1. Site does not have 4K content. ❌
 
 ***
