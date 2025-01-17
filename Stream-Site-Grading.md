@@ -259,6 +259,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## Watch2Day
+### Score: 16/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 9 servers but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Site has good UI, feels modern, shows results as you type. ✔️
+1. Has built in subs for most things and allows adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watchlists. ✔️
+1. Site has good sorting options, but could use a bit more in terms of media discovery. ⚠️
+1. Site does not have 4K content. ❌
+
+***
 ## StreamFlix
 ### Score: 16/22
 1. Streams load very fast. ✔️
@@ -331,21 +346,6 @@
 1. It has movies, shows and anime. ✔️
 1. Has watchlists and history. ✔️
 1. Has decent sorting options but is otherwise lacking content discoverability options. ⚠️
-1. Site does not have 4K content. ❌
-
-***
-## Watch2Day
-### Score: 15/22
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 9 servers but does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Site has good UI, feels modern, shows results as you type. ✔️
-1. Has built in subs for most things and allows adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have watchlists. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site does not have 4K content. ❌
 
 ***
