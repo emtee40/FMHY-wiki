@@ -144,7 +144,7 @@
 1. Streams load very fast. ✔️
 1. Has 1080p content and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
-1. Has 2 servers, and does auto-switch if one fails. ✔️
+1. Has 5 servers, and does auto-switch if one fails. ✔️
 1. Site does not have episode auto-next. ❌
 1. UI is good, feels modern, shows results as you type. ✔️
 1. Has built in subs for most content + allows adjustments. ✔️
