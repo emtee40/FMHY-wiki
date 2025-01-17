@@ -1129,6 +1129,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## HollyMovieHD
+### Score: 9/22
+1. Streams load very fast. ✔️
+1. Has 1080p, but can't be changed lower. ⚠️
+1. Good for both new and old content. ✔️
+1. Only 5 sources but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is alright but has room for improvement. ⚠️
+1. Site is lacking subtitle features. ❌
+1. Has movies, shows and anime. ✔️
+1. Has no watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+
+***
 ## OnionPlay
 ### Score: 8/22
 1. Streams load very fast. ✔️
@@ -1155,21 +1170,6 @@
 1. Site has subs for most content and allows adjustments. ✔️
 1. Site has movies and shows, but not much anime. ⚠️
 1. Site does not have watchlists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site does not have 4K content. ❌
-
-***
-## HollyMovieHD
-### Score: 8/22
-1. Streams load very fast. ✔️
-1. Has 1080p, but can't be changed lower. ⚠️
-1. Good for both new and old content. ✔️
-1. Only 1 source for most things but it works. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is dated, has lots of room for improvement. ❌
-1. Site is lacking subtitle features. ❌
-1. Has movies, shows and anime. ✔️
-1. Has no watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site does not have 4K content. ❌
 
