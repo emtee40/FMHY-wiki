@@ -434,7 +434,7 @@
 1. Sites UI is good, feels modern. ✔️
 1. Players have built in subtitles for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site has continue watching feature. ✔️
+1. Site has continue watching feature + watchlists when you signup. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site does not have 4K content. ❌
 
