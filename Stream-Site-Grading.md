@@ -39,7 +39,7 @@
 1. Streams load very fast. ✔️
 1. Content is 1080p and can be changed lower. ✔️
 1. Finds streams quickly, including older content. ✔️
-1. Has 3 sources but does not auto-switch if one fails. ✔️
+1. Has 3 sources and does auto-switch if one fails. ✔️
 1. Auto-next works as expected. ✔️
 1. Its solid, has good user settings, feels modern. ✔️
 1. Allows adding + searching your own subtitles. ✔️
@@ -1247,3 +1247,19 @@
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site does not have 4K content. ❌
+
+
+***
+## ViewVault
+### Score: /22
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. * How many servers do they have, and do they auto-switch if one fails?
+1. * Does the site have auto-next episodes?
+1. * How are the site's UI, player and search? Are they nice overall? What sort of user settings does it have?
+1. * What sort of subtitle features does the site have?
+1. * Does it have movies, shows and anime?
+1. * Does the site have watch lists, history or continue watching?
+1. * Are there media discovery tools like recommendations based on what people watch, collections, sorting, AI, etc?
+1. * Does the site have any 4K content?
