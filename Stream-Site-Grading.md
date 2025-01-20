@@ -274,6 +274,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## Lekuluent
+### Score: 17/22
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be changed lower. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 4 servers but does not auto switch if one fails.⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is good, feels very moderns, show search results as you type. ✔️
+1. Allows adding + searching your own subtitles. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watch list + favorites when you signup. ✔️
+1. Site has good sorting option + a entire recommendation voting system. ✔️
+1. Site does not have 4K content. ❌
+
+***
 ## Autoembed
 ### Score: 16/22
 1. Streams load very fast. ✔️
