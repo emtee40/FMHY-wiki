@@ -1249,6 +1249,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## Zoechip
+### Score: 7/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, but it can't be lowered. ⚠️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 5 sources but does not auto-switch when one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI feels dated, has lots of room for improvement. ❌
+1. Site is lacking subtitle features. ❌
+1. Site has movies and shows but no anime. ⚠️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+
+***
 ## downloads-anymovies
 ### Score: 5/22
 1. Uses file host which is known for being slow sometimes. ⚠️
