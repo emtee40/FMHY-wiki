@@ -424,6 +424,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## Let's Stream
+### Score: 15/22
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 5 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is good, feels modern. ✔️
+1. Players have built in subtitles for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has continue watching feature. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+
+***
 ## CorsFlix
 ### Score: 15/22
 1. Streams load very fast. ✔️
