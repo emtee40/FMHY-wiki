@@ -319,6 +319,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## ViewVault
+### Score: 16/22
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 4 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is pretty good, feels modern, shows results as you search. ✔️
+1. Players have built in subtitles for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have continue watching when you signup. ✔️
+1. Has decent sorting options, but not much in terms of media discovery tools. ⚠️
+1. Site does not have 4K content. ❌
+
+***
 ## VidBox
 ### Score: 16/22
 1. Streams load very fast. ✔️
@@ -1247,19 +1262,3 @@
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site does not have 4K content. ❌
-
-
-***
-## ViewVault
-### Score: /22
-1. Streams load very fast. ✔️
-1. The content is 1080p+ and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. * How many servers do they have, and do they auto-switch if one fails?
-1. * Does the site have auto-next episodes?
-1. * How are the site's UI, player and search? Are they nice overall? What sort of user settings does it have?
-1. * What sort of subtitle features does the site have?
-1. * Does it have movies, shows and anime?
-1. * Does the site have watch lists, history or continue watching?
-1. * Are there media discovery tools like recommendations based on what people watch, collections, sorting, AI, etc?
-1. * Does the site have any 4K content?
