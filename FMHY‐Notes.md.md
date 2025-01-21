@@ -20,6 +20,12 @@ Make sure you have a adblocker when using Buzzheavier as there are hidden ads on
 
 ***
 
+#### Lutton note
+
+You can ask the bot for english, but it can be hit and miss in terms of working.
+
+***
+
 #### Mobilism Ranks
 
 The users in red. Administrators are members assigned with the highest level of control over the entire board. Usually they’re Section Heads. Most Administrators are Section Heads but not all Section Heads are administrators.
