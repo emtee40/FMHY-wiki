@@ -99,7 +99,7 @@
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams quickly, including older content. ✔️
-1. Has 19 servers and first does cycle through 3 different if it fails. ✔️
+1. Has 21 servers and first does cycle through 3 different if it fails. ✔️
 1. Site does have episode auto-next. ✔️
 1. Sites UI is good, feels modern. ✔️
 1. Has built in subs for most content and allows adjustments. ✔️
