@@ -151,7 +151,7 @@
 1. It has movies, shows and anime. ✔️
 1. Site has history + watchlists. ✔️
 1. Has decent content sorting, but more discoverability options could be added. ⚠️
-1. Site does have 4K . ✔️
+1. Site does have 4K / [Guide](https://i.ibb.co/PDnw1nh/image.png), [2](https://i.imgur.com/FASkNsf.png). ✔️
 
 ***
 ## Watch2Day
