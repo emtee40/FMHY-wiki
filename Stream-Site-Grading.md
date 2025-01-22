@@ -124,6 +124,21 @@
 1. Site does have 4K + [Guide](https://i.ibb.co/PDnw1nh/image.png), [2](https://i.imgur.com/FASkNsf.png). ✔️
 
 ***
+## Hexa
+### Score: 19/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 13 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does have episode auto-next. ✔️
+1. UI is very nice, feels modern and search works well. ✔️
+1. Has built in subs for most content and allows adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watchlists and continue watching. ✔️
+1. Has sorting options, collections, and recommendations on frontpage. ✔️
+1. Site does not have 4K content. ❌
+
+***
 ## Broflix
 ### Score: 19/22
 1. Streams load very fast. ✔️
@@ -151,21 +166,6 @@
 1. Has movies, shows and anime. ✔️
 1. Has continue watching + favorites that can be synced. ✔️
 1. Its alright, it has options for filters, but more content discoverability options would be nice. ⚠️
-1. Site does not have 4K content. ❌
-
-***
-## Hexa
-### Score: 19/22
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 13 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does have episode auto-next. ✔️
-1. UI is very nice, feels modern and search works well. ✔️
-1. Has built in subs for most content and allows adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have watchlists and continue watching. ✔️
-1. Has sorting options, collections, and recommendations on frontpage. ✔️
 1. Site does not have 4K content. ❌
 
 ***
