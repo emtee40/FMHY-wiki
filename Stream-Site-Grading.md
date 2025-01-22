@@ -5,7 +5,7 @@
 1. * How consistently does it find streams, including older content, without issues?
 1. * How many servers do they have, and do they auto-switch if one fails?
 1. * Does it automatically go to a shows next episode and play it without user input?
-1. * How are the site's UI, player and search? Are they nice overall? What sort of user settings does it have?
+1. * How are the site's UI, player and search? What sort of user settings does it have?
 1. * What sort of subtitle features does the site have?
 1. * Does it have movies, shows and anime?
 1. * Does the site have watch lists, history or continue watching?
