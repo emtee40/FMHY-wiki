@@ -12,7 +12,7 @@
 1. * Are there media discovery tools like recommendations based on what people watch, collections, sorting, AI, etc?
 1. * Does the site have any 4K content?
 
-**Note** - We will likely add categories for mobile optimization, cross platform watch list sync, & more in the future. It requires 18 for a star now, but that may also increase in the future.
+**Note** - We will likely add categories for mobile optimization, cross platform watch list sync, & more in the future.
 
 ✔️= 2 points
 ⚠️= 1 point
