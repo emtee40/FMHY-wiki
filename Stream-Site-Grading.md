@@ -949,6 +949,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## SFlix
+### Score: 11/22
+1. Servers can be good, but are known for occasional inconsistency. ⚠️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Only 2 sources and does not auto-switch if one fails. ❌
+1. Site does not have episode auto-next. ❌
+1. UI is fine but has room for improvement. ⚠️
+1. Has built in subs for most content and allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has no watchlists, continue watching or history. ❌
+1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
+
+***
 ## FshareTV
 ### Score: 11/22
 1. Streams load, but it takes a second. ⚠️
@@ -1126,21 +1141,6 @@
 1. Has movies, shows and anime. ✔️
 1. Has watchlists when you signup. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site does not have 4K content. ❌
-
-***
-## SFlix
-### Score: 10/22
-1. Servers can be good, but are known for occasional inconsistency. ⚠️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Only 2 sources and does not auto-switch if one fails. ❌
-1. Site does not have episode auto-next. ❌
-1. UI feels dated, has lots of room for improvement. ❌
-1. Has built in subs for most content and allows adjustments. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has no watchlists, continue watching or history. ❌
-1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 1. Site does not have 4K content. ❌
 
 ***
