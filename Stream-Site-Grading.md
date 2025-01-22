@@ -12,7 +12,7 @@
 1. * Are there media discovery tools like recommendations based on what people watch, collections, sorting, AI, etc?
 1. * Does the site have any 4K content?
 
-**Note** - We will likely add categories for mobile optimization, cross platform watchlist sync, & more in the future.
+**Note** - We will likely add categories for mobile optimization, cross platform watch list sync, & more in the future. It requires 18 for a star now, but that may also increase in the future.
 
 ✔️= 2 points
 ⚠️= 1 point
@@ -154,6 +154,21 @@
 1. Site does have 4K . ✔️
 
 ***
+## Watch2Day
+### Score: 19/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 9 servers but does not auto-switch if one fails. ⚠️
+1. Site does have episode auto-next. ✔️
+1. Site has good UI, feels modern, shows results as you type. ✔️
+1. Has built in subs for most things and allows adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watchlists. ✔️
+1. Site has good sorting options and a AI to give random recommendations. ✔️
+1. Site does not have 4K content. ❌
+
+***
 ## RgShows
 ### Score: 18/22
 1. Streams load very fast. ✔️
@@ -226,21 +241,6 @@
 1. Has movies, shows and anime. ✔️
 1. Site does have watch lists. ✔️
 1. Site has some sorting options and gives homepage recommendations based on watched content. ✔️
-1. Site does not have 4K content. ❌
-
-***
-## Watch2Day
-### Score: 17/22
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 9 servers but does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Site has good UI, feels modern, shows results as you type. ✔️
-1. Has built in subs for most things and allows adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have watchlists. ✔️
-1. Site has good sorting options and a AI to give random recommendations. ✔️
 1. Site does not have 4K content. ❌
 
 ***
