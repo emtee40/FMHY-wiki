@@ -9,7 +9,7 @@
 1. * What sort of subtitle features does the site have?
 1. * Does it have movies, shows and anime?
 1. * Does the site have watch lists, history or continue watching?
-1. * Any media discovery tools like recommendations based on what people watch, collections, sorting, AI, etc?
+1. * Any discovery tools like recommendations based on watched content, collections, sorting, AI, etc?
 1. * Does the site have any 4K content?
 
 **Note** - We will likely add categories for mobile optimization, cross platform watch list sync, & more in the future.
