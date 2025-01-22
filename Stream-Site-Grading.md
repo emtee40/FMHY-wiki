@@ -121,7 +121,7 @@
 1. It has movies, shows and anime. ✔️
 1. Site has history + watchlists. ✔️
 1. Has content sorting, collections, and recommendations based on what people watch. ✔️
-1. Site does have 4K / [Guide](https://i.ibb.co/PDnw1nh/image.png), [2](https://i.imgur.com/FASkNsf.png). ✔️
+1. Site does have 4K + [Guide](https://i.ibb.co/PDnw1nh/image.png), [2](https://i.imgur.com/FASkNsf.png). ✔️
 
 ***
 ## Broflix
