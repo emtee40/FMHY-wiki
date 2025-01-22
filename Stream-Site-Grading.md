@@ -94,6 +94,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## 7Xtream
+### Score: 20/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 19 servers and first does cycle through 3 different if it fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites UI is good, feels modern. ✔️
+1. Has built in subs for most content and allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has watchlists. ✔️
+1. Site has sorting options, random movies, similar + recommended on each page. ✔️
+1. Site does not have 4K content. ❌
+
+***
 ## Broflix
 ### Score: 19/22
 1. Streams load very fast. ✔️
@@ -241,21 +256,6 @@
 1. Has movies, shows and anime. ✔️
 1. Site does have watch lists. ✔️
 1. Site has some sorting options and gives homepage recommendations based on watched content. ✔️
-1. Site does not have 4K content. ❌
-
-***
-## 7Xtream
-### Score: 17/22
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. Has 19 servers but does not auto switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is good, feels modern. ✔️
-1. Has built in subs for most content and allows adjustments. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has watchlists. ✔️
-1. Site has sorting options, random movies, similar + recommended on each page. ✔️
 1. Site does not have 4K content. ❌
 
 ***
