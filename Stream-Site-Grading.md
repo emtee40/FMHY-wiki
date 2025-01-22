@@ -109,6 +109,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## StreamFlix
+### Score: 20/22
+1. Streams load very fast. ✔️
+1. Has 1080p content and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 5 servers, and does auto-switch if one fails. ✔️
+1. Site does not have episode auto-next. ❌
+1. UI is good, feels modern, shows results as you type. ✔️
+1. Has built in subs for most content + allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has history + watchlists. ✔️
+1. Has content sorting, collections, and recommendations based on what people watch. ✔️
+1. Site does have 4K / [Guide](https://i.ibb.co/PDnw1nh/image.png), [2](https://i.imgur.com/FASkNsf.png). ✔️
+
+***
 ## Broflix
 ### Score: 19/22
 1. Streams load very fast. ✔️
@@ -152,21 +167,6 @@
 1. Site has watchlists and continue watching. ✔️
 1. Site gives recommendations based on what you watch. ✔️
 1. Site does not have 4K content. ❌
-
-***
-## StreamFlix
-### Score: 19/22
-1. Streams load very fast. ✔️
-1. Has 1080p content and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 5 servers, and does auto-switch if one fails. ✔️
-1. Site does not have episode auto-next. ❌
-1. UI is good, feels modern, shows results as you type. ✔️
-1. Has built in subs for most content + allows adjustments. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has history + watchlists. ✔️
-1. Has decent content sorting, but more discoverability options could be added. ⚠️
-1. Site does have 4K / [Guide](https://i.ibb.co/PDnw1nh/image.png), [2](https://i.imgur.com/FASkNsf.png). ✔️
 
 ***
 ## Watch2Day
