@@ -814,6 +814,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## PrimeWire
+### Score: 12/22
+1. Uses file hosts some of which are very consistent. ✔️
+1. Mix of 720p/1080p, and quality cannot be changed. ⚠️
+1. Very good for both new and old content. ✔️
+1. Generally 10+ sources for most content, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is alright but has room for improvement. ⚠️
+1. Doesn't have subtitles for most content. ❌
+1. It has movies, shows and anime. ✔️
+1. Site has a library feature. ✔️
+1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+1. Site does not have 4K content. ❌
+
+***
 ## Cinebook
 ### Score: 12/22
 1. Streams load very fast, but site is slow. ⚠️
@@ -991,21 +1006,6 @@
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Has sorting options and some collections, but overall content discovery tools could be added / improved. ⚠️
-1. Site does not have 4K content. ❌
-
-***
-## PrimeWire
-### Score: 11/22
-1. Uses file hosts which are known for being slow sometimes. ⚠️
-1. Mix of 720p/1080p, and quality cannot be changed. ⚠️
-1. Very good for both new and old content. ✔️
-1. Generally 10+ sources for most content, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI is alright but has room for improvement. ⚠️
-1. Doesn't have subtitles for most content. ❌
-1. It has movies, shows and anime. ✔️
-1. Site has a library feature. ✔️
-1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 1. Site does not have 4K content. ❌
 
 ***
