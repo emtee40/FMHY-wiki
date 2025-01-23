@@ -139,6 +139,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## PopcornMovies
+### Score: 19/22
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. It has 3 hosts, and it does auto-switch if one fails. ✔️
+1. The site does have episode auto-next. ✔️
+1. UI is very good, modern looking with lots to look at. ✔️
+1. Has built in subs for most content. ✔️
+1. They have movies, shows and anime. ✔️
+1. Has watchlists and history when you make account. ✔️
+1. Has decent sorting and collections, but more media discoverability options could be added. ⚠️
+1. Site does not have 4K content. ❌
+
+***
 ## Hexa
 ### Score: 19/22
 1. Streams load very fast. ✔️
@@ -211,21 +226,6 @@
 1. Has movies, shows, anime. ✔️
 1. Site has continue watching feature. ✔️
 1. Decent sorting options and has built in AI recommendation tool. ✔️
-1. Site does not have 4K content. ❌
-
-***
-## PopcornMovies
-### Score: 18/22
-1. Streams load very fast. ✔️
-1. Content is 1080p, but it cant be lowered. ⚠️
-1. Finds streams quickly, including older content. ✔️
-1. It has 3 hosts, and it does auto-switch if one fails. ✔️
-1. The site does have episode auto-next. ✔️
-1. UI is very good, modern looking with lots to look at. ✔️
-1. Has built in subs for most content. ✔️
-1. They have movies, shows and anime. ✔️
-1. Has watchlists and history when you make account. ✔️
-1. Has decent sorting and collections, but more media discoverability options could be added. ⚠️
 1. Site does not have 4K content. ❌
 
 ***
