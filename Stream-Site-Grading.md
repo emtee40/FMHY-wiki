@@ -121,7 +121,7 @@
 1. It has movies, shows and anime. ✔️
 1. Site has history + watchlists. ✔️
 1. Has content sorting, collections, and recommendations based on what people watch. ✔️
-1. Site does have 4K + [Guide](https://i.ibb.co/PDnw1nh/image.png), [2](https://i.imgur.com/FASkNsf.png). ✔️
+1. Does have 4K, guide is linked next to their site ✔️
 
 ***
 ## Broflix
@@ -630,6 +630,21 @@
 1. Has built in subs for most content and allows adjustments. ✔️
 1. Has movies, shows and anime. ✔️
 1. Has watch lists if you signup. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+
+***
+## Vidjoy
+### Score: 14/22
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 5 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does have episode auto-next. ✔️
+1. Sites UI is fine but has room for improvement.  ⚠️
+1. Has built in subs for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have continue watching? ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site does not have 4K content. ❌
 
