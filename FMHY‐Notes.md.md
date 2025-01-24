@@ -126,16 +126,6 @@ Note that Sanet has been known to host things like KMS Matrix, so its best to av
 
 ***
 
-#### FDM Note
-
-Its been claimed its malware, but its only based on an incident from 4 years ago that's been explained. The app is 100% clean.
- 
-`https://www.freedownloadmanager.org/blog/?p=664`
- 
-`https://www.virustotal.com/gui/file/3351b2b19b555a2cfce01090797637435cbe4109adb037e4ea662a1e4030073e`
-
-***
-
 #### Filebin Warning
 
  Anyone with a link to a "bin" has full access to it. They can add new files, delete existing files, etc
