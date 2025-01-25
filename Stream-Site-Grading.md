@@ -649,6 +649,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## SpenFlix
+### Score: 13/22
+1. Streams load very fast. ✔️
+1. Has 1080p and can be lowered. ✔️
+1. Good for new content, but struggles to find older stuff. ⚠️
+1. 7 sources and does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI has lots of room for improvement. ❌
+1. Has built in subs for most content. ✔️
+1. Site has movies and shows, but not much anime. ⚠️
+1. Site has continue watching. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does have 4K content. ✔️
+
+***
 ## M4uFree
 ### Score: 13/22
 1. Streams load very fast. ✔️
@@ -931,21 +946,6 @@
 1. It has movies, shows and anime. ✔️
 1. Site has no watchlists, history or continue watching. ❌
 1. Site has no sorting or content discoverability options. ❌
-1. Site does not have 4K content. ❌
-
-***
-## SpenEmbed
-### Score: 11/22
-1. Streams load very fast. ✔️
-1. Has 1080p and can be lowered. ✔️
-1. Good for new content, but struggles to find older stuff. ⚠️
-1. 7 sources and does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI has lots of room for improvement. ❌
-1. Has built in subs for most content. ✔️
-1. Site has movies and shows, but not much anime. ⚠️
-1. Site has continue watching. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site does not have 4K content. ❌
 
 ***
