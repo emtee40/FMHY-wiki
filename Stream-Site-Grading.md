@@ -934,6 +934,22 @@
 1. Site does not have 4K content. ❌
 
 ***
+## ShowBox
+### Score: 12/22
+
+1. Streams load very fast. ✔️
+1. Content is 1080p+, but cannot be lowered. ⚠️
+1. Mostly good for newer / popular content, not so much old / obscure. ⚠️
+1. Only 1 server but it is fast. ⚠️
+1. Does not have episode auto-next. ❌
+1. UI is fine but has room for improvement. ⚠️
+1. Does have subs for most content. ✔️
+1. Does have movies, shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Does have any 4K content. ✔️
+
+***
 ## Heartive
 ### Score: 11/22
 1. Streams load very fast. ✔️
