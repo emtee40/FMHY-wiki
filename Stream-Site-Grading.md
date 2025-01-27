@@ -124,21 +124,6 @@
 1. Site does not have 4K content. ❌
 
 ***
-## 7Xtream
-### Score: 20/22
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. Has 21 servers and first does cycle through 3 different if it fails. ✔️
-1. Site does give user options for episode auto-next. ✔️
-1. Sites UI is good, feels modern. ✔️
-1. Has built in subs for most content and allows adjustments. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has watchlists. ✔️
-1. Site has sorting options, random movies, similar + recommended on each page. ✔️
-1. Site does not have 4K content. ❌
-
-***
 ## StreamFlix
 ### Score: 20/22
 1. Streams load very fast. ✔️
@@ -241,6 +226,21 @@
 1. It has movies, shows and anime. ✔️
 1. Site has watchlists when you signup. ✔️
 1. Site has decent sorting options, but more discoverability tools could be added. ⚠️
+1. Site does not have 4K content. ❌
+
+***
+## 7Xtream
+### Score: 18/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 21 servers and first does cycle through 3 different if it fails. ✔️
+1. Site does not have auto-next. ❌
+1. Sites UI is good, feels modern. ✔️
+1. Has built in subs for most content and allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has watchlists. ✔️
+1. Site has sorting options, random movies, similar + recommended on each page. ✔️
 1. Site does not have 4K content. ❌
 
 ***
