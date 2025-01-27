@@ -220,7 +220,7 @@
 1. The content is in 1080p, and can be lowered and most servers. ✔️
 1. Finds streams quickly, including older content. ✔️
 1. 25+ servers, picks fastest, and they do auto-switch when one fails. ✔️
-1. Site does not have auto-next episodes. ❌
+1. Site does goes to next episode automatically, but does not play. ⚠️
 1. UI is decent, feels modern, has lots of user settings. ✔️
 1. Players have built in subtitles for most content. ✔️
 1. Has movies, shows, anime. ✔️
