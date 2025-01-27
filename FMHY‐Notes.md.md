@@ -84,6 +84,12 @@ If you're using Firefox and you want autoplay, hit the permissions on the far ri
 
 ***
 
+#### 7Xtream Autoplay
+
+For autoplay to work, you need to disable ublock, then disable ads on the site manually (top right). This only works in chromium browsers.
+
+***
+
 #### Eruda 
 
 Eruda Console for mobile browsers bookmarklet: 
