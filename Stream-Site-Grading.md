@@ -589,6 +589,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## StigStream
+### Score: 14/22
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 4 servers but does not autoswitch when one fails. ❌
+1. Site does not have episode auto-next. ❌
+1. Sites UI is good, feels very modern. ✔️
+1. Has built in subs for most content and allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has continue watching + history when you make account. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+
+***
 ## Flicker
 ### Score: 14/22
 1. Streams load very fast. ✔️
