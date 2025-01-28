@@ -604,6 +604,22 @@
 1. Site does not have 4K content. ❌
 
 ***
+## Bingeflex
+### Score: 14/22
+
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be lowered. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 5 servers but does not auto-switch when one fails. ❌
+1. Site does not have episode auto-next. ❌
+1. Sites UI is pretty good, looks modern, shows results as you type. ✔️
+1. Has built in subs for most content + customization.  ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does have 4K content. ✔️
+
+***
 ## Flicker
 ### Score: 14/22
 1. Streams load very fast. ✔️
@@ -978,22 +994,6 @@
 1. Site has no watchlists, history or continue watching. ❌
 1. Site has no sorting or content discoverability options. ❌
 1. Site does not have 4K content. ❌
-
-***
-## Bingeflex
-### Score: 11/22
-
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be lowered. ✔️
-1. Good for popular content but main player struggles to find older / obscure stuff. ⚠️
-1. Has 5 servers but does not autoswitch when one fails. ❌
-1. Site does not have episode auto-next. ❌
-1. Sites UI is pretty good, looks modern, shows results as you type. ✔️
-1. Main player seems to be missing subs for a lot of content. ❌
-1. Works well for movies + shows but not so much for anime. ⚠️
-1. Site does not have watchlists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site does have 4K content. ✔️
 
 ***
 ## PrimeFlix
