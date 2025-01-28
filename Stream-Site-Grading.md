@@ -1205,6 +1205,22 @@
 1. Site does not have 4K content. ❌
 
 ***
+## Bingeflex
+### Score: 9/22
+
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be lowered. ✔️
+1. Good for popular content but main player struggles to find older / obscure stuff. ⚠️
+1. Has 5 servers but does not autoswitch when one fails. ❌
+1. Site does not have episode auto-next. ❌
+1. Sites UI is pretty good, looks modern, shows results as you type. ✔️
+1. Main player seems to be missing subs for a lot of content. ❌
+1. Works well for movies + shows but not so much for anime. ⚠️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+
+***
 ## HollyMovieHD
 ### Score: 9/22
 1. Streams load very fast. ✔️
