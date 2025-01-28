@@ -61,7 +61,7 @@
 1. Has movies, shows, anime. ✔️
 1. Site has continue watching feature. ✔️
 1. Decent sorting options and has built in AI recommendation tool. ✔️
-1. Site does have 4K content on embed 4. ✔️
+1. Site does have 4K content on provider 4. ✔️
 
 ***
 ## Freek
