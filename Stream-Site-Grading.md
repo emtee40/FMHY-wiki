@@ -121,7 +121,7 @@
 1. It has movies, shows and anime. ✔️
 1. Site has watchlists. ✔️
 1. Site has sorting options, random movies, similar + recommended on each page. ✔️
-1. Site does not have 4K content. ✔️
+1. Site does have 4K content. ✔️
 
 ***
 ## Watch2Day
@@ -136,7 +136,7 @@
 1. Has movies, shows and anime. ✔️
 1. Site does have watchlists. ✔️
 1. Site has good sorting options and a AI to give random recommendations. ✔️
-1. Site does not have 4K content. ✔️
+1. Site does have 4K content. ✔️
 
 ***
 ## movie-web Instances
