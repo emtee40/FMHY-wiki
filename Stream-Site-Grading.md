@@ -35,7 +35,7 @@
 
 ***
 ## Freek
-### Score: 22/22
+### Score: 20/22
 1. Streams load very fast. ✔️
 1. Content is 1080p and can be changed lower. ✔️
 1. Finds streams quickly, including older content. ✔️
@@ -46,11 +46,11 @@
 1. Has movies, shows and anime. ✔️
 1. Site has watchlists + history. ✔️
 1. Has decent sorting options, and AI bot, history recommendations. ✔️
-1. Site does have 4K content. ✔️
+1. Site does not have 4K content. ❌
 
 ***
 ## HydraHD
-### Score: 22/22
+### Score: 20/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams quickly, including older content. ✔️
@@ -61,11 +61,11 @@
 1. Has movies, shows and anime. ✔️
 1. Has continue watching + favorites that can be synced. ✔️
 1. Has good sorting options and keyword based search. ✔️
-1. Site does have 4K content (beta server). ✔️
+1. Site does not have 4k. ❌
 
 ***
 ## 456movie
-### Score: 22/22
+### Score: 20/22
 1. Streams load very fast. ✔️
 1. Content is in 1080p and can be changed lower. ✔️
 1. It finds streams very fast, including very old obscure content. ✔️
@@ -76,11 +76,11 @@
 1. Has movies, shows, anime. ✔️
 1. Site has continue watching, watchlists history etc. ✔️
 1. Has AI for recommendations and recommendations at top of site. ✔️
-1. Site does have 4K content (spenembed). ✔️
+1. Site does not have 4K. ❌
 
 ***
 ## xPrime
-### Score: 22/22
+### Score: 20/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams quickly, including older content. ✔️
@@ -91,11 +91,11 @@
 1. It has movies, shows and anime. ✔️
 1. Site has watchlists and continue watching. ✔️
 1. Site gives recommendations based on what you watch and has mood based search. ✔️
-1. Site does have 4K content. ✔️
+1. Site does not have 4K content. ❌
 
 ***
 ## RgShows
-### Score: 22/22
+### Score: 20/22
 1. Streams load very fast. ✔️
 1. The content is in 1080p, and can be lowered and most servers. ✔️
 1. Finds streams quickly, including older content. ✔️
@@ -106,11 +106,11 @@
 1. Has movies, shows, anime. ✔️
 1. Site has continue watching feature. ✔️
 1. Decent sorting options and has built in AI recommendation tool. ✔️
-1. Site does have 4K content on provider 4. ✔️
+1. Site does not have 4k. ❌
 
 ***
 ## 7Xtream
-### Score: 22/22
+### Score: 20/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams quickly, including older content. ✔️
@@ -121,11 +121,11 @@
 1. It has movies, shows and anime. ✔️
 1. Site has watchlists. ✔️
 1. Site has sorting options, random movies, similar + recommended on each page. ✔️
-1. Site does have 4K content. ✔️
+1. Site does not have 4K content. ❌
 
 ***
 ## Watch2Day
-### Score: 22/22
+### Score: 20/22
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
@@ -136,7 +136,7 @@
 1. Has movies, shows and anime. ✔️
 1. Site does have watchlists. ✔️
 1. Site has good sorting options and a AI to give random recommendations. ✔️
-1. Site does have 4K content. ✔️
+1. Site does not have 4K content. ❌
 
 ***
 ## movie-web Instances
@@ -317,22 +317,6 @@
 1. Site has watchlists + continue watching. ✔️
 1. Site has sorting options, but a bit more could be added for discoverability. ⚠️
 1. Site does not have 4K content. ❌
-
-***
-## Bingeflex
-### Score: 16/22
-
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be lowered. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 5 servers but does not auto-switch when one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is pretty good, looks modern, shows results as you type. ✔️
-1. Has built in subs for most content + customization.  ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
-1. Gives recommendations on "more info" but could use more in terms of sorting / discoverability. ⚠️
-1. Site does have 4K content. ✔️
 
 ***
 ## Mapple.tv
@@ -590,6 +574,22 @@
 1. Site does not have 4K content. ❌
 
 ***
+## Bingeflex
+### Score: 14/22
+
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be lowered. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 5 servers but does not auto-switch when one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is pretty good, looks modern, shows results as you type. ✔️
+1. Has built in subs for most content + customization.  ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Gives recommendations on "more info" but could use more in terms of sorting / discoverability. ⚠️
+1. Site does have not 4K content. ❌
+
+***
 ## KaitoVault
 ### Score: 14/22
 1. Streams load very fast. ✔️
@@ -678,21 +678,6 @@
 1. Site does have continue watching? ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site does not have 4K content. ❌
-
-***
-## SpenFlix
-### Score: 13/22
-1. Streams load very fast. ✔️
-1. Has 1080p and can be lowered. ✔️
-1. Good for new content, but struggles to find older stuff. ⚠️
-1. 7 sources and does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI has lots of room for improvement. ❌
-1. Has built in subs for most content. ✔️
-1. Site has movies and shows, but not much anime. ⚠️
-1. Site has continue watching. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site does have 4K content. ✔️
 
 ***
 ## M4uFree
@@ -979,6 +964,21 @@
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Does have any 4K content. ✔️
+
+***
+## SpenFlix
+### Score: 11/22
+1. Streams load very fast. ✔️
+1. Has 1080p and can be lowered. ✔️
+1. Good for new content, but struggles to find older stuff. ⚠️
+1. 7 sources and does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI has lots of room for improvement. ❌
+1. Has built in subs for most content. ✔️
+1. Site has movies and shows, but not much anime. ⚠️
+1. Site has continue watching. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
 
 ***
 ## Heartive
