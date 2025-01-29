@@ -707,7 +707,7 @@
 1. It has movies, shows and anime. ✔️
 1. Site tracks last thing watched, but is otherwise lacking watchlists and history. ❌
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-1. Site does have some content in 4K. ✔️
+1. Site does have 4K content. ✔️
 
 ***
 ## Wovie
