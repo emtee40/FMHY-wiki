@@ -49,6 +49,21 @@
 1. Site does have 4k. ✔️
 
 ***
+## xPrime
+### Score: 22/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. They have 4 servers and they do auto-switch if one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites UI feels modern, shows trailers on hover, one of the best. ✔️
+1. Has built in subs for most content and allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has watchlists and continue watching. ✔️
+1. Site gives recommendations based on what you watch and has mood based search. ✔️
+1. Site does have 4K content. ✔️
+
+***
 ## Freek
 ### Score: 20/22
 1. Streams load very fast. ✔️
@@ -92,21 +107,6 @@
 1. Site has continue watching, watchlists history etc. ✔️
 1. Has AI for recommendations and recommendations at top of site. ✔️
 1. Site does not have 4K. ❌
-
-***
-## xPrime
-### Score: 20/22
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. They have 4 servers and they do auto-switch if one fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. Sites UI feels modern, shows trailers on hover, one of the best. ✔️
-1. Has built in subs for most content and allows adjustments. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has watchlists and continue watching. ✔️
-1. Site gives recommendations based on what you watch and has mood based search. ✔️
-1. Site does not have 4K content. ❌
 
 ***
 ## 7Xtream
