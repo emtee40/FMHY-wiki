@@ -124,6 +124,21 @@
 1. Site does not have 4K content. ✔️
 
 ***
+## Watch2Day
+### Score: 22/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 9 servers and does auto-switch if one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Site has good UI, feels modern, shows results as you type. ✔️
+1. Has built in subs for most things and allows adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watchlists. ✔️
+1. Site has good sorting options and a AI to give random recommendations. ✔️
+1. Site does not have 4K content. ✔️
+
+***
 ## movie-web Instances
 ### Score: 20/22
 1. Streams load very fast. ✔️
@@ -151,21 +166,6 @@
 1. It has movies, show and anime. ✔️
 1. It has watchlists and continue watching. ✔️
 1. It has a recommendations, collections, and an AI. ✔️
-1. Site does not have 4K content. ❌
-
-***
-## Watch2Day
-### Score: 20/22
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 9 servers and does auto-switch if one fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. Site has good UI, feels modern, shows results as you type. ✔️
-1. Has built in subs for most things and allows adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have watchlists. ✔️
-1. Site has good sorting options and a AI to give random recommendations. ✔️
 1. Site does not have 4K content. ❌
 
 ***
