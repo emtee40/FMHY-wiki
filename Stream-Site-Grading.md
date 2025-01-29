@@ -229,6 +229,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## NetPlayz
+### Score: 19/22
+1. Some servers load fast, but main has issues sometimes. ⚠️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 14 english and 4 non eng servers and it does auto-switch if ones fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites player is nice, but overall site UI could be improved. ⚠️
+1. Has built in subs for most content + allows adjustments or adding own. ✔️
+1. It has movies, shows and anime. ✔️
+1. Has history and watchlist. ✔️
+1. Has decent sorting options, but more discoverability options would be nice. ⚠️
+1. Site does have 4K content. ✔️
+
+***
 ## Nunflix
 ### Score: 18/22
 1. Streams load very fast. ✔️
@@ -256,21 +271,6 @@
 1. Has movies, shows and anime. ✔️
 1. Site does have watch lists. ✔️
 1. Site has some sorting options and gives homepage recommendations based on watched content. ✔️
-1. Site does not have 4K content. ❌
-
-***
-## NetPlayz
-### Score: 17/22
-1. Some servers load fast, but main has issues sometimes. ⚠️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 14 english and 4 non eng servers and it does auto-switch if ones fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. Sites player is nice, but overall site UI could be improved. ⚠️
-1. Has built in subs for most content + allows adjustments or adding own. ✔️
-1. It has movies, shows and anime. ✔️
-1. Has history and watchlist. ✔️
-1. Has decent sorting options, but more discoverability options would be nice. ⚠️
 1. Site does not have 4K content. ❌
 
 ***
