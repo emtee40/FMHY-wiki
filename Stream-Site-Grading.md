@@ -331,7 +331,7 @@
 1. Has built in subs for most content + customization.  ✔️
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
-1. Gives recommendations on "more info" but could use a bit more in terms of sorting / discoverability options. ⚠️
+1. Gives recommendations on "more info" but could use more in terms of sorting / discoverability. ⚠️
 1. Site does have 4K content. ✔️
 
 ***
