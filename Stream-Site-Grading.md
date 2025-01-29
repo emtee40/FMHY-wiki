@@ -34,21 +34,6 @@
 1. Site does have 4K content. ✔️
 
 ***
-## RgShows
-### Score: 22/22
-1. Streams load very fast. ✔️
-1. The content is in 1080p, and can be lowered and most servers. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. 25+ servers, picks fastest, and they do auto-switch when one fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. UI is decent, feels modern, has lots of user settings. ✔️
-1. Players have built in subtitles for most content. ✔️
-1. Has movies, shows, anime. ✔️
-1. Site has continue watching feature. ✔️
-1. Decent sorting options and has built in AI recommendation tool. ✔️
-1. Site does have 4k. ✔️
-
-***
 ## xPrime
 ### Score: 22/22
 1. Streams load very fast. ✔️
@@ -107,6 +92,21 @@
 1. Site has continue watching, watchlists history etc. ✔️
 1. Has AI for recommendations and recommendations at top of site. ✔️
 1. Site does not have 4K. ❌
+
+***
+## RgShows
+### Score: 20/22
+1. Streams load very fast. ✔️
+1. The content is in 1080p, and can be lowered and most servers. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. 25+ servers, picks fastest, and they do auto-switch when one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. UI is decent, feels modern, has lots of user settings. ✔️
+1. Players have built in subtitles for most content. ✔️
+1. Has movies, shows, anime. ✔️
+1. Site has continue watching feature. ✔️
+1. Decent sorting options and has built in AI recommendation tool. ✔️
+1. Site does not have 4K content. ❌
 
 ***
 ## 7Xtream
