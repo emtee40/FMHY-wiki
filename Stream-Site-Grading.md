@@ -34,6 +34,21 @@
 1. Site does have 4K content. ✔️
 
 ***
+## 456movie
+### Score: 22/22
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. It finds streams very fast, including very old obscure content. ✔️
+1. 15 sources and it does auto-switch when one fails. ✔️
+1. Site does have auto-next. ✔️
+1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
+1. Most of their sources allow subtitles. ✔️
+1. Has movies, shows, anime. ✔️
+1. Site has continue watching, watchlists history etc. ✔️
+1. Has AI for recommendations and recommendations at top of site. ✔️
+1. Site does have 4K. ✔️
+
+***
 ## xPrime
 ### Score: 22/22
 1. Streams load very fast. ✔️
@@ -45,7 +60,37 @@
 1. Has built in subs for most content and allows adjustments. ✔️
 1. It has movies, shows and anime. ✔️
 1. Site has watchlists and continue watching. ✔️
-1. Site gives recommendations based on what you watch and has mood based search. ✔️
+1. Good sorting, gives recommendations based on watched, and has mood based search. ✔️
+1. Site does have 4K content. ✔️
+
+***
+## RgShows
+### Score: 22/22
+1. Streams load very fast. ✔️
+1. The content is in 1080p, and can be lowered and most servers. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. 25+ servers, picks fastest, and they do auto-switch when one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. UI is decent, feels modern, has lots of user settings. ✔️
+1. Players have built in subtitles for most content. ✔️
+1. Has movies, shows, anime. ✔️
+1. Site has continue watching feature. ✔️
+1. Decent sorting options and has built in AI recommendation tool. ✔️
+1. Site does have 4K content. ✔️
+
+***
+## Watch2Day
+### Score: 22/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 9 servers and does auto-switch if one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Site has good UI, feels modern, shows results as you type. ✔️
+1. Has built in subs for most things and allows adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watchlists. ✔️
+1. Site has good sorting options and a AI to give random recommendations. ✔️
 1. Site does have 4K content. ✔️
 
 ***
@@ -64,6 +109,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## Rive
+### Score: 20/22
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. Finds both new and old content consistently. ✔️
+1. 23 english hosts + 6 non english and does auto-switch if ones fails. ✔️
+1. Auto-next works as expected. ✔️
+1. Very unique UI, lots of user-settings, one of the best. ✔️
+1. Site allows you to add, search and adjust subtitles. ✔️
+1. It has movies, show and anime. ✔️
+1. It has watchlists and continue watching. ✔️
+1. It has a recommendations, collections, and an AI. ✔️
+1. Site does not have 4K content. ❌
+
+***
 ## HydraHD
 ### Score: 20/22
 1. Streams load very fast. ✔️
@@ -77,36 +137,6 @@
 1. Has continue watching + favorites that can be synced. ✔️
 1. Has good sorting options and keyword based search. ✔️
 1. Site does not have 4k. ❌
-
-***
-## 456movie
-### Score: 20/22
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. It finds streams very fast, including very old obscure content. ✔️
-1. 15 sources and it does auto-switch when one fails. ✔️
-1. Site does have auto-next. ✔️
-1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
-1. Most of their sources allow subtitles. ✔️
-1. Has movies, shows, anime. ✔️
-1. Site has continue watching, watchlists history etc. ✔️
-1. Has AI for recommendations and recommendations at top of site. ✔️
-1. Site does not have 4K. ❌
-
-***
-## RgShows
-### Score: 20/22
-1. Streams load very fast. ✔️
-1. The content is in 1080p, and can be lowered and most servers. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. 25+ servers, picks fastest, and they do auto-switch when one fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. UI is decent, feels modern, has lots of user settings. ✔️
-1. Players have built in subtitles for most content. ✔️
-1. Has movies, shows, anime. ✔️
-1. Site has continue watching feature. ✔️
-1. Decent sorting options and has built in AI recommendation tool. ✔️
-1. Site does not have 4K content. ❌
 
 ***
 ## 7Xtream
@@ -124,21 +154,6 @@
 1. Site does not have 4K content. ❌
 
 ***
-## Watch2Day
-### Score: 20/22
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 9 servers and does auto-switch if one fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. Site has good UI, feels modern, shows results as you type. ✔️
-1. Has built in subs for most things and allows adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have watchlists. ✔️
-1. Site has good sorting options and a AI to give random recommendations. ✔️
-1. Site does not have 4K content. ❌
-
-***
 ## movie-web Instances
 ### Score: 20/22
 1. Streams load very fast. ✔️
@@ -151,21 +166,6 @@
 1. It has movies, shows and anime. ✔️
 1. Site has continue watching options that can be synced. ✔️
 1. Site has good sorting + random suggestions and editor picks. ✔️
-1. Site does not have 4K content. ❌
-
-***
-## Rive
-### Score: 20/22
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. Finds both new and old content consistently. ✔️
-1. 23 english hosts + 6 non english and does auto-switch if ones fails. ✔️
-1. Auto-next works as expected. ✔️
-1. Very unique UI, lots of user-settings, one of the best. ✔️
-1. Site allows you to add, search and adjust subtitles. ✔️
-1. It has movies, show and anime. ✔️
-1. It has watchlists and continue watching. ✔️
-1. It has a recommendations, collections, and an AI. ✔️
 1. Site does not have 4K content. ❌
 
 ***
