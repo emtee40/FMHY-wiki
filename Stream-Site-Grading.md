@@ -1176,6 +1176,22 @@
 1. Site does not have 4K content. ❌
 
 ***
+## Ronny Flix
+### Score: 10/22
+
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 12 servers but does not auto-switch when one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is okay but has room for improvement. ⚠️
+1. Main hosts are lacking subtitle features. ❌
+1. Has movies, shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+
+***
 ## Levidia
 ### Score: 10/22
 1. Streams load, but it takes a second. ⚠️
