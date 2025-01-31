@@ -49,6 +49,21 @@
 1. Site does have 4K. ✔️
 
 ***
+## Rive
+### Score: 22/22
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. Finds both new and old content consistently. ✔️
+1. 23 english hosts + 6 non english and does auto-switch if ones fails. ✔️
+1. Auto-next works as expected. ✔️
+1. Very unique UI, lots of user-settings, one of the best. ✔️
+1. Site allows you to add, search and adjust subtitles. ✔️
+1. It has movies, show and anime. ✔️
+1. It has watchlists and continue watching. ✔️
+1. It has a recommendations, collections, and an AI. ✔️
+1. Site does have 4K content on server 5 embed. ✔️
+
+***
 ## HydraHD
 ### Score: 22/22
 1. Streams load very fast. ✔️
@@ -121,21 +136,6 @@
 1. Has movies, shows and anime. ✔️
 1. Site has watchlists + history. ✔️
 1. Has decent sorting options, and AI bot, history recommendations. ✔️
-1. Site does not have 4K content. ❌
-
-***
-## Rive
-### Score: 20/22
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. Finds both new and old content consistently. ✔️
-1. 23 english hosts + 6 non english and does auto-switch if ones fails. ✔️
-1. Auto-next works as expected. ✔️
-1. Very unique UI, lots of user-settings, one of the best. ✔️
-1. Site allows you to add, search and adjust subtitles. ✔️
-1. It has movies, show and anime. ✔️
-1. It has watchlists and continue watching. ✔️
-1. It has a recommendations, collections, and an AI. ✔️
 1. Site does not have 4K content. ❌
 
 ***
@@ -287,6 +287,21 @@
 1. Site has watch list + favorites when you signup. ✔️
 1. Site has good sorting option + a entire recommendation voting system. ✔️
 1. Site does not have 4K content. ❌
+
+***
+## CorsFlix
+### Score: 17/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 26 english servers and 6 non eng, but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is good, feels modern and shows results as you type. ✔️
+1. Has built in subs for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watchlists. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does have 4K content on server 15. ✔️
 
 ***
 ## Autoembed
@@ -481,21 +496,6 @@
 1. Has built in subs for most content and allows adjustments. ✔️
 1. Has movies, shows and anime. ✔️
 1. Has watchlists when you signup. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site does not have 4K content. ❌
-
-***
-## CorsFlix
-### Score: 15/22
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 26 english servers and 6 non eng, but does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI is good, feels modern and shows results as you type. ✔️
-1. Has built in subs for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watchlists. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site does not have 4K content. ❌
 
