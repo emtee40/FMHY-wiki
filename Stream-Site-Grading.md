@@ -139,6 +139,21 @@
 1. Site does have 4K content. ✔️
 
 ***
+## 7Xtream
+### Score: 22/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 21 servers and first does cycle through 3 different if it fails. ✔️
+1. Site does not auto-next on chrome when you turn off ads. ✔️
+1. Sites UI is good, feels modern. ✔️
+1. Has built in subs for most content and allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has watchlists. ✔️
+1. Site has sorting options, random movies, similar + recommended on each page. ✔️
+1. Site does have 4K content. ✔️
+
+***
 ## Hexa
 ### Score: 21/22
 1. Streams load very fast. ✔️
@@ -152,21 +167,6 @@
 1. Site does have watchlists and continue watching. ✔️
 1. Has sorting options, collections, and recommendations on frontpage. ✔️
 1. Site does not have 4K content. ✔️
-
-***
-## 7Xtream
-### Score: 20/22
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. Has 21 servers and first does cycle through 3 different if it fails. ✔️
-1. Site does not auto-next on chrome when you turn off ads. ✔️
-1. Sites UI is good, feels modern. ✔️
-1. Has built in subs for most content and allows adjustments. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has watchlists. ✔️
-1. Site has sorting options, random movies, similar + recommended on each page. ✔️
-1. Site does not have 4K content. ❌
 
 ***
 ## movie-web Instances
