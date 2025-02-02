@@ -229,6 +229,21 @@
 1. Site does not have 4K content. ❌
 
 ***
+## AbleFlix
+### Score: 19/22
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be changed lower. ✔️
+1. Good for both new and old content. ✔️
+1. Has 16 servers but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is nice, feels modern. ✔️
+1. Most sources have subs built in. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watch lists. ✔️
+1. Site has some sorting options and gives homepage recommendations based on watched content. ✔️
+1. Site does have 4K content. ✔️
+
+***
 ## NetPlayz
 ### Score: 19/22
 1. Some servers load fast, but main has issues sometimes. ⚠️
@@ -273,21 +288,6 @@
 1. Site does have continue watching. ✔️
 1. Gives recommendations on "more info" but could use more in terms of sorting / discoverability. ⚠️
 1. Site does not 4K content. ✔️
-
-***
-## AbleFlix
-### Score: 17/22
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be changed lower. ✔️
-1. Good for both new and old content. ✔️
-1. Has 16 servers but does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is nice, feels modern. ✔️
-1. Most sources have subs built in. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have watch lists. ✔️
-1. Site has some sorting options and gives homepage recommendations based on watched content. ✔️
-1. Site does not have 4K content. ❌
 
 ***
 ## Lekuluent
