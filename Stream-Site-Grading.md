@@ -290,6 +290,21 @@
 1. Site does not 4K content. ✔️
 
 ***
+## VidBox
+### Score: 18/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 12 english and 6 non eng hosts, but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is good, feels very modern and search shows results as you type. ✔️
+1. Has built in subs for most content and allows you to upload your own and make adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watchlists and history. ✔️
+1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+1. Site does have 4K content. ✔️
+
+***
 ## Lekuluent
 ### Score: 17/22
 1. Streams load very fast. ✔️
@@ -377,21 +392,6 @@
 1. Has movies, shows and anime. ✔️
 1. Site does have continue watching when you signup. ✔️
 1. Has decent sorting options, but not much in terms of media discovery tools. ⚠️
-1. Site does not have 4K content. ❌
-
-***
-## VidBox
-### Score: 16/22
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 12 english and 6 non eng hosts, but does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI is good, feels very modern and search shows results as you type. ✔️
-1. Has built in subs for most content and allows you to upload your own and make adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watchlists and history. ✔️
-1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 1. Site does not have 4K content. ❌
 
 ***
