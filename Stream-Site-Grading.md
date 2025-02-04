@@ -154,6 +154,21 @@
 1. Site does have 4K content. ✔️
 
 ***
+## movie-web Instances
+### Score: 22/22
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. They have 9 sources, and it does auto-switch if one fails. ✔️
+1. Site does have auto-next. ✔️
+1. Very nice UI, search works well, lots of user settings. ✔️
+1. You can add, search or adjust subtitles on the site. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has continue watching options that can be synced. ✔️
+1. Site has good sorting + random suggestions and editor picks. ✔️
+1. Site does have 4K content on instances like pstream. ✔️
+
+***
 ## Watch2Day
 ### Score: 22/22
 1. Streams load very fast. ✔️
@@ -197,21 +212,6 @@
 1. Site does have watchlists and continue watching. ✔️
 1. Has sorting options, collections, and recommendations on frontpage. ✔️
 1. Site does not have 4K content. ✔️
-
-***
-## movie-web Instances
-### Score: 20/22
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. They have 9 sources, and it does auto-switch if one fails. ✔️
-1. Site does have auto-next. ✔️
-1. Very nice UI, search works well, lots of user settings. ✔️
-1. You can add, search or adjust subtitles on the site. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has continue watching options that can be synced. ✔️
-1. Site has good sorting + random suggestions and editor picks. ✔️
-1. Site does not have 4K content. ❌
 
 ***
 ## StreamFlix
