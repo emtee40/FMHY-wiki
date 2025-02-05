@@ -148,6 +148,22 @@
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## 7Xtream
+### Score: 24/24
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 21 servers and first does cycle through 3 different if it fails. ✔️
+1. Site does not auto-next on chrome when you turn off ads. ✔️
+1. Sites UI is good, feels modern. ✔️
+1. Has built in subs for most content and allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has watchlists. ✔️
+1. Site has sorting options, random movies, similar + recommended on each page. ✔️
+1. Site does have 4K content. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## Hexa
 ### Score: 23/24
 1. Streams load very fast. ✔️
@@ -177,22 +193,6 @@
 1. Has continue watching + favorites that can be synced. ✔️
 1. Has good sorting options and keyword based search. ✔️
 1. Site does have 4k. ✔️
-1. Site works well, but doesn't look too great on mobile. ⚠️
-
-***
-## 7Xtream
-### Score: 23/24
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. Has 21 servers and first does cycle through 3 different if it fails. ✔️
-1. Site does not auto-next on chrome when you turn off ads. ✔️
-1. Sites UI is good, feels modern. ✔️
-1. Has built in subs for most content and allows adjustments. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has watchlists. ✔️
-1. Site has sorting options, random movies, similar + recommended on each page. ✔️
-1. Site does have 4K content. ✔️
 1. Site works well, but doesn't look too great on mobile. ⚠️
 
 ***
