@@ -52,18 +52,18 @@
 1. Site looks good + works well on mobile. ✔️
 
 ***
-## RgShows
+## Broflix
 ### Score: 24/24
 1. Streams load very fast. ✔️
-1. The content is in 1080p, and can be lowered and most servers. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. 25+ servers, picks fastest, and they do auto-switch when one fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. UI is decent, feels modern, has lots of user settings. ✔️
-1. Players have built in subtitles for most content. ✔️
-1. Has movies, shows, anime. ✔️
-1. Site has continue watching feature. ✔️
-1. Decent sorting options and has built in AI recommendation tool. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. It finds streams very fast, including very old obscure content. ✔️
+1. They have 11 sources, and does auto-switch if one fails. ✔️
+1. Site does have auto-next. ✔️
+1. Sites UI is very good, player is good, its one of the best to look at. ✔️
+1. Most of their sources allow subtitles. ✔️
+1. It has movies, shows, anime. ✔️
+1. The site has continue watching and watchlists. ✔️
+1. Site has a very nice AI recommendation tool, recommendations on each page, and sorting. ✔️
 1. Site does have 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
@@ -97,6 +97,22 @@
 1. It has watchlists and continue watching. ✔️
 1. It has a recommendations, collections, and an AI. ✔️
 1. Site does have 4K content on server 5 embed. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+***
+## RgShows
+### Score: 24/24
+1. Streams load very fast. ✔️
+1. The content is in 1080p, and can be lowered and most servers. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. 25+ servers, picks fastest, and they do auto-switch when one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. UI is decent, feels modern, has lots of user settings. ✔️
+1. Players have built in subtitles for most content. ✔️
+1. Has movies, shows, anime. ✔️
+1. Site has continue watching feature. ✔️
+1. Decent sorting options and has built in AI recommendation tool. ✔️
+1. Site does have 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -212,22 +228,6 @@
 1. Site works well, but doesn't look too great on mobile. ⚠️
 
 ***
-## Broflix
-### Score: 22/24
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. It finds streams very fast, including very old obscure content. ✔️
-1. They have 11 sources, and does auto-switch if one fails. ✔️
-1. Site does have auto-next. ✔️
-1. Sites UI is very good, player is good, its one of the best to look at. ✔️
-1. Most of their sources allow subtitles. ✔️
-1. It has movies, shows, anime. ✔️
-1. The site has continue watching and watchlists. ✔️
-1. Site has a very nice AI recommendation tool, recommendations on each page, and sorting. ✔️
-1. Site does have 4K content. ✔️
-1. Site doesn't work well or look great on mobile. ❌
-
-***
 ## StreamFlix
 ### Score: 22/24
 1. Streams load very fast. ✔️
@@ -241,6 +241,22 @@
 1. Site has history + watchlists. ✔️
 1. Has content sorting, collections, and recommendations based on what people watch. ✔️
 1. Does have 4K, guide is linked next to their site ✔️
+1. Site looks good + works well on mobile. ✔️
+
+***
+## VidBox
+### Score: 21/24
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 12 english and 6 non eng hosts, but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is good, feels very modern and search shows results as you type. ✔️
+1. Has built in subs for most content and allows you to upload your own and make adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watchlists and history. ✔️
+1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+1. Site does have 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -322,22 +338,6 @@
 1. Site has good sorting option + a entire recommendation voting system. ✔️
 1. Site does not have 4K content. ❌
 1. Site looks good + works well on mobile. ✔️
-
-***
-## VidBox
-### Score: 19/24
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 12 english and 6 non eng hosts, but does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI is good, feels very modern and search shows results as you type. ✔️
-1. Has built in subs for most content and allows you to upload your own and make adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watchlists and history. ✔️
-1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-1. Site does have 4K content. ✔️
-1. Site works well, but doesn't look too great on mobile. ⚠️
 
 ***
 ## StigStream
