@@ -249,7 +249,7 @@
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
-1. Has 12 english and 6 non eng hosts, but does not auto-switch if one fails. ⚠️
+1. Has 12 english + 6 non eng, and a few have server auto-switch if one fails. ✔️
 1. Site does not have episode auto-next. ❌
 1. UI is good, feels very modern and search shows results as you type. ✔️
 1. Has built in subs for most content and allows you to upload your own and make adjustments. ✔️
