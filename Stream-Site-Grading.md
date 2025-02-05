@@ -13,7 +13,7 @@
 1. * Does the site have any 4K content?
 1. * How is the sites mobile optimization? Does it look good and work well?
 
-**Note** - We will likely add categories in the future.
+**Note** - We will likely add more categories in the future.
 
 ✔️= 2 points
 ⚠️= 1 point
