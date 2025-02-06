@@ -68,6 +68,22 @@
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## HydraHD
+### Score: 24/24
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. 7 english servers + 3 non eng and does auto-switch when one fails (bravo to delta but no indication). ✔️
+1. Site does have episode auto-next. ✔️
+1. UI feels modern, lots of features like ratings / mark as watched etc. ✔️
+1. Players have built in subtitles for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Has continue watching + favorites that can be synced. ✔️
+1. Has good sorting options and keyword based search. ✔️
+1. Site does have 4k. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## 456movie
 ### Score: 24/24
 1. Streams load very fast. ✔️
@@ -97,22 +113,6 @@
 1. It has watchlists and continue watching. ✔️
 1. It has a recommendations, collections, and an AI. ✔️
 1. Site does have 4K content on server 5 embed. ✔️
-1. Site looks good + works well on mobile. ✔️
-
-***
-## HydraHD
-### Score: 24/24
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. 7 english servers + 3 non eng and does auto-switch when one fails (bravo to delta but no indication). ✔️
-1. Site does have episode auto-next. ✔️
-1. UI feels modern, lots of features like ratings / mark as watched etc. ✔️
-1. Players have built in subtitles for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Has continue watching + favorites that can be synced. ✔️
-1. Has good sorting options and keyword based search. ✔️
-1. Site does have 4k. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
