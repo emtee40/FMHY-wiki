@@ -452,6 +452,22 @@
 1. Site works well, but doesn't look too great on mobile. ⚠️
 
 ***
+## Flicker
+### Score: 17/24
+1. Streams load very fast. ✔️
+1. Site has 1080p and can be switched. ✔️
+1. Good for both new and old content. ✔️
+1. Site has 7 servers, but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI and player are nice, search shows results as you type. ✔️
+1. Has subs for most content and allows adding your own and adjusting. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Has collections and AI recommendations, but is still a bit lacking in terms of sorting. ⚠️
+1. Site does have 4K content. ✔️
+1. Site works well, but doesn't look too great on mobile. ⚠️
+
+***
 ## Noxe
 ### Score: 17/24
 1. Some servers load fast, but main has issues sometimes. ⚠️
@@ -754,22 +770,6 @@
 1. Has decent sorting options, but more discoverability options would be nice. ⚠️
 1. Site does not have 4K content. ❌
 1. Site doesn't work well or look great on mobile. ❌
-
-***
-## Flicker
-### Score: 15/24
-1. Streams load very fast. ✔️
-1. Site has 1080p and can be switched. ✔️
-1. Good for both new and old content. ✔️
-1. Site has 7 servers, but does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI and player are nice, search shows results as you type. ✔️
-1. Has subs for most content and allows adding your own and adjusting. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
-1. Has collections and AI recommendations, but is still a bit lacking in terms of sorting. ⚠️
-1. Site does not have 4K content. ❌
-1. Site works well, but doesn't look too great on mobile. ⚠️
 
 ***
 ## WatchHQ
