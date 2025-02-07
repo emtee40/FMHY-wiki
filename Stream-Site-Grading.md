@@ -464,7 +464,7 @@
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Has collections and AI recommendations, but is still a bit lacking in terms of sorting. ⚠️
-1. Site does have 4K content. ✔️
+1. Site does have 4K content on server 4. ✔️
 1. Site works well, but doesn't look too great on mobile. ⚠️
 
 ***
