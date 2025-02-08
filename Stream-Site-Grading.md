@@ -308,6 +308,22 @@
 1. Site works well, but doesn't look too great on mobile. ⚠️
 
 ***
+## Mokmobi
+### Score: 20/24
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 13 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is nice, feels modern and vibrant. ✔️
+1. Has built in subs for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watchlists. ✔️
+1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+1. Site does have 4K content. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## Bingeflex
 ### Score: 20/24
 1. Streams load very fast. ✔️
@@ -369,22 +385,6 @@
 1. Site does have watchlist when you signup. ✔️
 1. Site has decent sorting options, but more discoverability options would be nice. ⚠️
 1. Site does not have 4K content. ❌
-1. Site looks good + works well on mobile. ✔️
-
-***
-## Mokmobi
-### Score: 18/24
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 13 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI is nice, feels modern and vibrant. ✔️
-1. Has built in subs for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
-1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-1. Site does have 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
