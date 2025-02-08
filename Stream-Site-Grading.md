@@ -228,6 +228,22 @@
 1. Site works well, but doesn't look too great on mobile. ⚠️
 
 ***
+## Bingeflex
+### Score: 23/24
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be lowered. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 5 servers and server 2 and beyond autoswitch when one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites UI is pretty good, looks modern, shows results as you type. ✔️
+1. Has built in subs for most content + customization.  ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have continue watching. ✔️
+1. Gives recommendations on "more info" but could use more in terms of sorting / discoverability. ⚠️
+1. Site does not 4K content. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## Nunflix
 ### Score: 22/24
 1. Streams load very fast. ✔️
@@ -257,22 +273,6 @@
 1. Site has history + watchlists. ✔️
 1. Has content sorting, collections, and recommendations based on what people watch. ✔️
 1. Does have 4K, guide is linked next to their site ✔️
-1. Site looks good + works well on mobile. ✔️
-
-***
-## Bingeflex
-### Score: 22/24
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be lowered. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 5 servers but does not auto-switch when one fails. ⚠️
-1. Site does have episode auto-next. ✔️
-1. Sites UI is pretty good, looks modern, shows results as you type. ✔️
-1. Has built in subs for most content + customization.  ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have continue watching. ✔️
-1. Gives recommendations on "more info" but could use more in terms of sorting / discoverability. ⚠️
-1. Site does not 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
