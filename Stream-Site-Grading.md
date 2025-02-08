@@ -240,7 +240,7 @@
 1. Has movies, shows and anime. ✔️
 1. Site does have continue watching. ✔️
 1. Gives recommendations on "more info" but could use more in terms of sorting / discoverability. ⚠️
-1. Site does not 4K content. ✔️
+1. Site does have 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
