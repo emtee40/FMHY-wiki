@@ -340,6 +340,22 @@
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## Cinema Deck
+### Score: 19/24
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 6 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is good, feels very modern, shows results as you type. ✔️
+1. Has built in subs for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watch lists when you signup.  ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does have 4K content. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## Lekuluent
 ### Score: 19/24
 1. Streams load very fast. ✔️
@@ -527,22 +543,6 @@
 1. Players have built in subtitles for most content. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site has continue watching feature + watchlists when you signup. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site does not have 4K content. ❌
-1. Site looks good + works well on mobile. ✔️
-
-***
-## Cinema Deck
-### Score: 17/24
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 6 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is good, feels very modern, shows results as you type. ✔️
-1. Has built in subs for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watch lists when you signup.  ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site does not have 4K content. ❌
 1. Site looks good + works well on mobile. ✔️
