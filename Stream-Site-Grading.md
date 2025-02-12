@@ -13,7 +13,7 @@
 1. * Does the site have any 4K content?
 1. * How is the sites mobile optimization? Does it look good and work well?
 
-**Note** - Our staff members also voted on their favorite sites. Each vote is represented by the 🌟 emoji. These votes don't affect the main score, but they are taking into account when breaking times.
+**Note** - Our staff members also vote on their favorites. Each vote is represented by a 🌟. These votes don't affect the main score, but they are taken into account when breaking ties.
 
 ✔️= 2 points
 ⚠️= 1 point
