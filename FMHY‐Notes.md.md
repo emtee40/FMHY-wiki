@@ -122,6 +122,12 @@ You can also do `https://www.google.com/s2/favicons?domain=URL&sz=64` where URL 
 
 ***
 
+#### Foxit Warning
+
+The installer tries to install McAfee WebAdvisor + PhantomPDF Business. They can be skipped by clicking "decline" both times.
+
+***
+
 #### Sanet Warning
 
 Note that Sanet has been known to host things like KMS Matrix, so its best to avoid it for software and games
