@@ -92,6 +92,22 @@ Staff Favorites: 🌟🌟
 Staff Favorites: 🌟
 
 ***
+## Rive
+### Score: 24/24
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. Finds both new and old content consistently. ✔️
+1. 23 english hosts + 6 non english and does auto-switch if ones fails. ✔️
+1. Auto-next works as expected. ✔️
+1. Very unique UI, lots of user-settings, one of the best. ✔️
+1. Site allows you to add, search and adjust subtitles. ✔️
+1. It has movies, show and anime. ✔️
+1. It has watchlists and continue watching. ✔️
+1. It has a recommendations, collections, and an AI. ✔️
+1. Site does have 4K content on server 5 embed. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## RgShows
 ### Score: 24/24
 1. Streams load very fast. ✔️
@@ -137,22 +153,6 @@ Staff Favorites: 🌟
 1. Site has continue watching, watchlists history etc. ✔️
 1. Has AI for recommendations and recommendations at top of site. ✔️
 1. Site does have 4K. ✔️
-1. Site looks good + works well on mobile. ✔️
-
-***
-## Rive
-### Score: 24/24
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. Finds both new and old content consistently. ✔️
-1. 23 english hosts + 6 non english and does auto-switch if ones fails. ✔️
-1. Auto-next works as expected. ✔️
-1. Very unique UI, lots of user-settings, one of the best. ✔️
-1. Site allows you to add, search and adjust subtitles. ✔️
-1. It has movies, show and anime. ✔️
-1. It has watchlists and continue watching. ✔️
-1. It has a recommendations, collections, and an AI. ✔️
-1. Site does have 4K content on server 5 embed. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
