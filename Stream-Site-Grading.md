@@ -364,6 +364,22 @@ Staff Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## uira.live
+### Score: 20/24
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. Finds both new and old content consistently. ✔️
+1. Has 11 servers on custom + 5 more, and custom auto-switches if one fails. ✔️
+1. Site does not have episode auto-next. ❌
+1. UI is nice, feels modern, search shows results as you type. ✔️
+1. Has built in subs on most sources. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site does have watchlists when you login. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does have 4K content (server 9). ✔️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## Cinema Deck
 ### Score: 19/24
 1. Streams load very fast. ✔️
@@ -424,22 +440,6 @@ Staff Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site does have watchlist when you signup. ✔️
 1. Site has decent sorting options, but more discoverability options would be nice. ⚠️
-1. Site does not have 4K content. ❌
-1. Site looks good + works well on mobile. ✔️
-
-***
-## uira.live
-### Score: 18/24
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. Finds both new and old content consistently. ✔️
-1. Has5 servers and first auto-switches if one fails. ✔️
-1. Site does not have episode auto-next. ❌
-1. UI is nice, feels modern, search shows results as you type. ✔️
-1. Has built in subs on most sources. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site does have watchlists when you login. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site does not have 4K content. ❌
 1. Site looks good + works well on mobile. ✔️
 
