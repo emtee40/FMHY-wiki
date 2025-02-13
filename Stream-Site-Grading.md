@@ -53,7 +53,7 @@ Staff Favorites: 🌟🌟🌟🌟🌟🌟
 1. Site does have 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
-Staff Favorites: 🌟🌟
+Staff Favorites: 🌟🌟🌟
 
 ***
 ## HydraHD
