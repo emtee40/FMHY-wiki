@@ -348,6 +348,22 @@ Staff Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## AlienFlix
+### Score: 20/24
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 9 servers, but does not auto-switch if one fails. ❌
+1. Site does not have episode auto-next. ❌
+1. UI is good, feels modern, easy to navigate. ✔️
+1. Has subs built into most hosts. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has continue watching, watch lists, and favorites. ✔️
+1. Site has good sorting + a AI to help discover new content . ✔️
+1. Site does have 4K content. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## AbleFlix
 ### Score: 20/24
 1. Streams load very fast. ✔️
@@ -442,22 +458,6 @@ Staff Favorites: 🌟
 1. Site has decent sorting options, but more discoverability options would be nice. ⚠️
 1. Site does not have 4K content. ❌
 1. Site looks good + works well on mobile. ✔️
-
-***
-## AlienFlix
-### Score: 18/24
-1. Streams load very fast. ✔️
-1. The content is 1080p+ and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 9 servers, but does not auto-switch if one fails. ❌
-1. Site does not have episode auto-next. ❌
-1. UI is good, feels modern, easy to navigate. ✔️
-1. Has subs built into most hosts. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has continue watching, watch lists, and favorites. ✔️
-1. Site has decent sorting but is otherwise lacking in terms of content discoverability . ⚠️
-1. Site does have 4K content. ✔️
-1. Site works well, but doesn't look too great on mobile. ⚠️
 
 ***
 ## CorsFlix
