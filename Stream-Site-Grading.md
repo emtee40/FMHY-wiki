@@ -17,7 +17,7 @@
 ⚠️= 1 point
 ❌= 0 points
 
-**Note** - Each 🌟 represents a staff member who voted the site as their favorite. These votes don't affect the main score, but they are taken into account when breaking ties.
+**Note** - We also poll both our staff + high ranking members in discord for their favorite sites. These votes don't affect the main scores, but they are taken into account when breaking ties. Each vote is represented by a 🌟.
 
 ***
 ## Cineby 
@@ -35,7 +35,7 @@
 1. Site does have 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
-Staff Favorites: 🌟🌟🌟🌟🌟🌟
+Community Favorites: 🌟🌟🌟🌟🌟🌟
 
 ***
 ## Freek
@@ -53,7 +53,7 @@ Staff Favorites: 🌟🌟🌟🌟🌟🌟
 1. Site does have 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
-Staff Favorites: 🌟🌟🌟
+Community Favorites: 🌟🌟🌟
 
 ***
 ## HydraHD
@@ -71,7 +71,7 @@ Staff Favorites: 🌟🌟🌟
 1. Site does have 4k. ✔️
 1. Site looks good + works well on mobile. ✔️
 
-Staff Favorites: 🌟🌟
+Community Favorites: 🌟🌟
 
 ***
 ## movie-web Instances
@@ -89,7 +89,7 @@ Staff Favorites: 🌟🌟
 1. Site does have 4K content on instances like pstream. ✔️
 1. Site looks good + works well on mobile. ✔️
 
-Staff Favorites: 🌟
+Community Favorites: 🌟
 
 ***
 ## Broflix
