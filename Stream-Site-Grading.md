@@ -220,6 +220,24 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## Nunflix
+### Score: 23/24
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 12 servers, and does auto-switch if ones fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Site is very nice to look at, seems modern, search works well, one of the best. ✔️
+1. Site has built in subs for most things and allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has watchlists when you signup. ✔️
+1. Site has decent sorting options, but more discoverability tools could be added. ⚠️
+1. Site does have 4K content. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+Community Favorites: 🌟
+
+***
 ## Hexa
 ### Score: 23/24
 1. Streams load very fast. ✔️
@@ -250,22 +268,6 @@ Community Favorites: 🌟
 1. Has good sorting and collections. ✔️
 1. Site does have 4K content. ✔️
 1. Site works well, but doesn't look too great on mobile. ⚠️
-
-***
-## Nunflix
-### Score: 23/24
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 12 servers, and does auto-switch if ones fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. Site is very nice to look at, seems modern, search works well, one of the best. ✔️
-1. Site has built in subs for most things and allows adjustments. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has watchlists when you signup. ✔️
-1. Site has decent sorting options, but more discoverability tools could be added. ⚠️
-1. Site does have 4K content. ✔️
-1. Site looks good + works well on mobile. ✔️
 
 ***
 ## Bingeflex
