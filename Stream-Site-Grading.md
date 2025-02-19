@@ -128,6 +128,24 @@ Community Favorites: 🌟
 Community Favorites: 🌟
 
 ***
+## xPrime
+### Score: 24/24
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. They have 4 servers and they do auto-switch if one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites UI feels modern, shows trailers on hover, one of the best. ✔️
+1. Has built in subs for most content and allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has watchlists and continue watching. ✔️
+1. Good sorting, gives recommendations based on watched, and has mood based search. ✔️
+1. Site does have 4K content. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+Community Favorites: 🌟
+
+***
 ## Broflix
 ### Score: 24/24
 1. Streams load very fast. ✔️
@@ -156,22 +174,6 @@ Community Favorites: 🌟
 1. Has movies, shows, anime. ✔️
 1. Site has continue watching feature. ✔️
 1. Decent sorting options and has built in AI recommendation tool. ✔️
-1. Site does have 4K content. ✔️
-1. Site looks good + works well on mobile. ✔️
-
-***
-## xPrime
-### Score: 24/24
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. They have 4 servers and they do auto-switch if one fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. Sites UI feels modern, shows trailers on hover, one of the best. ✔️
-1. Has built in subs for most content and allows adjustments. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has watchlists and continue watching. ✔️
-1. Good sorting, gives recommendations based on watched, and has mood based search. ✔️
 1. Site does have 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
