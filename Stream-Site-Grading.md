@@ -38,24 +38,6 @@
 Community Favorites: 🌟🌟🌟🌟🌟🌟
 
 ***
-## Freek
-### Score: 24/24
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be changed lower. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. Has 3 sources and does auto-switch if one fails. ✔️
-1. Auto-next works as expected. ✔️
-1. Its solid, has good user settings, feels modern. ✔️
-1. Allows adding + searching your own subtitles. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watchlists + history. ✔️
-1. Has decent sorting options, and AI bot, history recommendations. ✔️
-1. Site does have 4K content. ✔️
-1. Site looks good + works well on mobile. ✔️
-
-Community Favorites: 🌟🌟🌟
-
-***
 ## movie-web Instances
 ### Score: 24/24
 1. Streams load very fast. ✔️
@@ -69,6 +51,24 @@ Community Favorites: 🌟🌟🌟
 1. Site has continue watching options that can be synced. ✔️
 1. Site has good sorting + random suggestions and editor picks. ✔️
 1. Site does have 4K content on instances like pstream. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+Community Favorites: 🌟🌟🌟🌟
+
+***
+## Freek
+### Score: 24/24
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be changed lower. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 3 sources and does auto-switch if one fails. ✔️
+1. Auto-next works as expected. ✔️
+1. Its solid, has good user settings, feels modern. ✔️
+1. Allows adding + searching your own subtitles. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watchlists + history. ✔️
+1. Has decent sorting options, and AI bot, history recommendations. ✔️
+1. Site does have 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 Community Favorites: 🌟🌟🌟
