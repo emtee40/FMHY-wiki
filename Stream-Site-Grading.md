@@ -35,25 +35,7 @@
 1. Site does have 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
-Community Favorites: 🌟🌟🌟🌟🌟🌟
-
-***
-## movie-web Instances
-### Score: 24/24
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. They have 9 sources, and it does auto-switch if one fails. ✔️
-1. Site does have auto-next. ✔️
-1. Very nice UI, search works well, lots of user settings. ✔️
-1. You can add, search or adjust subtitles on the site. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has continue watching options that can be synced. ✔️
-1. Site has good sorting + random suggestions and editor picks. ✔️
-1. Site does have 4K content on instances like pstream. ✔️
-1. Site looks good + works well on mobile. ✔️
-
-Community Favorites: 🌟🌟🌟🌟
+Community Favorites: 🌟🌟🌟🌟🌟🌟🌟
 
 ***
 ## Freek
@@ -69,6 +51,24 @@ Community Favorites: 🌟🌟🌟🌟
 1. Site has watchlists + history. ✔️
 1. Has decent sorting options, and AI bot, history recommendations. ✔️
 1. Site does have 4K content. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+Community Favorites: 🌟🌟🌟
+
+***
+## movie-web Instances
+### Score: 24/24
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. They have 9 sources, and it does auto-switch if one fails. ✔️
+1. Site does have auto-next. ✔️
+1. Very nice UI, search works well, lots of user settings. ✔️
+1. You can add, search or adjust subtitles on the site. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has continue watching options that can be synced. ✔️
+1. Site has good sorting + random suggestions and editor picks. ✔️
+1. Site does have 4K content on instances like pstream. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 Community Favorites: 🌟🌟🌟
