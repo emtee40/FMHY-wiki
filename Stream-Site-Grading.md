@@ -17,7 +17,7 @@
 ⚠️= 1 point
 ❌= 0 points
 
-**Note** - We also poll both our staff + high ranking members in discord for their favorite sites. These votes don't affect the main scores, but they are taken into account when breaking ties. Each vote is represented by a 🌟.
+**Note** - We also poll staff + high ranking members for their favorite sites. These votes don't affect the main scores, but they are taken into account when breaking ties. Each vote is represented by a 🌟.
 
 ***
 ## Cineby 
