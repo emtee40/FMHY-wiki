@@ -92,22 +92,6 @@ Community Favorites: 🌟🌟🌟
 Community Favorites: 🌟🌟
 
 ***
-## Broflix
-### Score: 24/24
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. It finds streams very fast, including very old obscure content. ✔️
-1. They have 11 sources, and does auto-switch if one fails. ✔️
-1. Site does have auto-next. ✔️
-1. Sites UI is very good, player is good, its one of the best to look at. ✔️
-1. Most of their sources allow subtitles. ✔️
-1. It has movies, shows, anime. ✔️
-1. The site has continue watching and watchlists. ✔️
-1. Site has a very nice AI recommendation tool, recommendations on each page, and sorting. ✔️
-1. Site does have 4K content. ✔️
-1. Site looks good + works well on mobile. ✔️
-
-***
 ## Rive
 ### Score: 24/24
 1. Streams load very fast. ✔️
@@ -121,6 +105,24 @@ Community Favorites: 🌟🌟
 1. It has watchlists and continue watching. ✔️
 1. It has a recommendations, collections, and an AI. ✔️
 1. Site does have 4K content on server 5 embed. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+Community Favorites: 🌟
+
+***
+## Broflix
+### Score: 24/24
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. It finds streams very fast, including very old obscure content. ✔️
+1. They have 11 sources, and does auto-switch if one fails. ✔️
+1. Site does have auto-next. ✔️
+1. Sites UI is very good, player is good, its one of the best to look at. ✔️
+1. Most of their sources allow subtitles. ✔️
+1. It has movies, shows, anime. ✔️
+1. The site has continue watching and watchlists. ✔️
+1. Site has a very nice AI recommendation tool, recommendations on each page, and sorting. ✔️
+1. Site does have 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
