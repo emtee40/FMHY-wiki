@@ -110,6 +110,24 @@ Community Favorites: 🌟🌟
 Community Favorites: 🌟
 
 ***
+## 456movie
+### Score: 24/24
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. It finds streams very fast, including very old obscure content. ✔️
+1. 15 sources and it does auto-switch when one fails. ✔️
+1. Site does have auto-next. ✔️
+1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
+1. Most of their sources allow subtitles. ✔️
+1. Has movies, shows, anime. ✔️
+1. Site has continue watching, watchlists history etc. ✔️
+1. Has AI for recommendations and recommendations at top of site. ✔️
+1. Site does have 4K. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+Community Favorites: 🌟
+
+***
 ## Broflix
 ### Score: 24/24
 1. Streams load very fast. ✔️
@@ -139,22 +157,6 @@ Community Favorites: 🌟
 1. Site has continue watching feature. ✔️
 1. Decent sorting options and has built in AI recommendation tool. ✔️
 1. Site does have 4K content. ✔️
-1. Site looks good + works well on mobile. ✔️
-
-***
-## 456movie
-### Score: 24/24
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. It finds streams very fast, including very old obscure content. ✔️
-1. 15 sources and it does auto-switch when one fails. ✔️
-1. Site does have auto-next. ✔️
-1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
-1. Most of their sources allow subtitles. ✔️
-1. Has movies, shows, anime. ✔️
-1. Site has continue watching, watchlists history etc. ✔️
-1. Has AI for recommendations and recommendations at top of site. ✔️
-1. Site does have 4K. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -496,22 +498,6 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
-## Nova
-### Score: 17/24
-1. Streams load very fast. ✔️
-1. The content is 1080p and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 7 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is very clean and easy to use. ✔️
-1. Has built in subs for most content and allows adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have watchlists. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site does not have 4K content. ❌
-1. Site looks good + works well on mobile. ✔️
-
-***
 ## Flicker
 ### Score: 17/24
 1. Streams load very fast. ✔️
@@ -526,6 +512,24 @@ Community Favorites: 🌟
 1. Has collections and AI recommendations, but is still a bit lacking in terms of sorting. ⚠️
 1. Site does have 4K content on server 4. ✔️
 1. Site works well, but doesn't look too great on mobile. ⚠️
+
+Community Favorites: 🌟
+
+***
+## Nova
+### Score: 17/24
+1. Streams load very fast. ✔️
+1. The content is 1080p and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 7 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is very clean and easy to use. ✔️
+1. Has built in subs for most content and allows adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watchlists. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+1. Site looks good + works well on mobile. ✔️
 
 ***
 ## Noxe
