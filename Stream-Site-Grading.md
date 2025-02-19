@@ -89,7 +89,7 @@ Community Favorites: 🌟🌟
 1. Site does have 4K content on instances like pstream. ✔️
 1. Site looks good + works well on mobile. ✔️
 
-Community Favorites: 🌟
+Community Favorites: 🌟🌟
 
 ***
 ## Broflix
