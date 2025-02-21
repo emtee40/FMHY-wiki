@@ -356,6 +356,22 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## Noxe
+### Score: 20/24
+1. Some servers load fast, but main has issues sometimes. ⚠️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 12 sources and does auto-switch if one fails. ✔️
+1. Site does have auto-next. ✔️
+1. UI is decent but there's room for improvement. ⚠️
+1. Most players have built in subs. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has favorites and  continue watching. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does have 4K content. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## Zilla
 ### Score: 20/24
 1. Streams load very fast. ✔️
@@ -545,22 +561,6 @@ Community Favorites: 🌟
 1. Has built in subs for most content and allows adjustments. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site does have watchlists. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site does not have 4K content. ❌
-1. Site looks good + works well on mobile. ✔️
-
-***
-## Noxe
-### Score: 17/24
-1. Some servers load fast, but main has issues sometimes. ⚠️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 12 sources but does not auto-switch if one fails. ⚠️
-1. Site does have auto-next. ✔️
-1. UI is decent but there's room for improvement. ⚠️
-1. Most players have built in subs. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has favorites and  continue watching. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site does not have 4K content. ❌
 1. Site looks good + works well on mobile. ✔️
