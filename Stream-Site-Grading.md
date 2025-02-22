@@ -1398,6 +1398,22 @@ Community Favorites: 🌟
 1. Site works well, but doesn't look too great on mobile. ⚠️
 
 ***
+## NetMirror
+### Score: 9/24
+1. Streams load very fast. ✔️
+1. Has 720p only, but can be lowered. ⚠️
+1. Site is hit and miss in terms of finding content. ❌
+1. Only 1 server but its decent. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is decent, seems modern, but probably has room for improvement. ⚠️
+1. Site has subs for most content and allows adjustments. ✔️
+1. Site has movies and shows, but not much anime. ⚠️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+1. Site works well, but doesn't look too great on mobile. ⚠️
+
+***
 ## AZMovies
 ### Score: 9/24
 1. Streams load very fast. ✔️
