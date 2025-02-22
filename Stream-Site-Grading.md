@@ -178,6 +178,22 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## Hexa
+### Score: 24/24
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 13 servers, and does auto-switch if ones fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. UI is very nice, feels modern and search works well. ✔️
+1. Has built in subs for most content and allows adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watchlists and continue watching. ✔️
+1. Has sorting options, collections, and recommendations on frontpage. ✔️
+1. Site does not have 4K content. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## AlienFlix
 ### Score: 24/24
 1. Streams load very fast. ✔️
@@ -242,22 +258,6 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 Community Favorites: 🌟
-
-***
-## Hexa
-### Score: 23/24
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 13 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does have episode auto-next. ✔️
-1. UI is very nice, feels modern and search works well. ✔️
-1. Has built in subs for most content and allows adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have watchlists and continue watching. ✔️
-1. Has sorting options, collections, and recommendations on frontpage. ✔️
-1. Site does not have 4K content. ✔️
-1. Site looks good + works well on mobile. ✔️
 
 ***
 ## PopcornMovies
