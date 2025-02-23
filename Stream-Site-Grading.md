@@ -35,7 +35,7 @@
 1. Site does have 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
-Community Favorites: 🌟🌟🌟🌟🌟🌟🌟
+Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟
 
 ***
 ## movie-web Instances
