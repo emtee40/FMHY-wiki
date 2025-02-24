@@ -252,7 +252,7 @@
 * 🌐 **[/r/usenet Providers](https://www.reddit.com/r/usenet/wiki/providers)** - Provider Lists
 * 🌐 **[/r/usenet Deals](https://www.reddit.com/r/usenet/wiki/providerdeals)** - Provider Deals
 * 🌐 **[Usenet Provider Deals](https://rexum.space/p/usenet-provider-deals/)**
-* [Usenet Providers Map](https://mediavoid.io/map.svg)
+* [Usenet Providers Map](https://usenet.rexum.space/tree)
 * [usenetmax](https://www.usenetmax.com/)
 * [usenet.farm](https://usenet.farm/#trial)
 * [Free Trials](https://www.ngprovider.com/free-usenet-trials.php)
@@ -277,7 +277,7 @@
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Quickly Send DDL Links to Premiumize & NoPremium
 * [RapidGrab](https://rapidgrab.ovh/) or [Newscon](https://www.newscon.org/d3/) - Leeches
 * [⁠FastDebrid](https://fastdebrid.com/) - 1Fichier Leech
-* [Debrid Media Manager](https://debridmediamanager.com/) - Manage / Stream / Download RD Files
+* [Debrid Media Manager](https://debridmediamanager.com/) - Manage / Stream / Download Debrid Files
 * [TorBox](https://torbox.app/) - Torrent to Cloud
 
 ***
