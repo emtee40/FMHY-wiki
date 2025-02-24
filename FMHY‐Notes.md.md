@@ -112,7 +112,7 @@ The site itself is safe, but in the past they've used leaked public certificates
 
 #### Bunny Plugins Note
 
-Add 'https://bunny.nexpid.xyz/plugin-browser' in plugins section of bunny for a plugin browser. Many of these plugins are broken and cannot be enabled, so look in revenge discord server plugins channel for fixed versions.
+Add `https://bunny.nexpid.xyz/plugin-browser/` in plugins section of bunny for a plugin browser. Many of these plugins are broken and cannot be enabled, so look in revenge discord server plugins channel for fixed versions.
 
 ***
 
