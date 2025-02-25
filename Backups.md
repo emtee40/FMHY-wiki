@@ -6,6 +6,8 @@
 
 [fmhy.lol](https://fmhy.lol/)
 
+[fmhy.vercel.app](https://fmhy.vercel.app/)
+
 ***
 
 **Backups**
