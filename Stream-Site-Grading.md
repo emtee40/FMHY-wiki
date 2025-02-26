@@ -242,6 +242,22 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## FlickyStream
+### Score: 24/24
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 12 sources and does auto-switch if one fails. ✔️
+1. Site does have episode auto-next (vidlinkpro server). ✔️
+1. Site has good UI, feels modern, shows results as you type. ✔️
+1. Has built in subs for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have continue watching. ✔️
+1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
+1. Site does have 4K content. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## Nunflix
 ### Score: 23/24
 1. Streams load very fast. ✔️
@@ -321,22 +337,6 @@ Community Favorites: 🌟
 1. Site has history + watchlists. ✔️
 1. Has content sorting, collections, and recommendations based on what people watch. ✔️
 1. Does have 4K, guide is linked next to their site ✔️
-1. Site looks good + works well on mobile. ✔️
-
-***
-## FlickyStream
-### Score: 22/24
-1. Streams load very fast. ✔️
-1. The content is 1080p+ and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 12 sources and does auto-switch if one fails. ✔️
-1. Site does not have episode auto-next. ❌
-1. Site has good UI, feels modern, shows results as you type. ✔️
-1. Has built in subs for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have continue watching. ✔️
-1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
-1. Site does have 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
