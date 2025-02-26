@@ -276,22 +276,6 @@ Community Favorites: 🌟
 1. Site works well, but doesn't look too great on mobile. ⚠️
 
 ***
-## Bingeflex
-### Score: 23/24
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be lowered. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 5 servers and server 2 and beyond autoswitch when one fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. Sites UI is pretty good, looks modern, shows results as you type. ✔️
-1. Has built in subs for most content + customization.  ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have continue watching. ✔️
-1. Gives recommendations on "more info" but could use more in terms of sorting / discoverability. ⚠️
-1. Site does have 4K content. ✔️
-1. Site looks good + works well on mobile. ✔️
-
-***
 ## uira.live
 ### Score: 23/24
 1. Streams load very fast. ✔️
@@ -305,6 +289,22 @@ Community Favorites: 🌟
 1. Site does have watchlists when you login. ✔️
 1. Site has decent sorting but is otherwise lacking in terms of content discoverability . ⚠️
 1. Site does have 4K content (server 9). ✔️
+1. Site looks good + works well on mobile. ✔️
+
+***
+## Bingeflex
+### Score: 23/24
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be lowered. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 5 servers and server 2 and beyond autoswitch when one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites UI is pretty good, looks modern, shows results as you type. ✔️
+1. Has built in subs for most content + customization.  ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have continue watching. ✔️
+1. Gives recommendations on "more info" but could use more in terms of sorting / discoverability. ⚠️
+1. Site does have 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
