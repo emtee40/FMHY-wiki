@@ -452,6 +452,22 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## Arabflix
+### Score: 19/24
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 9 sources, but does not autoswitch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is good, feels very modern, shows results as you type. ✔️
+1. Has subs built into most players. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has continue watching feature on homepage. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does have 4K content. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## Cinema Deck
 ### Score: 19/24
 1. Streams load very fast. ✔️
