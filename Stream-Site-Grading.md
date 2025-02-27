@@ -324,6 +324,22 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## Ronny Flix
+### Score: 22/24
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 12 servers and some of them do auto-switch when they fail. ✔️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is good, feels modern, shows results as you type. ✔️
+1. Most hosts have subtitles built in. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watchlists / favorites. ✔️
+1. Site has AI recommendations, recommendations on movie pages, and decent sorting ✔️
+1. Site does have 4K content. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## StreamFlix
 ### Score: 22/24
 1. Streams load very fast. ✔️
@@ -337,22 +353,6 @@ Community Favorites: 🌟
 1. Site has history + watchlists. ✔️
 1. Has content sorting, collections, and recommendations based on what people watch. ✔️
 1. Does have 4K, guide is linked next to their site ✔️
-1. Site looks good + works well on mobile. ✔️
-
-***
-## Ronny Flix
-### Score: 21/24
-1. Streams load very fast. ✔️
-1. The content is 1080p+ and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 12 servers and some of them do auto-switch when they fail. ✔️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is good, feels modern, shows results as you type. ✔️
-1. Most hosts have subtitles built in. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have watchlists / favorites. ✔️
-1. Site has AI recommendations, but is otherwise lacking in terms of content discoverability / sorting. ⚠️
-1. Site does have 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
