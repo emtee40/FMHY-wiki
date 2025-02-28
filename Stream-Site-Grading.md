@@ -356,6 +356,22 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## Arabflix
+### Score: 21/24
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 9 sources, and first does switch to second when it fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites UI is good, feels very modern, shows results as you type. ✔️
+1. Has subs built into most players. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has continue watching feature on homepage. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does have 4K content (videasy only). ⚠️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## VidBox
 ### Score: 20/24
 1. Streams load very fast. ✔️
@@ -513,22 +529,6 @@ Community Favorites: 🌟
 1. Site does have watchlist when you signup. ✔️
 1. Site has decent sorting options, but more discoverability options would be nice. ⚠️
 1. Site does not have 4K content. ❌
-1. Site looks good + works well on mobile. ✔️
-
-***
-## Arabflix
-### Score: 18/24
-1. Streams load very fast. ✔️
-1. The content is 1080p+ and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 9 sources, but does not autoswitch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is good, feels very modern, shows results as you type. ✔️
-1. Has subs built into most players. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has continue watching feature on homepage. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site does have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 ***
