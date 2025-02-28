@@ -32,14 +32,14 @@
 1. It has movies, shows and anime. ✔️
 1. The site has watchlists + history. ✔️
 1. Has sorting options + watch history based recommendations when you login. ✔️
-1. Site does have 4K content. ✔️
+1. Site has its own 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟
 
 ***
 ## movie-web Instances
-### Score: 24/24
+### Score: 23/24
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
@@ -50,14 +50,14 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟
 1. It has movies, shows and anime. ✔️
 1. Site has continue watching options that can be synced. ✔️
 1. Site has good sorting + random suggestions and editor picks. ✔️
-1. Site does have 4K content on instances like pstream. ✔️
+1. Site has 4K on instances like pstream (febox setup required). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 Community Favorites: 🌟🌟🌟🌟
 
 ***
 ## Freek
-### Score: 24/24
+### Score: 23/24
 1. Streams load very fast. ✔️
 1. Content is 1080p and can be changed lower. ✔️
 1. Finds streams quickly, including older content. ✔️
@@ -68,14 +68,14 @@ Community Favorites: 🌟🌟🌟🌟
 1. Has movies, shows and anime. ✔️
 1. Site has watchlists + history. ✔️
 1. Has decent sorting options, and AI bot, history recommendations. ✔️
-1. Site does have 4K content. ✔️
+1. Site does have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 Community Favorites: 🌟🌟🌟
 
 ***
 ## HydraHD
-### Score: 24/24
+### Score: 23/24
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams quickly, including older content. ✔️
@@ -86,14 +86,14 @@ Community Favorites: 🌟🌟🌟
 1. Has movies, shows and anime. ✔️
 1. Has continue watching + favorites that can be synced. ✔️
 1. Has good sorting options and keyword based search. ✔️
-1. Site does have 4k. ✔️
+1. Site does have 4k (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 Community Favorites: 🌟🌟
 
 ***
 ## Rive
-### Score: 24/24
+### Score: 23/24
 1. Streams load very fast. ✔️
 1. Content is in 1080p and can be changed lower. ✔️
 1. Finds both new and old content consistently. ✔️
@@ -104,14 +104,14 @@ Community Favorites: 🌟🌟
 1. It has movies, show and anime. ✔️
 1. It has watchlists and continue watching. ✔️
 1. It has a recommendations, collections, and an AI. ✔️
-1. Site does have 4K content on server 5 embed. ✔️
+1. Site does have 4K on server 5 (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 Community Favorites: 🌟
 
 ***
 ## 456movie
-### Score: 24/24
+### Score: 23/24
 1. Streams load very fast. ✔️
 1. Content is in 1080p and can be changed lower. ✔️
 1. It finds streams very fast, including very old obscure content. ✔️
@@ -122,14 +122,14 @@ Community Favorites: 🌟
 1. Has movies, shows, anime. ✔️
 1. Site has continue watching, watchlists history etc. ✔️
 1. Has AI for recommendations and recommendations at top of site. ✔️
-1. Site does have 4K. ✔️
+1. Site does have 4K (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 Community Favorites: 🌟
 
 ***
 ## xPrime
-### Score: 24/24
+### Score: 23/24
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams quickly, including older content. ✔️
@@ -140,14 +140,14 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site has watchlists and continue watching. ✔️
 1. Good sorting, gives recommendations based on watched, and has mood based search. ✔️
-1. Site does have 4K content. ✔️
+1. Site does have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 Community Favorites: 🌟
 
 ***
 ## Broflix
-### Score: 24/24
+### Score: 23/24
 1. Streams load very fast. ✔️
 1. Content is in 1080p and can be changed lower. ✔️
 1. It finds streams very fast, including very old obscure content. ✔️
@@ -158,12 +158,12 @@ Community Favorites: 🌟
 1. It has movies, shows, anime. ✔️
 1. The site has continue watching and watchlists. ✔️
 1. Site has a very nice AI recommendation tool, recommendations on each page, and sorting. ✔️
-1. Site does have 4K content. ✔️
+1. Site does have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 ***
 ## RgShows
-### Score: 24/24
+### Score: 23/24
 1. Streams load very fast. ✔️
 1. The content is in 1080p, and can be lowered and most servers. ✔️
 1. Finds streams quickly, including older content. ✔️
@@ -174,12 +174,12 @@ Community Favorites: 🌟
 1. Has movies, shows, anime. ✔️
 1. Site has continue watching feature. ✔️
 1. Decent sorting options and has built in AI recommendation tool. ✔️
-1. Site does have 4K content. ✔️
+1. Site does have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 ***
 ## AlienFlix
-### Score: 24/24
+### Score: 23/24
 1. Streams load very fast. ✔️
 1. The content is 1080p+ and allows switching to lower quality. ✔️
 1. Finds popular things with no issue, including older content. ✔️
@@ -190,12 +190,12 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site has continue watching, watch lists, and favorites. ✔️
 1. Site has good sorting + a AI to help discover new content . ✔️
-1. Site does have 4K content. ✔️
+1. Site does have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 ***
 ## Hexa
-### Score: 24/24
+### Score: 23/24
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
@@ -206,12 +206,12 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have watchlists and continue watching. ✔️
 1. Has sorting options, collections, and recommendations on frontpage. ✔️
-1. Site does not have 4K content. ✔️
+1. Site does not have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 ***
 ## Watch2Day
-### Score: 24/24
+### Score: 23/24
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
@@ -222,12 +222,12 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have watchlists. ✔️
 1. Site has good sorting options and a AI to give random recommendations. ✔️
-1. Site does have 4K content. ✔️
+1. Site does have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 ***
 ## 7Xtream
-### Score: 24/24
+### Score: 23/24
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams quickly, including older content. ✔️
@@ -238,12 +238,12 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site has watchlists. ✔️
 1. Site has sorting options, random movies, similar + recommended on each page. ✔️
-1. Site does have 4K content. ✔️
+1. Site does have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 ***
 ## FlickyStream
-### Score: 24/24
+### Score: 23/24
 1. Streams load very fast. ✔️
 1. The content is 1080p+ and allows switching to lower quality. ✔️
 1. Finds popular things with no issue, including older content. ✔️
@@ -254,12 +254,12 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have continue watching. ✔️
 1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
-1. Site does have 4K content. ✔️
+1. Site does have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 ***
 ## Nunflix
-### Score: 23/24
+### Score: 22/24
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
@@ -270,14 +270,14 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site has watchlists when you signup. ✔️
 1. Site has decent sorting options, but more discoverability tools could be added. ⚠️
-1. Site does have 4K content. ✔️
+1. Site does have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 Community Favorites: 🌟
 
 ***
 ## PopcornMovies
-### Score: 23/24
+### Score: 22/24
 1. Streams load very fast. ✔️
 1. Content is 1080p and can be lowered. ✔️
 1. Finds streams quickly, including older content. ✔️
@@ -288,12 +288,12 @@ Community Favorites: 🌟
 1. They have movies, shows and anime. ✔️
 1. Has watchlists and history when you make account. ✔️
 1. Has good sorting and collections. ✔️
-1. Site does have 4K content. ✔️
+1. Site does have 4K content (videasy only). ⚠️
 1. Site works well, but doesn't look too great on mobile. ⚠️
 
 ***
 ## uira.live
-### Score: 23/24
+### Score: 22/24
 1. Streams load very fast. ✔️
 1. Content is in 1080p and can be changed lower. ✔️
 1. Finds both new and old content consistently. ✔️
@@ -304,12 +304,12 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site does have watchlists when you login. ✔️
 1. Site has decent sorting but is otherwise lacking in terms of content discoverability . ⚠️
-1. Site does have 4K content (server 9). ✔️
+1. Site does have 4K content on server 9 (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 ***
 ## Bingeflex
-### Score: 23/24
+### Score: 22/24
 1. Streams load very fast. ✔️
 1. Content is 1080p and can be lowered. ✔️
 1. Finds popular things with no issue, including older content. ✔️
@@ -320,12 +320,12 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have continue watching. ✔️
 1. Gives recommendations on "more info" but could use more in terms of sorting / discoverability. ⚠️
-1. Site does have 4K content. ✔️
+1. Site does have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 ***
 ## Ronny Flix
-### Score: 22/24
+### Score: 21/24
 1. Streams load very fast. ✔️
 1. The content is 1080p+ and allows switching to lower quality. ✔️
 1. Finds popular things with no issue, including older content. ✔️
@@ -336,12 +336,12 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have watchlists / favorites. ✔️
 1. Site has AI recommendations, recommendations on movie pages, and decent sorting ✔️
-1. Site does have 4K content. ✔️
+1. Site does have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 ***
 ## StreamFlix
-### Score: 22/24
+### Score: 21/24
 1. Streams load very fast. ✔️
 1. Has 1080p content and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
@@ -352,12 +352,12 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site has history + watchlists. ✔️
 1. Has content sorting, collections, and recommendations based on what people watch. ✔️
-1. Does have 4K, guide is linked next to their site ✔️
+1. Does have 4K, guide is linked next to their site (requires febox setup). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 ***
 ## VidBox
-### Score: 21/24
+### Score: 20/24
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
@@ -368,28 +368,12 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has watchlists and history. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-1. Site does have 4K content. ✔️
-1. Site looks good + works well on mobile. ✔️
-
-***
-## NetPlayz
-### Score: 21/24
-1. Some servers load fast, but main has issues sometimes. ⚠️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 14 english and 4 non eng servers and it does auto-switch if ones fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. Sites player is nice, but overall site UI could be improved. ⚠️
-1. Has built in subs for most content + allows adjustments or adding own. ✔️
-1. It has movies, shows and anime. ✔️
-1. Has history and watchlist. ✔️
-1. Has decent sorting options, but more discoverability options would be nice. ⚠️
-1. Site does have 4K content. ✔️
+1. Site does have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 ***
 ## Nova
-### Score: 20/24
+### Score: 19/24
 1. Streams load very fast. ✔️
 1. The content is 1080p and can be lowered. ✔️
 1. Good for both new and old content. ✔️
@@ -400,12 +384,12 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have watchlists. ✔️
 1. Has recommendations on movie pages, good sorting, a random button. ⚠️
-1. Site does have 4K content. ✔️
+1. Site does have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 ***
 ## Noxe
-### Score: 20/24
+### Score: 19/24
 1. Some servers load fast, but main has issues sometimes. ⚠️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
@@ -416,12 +400,12 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has favorites and  continue watching. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site does have 4K content. ✔️
+1. Site does have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 ***
 ## Zilla
-### Score: 20/24
+### Score: 19/24
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
@@ -432,12 +416,12 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has watchlists + continue watching. ✔️
 1. Site has sorting options, but a bit more could be added for discoverability. ⚠️
-1. Site does have 4K (apple and papaya sources). ✔️
+1. Site does have 4K (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 ***
 ## AbleFlix
-### Score: 20/24
+### Score: 19/24
 1. Streams load very fast. ✔️
 1. Content is 1080p and can be changed lower. ✔️
 1. Good for both new and old content. ✔️
@@ -448,12 +432,12 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have watch lists. ✔️
 1. Site has some sorting options and gives homepage recommendations based on watched content. ✔️
-1. Site does have 4K content. ✔️
+1. Site does have 4K content (videasy only). ⚠️
 1. Site works well, but doesn't look too great on mobile. ⚠️
 
 ***
 ## Mokmobi
-### Score: 20/24
+### Score: 19/24
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
@@ -464,39 +448,23 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have watchlists. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-1. Site does have 4K content. ✔️
+1. Site does have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 ***
-## Arabflix
+## NetPlayz
 ### Score: 19/24
-1. Streams load very fast. ✔️
-1. The content is 1080p+ and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 9 sources, but does not autoswitch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is good, feels very modern, shows results as you type. ✔️
-1. Has subs built into most players. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has continue watching feature on homepage. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site does have 4K content. ✔️
-1. Site looks good + works well on mobile. ✔️
-
-***
-## Cinema Deck
-### Score: 19/24
-1. Streams load very fast. ✔️
+1. Some servers load fast, but main has issues sometimes. ⚠️
 1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 6 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is good, feels very modern, shows results as you type. ✔️
-1. Has built in subs for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watch lists when you signup.  ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site does have 4K content. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 14 english and 4 non eng servers and it does auto-switch if ones fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites player is nice, but overall site UI could be improved. ⚠️
+1. Has built in subs for most content + allows adjustments or adding own. ✔️
+1. It has movies, shows and anime. ✔️
+1. Has history and watchlist. ✔️
+1. Has decent sorting options, but more discoverability options would be nice. ⚠️
+1. Site does not 4K content. ❌
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -548,20 +516,36 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
-## CorsFlix
+## Arabflix
+### Score: 18/24
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 9 sources, but does not autoswitch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is good, feels very modern, shows results as you type. ✔️
+1. Has subs built into most players. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has continue watching feature on homepage. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does have 4K content (videasy only). ⚠️
+1. Site looks good + works well on mobile. ✔️
+
+***
+## Cinema Deck
 ### Score: 18/24
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
-1. Has 26 english servers and 6 non eng, but does not auto-switch if one fails. ⚠️
+1. Has 6 servers, but does not auto-switch if ones fails. ⚠️
 1. Site does not have episode auto-next. ❌
-1. UI is good, feels modern and shows results as you type. ✔️
+1. Sites UI is good, feels very modern, shows results as you type. ✔️
 1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site has watchlists. ✔️
+1. Site has watch lists when you signup.  ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site does have 4K content on server 15. ✔️
-1. Looks good but is slow to load on mobile. ⚠️
+1. Site does have 4K content (videasy only). ⚠️
+1. Site looks good + works well on mobile. ✔️
 
 ***
 ## ViewVault
@@ -580,22 +564,20 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
-## Flicker
+## CorsFlix
 ### Score: 17/24
 1. Streams load very fast. ✔️
-1. Site has 1080p and can be switched. ✔️
+1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
-1. Site has 9 servers, but does not auto-switch if one fails. ⚠️
+1. Has 26 english servers and 6 non eng, but does not auto-switch if one fails. ⚠️
 1. Site does not have episode auto-next. ❌
-1. UI and player are nice, search shows results as you type. ✔️
-1. Has subs for most content and allows adding your own and adjusting. ✔️
+1. UI is good, feels modern and shows results as you type. ✔️
+1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does not have watch lists, continue watching or history. ❌
-1. Has collections and AI recommendations, but is still a bit lacking in terms of sorting. ⚠️
-1. Site does have 4K content on server 4. ✔️
-1. Site works well, but doesn't look too great on mobile. ⚠️
-
-Community Favorites: 🌟
+1. Site has watchlists. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does have 4K content on server 15 (videasy only). ⚠️
+1. Looks good but is slow to load on mobile. ⚠️
 
 ***
 ## Mapple.tv
@@ -644,6 +626,24 @@ Community Favorites: 🌟
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site does not have 4K content. ❌
 1. Site looks good + works well on mobile. ✔️
+
+***
+## Flicker
+### Score: 16/24
+1. Streams load very fast. ✔️
+1. Site has 1080p and can be switched. ✔️
+1. Good for both new and old content. ✔️
+1. Site has 9 servers, but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI and player are nice, search shows results as you type. ✔️
+1. Has subs for most content and allows adding your own and adjusting. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does not have watch lists, continue watching or history. ❌
+1. Has collections and AI recommendations, but is still a bit lacking in terms of sorting. ⚠️
+1. Site does have 4K content on server 4 (videasy only). ⚠️
+1. Site works well, but doesn't look too great on mobile. ⚠️
+
+Community Favorites: 🌟
 
 ***
 ## Smashystream
@@ -818,7 +818,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site tracks last thing watched, but is otherwise lacking watchlists and history. ❌
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-1. Site does have 4K content. ✔️
+1. Site does have its own hosted 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -1218,7 +1218,7 @@ Community Favorites: 🌟
 1. Does have movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Does have any 4K content. ✔️
+1. Does have its own 4K content. ✔️
 1. Site works well, but doesn't look too great on mobile. ⚠️
 
 ***
