@@ -356,22 +356,6 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
-## Ronny Flix
-### Score: 20/24
-1. Streams load very fast. ✔️
-1. The content is 1080p+ and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 12 servers and some of them do auto-switch when they fail. ✔️
-1. Site does have episode auto-next (server 3). ✔️
-1. Sites UI is alright, but has room for improvement. ⚠️
-1. Most hosts have subtitles built in. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have watchlists / favorites. ✔️
-1. Site has AI recommendations, and sorting, but is overall lacking in terms of discoverability. ⚠️
-1. Site does have 4K content (videasy only). ⚠️
-1. Site works well but doesn't look great on mobile. ⚠️
-
-***
 ## VidBox
 ### Score: 20/24
 1. Streams load very fast. ✔️
@@ -498,6 +482,22 @@ Community Favorites: 🌟
 1. Site has good sorting option + a entire recommendation voting system. ✔️
 1. Site does not have 4K content. ❌
 1. Site looks good + works well on mobile. ✔️
+
+***
+## Ronny Flix
+### Score: 19/24
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 12 servers and some of them do auto-switch when they fail. ✔️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is good, shows results as you type, feels modern. ✔️
+1. Most hosts have subtitles built in. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watchlists / favorites. ✔️
+1. Site has AI recommendations, and sorting, but is overall lacking in terms of discoverability. ⚠️
+1. Site does have 4K content (videasy only). ⚠️
+1. Site works well but doesn't look great on mobile. ⚠️
 
 ***
 ## StigStream
