@@ -356,6 +356,24 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## Flicker
+### Score: 20/24
+1. Streams load very fast. ✔️
+1. Site has 1080p and can be switched. ✔️
+1. Good for both new and old content. ✔️
+1. Site has 9 servers, and it does auto-switch when one fails. ✔️
+1. Site does have episode auto-next (server 6). ✔️
+1. UI and player are nice, search shows results as you type. ✔️
+1. Has subs for most content and allows adding your own and adjusting. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does not have watch lists, continue watching or history. ❌
+1. Has collections and AI recommendations, but is still a bit lacking in terms of sorting. ⚠️
+1. Site does have 4K content on server 4 (videasy only). ⚠️
+1. Site works well, but doesn't look too great on mobile. ⚠️
+
+Community Favorites: 🌟
+
+***
 ## VidBox
 ### Score: 20/24
 1. Streams load very fast. ✔️
@@ -626,24 +644,6 @@ Community Favorites: 🌟
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site does not have 4K content. ❌
 1. Site looks good + works well on mobile. ✔️
-
-***
-## Flicker
-### Score: 16/24
-1. Streams load very fast. ✔️
-1. Site has 1080p and can be switched. ✔️
-1. Good for both new and old content. ✔️
-1. Site has 9 servers, but does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI and player are nice, search shows results as you type. ✔️
-1. Has subs for most content and allows adding your own and adjusting. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does not have watch lists, continue watching or history. ❌
-1. Has collections and AI recommendations, but is still a bit lacking in terms of sorting. ⚠️
-1. Site does have 4K content on server 4 (videasy only). ⚠️
-1. Site works well, but doesn't look too great on mobile. ⚠️
-
-Community Favorites: 🌟
 
 ***
 ## Smashystream
