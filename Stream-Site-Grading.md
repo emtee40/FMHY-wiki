@@ -226,6 +226,22 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## uira.live
+### Score: 23/24
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. Finds both new and old content consistently. ✔️
+1. Has 11 servers on custom + 5 more, and custom auto-switches if one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. UI is nice, feels modern, search shows results as you type. ✔️
+1. Has built in subs on most sources. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site does have watchlists when you login. ✔️
+1. Site has decent sorting but is otherwise lacking in terms of content discoverability. ⚠️
+1. Site does have its own hosted 4K content. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## 7Xtream
 ### Score: 23/24
 1. Streams load very fast. ✔️
@@ -321,22 +337,6 @@ Community Favorites: 🌟
 1. Site does have watchlists, favorites and continue watching. ✔️
 1. Site has AI recommendations, and sorting, but is overall lacking in terms of discoverability. ⚠️
 1. Site does have 4K content (videasy only). ⚠️
-1. Site looks good + works well on mobile. ✔️
-
-***
-## uira.live
-### Score: 21/24
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. Finds both new and old content consistently. ✔️
-1. Has 11 servers on custom + 5 more, and custom auto-switches if one fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. UI is nice, feels modern, search shows results as you type. ✔️
-1. Has built in subs on most sources. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site does have watchlists when you login. ✔️
-1. Site has decent sorting but is otherwise lacking in terms of content discoverability. ⚠️
-1. Site does not have 4K content. ❌
 1. Site looks good + works well on mobile. ✔️
 
 ***
