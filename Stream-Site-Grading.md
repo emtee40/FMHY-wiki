@@ -308,6 +308,22 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## Ronny Flix
+### Score: 21/24
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 12 servers and some of them do auto-switch when they fail. ✔️
+1. Site does have episode auto-next (server 3). ✔️
+1. Sites UI is good, shows results as you type, feels modern, but just iframes other sites players. ⚠️
+1. Most hosts have subtitles built in. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watchlists, favorites and continue watching. ✔️
+1. Site has AI recommendations, and sorting, but is overall lacking in terms of discoverability. ⚠️
+1. Site does have 4K content (videasy only). ⚠️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## uira.live
 ### Score: 21/24
 1. Streams load very fast. ✔️
@@ -532,22 +548,6 @@ Community Favorites: 🌟
 1. Site has decent sorting options, but more discoverability options would be nice. ⚠️
 1. Site does not have 4K content. ❌
 1. Site looks good + works well on mobile. ✔️
-
-***
-## Ronny Flix
-### Score: 18/24
-1. Streams load very fast. ✔️
-1. The content is 1080p+ and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 12 servers and some of them do auto-switch when they fail. ✔️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is good, shows results as you type, feels modern, but just iframes other sites players. ⚠️
-1. Most hosts have subtitles built in. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have watchlists / favorites. ✔️
-1. Site has AI recommendations, and sorting, but is overall lacking in terms of discoverability. ⚠️
-1. Site does have 4K content (videasy only). ⚠️
-1. Site works well but doesn't look great on mobile. ⚠️
 
 ***
 ## Cinema Deck
