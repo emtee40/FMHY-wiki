@@ -180,6 +180,22 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## PopcornMovies
+### Score: 23/24
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. It has 3 hosts, and it does auto-switch if one fails. ✔️
+1. The site does have episode auto-next. ✔️
+1. UI is very good, modern looking with lots to look at. ✔️
+1. Has built in subs for most content. ✔️
+1. They have movies, shows and anime. ✔️
+1. Has watchlists and history when you make account. ✔️
+1. Has good sorting and collections. ✔️
+1. Site does have 4K content (videasy only). ⚠️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## RgShows
 ### Score: 23/24
 1. Streams load very fast. ✔️
@@ -290,22 +306,6 @@ Community Favorites: 🌟
 1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
 1. Site does have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
-
-***
-## PopcornMovies
-### Score: 22/24
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. It has 3 hosts, and it does auto-switch if one fails. ✔️
-1. The site does have episode auto-next. ✔️
-1. UI is very good, modern looking with lots to look at. ✔️
-1. Has built in subs for most content. ✔️
-1. They have movies, shows and anime. ✔️
-1. Has watchlists and history when you make account. ✔️
-1. Has good sorting and collections. ✔️
-1. Site does have 4K content (videasy only). ⚠️
-1. Site works well, but doesn't look too great on mobile. ⚠️
 
 ***
 ## Bingeflex
