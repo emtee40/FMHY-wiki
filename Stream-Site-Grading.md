@@ -146,6 +146,24 @@ Community Favorites: 🌟
 Community Favorites: 🌟
 
 ***
+## Nunflix
+### Score: 23/24
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 12 servers, and does auto-switch if ones fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Site is very nice to look at, seems modern, search works well, one of the best. ✔️
+1. Site has built in subs for most things and allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has watchlists when you signup. ✔️
+1. Site has decent sorting options and good recommendations under each movie. ✔️
+1. Site does have 4K content (videasy only). ⚠️
+1. Site looks good + works well on mobile. ✔️
+
+Community Favorites: 🌟
+
+***
 ## Broflix
 ### Score: 23/24
 1. Streams load very fast. ✔️
@@ -272,24 +290,6 @@ Community Favorites: 🌟
 1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
 1. Site does have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
-
-***
-## Nunflix
-### Score: 22/24
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 12 servers, and does auto-switch if ones fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. Site is very nice to look at, seems modern, search works well, one of the best. ✔️
-1. Site has built in subs for most things and allows adjustments. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has watchlists when you signup. ✔️
-1. Site has decent sorting options, but more discoverability tools could be added. ⚠️
-1. Site does have 4K content (videasy only). ⚠️
-1. Site looks good + works well on mobile. ✔️
-
-Community Favorites: 🌟
 
 ***
 ## PopcornMovies
