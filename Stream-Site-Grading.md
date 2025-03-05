@@ -870,7 +870,7 @@ Community Favorites: 🌟
 1. Site doesn't work well or look great on mobile. ❌
 
 ***
-## WatchHQ
+## FlixWatch
 ### Score: 15/24
 1. Streams load very fast. ✔️
 1. Has 1080p and can be lowered. ✔️
