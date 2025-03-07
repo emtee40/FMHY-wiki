@@ -287,7 +287,7 @@ Community Favorites: 🌟
 1. Has built in subs for most content + customization.  ✔️
 1. Has movies, shows and anime. ✔️
 1. Site does have continue watching. ✔️
-1. Gives recommendations on "more info" and has franchise collections under more. ✔️
+1. Good sorting, gives recommendations on "more info" and has franchise collections under more. ✔️
 1. Site does have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
