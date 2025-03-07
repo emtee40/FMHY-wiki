@@ -50,7 +50,7 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟
 1. It has movies, shows and anime. ✔️
 1. Site has watchlists and continue watching. ✔️
 1. Good sorting, gives recommendations based on watched, and has mood based search. ✔️
-1. Site does have 4K content, both videasy + a custom 4K server. ✔️
+1. Site does have 4K content, videasy + apollo has 4K but quality labels are sometimes inaccurate. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 Community Favorites: 🌟
