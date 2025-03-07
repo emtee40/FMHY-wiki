@@ -1126,22 +1126,6 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
-## MultiMovies
-### Score: 13/24
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 3 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is alright but has room for improvement. ⚠️
-1. Site is lacking subtitle features. ❌
-1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
-1. Has sorting options and some collections, but overall content discovery tools could be added / improved. ⚠️
-1. Site does not have 4K content. ❌
-1. Site looks good + works well on mobile. ✔️
-
-***
 ## Vidplay
 ### Score: 13/24
 1. Streams load very fast. ✔️
@@ -1396,22 +1380,6 @@ Community Favorites: 🌟
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site does not have 4K content. ❌
 1. Site looks good + works well on mobile. ✔️
-
-***
-## OnionPlay
-### Score: 9/24
-1. Streams load very fast. ✔️
-1. Content mostly 720p and can't change quality. ❌
-1. Good for both new and old content. ✔️
-1. Only 1 source but it generally works. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI is alright but has room for improvement. ⚠️
-1. Site is missing subtitle features. ❌
-1. Has movies, shows and anime. ✔️
-1. Does not have watchlists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site does not have 4K content. ❌
-1. Site works well, but doesn't look too great on mobile. ⚠️
 
 ***
 ## NetMirror
