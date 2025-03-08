@@ -742,6 +742,22 @@ Community Favorites: 🌟
 1. Site looks okay but buffers sometimes on mobile. ⚠️
 
 ***
+## Qstream
+### Score: 16/24
+1. Sources take some time to load. ❌
+1. Content is 1080p, but it cannot be lowered. ⚠️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 4 servers and does autoswitch if one fails. ✔️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is good, feels modern and unique. ✔️
+1. Has built in subtitles for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watch lists and continue watching. ✔️
+1. Site gives recommendations on each movies page, but is otherwise lacking content discoverability. ⚠️
+1. Site does not have 4K content. ❌
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## KaitoVault
 ### Score: 16/24
 1. Streams load very fast. ✔️
@@ -836,6 +852,21 @@ Community Favorites: 🌟
 1. Has decent sorting, but better discoverability options could be added. ⚠️
 1. Site does not have 4K content. ❌
 1. Site doesn't work well or look great on mobile. ❌
+
+## NET3LIX
+### Score: 15/24
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 19 sources, but does not autoswitch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is decent but there's room for improvement. ⚠️
+1. Most of its sources have subtitles built in. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does have 4K content (videasy only). ⚠️
+1. Site looks good + works well on mobile. ✔️
 
 ***
 ## uFlix
@@ -1216,6 +1247,22 @@ Community Favorites: 🌟
 1. Site has nice UI, feels modern, search shows results as you type. ✔️
 1. Site has built in subs for most content, allows you to upload your own and make adjustments. ✔️
 1. Has movies, shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+1. Site looks good + works well on mobile. ✔️
+
+***
+## YesMovies
+### Score: 12/24
+1. Streams load very fast. ✔️
+1. Content is 720p only, and cannot be changed. ❌
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 3 servers and does autoswitch when one fails. ✔️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is decent but has for for improvement. ⚠️
+1. Has built in subtitles for most content. ✔️
+1. Site has movies and shows, but no anime. ⚠️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site does not have 4K content. ❌
