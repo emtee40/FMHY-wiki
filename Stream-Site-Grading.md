@@ -244,6 +244,22 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## VidBox
+### Score: 23/24
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 18 english + 6 non eng, and a few have server auto-switch if one fails. ✔️
+1. Site does have episode auto-next (servers echo + vidfast). ✔️
+1. UI is good, feels very modern and search shows results as you type. ✔️
+1. Has built in subs for most content and allows you to upload your own and make adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watchlists and history. ✔️
+1. Site has good sorting options, franchise collections, and a AI recommendation bot. ✔️
+1. Site does have 4K content (videasy only). ⚠️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## Watch2Day
 ### Score: 23/24
 1. Streams load very fast. ✔️
@@ -288,22 +304,6 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have continue watching. ✔️
 1. Good sorting, gives recommendations on "more info" and has franchise collections under more. ✔️
-1. Site does have 4K content (videasy only). ⚠️
-1. Site looks good + works well on mobile. ✔️
-
-***
-## VidBox
-### Score: 23/24
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 18 english + 6 non eng, and a few have server auto-switch if one fails. ✔️
-1. Site does have episode auto-next (servers echo + vidfast). ✔️
-1. UI is good, feels very modern and search shows results as you type. ✔️
-1. Has built in subs for most content and allows you to upload your own and make adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watchlists and history. ✔️
-1. Site has good sorting options, franchise collections, and a AI recommendation bot. ✔️
 1. Site does have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
