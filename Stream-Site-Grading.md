@@ -260,6 +260,22 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## Ronny Flix
+### Score: 22/24
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 12 servers and some of them do auto-switch when they fail. ✔️
+1. Site does have episode auto-next (server 3). ✔️
+1. Sites UI is good, shows results as you type, has own API. ✔️
+1. Most hosts have subtitles built in. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watchlists, favorites and continue watching. ✔️
+1. Site has AI recommendations, decent sorting, and franchise collections. ✔️
+1. Site does have 4K content (videasy only). ⚠️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## Cinenull
 ### Score: 23/24
 1. Streams load very fast. ✔️
@@ -336,22 +352,6 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have continue watching. ✔️
 1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
-1. Site does have 4K content (videasy only). ⚠️
-1. Site looks good + works well on mobile. ✔️
-
-***
-## Ronny Flix
-### Score: 22/24
-1. Streams load very fast. ✔️
-1. The content is 1080p+ and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 12 servers and some of them do auto-switch when they fail. ✔️
-1. Site does have episode auto-next (server 3). ✔️
-1. Sites UI is good, shows results as you type, has own API. ✔️
-1. Most hosts have subtitles built in. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have watchlists, favorites and continue watching. ✔️
-1. Site has AI recommendations, decent sorting, and franchise collections. ✔️
 1. Site does have 4K content (videasy only). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
