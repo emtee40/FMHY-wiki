@@ -347,7 +347,7 @@ Community Favorites: 🌟
 1. Finds popular things with no issue, including older content. ✔️
 1. Has 12 servers and some of them do auto-switch when they fail. ✔️
 1. Site does have episode auto-next (server 3). ✔️
-1. Sites UI is good, shows results as you type, feels modern, but just iframes other sites players. ⚠️
+1. Sites UI is good, shows results as you type, has own API. ✔️
 1. Most hosts have subtitles built in. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site does have watchlists, favorites and continue watching. ✔️
