@@ -260,7 +260,7 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
-## Cinenull
+## Cinemull
 ### Score: 23/24
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
