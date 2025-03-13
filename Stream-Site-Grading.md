@@ -56,7 +56,7 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟
 Community Favorites: 🌟
 
 ***
-## RgShows / 1Shows
+## 1Shows / RgShows
 ### Score: 24/24
 1. Streams load very fast. ✔️
 1. The content is in 1080p, and can be lowered and most servers. ✔️
