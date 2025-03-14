@@ -594,16 +594,15 @@
 
 ***
 
-## Japanese Learning Resources
+## Japanese Learning Sites
 
-* 🌐 **[GaijinRyman](https://github.com/GaijinRyman/LearningJapaneseResources)**, [yame dame](https://yameda.me/), [Nihongo](https://nihongo-e-na.com/eng/), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/) or [AnimeCards](https://animecards.site/) - Japanese Learning Resources
 * ⭐ **[TheMoeWay](https://learnjapanese.moe/)** / [Discord](https://discord.gg/nhqjydaR8j)
 
 [Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [Renshuu](https://www.renshuu.org/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/), [NativShark](https://www.nativshark.com/), [Donkuri](https://donkuri.github.io/learn-japanese/), [Tofugu](https://www.tofugu.com/)
 
 ### YouTube Channels
 
-[Japanese Ammo with Misa](https://www.youtube.com/@JapaneseAmmowithMisa), [Comprehensible Japanese](https://www.youtube.com/@cijapanese) or [JapanesePod101](https://www.youtube.com/@JapanesePod101)
+[Japanese Ammo with Misa](https://www.youtube.com/@JapaneseAmmowithMisa), [Comprehensible Japanese](https://www.youtube.com/@cijapanese), [JapanesePod101](https://www.youtube.com/@JapanesePod101)
 
 ### Dictionaries / Phrases
 
