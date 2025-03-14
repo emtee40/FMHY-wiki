@@ -50,7 +50,7 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟
 1. Has movies, shows and anime. ✔️
 1. Site has watchlists + history. ✔️
 1. Has decent sorting options, and AI bot, history recommendations. ✔️
-1. Site does have 4K content (movie4K + videasy). ✔️
+1. Site does have 4K content (vidsrc.wtf + videasy). ✔️
 1. Site looks good + works well on mobile. ✔️
 
 Community Favorites: 🌟🌟🌟
