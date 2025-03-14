@@ -82,7 +82,7 @@ If downloaded on phone with google play updates must be disabled
 
 #### RGShows Autoplay
 
-If you're using Firefox and you want autoplay, hit the permissions on the far right of your url search bar and allow both audio + video.
+If you're using Firefox and you want autoplay, hit the permissions on your url search bar and allow both audio + video.
 
 ***
 
