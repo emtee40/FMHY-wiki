@@ -136,7 +136,7 @@ Community Favorites: 🌟🌟🌟
 1. Has movies, shows and anime. ✔️
 1. Has continue watching + favorites that can be synced. ✔️
 1. Has good sorting options and keyword based search. ✔️
-1. Site does have 4k (videasy + vidzee/vidsrc.wtf apis). ⚠️
+1. Site does have 4k (videasy + vidzee/vidsrc apis). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 Community Favorites: 🌟🌟
@@ -336,7 +336,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have watchlists. ✔️
 1. Site has good sorting options and a AI to give random recommendations. ✔️
-1. Site does have 4K content (videasy + vidzee/vidsrc.wtf apis). ⚠️
+1. Site does have 4K content (videasy + vidzee/vidsrc apis). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -352,7 +352,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has watchlists and history. ✔️
 1. Site has good sorting options, franchise collections, and a AI recommendation bot. ✔️
-1. Site does have 4K content (videasy + vidsrc.wtf apis). ⚠️
+1. Site does have 4K content (videasy + vidsrc apis). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 ***
