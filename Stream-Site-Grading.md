@@ -86,7 +86,7 @@ Community Favorites: 🌟
 1. Has movies, shows, anime. ✔️
 1. Site has continue watching feature. ✔️
 1. Decent sorting options and has built in AI recommendation tool. ✔️
-1. Site does have 4K content (both videasy + vidzee). ✔️
+1. Site does have 4K content (both videasy + vidsrc.wtf). ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -118,7 +118,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have watchlists. ✔️
 1. Site has good sorting options and a AI to give random recommendations. ✔️
-1. Site does have 4K content (videasy + vidzee). ✔️
+1. Site does have 4K content (videasy + vidzee/vidsrc.wtf). ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
