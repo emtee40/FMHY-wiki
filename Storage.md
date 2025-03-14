@@ -44,7 +44,8 @@
 
 ## Android Browsers
 
-* ⭐ **[Cromite](https://github.com/uazo/cromite)** - Adblocking Browsers / [Filter](https://github.com/xarantolus/filtrite) / [Adblock Scripts](https://userscripts.010.one/)
+* ⭐ **[Brave](https://brave.com/)** - Adblocking Browser
+* ⭐ **[Cromite](https://github.com/uazo/cromite)** - Adblocking Browser / [Filter](https://github.com/xarantolus/filtrite) / [Adblock Scripts](https://userscripts.010.one/)
 * ⭐ **[Firefox](https://www.mozilla.org/)** - [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) / [Nightly](https://www.mozilla.org/en-US/firefox/channel/android/#nightly)
 * ⭐ **[FFUpdater](https://github.com/Tobi823/ffupdater)** - Multi-Browser Updater
 
@@ -590,6 +591,27 @@
 * [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader) - Download Books to PDF
 * [IA Book Ripper](https://bookripper.neocities.org/) or [IA Downloader](https://github.com/elementdavv/internet_archive_downloader) - Download Borrowed Books
 * [internetarchive](https://github.com/jjjake/internetarchive) - CLI Tool
+
+***
+
+## Japanese Learning Resources
+
+* 🌐 **[GaijinRyman](https://github.com/GaijinRyman/LearningJapaneseResources)**, [yame dame](https://yameda.me/), [Nihongo](https://nihongo-e-na.com/eng/), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/) or [AnimeCards](https://animecards.site/) - Japanese Learning Resources
+* ⭐ **[TheMoeWay](https://learnjapanese.moe/)** / [Discord](https://discord.gg/nhqjydaR8j)
+
+[Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [Renshuu](https://www.renshuu.org/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/), [NativShark](https://www.nativshark.com/), [Donkuri](https://donkuri.github.io/learn-japanese/), [Tofugu](https://www.tofugu.com/)
+
+### YouTube Channels
+
+[Japanese Ammo with Misa](https://www.youtube.com/@JapaneseAmmowithMisa), [Comprehensible Japanese](https://www.youtube.com/@cijapanese) or [JapanesePod101](https://www.youtube.com/@JapanesePod101) - Japanese Learning YouTube Channels
+
+### Dictionaries / Phrases
+
+[Jotoba](https://jotoba.de/), [core6000](https://core6000.neocities.org/), [Tagaini](https://www.tagaini.net/), [Takoboto](https://takoboto.jp/), [Jisho](https://jisho.org/), [Massif](https://github.com/rsimmons/massif), [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380), [JapBase](https://japbase.neocities.org/), [Weblio](https://ejje.weblio.jp/), [Goo Dictionary](https://dictionary.goo.ne.jp/), [JS-Dict](https://github.com/petlyh/JS-Dict), [rtk-search](https://hochanh.github.io/rtk/)
+
+### Kanji Learning
+
+[WaniKani](https://www.wanikani.com/), [KanjiDamage](https://www.kanjidamage.com/) / [KanjiDamagePlus](https://kanjidamageplus.neocities.org/), [Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo), [Koohii](https://kanji.koohii.com/) / [Deck](https://ankiweb.net/shared/info/748570187), [Manji](https://github.com/Livinglist/Manji)
 
 ***
 
