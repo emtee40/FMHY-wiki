@@ -16,17 +16,14 @@
 * [Deezer](https://www.deezer.com/) - Streaming / [HiFi Unlock](https://uhwotgit.fly.dev/uhwot/dzunlock)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [spmp](https://github.com/toasterofbread/spmp) - YouTube Music Client
-* [Headset](https://headsetapp.co) - YouTube Music Client
 * [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)
 * [nuclear](https://nuclearplayer.com/) - Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)
 * [FunkWhale](https://funkwhale.audio/) - Streaming
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
-* [MellowPlayer](https://colinduquesnoy.gitlab.io/MellowPlayer/) - Streaming
 * [Muffon](https://muffon.netlify.app/) - Streaming
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
 * [Mixtape Garden](https://mixtapegarden.com/) - Create / Share Mixtapes
 * [JukeboxStar](https://jukeboxstar.com/) or [JukeboxToday](https://jukebox.today/) - Collaborative Streaming / Listening Parties
-* [M3Unator](https://github.com/hasanbeder/M3Unator) - Generate M3U Playlists from Open Directories
 
 ***
 
@@ -194,7 +191,7 @@
 * ⭐ **[HaloMe](https://halome.nu/)** - Halo Menu Screens
 * ⭐ **[Chillhop](https://chillhop.com/)** - Lofi Radio
 * ⭐ **[Rainy Mood](https://www.rainymood.com/)** - Ambient Rain
-* [⁠Lofi and Games](https://lofiandgames.com/) - Lofi Radio + Simple Games
+* [Lofi and Games](https://lofiandgames.com/) - Lofi Radio + Simple Games
 * [FlowTunes](https://www.flowtunes.app/) - Lofi + Focus Radio / Ambient Sounds
 * [Petrichoir](https://petrichoir.app/) - Lofi Radio / Ambient Sounds
 * [Rainbow Hunt](https://rainbowhunt.com/) - Ambient Rain
@@ -463,7 +460,7 @@
 * [Dez Flight Underground](https://dezflight-underground.com/) - Underground Hip Hop
 * [The Noise-Arch Archive](https://archive.org/details/noise-arch) - Underground Cassette Tapes
 * [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 / FLAC
-* [⁠KPopFLAC](https://www.kpopflac.xyz/) - K-Pop / FLAC 
+* [KPopFLAC](https://www.kpopflac.xyz/) - K-Pop / FLAC
 * [KPopMusicDownload](https://kpopdownloadscmm.blogspot.com/) - K-Pop / MP3
 * [FondSound](https://www.fondsound.com/) - Experimental / MP3
 * [Hipstrumentals](https://hipstrumentals.com/) - Instrumentals / MP3
@@ -623,6 +620,7 @@
 * [X-Minus](https://x-minus.pro/) or [LRC Maker](https://lrcmaker.com/) - Create Karaoke Songs
 * [VB Cables](https://rentry.co/FMHYBase64#vb-cables) - Virtual Audio Cables
 * [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
+* [M3Unator](https://github.com/hasanbeder/M3Unator) - Generate M3U Playlists from Open Directories
 
 ***
 
