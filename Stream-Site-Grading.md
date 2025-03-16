@@ -1317,6 +1317,22 @@ Community Favorites: 🌟
 1. Site works well, but doesn't look too great on mobile. ⚠️
 
 ***
+## WatchGap
+### Score: 12/24
+1. Streams load very fast. ✔️
+1. Content mostly 720p but it does give lower options too. ⚠️
+1. Finds popular things with no issue, including older content. ✔️
+1. Only 1 server but it is fast. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is good, feels very modern and search shows results as you type. ✔️
+1. Site is lacking subtitle features. ❌
+1. Has movies, shows and anime. ✔️
+1. Site does not have watchlists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does not have 4K content. ❌
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## ReelZone
 ### 12/24
 1. Streams load very fast. ✔️
