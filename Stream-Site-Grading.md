@@ -356,6 +356,22 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## NetPlayz
+### Score: 21/24
+1. Some servers load fast, but main has issues sometimes. ⚠️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 14 english and 4 non eng servers and it does auto-switch if ones fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites player is nice, but overall site UI could be improved. ⚠️
+1. Has built in subs for most content + allows adjustments or adding own. ✔️
+1. It has movies, shows and anime. ✔️
+1. Has history and watchlist. ✔️
+1. Has decent sorting options, but more discoverability options would be nice. ⚠️
+1. Site has their own hosted 4K + videasy / vidzee APIs. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## StreamFlix
 ### Score: 21/24
 1. Streams load very fast. ✔️
@@ -483,22 +499,6 @@ Community Favorites: 🌟
 1. Site does have watchlists. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 1. Site does have 4K content (videasy api). ⚠️
-1. Site looks good + works well on mobile. ✔️
-
-***
-## NetPlayz
-### Score: 19/24
-1. Some servers load fast, but main has issues sometimes. ⚠️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 14 english and 4 non eng servers and it does auto-switch if ones fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. Sites player is nice, but overall site UI could be improved. ⚠️
-1. Has built in subs for most content + allows adjustments or adding own. ✔️
-1. It has movies, shows and anime. ✔️
-1. Has history and watchlist. ✔️
-1. Has decent sorting options, but more discoverability options would be nice. ⚠️
-1. Site does not 4K content. ❌
 1. Site looks good + works well on mobile. ✔️
 
 ***
