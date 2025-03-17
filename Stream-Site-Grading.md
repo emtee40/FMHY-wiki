@@ -100,7 +100,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site has continue watching options that can be synced. ✔️
 1. Site has good sorting + random suggestions and editor picks. ✔️
-1. Site has 4K on instances like pstream (febox setup required). ⚠️
+1. Site has 4K on instances like pstream (febbox setup required). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 Community Favorites: 🌟🌟🌟🌟
@@ -384,7 +384,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site has history + watchlists. ✔️
 1. Has content sorting, collections, and recommendations based on what people watch. ✔️
-1. Does have 4K, guide is linked next to their site (requires febox setup). ⚠️
+1. Does have 4K, guide is linked next to their site (requires febbox setup). ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 ***
