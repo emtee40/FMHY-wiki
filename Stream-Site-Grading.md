@@ -10,7 +10,7 @@
 1. * Does it have movies, shows and anime?
 1. * Does the site have watch lists, history or continue watching?
 1. * Any discovery tools like recommendations based on watched content, collections, sorting, AI, etc?
-1. * Does the site have any 4K content, is it selfhosted, or embedded via api?
+1. * Does the site have any 4K content?
 1. * How is the sites mobile optimization? Does it look good and work well?
 
 ✔️= 2 points
@@ -32,7 +32,7 @@
 1. It has movies, shows and anime. ✔️
 1. The site has watchlists + history. ✔️
 1. Has sorting options + watch history based recommendations when you login. ✔️
-1. Site has its own hosted 4K content. ✔️
+1. Site has 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟
@@ -50,7 +50,7 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟
 1. It has movies, shows and anime. ✔️
 1. Site has watchlists and continue watching. ✔️
 1. Good sorting, gives recommendations based on watched, and has mood based search. ✔️
-1. Site has its own hosted 4K content (apollo) + videasy api. ✔️
+1. Site has 4K content (apollo) + videasy api. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 Community Favorites: 🌟
@@ -68,7 +68,7 @@ Community Favorites: 🌟
 1. Has movies, shows, anime. ✔️
 1. Site has continue watching feature. ✔️
 1. Decent sorting options and has built in AI recommendation tool. ✔️
-1. Site has its own hosted 4K content. ✔️
+1. Site has 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -84,7 +84,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have continue watching. ✔️
 1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
-1. Site has its own hosted 4K content. ✔️
+1. Site has 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -159,7 +159,6 @@ Community Favorites: 🌟🌟
 
 Community Favorites: 🌟
 
-***
 ## 456movie
 ### Score: 23/24
 1. Streams load very fast. ✔️
@@ -368,7 +367,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Has history and watchlist. ✔️
 1. Has decent sorting options, but more discoverability options would be nice. ⚠️
-1. Site has their own hosted 4K + videasy / vidzee APIs. ✔️
+1. Site has their 4K + videasy / vidzee APIs. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -834,7 +833,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site tracks last thing watched, but is otherwise lacking watchlists and history. ❌
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-1. Site has its own hosted 4K content. ✔️
+1. Site has 4K content. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -1233,7 +1232,7 @@ Community Favorites: 🌟
 1. Does have movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has its own hosted 4K content. ✔️
+1. Site has 4K content. ✔️
 1. Site works well, but doesn't look too great on mobile. ⚠️
 
 ***
