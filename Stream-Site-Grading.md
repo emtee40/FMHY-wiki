@@ -50,7 +50,7 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟
 1. Has movies, shows, anime. ✔️
 1. Site has continue watching, watchlists history etc. ✔️
 1. Has AI for recommendations and recommendations at top of site. ✔️
-1. Site has 4K + videasy / vidzee apis. ✔️
+1. Site has 4K (horizon4k) + videasy / vidzee apis. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 Community Favorites: 🌟
