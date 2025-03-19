@@ -470,6 +470,22 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## Mapple.tv
+### Score: 19/24
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 9 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does have episode auto-next (server 1). ✔️
+1. Very nice UI, looks modern, search works well. ✔️
+1. Has built in subs for most content. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has watchlists when you signup. ✔️
+1. Has decent content sorting, but more discoverability options could be added. ⚠️
+1. Site does not have 4K content. ❌
+1. Site works well, but doesn't look too great on mobile. ⚠️
+
+***
 ## AbleFlix
 ### Score: 19/24
 1. Streams load very fast. ✔️
@@ -596,22 +612,6 @@ Community Favorites: 🌟
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site does have 4K content on server 15 (videasy api). ⚠️
 1. Looks good but is slow to load on mobile. ⚠️
-
-***
-## Mapple.tv
-### Score: 17/24
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 9 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Very nice UI, looks modern, search works well. ✔️
-1. Has built in subs for most content. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has watchlists when you signup. ✔️
-1. Has decent content sorting, but more discoverability options could be added. ⚠️
-1. Site does not have 4K content. ❌
-1. Site works well, but doesn't look too great on mobile. ⚠️
 
 ***
 ## MyFlixed
