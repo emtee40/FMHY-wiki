@@ -56,24 +56,6 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟
 Community Favorites: 🌟🌟🌟🌟
 
 ***
-## 456movie
-### Score: 24/24
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. It finds streams very fast, including very old obscure content. ✔️
-1. 15 sources and it does auto-switch when one fails. ✔️
-1. Site does have auto-next. ✔️
-1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
-1. Most of their sources allow subtitles. ✔️
-1. Has movies, shows, anime. ✔️
-1. Site has continue watching, watchlists history etc. ✔️
-1. Has AI for recommendations and recommendations at top of site. ✔️
-1. Site is difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-
-Community Favorites: 🌟
-
-***
 ## Rive
 ### Score: 24/24
 1. Streams load very fast. ✔️
@@ -236,6 +218,24 @@ Community Favorites: 🌟🌟🌟
 1. It has movies, shows, anime. ✔️
 1. The site has continue watching and watchlists. ✔️
 1. Site has a very nice AI recommendation tool, recommendations on each page, and sorting. ✔️
+1. Site is difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+
+Community Favorites: 🌟
+
+***
+## 456movie
+### Score: 22/24
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. It finds streams very fast, including very old obscure content. ✔️
+1. 15 sources and it does auto-switch when one fails. ✔️
+1. Site does have auto-next. ✔️
+1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
+1. Most of their sources allow subtitles. ✔️
+1. Has movies, shows, anime. ✔️
+1. Site has continue watching, watchlists history etc. ✔️
+1. Has AI for recommendations and recommendations at top of site. ✔️
 1. Site is difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 
