@@ -256,7 +256,7 @@ Game-2u works for PS4, but we'd avoid their other sections as there are better s
 
 ***
 
-#### movie-web Extension
+#### movie-web
 
 For a setup guide (including 4k) you can watch this video: 
 https://vimeo.com/1059834885/c3ab398d42
