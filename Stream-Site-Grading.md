@@ -20,24 +20,6 @@
 **Note** - We also poll high ranking members for their favorites. These votes don't affect the main scores, but they are used when breaking ties. Each vote is represented by a 🌟.
 
 ***
-## Cineby 
-### Score: 24/24
-1. Streams load very fast. ✔️
-1. The content is 1080p and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. 8 english + 8 non english sources that auto-switch if one fails. ✔️
-1. Auto-next works as expected. ✔️
-1. UI is solid, feels clean and modern. ✔️
-1. You can add your own subtitles, search for subtitles, and adjust them. ✔️
-1. It has movies, shows and anime. ✔️
-1. The site has watchlists + history. ✔️
-1. Has sorting options + watch history based recommendations when you login. ✔️
-1. Site is completely usable without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-
-Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟
-
-***
 ## movie-web Instances
 ### Score: 24/24
 1. Streams load very fast. ✔️
@@ -186,6 +168,24 @@ Community Favorites: 🌟
 1. Site has sorting options, random movies, similar + recommended on each page. ✔️
 1. Site is usable without an adblocker, but has occasional annoyances. ⚠️
 1. Site looks good + works well on mobile. ✔️
+
+***
+## Cineby 
+### Score: 22/24
+1. Streams load very fast. ✔️
+1. The content is 1080p and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. 8 english + 8 non english sources that auto-switch if one fails. ✔️
+1. Auto-next works as expected. ✔️
+1. UI is solid, feels clean and modern. ✔️
+1. You can add your own subtitles, search for subtitles, and adjust them. ✔️
+1. It has movies, shows and anime. ✔️
+1. The site has watchlists + history. ✔️
+1. Has sorting options + watch history based recommendations when you login. ✔️
+1. Site is difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+
+Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟
 
 ***
 ## Freek
