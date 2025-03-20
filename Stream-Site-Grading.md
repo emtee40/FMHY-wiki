@@ -1035,7 +1035,7 @@ Community Favorites: 🌟
 ## NEPU
 ### Score: 13/24
 1. Streams load very fast. ✔️
-1. Most content is 1080p (or 4k in some cases), but cannot be lowered. ⚠️
+1. Most content is 1080p, but cannot be lowered. ⚠️
 1. Good for both new and old content. ✔️
 1. Only have 1 source for most content. ⚠️
 1. Site does not have episode auto-next. ❌
