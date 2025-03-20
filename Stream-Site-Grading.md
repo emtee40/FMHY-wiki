@@ -3,7 +3,7 @@
 1. * How fast do streams load?
 1. * Is the content in at least 1080p, and can it be lowered?
 1. * How consistently does it find streams, including older content, without issues?
-1. * How many servers do they have, and do they auto-switch if one fails?
+1. * Do stream sources auto-switch to the next if one fails?
 1. * Does it automatically go to a shows next episode and play it without user input?
 1. * How are the site's UI, player and search? What sort of user settings does it have?
 1. * What sort of subtitle features does the site have?
