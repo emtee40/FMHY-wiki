@@ -260,6 +260,9 @@ Game-2u works for PS4, but we'd avoid their other sections as there are better s
 
 You can [enable an extension](https://pstream.org/onboarding/extension) / [2](https://github.com/sussy-code/browser-ext/releases/) that will add more sources, but the site works fine without it, and it requires excessive permissions, so if you are gonna use it, make sure its on a different browser, or new browser profile.
 
+For a setup guide (including 4k) you can watch this video: 
+https://vimeo.com/1059834885/c3ab398d42
+
 ***
 
 #### Eaglercraft Note
