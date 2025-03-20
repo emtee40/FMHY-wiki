@@ -357,12 +357,6 @@ You can use code: `FREEDOM100` on their site to get the full version free
 
 ***
 
-#### Video Resumer Note
-
-YouTube is supposed to do this automatically, but there are lots of cases where it will reset, i.e. watching most of the video, clicking back and forth between videos, or removing watch history 
-
-***
-
 #### Alt Twitch Player Extensions
 
 * https://addons.mozilla.org/en-US/firefox/addon/twitch_5/
