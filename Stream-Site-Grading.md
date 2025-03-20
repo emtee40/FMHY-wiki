@@ -10,7 +10,7 @@
 1. * Does it have movies, shows and anime?
 1. * Does the site have watch lists, history or continue watching?
 1. * Any discovery tools like recommendations based on watched content, collections, sorting, AI, etc?
-1. * Are its popup ads non-existent, slightly annoying, or render the site next to unusable?
+1. * Are popups on the site non-existent, slightly irritating, or almost constant?
 1. * How is the sites mobile optimization? Does it look good and work well?
 
 ✔️= 2 points
