@@ -220,6 +220,22 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## FlickyStream
+### Score: 23/24
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 12 sources and does auto-switch if one fails. ✔️
+1. Site does have episode auto-next (vidlinkpro server). ✔️
+1. Site has good UI, feels modern, shows results as you type. ✔️
+1. Has built in subs for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have continue watching. ✔️
+1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
+1. Site has occasional popup, but is usable without adblocker. ⚠️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## Cineby 
 ### Score: 22/24
 1. Streams load very fast. ✔️
@@ -338,22 +354,6 @@ Community Favorites: 🌟
 1. Has movies, shows, anime. ✔️
 1. Site has continue watching feature. ✔️
 1. Decent sorting options and has built in AI recommendation tool. ✔️
-1. Site has constant popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-
-***
-## FlickyStream
-### Score: 22/24
-1. Streams load very fast. ✔️
-1. The content is 1080p+ and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 12 sources and does auto-switch if one fails. ✔️
-1. Site does have episode auto-next (vidlinkpro server). ✔️
-1. Site has good UI, feels modern, shows results as you type. ✔️
-1. Has built in subs for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have continue watching. ✔️
-1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
 1. Site has constant popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 
