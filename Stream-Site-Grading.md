@@ -82,7 +82,7 @@ Community Favorites: 🌟
 1. The content is 1080p and allows switching to lower quality. ✔️
 1. Finds popular things with no issue, including older content. ✔️
 1. 8 english + 8 non english sources that auto-switch if one fails. ✔️
-1. Auto-next works as expected. ✔️
+1. Site does have episode auto-next. ✔️
 1. UI is solid, feels clean and modern. ✔️
 1. You can add your own subtitles, search for subtitles, and adjust them. ✔️
 1. It has movies, shows and anime. ✔️
