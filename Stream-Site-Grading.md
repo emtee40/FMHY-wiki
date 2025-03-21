@@ -32,7 +32,7 @@
 1. It has movies, shows and anime. ✔️
 1. Site has continue watching options that can be synced. ✔️
 1. Site has good sorting + random suggestions and editor picks. ✔️
-1. Site is free from newtab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 Community Favorites: 🌟🌟🌟🌟
@@ -50,7 +50,7 @@ Community Favorites: 🌟🌟🌟🌟
 1. It has movies, shows and anime. ✔️
 1. Site has watchlists and continue watching. ✔️
 1. Good sorting, gives recommendations based on watched, and has mood based search. ✔️
-1. Site is free from newtab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 Community Favorites: 🌟
@@ -68,7 +68,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have watchlists and continue watching. ✔️
 1. Has sorting options, collections, and recommendations on frontpage. ✔️
-1. Site is free from newtab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -84,7 +84,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has watchlists and history. ✔️
 1. Site has good sorting options, franchise collections, and a AI recommendation bot. ✔️
-1. Site is free from newtab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -136,7 +136,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site does have watchlists when you login. ✔️
 1. Site has decent sorting but is otherwise lacking in terms of content discoverability. ⚠️
-1. Site is free from newtab popup ads, can be used without an adblocker using "ad-free sources." ✔️
+1. Site is free from new tab popup ads, can be used without an adblocker using "ad-free sources." ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -370,7 +370,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has continue watching feature on homepage. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from newtab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -516,7 +516,7 @@ Community Favorites: 🌟
 1. Site has movies and shows but no anime. ⚠️
 1. Site allows you to add favorites. ✔️
 1. Site is lacking in terms of media discovery options. ❌
-1. Site is free from newtab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -820,7 +820,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from newtab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -852,7 +852,7 @@ Community Favorites: 🌟
 1. Sites only has movies. ❌
 1. Site has watchlists, continue watching and history. ✔️
 1. Site has no sorting or content discoverability options. ❌
-1. Site is free from newtab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -932,7 +932,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from newtab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -948,7 +948,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from newtab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -1028,7 +1028,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from newtab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -1188,7 +1188,7 @@ Community Favorites: 🌟
 1. Does have movies, shows and anime. ✔️
 1. Site does not have watchlists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from newtab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site works well, but doesn't look too great on mobile. ⚠️
 
 ***
@@ -1236,7 +1236,7 @@ Community Favorites: 🌟
 1. Site has movies and shows, but not much anime. ⚠️
 1. Site has continue watching. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from newtab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site doesn't work well or look great on mobile. ❌
 
 ***
