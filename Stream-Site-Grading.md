@@ -72,6 +72,22 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
+## VidBox
+### Score: 24/24
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 18 english + 6 non eng, and a few have server auto-switch if one fails. ✔️
+1. Site does have episode auto-next (servers echo + vidfast). ✔️
+1. UI is good, feels very modern and search shows results as you type. ✔️
+1. Has built in subs for most content and allows you to upload your own and make adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watchlists and history. ✔️
+1. Site has good sorting options, franchise collections, and a AI recommendation bot. ✔️
+1. Site is free from popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+
+***
 ## HydraHD
 ### Score: 23/24
 1. Streams load very fast. ✔️
@@ -124,22 +140,6 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
-## VidBox
-### Score: 23/24
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 18 english + 6 non eng, and a few have server auto-switch if one fails. ✔️
-1. Site does have episode auto-next (servers echo + vidfast). ✔️
-1. UI is good, feels very modern and search shows results as you type. ✔️
-1. Has built in subs for most content and allows you to upload your own and make adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watchlists and history. ✔️
-1. Site has good sorting options, franchise collections, and a AI recommendation bot. ✔️
-1. Site has occasional popup, but is usable without adblocker. ⚠️
-1. Site looks good + works well on mobile. ✔️
-
-***
 ## uira.live
 ### Score: 23/24
 1. Streams load very fast. ✔️
@@ -153,6 +153,22 @@ Community Favorites: 🌟
 1. Site does have watchlists when you login. ✔️
 1. Site has decent sorting but is otherwise lacking in terms of content discoverability. ⚠️
 1. Site is free from popup ads, can be used without an adblocker using "ad-free sources." ✔️
+1. Site looks good + works well on mobile. ✔️
+
+***
+## AlienFlix
+### Score: 23/24
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 9 servers, and does auto-switch if one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. UI is good, feels modern, easy to navigate. ✔️
+1. Has subs built into most hosts. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has continue watching, watch lists, and favorites. ✔️
+1. Site has good sorting + a AI to help discover new content . ✔️
+1. Site has occasional popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -184,6 +200,22 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site has watchlists. ✔️
 1. Site has sorting options, random movies, similar + recommended on each page. ✔️
+1. Site has occasional popup, but is usable without adblocker. ⚠️
+1. Site looks good + works well on mobile. ✔️
+
+***
+## Cinemull
+### Score: 23/24
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 9 servers and does auto-switch if one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Site has good UI, feels modern, shows results as you type. ✔️
+1. Has built in subs for most things and allows adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watchlists. ✔️
+1. Site has good sorting options and a AI to give random recommendations. ✔️
 1. Site has occasional popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
 
@@ -339,38 +371,6 @@ Community Favorites: 🌟
 1. Site has continue watching feature on homepage. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site is free from popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-
-***
-## AlienFlix
-### Score: 22/24
-1. Streams load very fast. ✔️
-1. The content is 1080p+ and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 9 servers, and does auto-switch if one fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. UI is good, feels modern, easy to navigate. ✔️
-1. Has subs built into most hosts. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has continue watching, watch lists, and favorites. ✔️
-1. Site has good sorting + a AI to help discover new content . ✔️
-1. Site has constant popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-
-***
-## Cinemull
-### Score: 22/24
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 9 servers and does auto-switch if one fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. Site has good UI, feels modern, shows results as you type. ✔️
-1. Has built in subs for most things and allows adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have watchlists. ✔️
-1. Site has good sorting options and a AI to give random recommendations. ✔️
-1. Site has constant popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 
 ***
