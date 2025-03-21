@@ -104,24 +104,6 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 
 ***
-## HydraHD
-### Score: 23/24
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. 7 english servers + 3 non eng and does auto-switch when one fails (bravo to delta but no indication). ✔️
-1. Site does have episode auto-next. ✔️
-1. UI feels modern, lots of features like ratings / mark as watched etc. ✔️
-1. Players have built in subtitles for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Has continue watching + favorites that can be synced. ✔️
-1. Has good sorting options and keyword based search. ✔️
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
-1. Site looks good + works well on mobile. ✔️
-
-Community Favorites: 🌟
-
-***
 ## Rive
 ### Score: 23/24
 1. Streams load very fast. ✔️
@@ -140,22 +122,6 @@ Community Favorites: 🌟
 Community Favorites: 🌟
 
 ***
-## uira.live
-### Score: 23/24
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. Finds both new and old content consistently. ✔️
-1. Has 11 servers on custom + 5 more, and custom auto-switches if one fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. UI is nice, feels modern, search shows results as you type. ✔️
-1. Has built in subs on most sources. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site does have watchlists when you login. ✔️
-1. Site has decent sorting but is otherwise lacking in terms of content discoverability. ⚠️
-1. Site is free from new tab popup ads, can be used without an adblocker using "ad-free sources." ✔️
-1. Site looks good + works well on mobile. ✔️
-
-***
 ## AlienFlix
 ### Score: 23/24
 1. Streams load very fast. ✔️
@@ -169,6 +135,22 @@ Community Favorites: 🌟
 1. Site has continue watching, watch lists, and favorites. ✔️
 1. Site has good sorting + a AI to help discover new content . ✔️
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site looks good + works well on mobile. ✔️
+
+***
+## uira.live
+### Score: 23/24
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. Finds both new and old content consistently. ✔️
+1. Has 11 servers on custom + 5 more, and custom auto-switches if one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. UI is nice, feels modern, search shows results as you type. ✔️
+1. Has built in subs on most sources. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site does have watchlists when you login. ✔️
+1. Site has decent sorting but is otherwise lacking in terms of content discoverability. ⚠️
+1. Site is free from new tab popup ads, can be used without an adblocker using "ad-free sources." ✔️
 1. Site looks good + works well on mobile. ✔️
 
 ***
@@ -234,6 +216,24 @@ Community Favorites: 🌟
 1. Site has AI recommendations, decent sorting, and franchise collections. ✔️
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
+
+***
+## HydraHD
+### Score: 22/24
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. 7 english servers + 3 non eng and does auto-switch when one fails (bravo to delta but no indication). ✔️
+1. Site does have episode auto-next. ✔️
+1. UI feels modern, lots of features like ratings / mark as watched etc. ✔️
+1. Players have built in subtitles for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Has continue watching + favorites that can be synced. ✔️
+1. Has good sorting options and keyword based search. ✔️
+1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+
+Community Favorites: 🌟
 
 ***
 ## Cineby 
