@@ -27,7 +27,7 @@
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams consistently for both new and old content. ✔️
 1. They have 9 sources, and it does auto-switch if one fails. ✔️
-1. Site does have auto-next. ✔️
+1. Site does have episode auto-next. ✔️
 1. Very nice UI, search works well, lots of user settings. ✔️
 1. You can add, search or adjust subtitles on the site. ✔️
 1. It has movies, shows and anime. ✔️
@@ -364,7 +364,7 @@ Community Favorites: 🌟
 1. Content is in 1080p and can be changed lower. ✔️
 1. It finds streams very fast, including very old obscure content. ✔️
 1. They have 11 sources, and does auto-switch if one fails. ✔️
-1. Site does have auto-next. ✔️
+1. Site does have episode auto-next. ✔️
 1. Sites UI is very good, player is good, its one of the best to look at. ✔️
 1. Most of their sources allow subtitles. ✔️
 1. It has movies, shows, anime. ✔️
@@ -383,7 +383,7 @@ Community Favorites: 🌟
 1. Content is in 1080p and can be changed lower. ✔️
 1. It finds streams very fast, including very old obscure content. ✔️
 1. 15 sources and it does auto-switch when one fails. ✔️
-1. Site does have auto-next. ✔️
+1. Site does have episode auto-next. ✔️
 1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
 1. Most of their sources allow subtitles. ✔️
 1. Has movies, shows, anime. ✔️
@@ -676,7 +676,7 @@ Community Favorites: 🌟
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
 1. Has 12 sources and does auto-switch if one fails. ✔️
-1. Site does have auto-next. ✔️
+1. Site does have episode auto-next. ✔️
 1. UI is decent but there's room for improvement. ⚠️
 1. Most players have built in subs. ✔️
 1. Has movies, shows and anime. ✔️
