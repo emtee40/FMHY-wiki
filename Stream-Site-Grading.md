@@ -249,7 +249,7 @@ Community Favorites: 🌟
 1. UI is decent, feels modern, has lots of user settings. ✔️
 1. Players have built in subtitles for most content. ✔️
 1. Has movies, shows, anime. ✔️
-1. Site have watchlists + continue watching, and you can login to sync them across devices. ✔️
+1. Site has watchlists + continue watching, and you can login to sync them across devices. ✔️
 1. Decent sorting options and has built in AI recommendation tool. ✔️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
