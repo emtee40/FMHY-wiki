@@ -69,7 +69,7 @@ Community Favorites: 🌟
 1. UI is very nice, feels modern and search works well. ✔️
 1. Has built in subs for most content and allows adjustments. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site has watchlists and continue watching, but you can't login to sync them across devices. ⚠️
+1. Site has watchlists and continue watching, but you can't be synced across devices. ⚠️
 1. Has sorting options, collections, and recommendations on frontpage. ✔️
 1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
@@ -232,7 +232,7 @@ Community Favorites: 🌟
 1. Site has good UI, feels modern, shows results as you type. ✔️
 1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does have continue watching, but you can't login to sync them across devices. ⚠️
+1. Site does have continue watching, but you can't be synced across devices. ⚠️
 1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
 1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
