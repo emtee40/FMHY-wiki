@@ -152,6 +152,23 @@ Community Favorites: 🌟
 Community Favorites: 🌟
 
 ***
+## uira.live
+### Score: 24/26
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. Finds both new and old content consistently. ✔️
+1. Has 11 servers on custom + 5 more, and custom auto-switches if one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. UI is nice, feels modern, search shows results as you type. ✔️
+1. Has built in subs on most sources. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site does have watch lists and you can login to sync them across devices. ✔️
+1. Site has decent sorting but is otherwise lacking in terms of content discoverability. ⚠️
+1. Site is free from new tab popup ads, can be used without an adblocker using "ad-free sources." ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player, but they do use movie-webs custom player to host their content. ⚠️
+
+***
 ## VidBox
 ### Score: 24/26
 1. Streams load very fast. ✔️
@@ -186,23 +203,6 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 Community Favorites: 🌟🌟
-
-***
-## uira.live
-### Score: 23/26
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. Finds both new and old content consistently. ✔️
-1. Has 11 servers on custom + 5 more, and custom auto-switches if one fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. UI is nice, feels modern, search shows results as you type. ✔️
-1. Has built in subs on most sources. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site does have watch lists and you can login to sync them across devices. ✔️
-1. Site has decent sorting but is otherwise lacking in terms of content discoverability. ⚠️
-1. Site is free from new tab popup ads, can be used without an adblocker using "ad-free sources." ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
 
 ***
 ## FlickyStream
