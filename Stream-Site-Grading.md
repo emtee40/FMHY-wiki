@@ -292,23 +292,6 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
-## Arabflix
-### Score: 22/26
-1. Streams load very fast. ✔️
-1. The content is 1080p+ and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 9 sources, and first does switch to second when it fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. Sites UI is good, feels very modern, shows results as you type. ✔️
-1. Has subs built into most players. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has continue watching, but you can't sync across devices. ⚠️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-***
 ## Cinemull
 ### Score: 22/26
 1. Streams load very fast. ✔️
@@ -441,6 +424,23 @@ Community Favorites: 🌟
 1. Site has history + watch lists, and you can login to sync them across devices. ✔️
 1. Has content sorting, collections, and recommendations based on what people watch. ✔️
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
+## Arabflix
+### Score: 21/26
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 9 sources, and first does switch to second when it fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites UI is good, feels very modern, shows results as you type. ✔️
+1. Has subs built into most players. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has continue watching, but you can't sync across devices. ⚠️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -1318,8 +1318,8 @@ Community Favorites: 🌟
 ### Score: 12/26
 1. Streams load very fast. ✔️
 1. Has 1080p and can be lowered. ✔️
-1. Good for new content, but struggles to find older stuff. ⚠️
-1. 7 sources and does not auto-switch if one fails. ⚠️
+1. Finds popular things with no issue, including older content. ✔️
+1. 10 sources and does not auto-switch if one fails. ⚠️
 1. Site does not have episode auto-next. ❌
 1. UI has lots of room for improvement. ❌
 1. Has built in subs for most content. ✔️
