@@ -73,7 +73,7 @@ Community Favorites: 🌟
 1. It has a recommendations, collections, and an AI. ✔️
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
-1. Site has a customized version of artplayer.js. ✔️
+1. Site has a highly customized version of artplayer.js. ✔️
 
 Community Favorites: 🌟
 
