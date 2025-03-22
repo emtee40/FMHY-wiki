@@ -183,7 +183,7 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
-Community Favorites: 🌟
+Community Favorites: 🌟🌟
 
 ***
 ## Rive
@@ -373,8 +373,6 @@ Community Favorites: 🌟
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
-
-Community Favorites: 🌟
 
 ***
 ## 456movie
