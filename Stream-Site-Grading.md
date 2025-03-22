@@ -236,7 +236,7 @@ Community Favorites: 🌟🌟
 1. Has AI for recommendations and recommendations at top of site. ✔️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player, but they do have a custom version of artplayer.js. ⚠️
+1. Site does not have a custom player, but they do have a customized version of artplayer.js. ⚠️
 
 Community Favorites: 🌟
 
