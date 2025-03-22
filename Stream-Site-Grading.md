@@ -54,7 +54,7 @@ Community Favorites: 🌟🌟🌟🌟
 1. Good sorting, gives recommendations based on watched, and has mood based search. ✔️
 1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
-1. Site uses a customized version of playerjs. ✔️
+1. Site does have a custom player. ✔️
 
 Community Favorites: 🌟
 
@@ -143,7 +143,7 @@ Community Favorites: 🌟
 1. Has sorting options + watch history based recommendations when you login. ✔️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
-1. Site uses a customized version of playerjs. ✔️
+1. Site does have a custom player. ✔️
 
 Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟
 
