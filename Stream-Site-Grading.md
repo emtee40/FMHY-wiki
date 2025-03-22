@@ -169,6 +169,23 @@ Community Favorites: 🌟🌟🌟
 Community Favorites: 🌟
 
 ***
+## Ronny Flix
+### Score: 24/26
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 12 servers and some of them do auto-switch when they fail. ✔️
+1. Site does have episode auto-next (server 3). ✔️
+1. Sites UI is good, shows results as you type, has own API. ✔️
+1. Most hosts have subtitles built in. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watch lists, favorites and continue watching, but they can't be synced across devices. ⚠️
+1. Site has AI recommendations, decent sorting, and franchise collections. ✔️
+1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (can be enabled under video). ✔️
+
+***
 ## VidBox
 ### Score: 24/26
 1. Streams load very fast. ✔️
@@ -304,23 +321,6 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have watch lists, but they can't be synced across devices. ⚠️
 1. Site has good sorting options and a AI to give random recommendations. ✔️
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-***
-## Ronny Flix
-### Score: 22/26
-1. Streams load very fast. ✔️
-1. The content is 1080p+ and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 12 servers and some of them do auto-switch when they fail. ✔️
-1. Site does have episode auto-next (server 3). ✔️
-1. Sites UI is good, shows results as you type, has own API. ✔️
-1. Most hosts have subtitles built in. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watch lists, favorites and continue watching, but they can't be synced across devices. ⚠️
-1. Site has AI recommendations, decent sorting, and franchise collections. ✔️
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
