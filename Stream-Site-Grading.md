@@ -133,23 +133,6 @@ Community Favorites: 🌟🌟🌟
 Community Favorites: 🌟
 
 ***
-## PopcornMovies
-### Score: 24/26
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. It has 3 hosts, and it does auto-switch if one fails. ✔️
-1. The site does have episode auto-next. ✔️
-1. UI is very good, modern looking with lots to look at. ✔️
-1. Has built in subs for most content. ✔️
-1. They have movies, shows and anime. ✔️
-1. Has watch lists and history, and you can login to sync them across devices. ✔️
-1. Has good sorting and collections. ✔️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
-
-***
 ## VidBox
 ### Score: 24/26
 1. Streams load very fast. ✔️
@@ -269,6 +252,23 @@ Community Favorites: 🌟
 1. Site has continue watching, watch lists, and favorites, but you can't sync them across devices. ⚠️
 1. Site has good sorting + a AI to help discover new content . ✔️
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
+## PopcornMovies
+### Score: 22/26
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. It has 3 hosts, and it does auto-switch if one fails. ✔️
+1. The site does have episode auto-next. ✔️
+1. UI is very good, modern looking with lots to look at. ✔️
+1. Has built in subs for most content. ✔️
+1. They have movies, shows and anime. ✔️
+1. Has watch lists and history, and you can login to sync them across devices. ✔️
+1. Has good sorting and collections. ✔️
+1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
