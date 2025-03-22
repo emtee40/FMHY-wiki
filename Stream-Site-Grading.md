@@ -12,7 +12,7 @@
 1. * Any discovery tools like recommendations based on watched content, collections, sorting, AI, etc?
 1. * Are new tab popups on the site non-existent, slightly irritating, or almost constant?
 1. * How is the sites mobile optimization? Does it look good and work well?
-1. * Does the site have a custom video player?
+1. * Does the site have a custom video player, or does it just embed API players?
 
 ✔️= 2 points
 ⚠️= 1 point
