@@ -112,6 +112,23 @@ Community Favorites: 🌟
 1. Site does use a custom movie-web player. ✔️
 
 ***
+## FlickyStream
+### Score: 25/26
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 12 sources and does auto-switch if one fails. ✔️
+1. Site does have episode auto-next (vidlinkpro server). ✔️
+1. Site has good UI, feels modern, shows results as you type. ✔️
+1. Has built in subs for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have continue watching, but can't be synced across devices. ⚠️
+1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
+1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (first player is their own). ✔️
+
+***
 ## Cineby 
 ### Score: 24/26
 1. Streams load very fast. ✔️
@@ -145,7 +162,7 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟
 1. Has decent sorting options, and AI bot, history recommendations. ✔️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
+1. Site does have a custom player (first player is their own). ✔️
 
 Community Favorites: 🌟🌟🌟
 
@@ -239,23 +256,6 @@ Community Favorites: 🌟🌟
 1. Site does have a custom version of artplayer.js. ✔️
 
 Community Favorites: 🌟
-
-***
-## FlickyStream
-### Score: 23/26
-1. Streams load very fast. ✔️
-1. The content is 1080p+ and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 12 sources and does auto-switch if one fails. ✔️
-1. Site does have episode auto-next (vidlinkpro server). ✔️
-1. Site has good UI, feels modern, shows results as you type. ✔️
-1. Has built in subs for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have continue watching, but can't be synced across devices. ⚠️
-1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
-1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
 
 ***
 ## 1Shows
