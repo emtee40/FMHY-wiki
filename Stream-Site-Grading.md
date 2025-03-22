@@ -109,7 +109,7 @@ Community Favorites: 🌟
 1. Site has decent sorting but is otherwise lacking in terms of content discoverability. ⚠️
 1. Site is free from new tab popup ads, can be used without an adblocker using "ad-free sources." ✔️
 1. Site looks good + works well on mobile. ✔️
-1. Site does use a custom player to embed its own content (movie-web player). ✔️
+1. Site does use a custom player (movie-web player). ✔️
 
 ***
 ## Cineby 
