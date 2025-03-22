@@ -31,7 +31,7 @@
 1. Very nice UI, search works well, lots of user settings. ✔️
 1. You can add, search or adjust subtitles on the site. ✔️
 1. It has movies, shows and anime. ✔️
-1. Site has watchlists + continue watching, and you can login to sync them across devices. ✔️
+1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
 1. Site has good sorting + random suggestions and editor picks. ✔️
 1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
@@ -50,7 +50,7 @@ Community Favorites: 🌟🌟🌟🌟
 1. Sites UI feels modern, shows trailers on hover, one of the best. ✔️
 1. Has built in subs for most content and allows adjustments. ✔️
 1. It has movies, shows and anime. ✔️
-1. Site has watchlists and continue watching, and you can login to sync them across devices. ✔️
+1. Site has watch lists and continue watching, and you can login to sync them across devices. ✔️
 1. Good sorting, gives recommendations based on watched, and has mood based search. ✔️
 1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
@@ -69,7 +69,7 @@ Community Favorites: 🌟
 1. UI is very nice, feels modern and search works well. ✔️
 1. Has built in subs for most content and allows adjustments. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site has watchlists and continue watching, but you can't be synced across devices. ⚠️
+1. Site has watch lists and continue watching, but you can't be synced across devices. ⚠️
 1. Has sorting options, collections, and recommendations on frontpage. ✔️
 1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
@@ -86,7 +86,7 @@ Community Favorites: 🌟
 1. UI is solid, feels clean and modern. ✔️
 1. You can add your own subtitles, search for subtitles, and adjust them. ✔️
 1. It has movies, shows and anime. ✔️
-1. The site has watchlists + history, and you can login to sync them across devices. ✔️
+1. The site has watch lists + history, and you can login to sync them across devices. ✔️
 1. Has sorting options + watch history based recommendations when you login. ✔️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -105,7 +105,7 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟
 1. Its solid, has good user settings, feels modern. ✔️
 1. Allows adding + searching your own subtitles. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site has watchlists + history, and you can login to sync them across devices. ✔️
+1. Site has watch lists + history, and you can login to sync them across devices. ✔️
 1. Has decent sorting options, and AI bot, history recommendations. ✔️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -124,7 +124,7 @@ Community Favorites: 🌟🌟🌟
 1. Site is very nice to look at, seems modern, search works well, one of the best. ✔️
 1. Site has built in subs for most things and allows adjustments. ✔️
 1. It has movies, shows and anime. ✔️
-1. Site has watchlists, and you can login to sync them across devices. ✔️
+1. Site has watch lists, and you can login to sync them across devices. ✔️
 1. Site has decent sorting options and good recommendations under each movie. ✔️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -143,7 +143,7 @@ Community Favorites: 🌟
 1. UI is very good, modern looking with lots to look at. ✔️
 1. Has built in subs for most content. ✔️
 1. They have movies, shows and anime. ✔️
-1. Has watchlists and history, and you can login to sync them across devices. ✔️
+1. Has watch lists and history, and you can login to sync them across devices. ✔️
 1. Has good sorting and collections. ✔️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -160,7 +160,7 @@ Community Favorites: 🌟
 1. UI is good, feels very modern and search shows results as you type. ✔️
 1. Has built in subs for most content and allows you to upload your own and make adjustments. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site has watchlists and history, and you can login to sync them across devices. ✔️
+1. Site has watch lists and history, and you can login to sync them across devices. ✔️
 1. Site has good sorting options, franchise collections, and a AI recommendation bot. ✔️
 1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
@@ -196,7 +196,7 @@ Community Favorites: 🌟
 1. Very unique UI, lots of user-settings, one of the best. ✔️
 1. Site allows you to add, search and adjust subtitles. ✔️
 1. It has movies, show and anime. ✔️
-1. It has watchlists and continue watching, and you can login to sync them across devices. ✔️
+1. It has watch lists and continue watching, and you can login to sync them across devices. ✔️
 1. It has a recommendations, collections, and an AI. ✔️
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
@@ -215,7 +215,7 @@ Community Favorites: 🌟
 1. UI is nice, feels modern, search shows results as you type. ✔️
 1. Has built in subs on most sources. ✔️
 1. It has movies, shows and anime. ✔️
-1. Site does have watchlists and you can login to sync them across devices. ✔️
+1. Site does have watch lists and you can login to sync them across devices. ✔️
 1. Site has decent sorting but is otherwise lacking in terms of content discoverability. ⚠️
 1. Site is free from new tab popup ads, can be used without an adblocker using "ad-free sources." ✔️
 1. Site looks good + works well on mobile. ✔️
@@ -249,7 +249,7 @@ Community Favorites: 🌟
 1. UI is decent, feels modern, has lots of user settings. ✔️
 1. Players have built in subtitles for most content. ✔️
 1. Has movies, shows, anime. ✔️
-1. Site has watchlists + continue watching, and you can login to sync them across devices. ✔️
+1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
 1. Decent sorting options and has built in AI recommendation tool. ✔️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -300,7 +300,7 @@ Community Favorites: 🌟
 1. Site has good UI, feels modern, shows results as you type. ✔️
 1. Has built in subs for most things and allows adjustments. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does have watchlists, but they can't be synced across devices. ⚠️
+1. Site does have watch lists, but they can't be synced across devices. ⚠️
 1. Site has good sorting options and a AI to give random recommendations. ✔️
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
@@ -317,7 +317,7 @@ Community Favorites: 🌟
 1. Sites UI is good, shows results as you type, has own API. ✔️
 1. Most hosts have subtitles built in. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site has watchlists, favorites and continue watching, but they can't be synced across devices. ⚠️
+1. Site has watch lists, favorites and continue watching, but they can't be synced across devices. ⚠️
 1. Site has AI recommendations, decent sorting, and franchise collections. ✔️
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
@@ -334,7 +334,7 @@ Community Favorites: 🌟
 1. Sites UI is good, feels modern. ✔️
 1. Has built in subs for most content and allows adjustments. ✔️
 1. It has movies, shows and anime. ✔️
-1. Site has watchlists, but they can't be synced across devices. ⚠️
+1. Site has watch lists, but they can't be synced across devices. ⚠️
 1. Site has sorting options, random movies, similar + recommended on each page. ✔️
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
@@ -368,7 +368,7 @@ Community Favorites: 🌟
 1. Sites UI is very good, player is good, its one of the best to look at. ✔️
 1. Most of their sources allow subtitles. ✔️
 1. It has movies, shows, anime. ✔️
-1. The site has continue watching and watchlists, but they cannot be synced across devices. ⚠️
+1. The site has continue watching and watch lists, but they cannot be synced across devices. ⚠️
 1. Site has a very nice AI recommendation tool, recommendations on each page, and sorting. ✔️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -387,7 +387,7 @@ Community Favorites: 🌟
 1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
 1. Most of their sources allow subtitles. ✔️
 1. Has movies, shows, anime. ✔️
-1. Site has continue watching and watchlists, but you can't sync them across devices. ⚠️
+1. Site has continue watching and watch lists, but you can't sync them across devices. ⚠️
 1. Has AI for recommendations and recommendations at top of site. ✔️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -406,7 +406,7 @@ Community Favorites: 🌟
 1. Very nice UI, looks modern, search works well. ✔️
 1. Has built in subs for most content. ✔️
 1. It has movies, shows and anime. ✔️
-1. Site has watchlists, and you can login to sync them across devices. ✔️
+1. Site has watch lists, and you can login to sync them across devices. ✔️
 1. Has decent content sorting, but more discoverability options could be added. ⚠️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
@@ -423,7 +423,7 @@ Community Favorites: 🌟
 1. Sites player is nice, but overall site UI could be improved. ⚠️
 1. Has built in subs for most content + allows adjustments or adding own. ✔️
 1. It has movies, shows and anime. ✔️
-1. Has history and watchlists, and you can login to sync them across devices. ✔️
+1. Has history and watch lists, and you can login to sync them across devices. ✔️
 1. Has decent sorting options, but more discoverability options would be nice. ⚠️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -440,7 +440,7 @@ Community Favorites: 🌟
 1. UI is good, feels modern, shows results as you type. ✔️
 1. Has built in subs for most content + allows adjustments. ✔️
 1. It has movies, shows and anime. ✔️
-1. Site has history + watchlists, and you can login to sync them across devices. ✔️
+1. Site has history + watch lists, and you can login to sync them across devices. ✔️
 1. Has content sorting, collections, and recommendations based on what people watch. ✔️
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
@@ -544,7 +544,7 @@ Community Favorites: 🌟
 1. Site feels dated, lots of room for improvement. ❌
 1. Has built in subs for most content and allows adjustments. ✔️
 1. Has movies, shows and anime. ✔️
-1. Has watchlists and you can login to sync them across devices. ✔️
+1. Has watch lists and you can login to sync them across devices. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
 1. Site works well, but doesn't look too great on mobile. ⚠️
@@ -578,7 +578,7 @@ Community Favorites: 🌟
 1. UI is alright but has room for improvement. ⚠️
 1. Has built in subs for most content. ✔️
 1. Sites only has movies. ❌
-1. Site has watchlists, continue watching and history, and you can login to sync them across devices. ✔️
+1. Site has watch lists, continue watching and history, and you can login to sync them across devices. ✔️
 1. Site has no sorting or content discoverability options. ❌
 1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
@@ -595,7 +595,7 @@ Community Favorites: 🌟
 1. Has nice UI, feel modern, has infinite scrolling. ✔️
 1. Some servers have subs, but main is usually missing them. ⚠️
 1. It has movies, shows and anime. ✔️
-1. Has watchlists and history, and you can login to sync them across devices. ✔️
+1. Has watch lists and history, and you can login to sync them across devices. ✔️
 1. Has decent sorting options but is otherwise lacking content discoverability options. ⚠️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
@@ -612,7 +612,7 @@ Community Favorites: 🌟
 1. UI is solid, feels very modern. ✔️
 1. Site has subtitles for most content. ✔️
 1. It has movies, shows and anime. ✔️
-1. Site does have watchlists, and you can login to sync them across devices. ✔️
+1. Site does have watch lists, and you can login to sync them across devices. ✔️
 1. Site has decent sorting options, but more discoverability options would be nice. ⚠️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -663,7 +663,7 @@ Community Favorites: 🌟
 1. Sites UI is very clean and easy to use. ✔️
 1. Has built in subs for most content and allows adjustments. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does have watchlists, but you can't sync them across devices. ⚠️
+1. Site does have watch lists, but you can't sync them across devices. ⚠️
 1. Has recommendations on movie pages, good sorting, a random button. ⚠️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -697,7 +697,7 @@ Community Favorites: 🌟
 1. UI is nice, feels modern and vibrant. ✔️
 1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does have watchlists, but you can't sync it across devices. ⚠️
+1. Site does have watch lists, but you can't sync it across devices. ⚠️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -731,7 +731,7 @@ Community Favorites: 🌟
 1. Sites UI is good, feels modern. ✔️
 1. Players have built in subtitles for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site has continue watching + watchlists, and you can login to sync them across devices. ✔️
+1. Site has continue watching + watch lists, and you can login to sync them across devices. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -748,7 +748,7 @@ Community Favorites: 🌟
 1. Just a clone of Rive with less features and players. ⚠️
 1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site has watchlists and continue watching, and you can login to sync them across devices. ✔️
+1. Site has watch lists and continue watching, and you can login to sync them across devices. ✔️
 1. Has decent sorting options, but content discovery tools or collections could be added. ⚠️
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
 1. Site works well, but doesn't look too great on mobile. ⚠️
@@ -765,7 +765,7 @@ Community Favorites: 🌟
 1. Site has nice UI, feels modern, search shows results as you type. ✔️
 1. Site has built in subs for most content, allows you to upload your own and make adjustments. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
@@ -782,7 +782,7 @@ Community Favorites: 🌟
 1. UI is good, feels modern and shows results as you type. ✔️
 1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site has watchlists, but you can't sync them across devices. ⚠️
+1. Site has watch lists, but you can't sync them across devices. ⚠️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Looks good but is slow to load on mobile. ⚠️
@@ -799,7 +799,7 @@ Community Favorites: 🌟
 1. Just a clone of Rive with less features and players. ⚠️
 1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Has watchlists and continue watching, but you can't sync them across devices. ⚠️
+1. Has watch lists and continue watching, but you can't sync them across devices. ⚠️
 1. Has collection and search filters, but more content discoverability options would be nice. ⚠️
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
 1. Site works well, but doesn't look too great on mobile. ⚠️
@@ -816,7 +816,7 @@ Community Favorites: 🌟
 1. UI is nice, feels unique, modern, and search shows results as you type. ✔️
 1. Has built in subs for most content + allows adjustments or adding own. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does have watchlists, and you can login to sync them across devices. ✔️
+1. Site does have watch lists, and you can login to sync them across devices. ✔️
 1. Has sorting options and some collections, but overall content discovery tools could be added / improved. ⚠️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
@@ -833,7 +833,7 @@ Community Favorites: 🌟
 1. Site is very nice to look at, search works well. ✔️
 1. Players have built in subtitles for most content. ✔️
 1. It has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Has decent sorting, but better discoverability options could be added. ⚠️
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
 1. Site doesn't work well or look great on mobile. ❌
@@ -850,7 +850,7 @@ Community Favorites: 🌟
 1. UI is decent but there's room for improvement. ⚠️
 1. Most of its sources have subtitles built in. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
@@ -867,7 +867,7 @@ Community Favorites: 🌟
 1. Site UI is alright but has room for improvement. ⚠️
 1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Has decent sorting options, but not much in terms of media discovery tools. ⚠️
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
@@ -901,7 +901,7 @@ Community Favorites: 🌟
 1. UI is good, feels very modern and search shows results as you type. ✔️
 1. Site is lacking subtitle features. ❌
 1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
@@ -918,7 +918,7 @@ Community Favorites: 🌟
 1. Sites UI and player are both good, feel modern. ✔️
 1. Site is lacking subtitle features. ❌
 1. It has movies, shows and anime. ✔️
-1. Site tracks last thing watched, but is otherwise lacking watchlists and history. ❌
+1. Site tracks last thing watched, but is otherwise lacking watch lists and history. ❌
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -935,7 +935,7 @@ Community Favorites: 🌟
 1. UI is decent but has room for improvement. ⚠️
 1. Allows searching and adjusting subtitles. ✔️
 1. Site is only movies. ❌
-1. Site has no watchlists, continue watching or history. ❌
+1. Site has no watch lists, continue watching or history. ❌
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
 1. Site works well, but doesn't look too great on mobile. ⚠️
@@ -986,7 +986,7 @@ Community Favorites: 🌟
 1. Sites UI and player are good, site feels modern. ✔️
 1. Has built in subs for most content and allows adjustments. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site has watchlists and continue watching, but you can't sync them across devices. ⚠️
+1. Site has watch lists and continue watching, but you can't sync them across devices. ⚠️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks okay but buffers sometimes on mobile. ⚠️
@@ -1020,7 +1020,7 @@ Community Favorites: 🌟
 1. Sites UI is alright but has room for improvement. ⚠️
 1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Has decent sorting options, but media discovery tools could be added. ⚠️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -1054,7 +1054,7 @@ Community Favorites: 🌟
 1. Sites UI is good, feels modern, displays results as you search. ✔️
 1. Allows adding + searching your own subtitles. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
 1. Site works well, but doesn't look too great on mobile. ⚠️
@@ -1071,7 +1071,7 @@ Community Favorites: 🌟
 1. Sites UI has room for improvement. ❌
 1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
@@ -1088,7 +1088,7 @@ Community Favorites: 🌟
 1. Site feels dated, has lots of room for improvement. ❌
 1. Has subs built in for most content. ✔️
 1. Site has movies and shows, but not much anime. ⚠️
-1. Has watchlists and you can login to sync them across devices. ✔️
+1. Has watch lists and you can login to sync them across devices. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -1105,7 +1105,7 @@ Community Favorites: 🌟
 1. UI is fine but has room for improvement. ⚠️
 1. Does have subs for most content. ✔️
 1. Does have movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site works well, but doesn't look too great on mobile. ⚠️
@@ -1122,7 +1122,7 @@ Community Favorites: 🌟
 1. UI has a room for improvement. ❌
 1. Most sources have subs built in. ✔️
 1. It has movies, shows and anime. ✔️
-1. Site has no watchlists, history or continue watching. ❌
+1. Site has no watch lists, history or continue watching. ❌
 1. Site has no sorting or content discoverability options. ❌
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
@@ -1139,7 +1139,7 @@ Community Favorites: 🌟
 1. UI feels dated, lots of room for improvement. ❌
 1. Site is lacking subtitle features. ❌
 1. It has movies, shows and anime. ✔️
-1. Has watchlists and you can login to sync them across devices. ✔️
+1. Has watch lists and you can login to sync them across devices. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
@@ -1156,7 +1156,7 @@ Community Favorites: 🌟
 1. Sites UI is good, feels very modern. ✔️
 1. Site has subtitles for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
@@ -1173,7 +1173,7 @@ Community Favorites: 🌟
 1. UI is alright but has room for improvements. ⚠️
 1. Allows adding + searching your own subtitles. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -1207,7 +1207,7 @@ Community Favorites: 🌟
 1. UI is decent, looks modern, but has room for improvement. ⚠️
 1. Most content has built in subs. ✔️
 1. It has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Site has no sorting or content discoverability options. ❌
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
@@ -1224,7 +1224,7 @@ Community Favorites: 🌟
 1. UI is good, feels very modern and search shows results as you type. ✔️
 1. Site is lacking subtitle features. ❌
 1. Has movies, shows and anime. ✔️
-1. Site has no watchlists, continue watching or history. ❌
+1. Site has no watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
@@ -1241,7 +1241,7 @@ Community Favorites: 🌟
 1. UI is fine but has room for improvement. ⚠️
 1. Has built in subs for most content and allows adjustments. ✔️
 1. It has movies, shows and anime. ✔️
-1. Site has no watchlists, continue watching or history. ❌
+1. Site has no watch lists, continue watching or history. ❌
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -1258,7 +1258,7 @@ Community Favorites: 🌟
 1. Site feels dated, lots of room for improvement. ❌
 1. Site is missing subtitle features. ❌
 1. Has movies, shows and anime. ✔️
-1. Has watchlists and you can login to sync them across devices. ✔️
+1. Has watch lists and you can login to sync them across devices. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
 1. Site works well, but doesn't look too great on mobile. ⚠️
@@ -1275,7 +1275,7 @@ Community Favorites: 🌟
 1. Site UI feels dated, lots of room for improvement. ❌
 1. Players have built in subtitles for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability. ❌
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -1292,7 +1292,7 @@ Community Favorites: 🌟
 1. Site UI has room for improvement. ❌
 1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Site has some sorting options, but is lacking in terms of content discoverability. ⚠️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
@@ -1309,7 +1309,7 @@ Community Favorites: 🌟
 1. UI is decent, seems modern, but probably has room for improvement. ⚠️
 1. Most sources have subs built in. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
@@ -1343,7 +1343,7 @@ Community Favorites: 🌟
 1. Sites UI is decent but has for for improvement. ⚠️
 1. Has built in subtitles for most content. ✔️
 1. Site has movies and shows, but no anime. ⚠️
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -1360,7 +1360,7 @@ Community Favorites: 🌟
 1. Sites UI has lots of room for improvement. ❌
 1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -1377,7 +1377,7 @@ Community Favorites: 🌟
 1. UI has room for improvement. ❌
 1. Allows adding + searching your own subtitles. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
@@ -1411,7 +1411,7 @@ Community Favorites: 🌟
 1. UI is alright but has room for improvements. ⚠️
 1. Site is lacking subtitle features. ❌
 1. site only has movies. ❌
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -1428,7 +1428,7 @@ Community Favorites: 🌟
 1. Site feels dated, lots of room for improvement. ❌
 1. Has built in subs for most content and allows adjustments. ✔️
 1. It has movies, shows and anime. ✔️
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site doesn't work well or look great on mobile. ❌
@@ -1445,7 +1445,7 @@ Community Favorites: 🌟
 1. Sites UI is alright but has room for improvement. ⚠️
 1. Site is lacking subtitle features. ❌
 1. Has movies, shows and anime. ✔️
-1. Has no watchlists, continue watching or history. ❌
+1. Has no watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -1462,7 +1462,7 @@ Community Favorites: 🌟
 1. Site feels dated, lots of room for improvement. ❌
 1. Most content does not have subs. ❌
 1. Site has movies and shows, but not much anime. ⚠️
-1. Site has history and watchlists, and you can login to sync them across devices. ✔️
+1. Site has history and watch lists, and you can login to sync them across devices. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -1479,7 +1479,7 @@ Community Favorites: 🌟
 1. UI is decent, seems modern, but probably has room for improvement. ⚠️
 1. Site has subs for most content and allows adjustments. ✔️
 1. Site has movies and shows, but not much anime. ⚠️
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
@@ -1496,7 +1496,7 @@ Community Favorites: 🌟
 1. UI feels dated, has lots of room for improvement. ❌
 1. Site is lacking subtitle features. ❌
 1. Site has movies and shows but no anime. ⚠️
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -1513,7 +1513,7 @@ Community Favorites: 🌟
 1. Site feels dated, lots of room for improvement. ❌
 1. Site is lacking subtitle features. ❌
 1. Sites only has movies. ❌
-1. Site does not have watchlists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
