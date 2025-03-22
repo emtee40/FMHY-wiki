@@ -133,6 +133,25 @@ Community Favorites: 🌟🌟🌟
 Community Favorites: 🌟
 
 ***
+## Rive
+### Score: 24/26
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. Finds both new and old content consistently. ✔️
+1. 23 english hosts + 6 non english and does auto-switch if ones fails. ✔️
+1. Auto-next works as expected. ✔️
+1. Very unique UI, lots of user-settings, one of the best. ✔️
+1. Site allows you to add, search and adjust subtitles. ✔️
+1. It has movies, show and anime. ✔️
+1. It has watch lists and continue watching, and you can login to sync them across devices. ✔️
+1. It has a recommendations, collections, and an AI. ✔️
+1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player, but they do have customized version of artplayer.js. ⚠️
+
+Community Favorites: 🌟
+
+***
 ## VidBox
 ### Score: 24/26
 1. Streams load very fast. ✔️
@@ -169,25 +188,6 @@ Community Favorites: 🌟
 Community Favorites: 🌟🌟
 
 ***
-## Rive
-### Score: 23/26
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. Finds both new and old content consistently. ✔️
-1. 23 english hosts + 6 non english and does auto-switch if ones fails. ✔️
-1. Auto-next works as expected. ✔️
-1. Very unique UI, lots of user-settings, one of the best. ✔️
-1. Site allows you to add, search and adjust subtitles. ✔️
-1. It has movies, show and anime. ✔️
-1. It has watch lists and continue watching, and you can login to sync them across devices. ✔️
-1. It has a recommendations, collections, and an AI. ✔️
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-Community Favorites: 🌟
-
-***
 ## uira.live
 ### Score: 23/26
 1. Streams load very fast. ✔️
@@ -220,6 +220,25 @@ Community Favorites: 🌟
 1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
+
+***
+## 456movie
+### Score: 22/26
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. It finds streams very fast, including very old obscure content. ✔️
+1. 15 sources and it does auto-switch when one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
+1. Most of their sources allow subtitles. ✔️
+1. Has movies, shows, anime. ✔️
+1. Site has continue watching and watch lists, but you can't sync them across devices. ⚠️
+1. Has AI for recommendations and recommendations at top of site. ✔️
+1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player, but they do have a custom version of artplayer.js. ⚠️
+
+Community Favorites: 🌟
 
 ***
 ## 1Shows
@@ -373,25 +392,6 @@ Community Favorites: 🌟
 1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
-
-***
-## 456movie
-### Score: 21/26
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. It finds streams very fast, including very old obscure content. ✔️
-1. 15 sources and it does auto-switch when one fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
-1. Most of their sources allow subtitles. ✔️
-1. Has movies, shows, anime. ✔️
-1. Site has continue watching and watch lists, but you can't sync them across devices. ⚠️
-1. Has AI for recommendations and recommendations at top of site. ✔️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-Community Favorites: 🌟
 
 ***
 ## Mapple.tv
