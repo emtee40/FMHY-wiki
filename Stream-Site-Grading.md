@@ -203,6 +203,23 @@ Community Favorites: 🌟
 1. Site does have a custom player (can be enabled under video). ✔️
 
 ***
+## Bingeflex
+### Score: 24/26
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be lowered. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 5 servers and server 2 and beyond autoswitch when one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites UI is pretty good, looks modern, shows results as you type. ✔️
+1. Has built in subs for most content + customization.  ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watch lists, and you can login in settings to sync them across devices. ✔️
+1. Good sorting, gives recommendations on "more info" and has franchise collections under more. ✔️
+1. Site is free from new tab popup ads, can be used without an adblocker (using server 5). ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
 ## VidBox
 ### Score: 24/26
 1. Streams load very fast. ✔️
@@ -355,23 +372,6 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site has watch lists, but they can't be synced across devices. ⚠️
 1. Site has sorting options, random movies, similar + recommended on each page. ✔️
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-***
-## Bingeflex
-### Score: 22/26
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be lowered. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 5 servers and server 2 and beyond autoswitch when one fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. Sites UI is pretty good, looks modern, shows results as you type. ✔️
-1. Has built in subs for most content + customization.  ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have continue watching, but it can't be synced across devices. ⚠️
-1. Good sorting, gives recommendations on "more info" and has franchise collections under more. ✔️
 1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
