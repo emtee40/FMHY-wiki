@@ -10,7 +10,7 @@
 1. * Does it have movies, shows and anime?
 1. * Does it have watch lists, history or continue watching? Can you login to sync lists across devices?
 1. * Any discovery tools like recommendations based on watched content, collections, sorting, AI, etc?
-1. * Are new tab popups on the site non-existent, slightly irritating, or almost constant?
+1. * Are new tab/window popups on the site non-existent, slightly irritating, or almost constant?
 1. * How is the sites mobile optimization? Does it look good and work well?
 1. * Does the site embed content using a custom player, or does it use default API players?
 
@@ -33,7 +33,7 @@
 1. It has movies, shows and anime. ✔️
 1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
 1. Site has good sorting + random suggestions and editor picks. ✔️
-1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 
@@ -52,7 +52,7 @@ Community Favorites: 🌟🌟🌟🌟
 1. It has movies, shows and anime. ✔️
 1. Site has watch lists and continue watching, and you can login to sync them across devices. ✔️
 1. Good sorting, gives recommendations based on watched, and has mood based search. ✔️
-1. New tab popup ads can be disabled in settings, then it can be used without an adblocker. ✔️
+1. Ads can be disabled in settings, then it can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 
@@ -71,7 +71,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has watch lists and history, and you can login to sync them across devices. ✔️
 1. Site has good sorting options, franchise collections, and a AI recommendation bot. ✔️
-1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (first player is their own). ✔️
 
@@ -88,7 +88,7 @@ Community Favorites: 🌟
 1. It has movies, show and anime. ✔️
 1. It has watch lists and continue watching, and you can login to sync them across devices. ✔️
 1. It has a recommendations, collections, and an AI. ✔️
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
 1. Site uses a highly customized version of artplayer.js. ✔️
 
@@ -107,7 +107,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has watch lists and continue watching, but can't be synced across devices. ⚠️
 1. Has sorting options, collections, and recommendations on frontpage. ✔️
-1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (built from scratch). ✔️
 
@@ -124,7 +124,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site does have watch lists and you can login to sync them across devices. ✔️
 1. Site has decent sorting but is otherwise lacking in terms of content discoverability. ⚠️
-1. Site is free from new tab popup ads, can be used without an adblocker using "ad-free sources." ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker using "ad-free sources." ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does use a custom movie-web player. ✔️
 
@@ -141,7 +141,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have continue watching, but can't be synced across devices. ⚠️
 1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
-1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (first player is their own). ✔️
 
@@ -158,7 +158,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. The site has watch lists + history, and you can login to sync them across devices. ✔️
 1. Has sorting options + watch history based recommendations when you login. ✔️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 
@@ -177,7 +177,7 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟
 1. Has movies, shows and anime. ✔️
 1. Site has watch lists + history, and you can login to sync them across devices. ✔️
 1. Has decent sorting options, and AI bot, history recommendations. ✔️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (first player is their own). ✔️
 
@@ -196,7 +196,7 @@ Community Favorites: 🌟🌟🌟
 1. It has movies, shows and anime. ✔️
 1. Site has watch lists, and you can login to sync them across devices. ✔️
 1. Site has decent sorting options and good recommendations under each movie. ✔️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 
@@ -215,7 +215,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has watch lists, favorites and continue watching, but they can't be synced across devices. ⚠️
 1. Site has AI recommendations, decent sorting, and franchise collections. ✔️
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (can be enabled under video). ✔️
 
@@ -232,7 +232,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have watch lists, and you can login in settings to sync them across devices. ✔️
 1. Good sorting, gives recommendations on "more info" and has franchise collections under more. ✔️
-1. Site is free from new tab popup ads, can be used without an adblocker (using server 5). ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker (using server 5). ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -249,7 +249,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Has continue watching + favorites, and you can login to sync them across devices. ✔️
 1. Has good sorting options and keyword based search. ✔️
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -268,7 +268,7 @@ Community Favorites: 🌟🌟
 1. Has movies, shows, anime. ✔️
 1. Site has continue watching and watch lists, but you can't sync them across devices. ⚠️
 1. Has AI for recommendations and recommendations at top of site. ✔️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom version of artplayer.js. ✔️
 
@@ -287,7 +287,7 @@ Community Favorites: 🌟
 1. Has movies, shows, anime. ✔️
 1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
 1. Decent sorting options and has built in AI recommendation tool. ✔️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -304,7 +304,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site has continue watching, watch lists, and favorites, but you can't sync them across devices. ⚠️
 1. Site has good sorting + a AI to help discover new content . ✔️
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -321,7 +321,7 @@ Community Favorites: 🌟
 1. They have movies, shows and anime. ✔️
 1. Has watch lists and history, and you can login to sync them across devices. ✔️
 1. Has good sorting and collections. ✔️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -338,7 +338,7 @@ Community Favorites: 🌟
 1. Site has movies, shows and anime. ✔️
 1. Site has continue watching, but it cannot be synced across devices. ⚠️
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ✔️
 
@@ -355,7 +355,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have watch lists, but they can't be synced across devices. ⚠️
 1. Site has good sorting options and a AI to give random recommendations. ✔️
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -372,7 +372,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site has watch lists, but they can't be synced across devices. ⚠️
 1. Site has sorting options, random movies, similar + recommended on each page. ✔️
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -389,7 +389,7 @@ Community Favorites: 🌟
 1. It has movies, shows, anime. ✔️
 1. The site has continue watching and watch lists, but they cannot be synced across devices. ⚠️
 1. Site has a very nice AI recommendation tool, recommendations on each page, and sorting. ✔️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -406,7 +406,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site has watch lists, and you can login to sync them across devices. ✔️
 1. Has decent content sorting, but more discoverability options could be added. ⚠️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does have a custom player. ✔️
 
@@ -423,7 +423,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Has history and watch lists, and you can login to sync them across devices. ✔️
 1. Has decent sorting options, but more discoverability options would be nice. ⚠️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 
@@ -440,7 +440,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site has history + watch lists, and you can login to sync them across devices. ✔️
 1. Has content sorting, collections, and recommendations based on what people watch. ✔️
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -457,7 +457,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has continue watching, but you can't sync across devices. ⚠️
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -474,7 +474,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Has collections and AI recommendations, but is still a bit lacking in terms of sorting. ⚠️
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
@@ -493,7 +493,7 @@ Community Favorites: 🌟
 1. Site has movies and shows but no anime. ⚠️
 1. Site allows you to add favorites, and you can login to sync them across devices. ✔️
 1. Site is lacking in terms of media discovery options. ❌
-1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 
@@ -510,7 +510,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has watch list + favorites, and you can login to sync them across devices. ✔️
 1. Site has good sorting option + a entire recommendation voting system. ✔️
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -527,7 +527,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have watch lists, but they can't be synced across devices. ⚠️
 1. Site has some sorting options and gives homepage recommendations based on watched content. ✔️
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
@@ -544,7 +544,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site has continue watching + history and you can login to sync them across devices. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -561,7 +561,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Has watch lists and you can login to sync them across devices. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does have a custom player. ✔️
 
@@ -578,7 +578,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has watch lists, and you can login to sync across devices. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -595,7 +595,7 @@ Community Favorites: 🌟
 1. Sites only has movies. ❌
 1. Site has watch lists, continue watching and history, and you can login to sync them across devices. ✔️
 1. Site has no sorting or content discoverability options. ❌
-1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 
@@ -612,7 +612,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Has watch lists and history, and you can login to sync them across devices. ✔️
 1. Has decent sorting options but is otherwise lacking content discoverability options. ⚠️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does have a custom player. ✔️
 
@@ -629,7 +629,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site does have watch lists, and you can login to sync them across devices. ✔️
 1. Site has decent sorting options, but more discoverability options would be nice. ⚠️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -646,7 +646,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have continue watching, but you can't sync across devices. ⚠️
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 
@@ -663,7 +663,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have continue watching, and you can login to sync it across devices. ✔️
 1. Has decent sorting options, but not much in terms of media discovery tools. ⚠️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -680,7 +680,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have watch lists, but you can't sync them across devices. ⚠️
 1. Has recommendations on movie pages, good sorting, a random button. ⚠️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -697,7 +697,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has favorites and continue watching, but you can't sync across devices. ⚠️
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -714,7 +714,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have watch lists, but you can't sync it across devices. ⚠️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -731,7 +731,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has watch lists, and you can login to sync them across devices.  ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -748,7 +748,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has continue watching + watch lists, and you can login to sync them across devices. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -765,7 +765,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has watch lists and continue watching, and you can login to sync them across devices. ✔️
 1. Has decent sorting options, but content discovery tools or collections could be added. ⚠️
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
@@ -782,7 +782,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 
@@ -799,7 +799,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has watch lists, but you can't sync them across devices. ⚠️
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Looks good but is slow to load on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
@@ -816,7 +816,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Has watch lists and continue watching, but you can't sync them across devices. ⚠️
 1. Has collection and search filters, but more content discoverability options would be nice. ⚠️
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
@@ -833,7 +833,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have watch lists, and you can login to sync them across devices. ✔️
 1. Has sorting options and some collections, but overall content discovery tools could be added / improved. ⚠️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
@@ -850,7 +850,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Has decent sorting, but better discoverability options could be added. ⚠️
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site doesn't work well or look great on mobile. ❌
 1. Site does not have a custom player. ❌
 
@@ -867,7 +867,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -884,7 +884,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Has decent sorting options, but not much in terms of media discovery tools. ⚠️
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -901,7 +901,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has continue watching, but it cannot be synced across devices. ⚠️
 1. Has a random movie button, but otherwise is lacking in terms of content discoverability and sorting. ❌
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -918,7 +918,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 
@@ -935,7 +935,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site tracks last thing watched, but is otherwise lacking watch lists and history. ❌
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 
@@ -952,7 +952,7 @@ Community Favorites: 🌟
 1. Site is only movies. ❌
 1. Site has no watch lists, continue watching or history. ❌
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does have a custom player. ✔️
 
@@ -969,7 +969,7 @@ Community Favorites: 🌟
 1. Site only has movies. ❌
 1. Site allows you to create playlists, and you can login to sync them across devices. ✔️
 1. Site has sorting options, random movies, and playlist generators. ✔️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does have a custom player. ✔️
 
@@ -986,7 +986,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Has watch lists and you can login to sync them across devices. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
@@ -1003,7 +1003,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has watch lists and continue watching, but you can't sync them across devices. ⚠️
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks okay but buffers sometimes on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
@@ -1020,7 +1020,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has watch lists and continue watching, but you cannot be synced across devices. ⚠️
 1. Site gives recommendations on each movies page, but is otherwise lacking content discoverability. ⚠️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -1037,7 +1037,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Has decent sorting options, but media discovery tools could be added. ⚠️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -1054,7 +1054,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has watch history and you can login to sync it across devices. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -1071,7 +1071,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
@@ -1088,7 +1088,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -1105,7 +1105,7 @@ Community Favorites: 🌟
 1. Site has movies and shows, but not much anime. ⚠️
 1. Has watch lists and you can login to sync them across devices. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 
@@ -1122,7 +1122,7 @@ Community Favorites: 🌟
 1. Does have movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab popup ads, can be used without an adblocker. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does have a custom player. ✔️
 
@@ -1139,7 +1139,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site has no watch lists, history or continue watching. ❌
 1. Site has no sorting or content discoverability options. ❌
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -1156,7 +1156,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Has watch lists and you can login to sync them across devices. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
@@ -1173,7 +1173,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
@@ -1190,7 +1190,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -1207,7 +1207,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site has a playlists / favorites and you can login to sync them across devices. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
@@ -1224,7 +1224,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site has no sorting or content discoverability options. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
@@ -1241,7 +1241,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site has no watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 
@@ -1258,7 +1258,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site has no watch lists, continue watching or history. ❌
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -1275,7 +1275,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Has watch lists and you can login to sync them across devices. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has occasional new tab popup, but is usable without adblocker. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does have a custom player. ✔️
 
@@ -1292,7 +1292,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -1309,7 +1309,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site has some sorting options, but is lacking in terms of content discoverability. ⚠️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
@@ -1326,7 +1326,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
@@ -1343,7 +1343,7 @@ Community Favorites: 🌟
 1. Site has movies and shows, but no anime. ⚠️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -1360,7 +1360,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -1377,7 +1377,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
@@ -1394,7 +1394,7 @@ Community Favorites: 🌟
 1. Site has movies and shows, but not much anime. ⚠️
 1. Site has continue watching, but it cannot be synced across devices. ⚠️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -1411,7 +1411,7 @@ Community Favorites: 🌟
 1. site only has movies. ❌
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 
@@ -1428,7 +1428,7 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site doesn't work well or look great on mobile. ❌
 1. Site does not have a custom player. ❌
 
@@ -1445,7 +1445,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Has no watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -1462,7 +1462,7 @@ Community Favorites: 🌟
 1. Site has movies and shows, but not much anime. ⚠️
 1. Site has history and watch lists, and you can login to sync them across devices. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -1479,7 +1479,7 @@ Community Favorites: 🌟
 1. Site has movies and shows, but not much anime. ⚠️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
@@ -1496,7 +1496,7 @@ Community Favorites: 🌟
 1. Site has movies and shows but no anime. ⚠️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -1513,6 +1513,6 @@ Community Favorites: 🌟
 1. Sites only has movies. ❌
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab popups, difficult/impossible to use without adblocker. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does not have a custom player. ❌
