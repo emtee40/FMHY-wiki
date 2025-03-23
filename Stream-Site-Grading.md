@@ -52,7 +52,7 @@ Community Favorites: 🌟🌟🌟🌟
 1. It has movies, shows and anime. ✔️
 1. Site has watch lists and continue watching, and you can login to sync them across devices. ✔️
 1. Good sorting, gives recommendations based on watched, and has mood based search. ✔️
-1. Ads can be disabled in settings, then it can be used without an adblocker. ✔️
+1. Turning off ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 
