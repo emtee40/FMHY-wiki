@@ -73,7 +73,7 @@ Community Favorites: 🌟
 1. Site has good sorting options, franchise collections, and a AI recommendation bot. ✔️
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (first player is their own). ✔️
+1. Site does have a custom player (first player). ✔️
 
 ***
 ## Rive
@@ -143,7 +143,7 @@ Community Favorites: 🌟
 1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (first player is their own). ✔️
+1. Site does have a custom player (first player). ✔️
 
 ***
 ## Cineby 
@@ -179,7 +179,7 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟
 1. Has decent sorting options, and AI bot, history recommendations. ✔️
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (first player is their own). ✔️
+1. Site does have a custom player (first player). ✔️
 
 Community Favorites: 🌟🌟🌟
 
