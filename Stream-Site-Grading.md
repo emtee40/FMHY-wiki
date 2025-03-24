@@ -327,7 +327,7 @@ Community Favorites: 🌟
 
 ***
 ## PopcornMovies
-### Score: 22/26
+### Score: 24/26
 1. Streams load very fast. ✔️
 1. Content is 1080p and can be lowered. ✔️
 1. Finds streams quickly, including older content. ✔️
@@ -340,7 +340,7 @@ Community Favorites: 🌟
 1. Has good sorting and collections. ✔️
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
+1. Site does have a custom player (first player). ✔️
 
 ***
 ## Cinemull
