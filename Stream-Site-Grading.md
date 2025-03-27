@@ -772,23 +772,6 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
-## watch.inzi
-### Score: 16/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 18 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Just a clone of Rive with less features and players. ⚠️
-1. Has built in subs for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Has watch lists and continue watching, but you can't sync them across devices. ⚠️
-1. Has collection and search filters, but more content discoverability options would be nice. ⚠️
-1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
-1. Site works well, but doesn't look too great on mobile. ⚠️
-1. Site does not have a custom player. ❌
-
-***
 ## NET3LIX
 ### Score: 16/26
 1. Streams load very fast. ✔️
@@ -802,23 +785,6 @@ Community Favorites: 🌟
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-***
-## uFlix
-### 16/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 5 servers but does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Site UI is alright but has room for improvement. ⚠️
-1. Has built in subs for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does not have watch lists, continue watching or history. ❌
-1. Has decent sorting options, but not much in terms of media discovery tools. ⚠️
-1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
