@@ -47,7 +47,7 @@ Community Favorites: 🌟🌟🌟🌟
 1. Finds streams quickly, including older content. ✔️
 1. They have 4 servers and they do auto-switch if one fails. ✔️
 1. Site does have episode auto-next. ✔️
-1. Sites UI feels modern, shows trailers on hover, one of the best. ✔️
+1. Sites UI feels very modern and unique, one of the best. ✔️
 1. Has built in subs for most content and allows adjustments. ✔️
 1. It has movies, shows and anime. ✔️
 1. Site has watch lists and continue watching, and you can login to sync them across devices. ✔️
