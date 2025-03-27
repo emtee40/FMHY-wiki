@@ -59,23 +59,6 @@ Community Favorites: 🌟🌟🌟🌟
 Community Favorites: 🌟
 
 ***
-## VidBox
-### Score: 26/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 18 english + 6 non eng, and a few have server auto-switch if one fails. ✔️
-1. Site does have episode auto-next (servers echo + vidfast). ✔️
-1. UI is good, feels very modern and search shows results as you type. ✔️
-1. Has built in subs for most content and allows you to upload your own and make adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watch lists and history, and you can login to sync them across devices. ✔️
-1. Site has good sorting options, franchise collections, and a AI recommendation bot. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (first player). ✔️
-
-***
 ## Rive
 ### Score: 25/26
 1. Streams load very fast. ✔️
@@ -129,18 +112,18 @@ Community Favorites: 🌟
 1. Site does use a custom movie-web player. ✔️
 
 ***
-## FlickyStream
+## VidBox
 ### Score: 25/26
 1. Streams load very fast. ✔️
-1. The content is 1080p+ and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 12 sources and does auto-switch if one fails. ✔️
-1. Site does have episode auto-next (vidlinkpro server). ✔️
-1. Site has good UI, feels modern, shows results as you type. ✔️
-1. Has built in subs for most content. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 18 english + 6 non eng, and a few have server auto-switch if one fails. ✔️
+1. Site does have episode auto-next (servers echo + vidfast). ✔️
+1. Sites UI is fine but has room for improvement. ⚠️
+1. Has built in subs for most content and allows you to upload your own and make adjustments. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does have continue watching, but can't be synced across devices. ⚠️
-1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
+1. Site has watch lists and history, and you can login to sync them across devices. ✔️
+1. Site has good sorting options, franchise collections, and a AI recommendation bot. ✔️
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (first player). ✔️
@@ -165,25 +148,6 @@ Community Favorites: 🌟
 Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟
 
 ***
-## Freek
-### Score: 24/26
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be changed lower. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. Has 3 sources and does auto-switch if one fails. ✔️
-1. Auto-next works as expected. ✔️
-1. Its solid, has good user settings, feels modern. ✔️
-1. Allows adding + searching your own subtitles. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watch lists + history, and you can login to sync them across devices. ✔️
-1. Has decent sorting options, and AI bot, history recommendations. ✔️
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (first player). ✔️
-
-Community Favorites: 🌟🌟🌟
-
-***
 ## Nunflix
 ### Score: 24/26
 1. Streams load very fast. ✔️
@@ -203,23 +167,6 @@ Community Favorites: 🌟🌟🌟
 Community Favorites: 🌟
 
 ***
-## 1Shows
-### Score: 24/26
-1. Streams load very fast. ✔️
-1. The content is in 1080p, and can be lowered and most servers. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. 25+ servers (on rg), picks fastest, and they do auto-switch when one fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. UI is decent, feels modern, has lots of user settings. ✔️
-1. Players have built in subtitles for most content. ✔️
-1. Has movies, shows, anime. ✔️
-1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Decent sorting options and has built in AI recommendation tool. ✔️
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom version of vidstack player. ✔️
-
-***
 ## PopcornMovies
 ### Score: 24/26
 1. Streams load very fast. ✔️
@@ -237,14 +184,67 @@ Community Favorites: 🌟
 1. Site does have a custom version of vidstack player. ✔️
 
 ***
-## Ronny Flix
+## FlickyStream
 ### Score: 24/26
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 12 sources and does auto-switch if one fails. ✔️
+1. Site does have episode auto-next (vidlinkpro server). ✔️
+1. Sites UI is fine but has room for improvement. ⚠️
+1. Has built in subs for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have continue watching, but can't be synced across devices. ⚠️
+1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (first player). ✔️
+
+***
+## Freek
+### Score: 23/26
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be changed lower. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 3 sources and does auto-switch if one fails. ✔️
+1. Auto-next works as expected. ✔️
+1. Sites UI is fine but has room for improvement. ⚠️
+1. Allows adding + searching your own subtitles. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watch lists + history, and you can login to sync them across devices. ✔️
+1. Has decent sorting options, and AI bot, history recommendations. ✔️
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (first player). ✔️
+
+Community Favorites: 🌟🌟🌟
+
+***
+## 1Shows
+### Score: 23/26
+1. Streams load very fast. ✔️
+1. The content is in 1080p, and can be lowered and most servers. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. 25+ servers (on rg), picks fastest, and they do auto-switch when one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites UI is fine but has room for improvement. ⚠️
+1. Players have built in subtitles for most content. ✔️
+1. Has movies, shows, anime. ✔️
+1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Decent sorting options and has built in AI recommendation tool. ✔️
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom version of vidstack player. ✔️
+
+***
+## Ronny Flix
+### Score: 23/26
 1. Streams load very fast. ✔️
 1. The content is 1080p+ and allows switching to lower quality. ✔️
 1. Finds popular things with no issue, including older content. ✔️
 1. Has 12 servers and some of them do auto-switch when they fail. ✔️
 1. Site does have episode auto-next (server 3). ✔️
-1. Sites UI is good, shows results as you type, has own API. ✔️
+1. Sites UI is fine but has room for improvement. ⚠️
 1. Most hosts have subtitles built in. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site has watch lists, favorites and continue watching, but they can't be synced across devices. ⚠️
@@ -255,13 +255,13 @@ Community Favorites: 🌟
 
 ***
 ## 7Xtream
-### Score: 24/26
+### Score: 23/26
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams quickly, including older content. ✔️
 1. Has 21 servers and first does cycle through 3 different if it fails. ✔️
 1. Site does not auto-next on chrome when you turn off ads. ✔️
-1. Sites UI is good, feels modern. ✔️
+1. Sites UI is fine but has room for improvement. ⚠️
 1. Has built in subs for most content and allows adjustments. ✔️
 1. It has movies, shows and anime. ✔️
 1. Site has watch lists, but they can't be synced across devices. ⚠️
@@ -272,13 +272,13 @@ Community Favorites: 🌟
 
 ***
 ## SpenFlix
-### Score: 24/26
+### Score: 23/26
 1. Streams load very fast. ✔️
 1. Has 1080p and can be lowered. ✔️
 1. Finds popular things with no issue, including older content. ✔️
 1. 10 sources and does not auto-switch if one fails. ⚠️
 1. Site does have episode auto-next. ✔️
-1. UI is good, feels modern, show results as you type. ✔️
+1. Sites UI is fine but has room for improvement. ⚠️
 1. Has built in subs for most content. ✔️
 1. Site has movies, shows and anime. ✔️
 1. Site has watch lists, and you can login to sync them across devices. ✔️
@@ -289,13 +289,13 @@ Community Favorites: 🌟
 
 ***
 ## Bingeflex
-### Score: 24/26
+### Score: 23/26
 1. Streams load very fast. ✔️
 1. Content is 1080p and can be lowered. ✔️
 1. Finds popular things with no issue, including older content. ✔️
 1. Has 5 servers and server 2 and beyond autoswitch when one fails. ✔️
 1. Site does have episode auto-next. ✔️
-1. Sites UI is pretty good, looks modern, shows results as you type. ✔️
+1. Sites UI is fine but has room for improvement. ⚠️
 1. Has built in subs for most content + customization.  ✔️
 1. Has movies, shows and anime. ✔️
 1. Site does have watch lists, and you can login in settings to sync them across devices. ✔️
@@ -306,13 +306,13 @@ Community Favorites: 🌟
 
 ***
 ## HydraHD
-### Score: 23/26
+### Score: 22/26
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Finds streams quickly, including older content. ✔️
 1. 7 english servers + 3 non eng and does auto-switch when one fails (bravo to delta but no indication). ✔️
 1. Site does have episode auto-next. ✔️
-1. UI feels modern, lots of features like ratings / mark as watched etc. ✔️
+1. Sites UI is fine but has room for improvement. ⚠️
 1. Players have built in subtitles for most content. ✔️
 1. Has movies, shows and anime. ✔️
 1. Has continue watching + favorites, and you can login to sync them across devices. ✔️
@@ -325,13 +325,13 @@ Community Favorites: 🌟🌟
 
 ***
 ## 456movie
-### Score: 23/26
+### Score: 22/26
 1. Streams load very fast. ✔️
 1. Content is in 1080p and can be changed lower. ✔️
 1. It finds streams very fast, including very old obscure content. ✔️
 1. 15 sources and it does auto-switch when one fails. ✔️
 1. Site does have episode auto-next. ✔️
-1. Site UI is very good, looks very clean, modern, stands out a lot. ✔️
+1. Sites UI is fine but has room for improvement. ⚠️
 1. Most of their sources allow subtitles. ✔️
 1. Has movies, shows, anime. ✔️
 1. Site has continue watching and watch lists, but you can't sync them across devices. ⚠️
@@ -355,23 +355,6 @@ Community Favorites: 🌟
 1. It has movies, shows and anime. ✔️
 1. Site has continue watching, watch lists, and favorites, but you can't sync them across devices. ⚠️
 1. Site has good sorting + a AI to help discover new content . ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-***
-## Cinemull
-### Score: 22/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 9 servers and does auto-switch if one fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. Site has good UI, feels modern, shows results as you type. ✔️
-1. Has built in subs for most things and allows adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have watch lists, but they can't be synced across devices. ⚠️
-1. Site has good sorting options and a AI to give random recommendations. ✔️
 1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
@@ -428,23 +411,6 @@ Community Favorites: 🌟
 1. Site does have a custom player. ✔️
 
 ***
-## StreamFlix
-### Score: 21/26
-1. Streams load very fast. ✔️
-1. Has 1080p content and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 5 servers, and does auto-switch if one fails. ✔️
-1. Site does not have episode auto-next. ❌
-1. UI is good, feels modern, shows results as you type. ✔️
-1. Has built in subs for most content + allows adjustments. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has history + watch lists, and you can login to sync them across devices. ✔️
-1. Has content sorting, collections, and recommendations based on what people watch. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-***
 ## Arabflix
 ### Score: 21/26
 1. Streams load very fast. ✔️
@@ -462,23 +428,21 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
-## Flicker
-### Score: 20/26
+## Cinemull
+### Score: 21/26
 1. Streams load very fast. ✔️
-1. Site has 1080p and can be switched. ✔️
+1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
-1. Site has 9 servers, and it does auto-switch when one fails. ✔️
-1. Site does have episode auto-next (server 6). ✔️
-1. UI and player are nice, search shows results as you type. ✔️
-1. Has subs for most content and allows adding your own and adjusting. ✔️
+1. Has 9 servers and does auto-switch if one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites UI is fine but has room for improvement. ⚠️
+1. Has built in subs for most things and allows adjustments. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does not have watch lists, continue watching or history. ❌
-1. Has collections and AI recommendations, but is still a bit lacking in terms of sorting. ⚠️
+1. Site does have watch lists, but they can't be synced across devices. ⚠️
+1. Site has good sorting options and a AI to give random recommendations. ✔️
 1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
-1. Site works well, but doesn't look too great on mobile. ⚠️
+1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
-
-Community Favorites: 🌟
 
 ***
 ## catflix
@@ -498,37 +462,56 @@ Community Favorites: 🌟
 1. Site does have a custom player. ✔️
 
 ***
-## Lekuluent
+## StreamFlix
 ### Score: 20/26
+1. Streams load very fast. ✔️
+1. Has 1080p content and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 5 servers, and does auto-switch if one fails. ✔️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is fine but has room for improvement. ⚠️
+1. Has built in subs for most content + allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has history + watch lists, and you can login to sync them across devices. ✔️
+1. Has content sorting, collections, and recommendations based on what people watch. ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
+## Flicker
+### Score: 19/26
+1. Streams load very fast. ✔️
+1. Site has 1080p and can be switched. ✔️
+1. Good for both new and old content. ✔️
+1. Site has 9 servers, and it does auto-switch when one fails. ✔️
+1. Site does have episode auto-next (server 6). ✔️
+1. UI is fine but not much going on. ⚠️
+1. Has subs for most content and allows adding your own and adjusting. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does not have watch lists, continue watching or history. ❌
+1. Has collections and AI recommendations, but is still a bit lacking in terms of sorting. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
+1. Site works well, but doesn't look too great on mobile. ⚠️
+1. Site does not have a custom player. ❌
+
+Community Favorites: 🌟
+
+***
+## Lekuluent
+### Score: 19/26
 1. Streams load very fast. ✔️
 1. Content is 1080p and can be changed lower. ✔️
 1. Finds streams quickly, including older content. ✔️
 1. Has 4 servers but does not auto switch if one fails.⚠️
 1. Site does not have episode auto-next. ❌
-1. Sites UI is good, feels very moderns, show search results as you type. ✔️
+1. Sites UI is fine but has room for improvement. ⚠️
 1. Allows adding + searching your own subtitles. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site has watch list + favorites, and you can login to sync them across devices. ✔️
 1. Site has good sorting option + a entire recommendation voting system. ✔️
 1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-***
-## AbleFlix
-### Score: 19/26
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be changed lower. ✔️
-1. Good for both new and old content. ✔️
-1. Has 16 servers but does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is nice, feels modern. ✔️
-1. Most sources have subs built in. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have watch lists, but they can't be synced across devices. ⚠️
-1. Site has some sorting options and gives homepage recommendations based on watched content. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
-1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
 ***
@@ -567,13 +550,13 @@ Community Favorites: 🌟
 
 ***
 ## ValhallaStream
-### Score: 19/26
+### Score: 18/26
 1. Streams load very fast. ✔️
 1. Content is 1080p and can be changed lower. ✔️
 1. Finds streams quickly, including older content. ✔️
 1. Has 8 servers, but does not auto-switch when one fails. ⚠️
 1. Site does not have episode auto-next. ❌
-1. UI is very nice, feels modern, search shows results as you type. ✔️
+1. UI is decent but there's room for improvement. ⚠️
 1. Most sources include subtitles. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site has watch lists, and you can login to sync across devices. ✔️
@@ -600,37 +583,20 @@ Community Favorites: 🌟
 1. Site does have a custom player. ✔️
 
 ***
-## Smashystream
+## AbleFlix
 ### Score: 18/26
 1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
+1. Content is 1080p and can be changed lower. ✔️
 1. Good for both new and old content. ✔️
-1. Has 12 servers, but does not auto-switch if one fails. ⚠️
+1. Has 16 servers but does not auto-switch if one fails. ⚠️
 1. Site does not have episode auto-next. ❌
-1. Has nice UI, feel modern, has infinite scrolling. ✔️
-1. Some servers have subs, but main is usually missing them. ⚠️
-1. It has movies, shows and anime. ✔️
-1. Has watch lists and history, and you can login to sync them across devices. ✔️
-1. Has decent sorting options but is otherwise lacking content discoverability options. ⚠️
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. UI is decent but there's room for improvement. ⚠️
+1. Most sources have subs built in. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watch lists, but they can't be synced across devices. ⚠️
+1. Site has some sorting options and gives homepage recommendations based on watched content. ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site works well, but doesn't look too great on mobile. ⚠️
-1. Site does have a custom player. ✔️
-
-***
-## Autoembed
-### Score: 18/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 6 english and 3 non eng servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI is solid, feels very modern. ✔️
-1. Site has subtitles for most content. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site does have watch lists, and you can login to sync them across devices. ✔️
-1. Site has decent sorting options, but more discoverability options would be nice. ⚠️
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
 ***
@@ -651,23 +617,6 @@ Community Favorites: 🌟
 1. Site does have a custom player. ✔️
 
 ***
-## ViewVault
-### Score: 18/26
-1. Streams load very fast. ✔️
-1. The content is 1080p+ and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 4 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI is pretty good, feels modern, shows results as you search. ✔️
-1. Players have built in subtitles for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have continue watching, and you can login to sync it across devices. ✔️
-1. Has decent sorting options, but not much in terms of media discovery tools. ⚠️
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-***
 ## Nova
 ### Score: 17/26
 1. Streams load very fast. ✔️
@@ -685,6 +634,23 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
+## Smashystream
+### Score: 17/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 12 servers, but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is alright but has room for improvement. ⚠️
+1. Some servers have subs, but main is usually missing them. ⚠️
+1. It has movies, shows and anime. ✔️
+1. Has watch lists and history, and you can login to sync them across devices. ✔️
+1. Has decent sorting options but is otherwise lacking content discoverability options. ⚠️
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site works well, but doesn't look too great on mobile. ⚠️
+1. Site does have a custom player. ✔️
+
+***
 ## Noxe
 ### Score: 17/26
 1. Some servers load fast, but main has issues sometimes. ⚠️
@@ -696,57 +662,6 @@ Community Favorites: 🌟
 1. Most players have built in subs. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site has favorites and continue watching, but you can't sync across devices. ⚠️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-***
-## Mokmobi
-### Score: 17/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 13 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI is nice, feels modern and vibrant. ✔️
-1. Has built in subs for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have watch lists, but you can't sync it across devices. ⚠️
-1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-***
-## Cinema Deck
-### Score: 17/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 6 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is good, feels very modern, shows results as you type. ✔️
-1. Has built in subs for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watch lists, and you can login to sync them across devices.  ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-***
-## Let's Stream
-### Score: 17/26
-1. Streams load very fast. ✔️
-1. The content is 1080p+ and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 7 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is good, feels modern. ✔️
-1. Players have built in subtitles for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has continue watching + watch lists, and you can login to sync them across devices. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
@@ -787,20 +702,71 @@ Community Favorites: 🌟
 1. Site does have a custom player. ✔️
 
 ***
-## CorsFlix
+## Autoembed
+### Score: 17/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 6 english and 3 non eng servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is alright but has room for improvement. ⚠️
+1. Site has subtitles for most content. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site does have watch lists, and you can login to sync them across devices. ✔️
+1. Site has decent sorting options, but more discoverability options would be nice. ⚠️
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
+## Cinema Deck
 ### Score: 16/26
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
-1. Has 26 english servers and 6 non eng, but does not auto-switch if one fails. ⚠️
+1. Has 6 servers, but does not auto-switch if ones fails. ⚠️
 1. Site does not have episode auto-next. ❌
-1. UI is good, feels modern and shows results as you type. ✔️
+1. UI is decent but there's room for improvement. ⚠️
 1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site has watch lists, but you can't sync them across devices. ⚠️
+1. Site has watch lists, and you can login to sync them across devices.  ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Looks good but is slow to load on mobile. ⚠️
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
+## Let's Stream
+### Score: 16/26
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 7 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is alright but has room for improvement. ⚠️
+1. Players have built in subtitles for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has continue watching + watch lists, and you can login to sync them across devices. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
+## Mokmobi
+### Score: 16/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 13 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is alright but has room for improvement. ⚠️
+1. Has built in subs for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watch lists, but you can't sync it across devices. ⚠️
+1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
 ***
@@ -818,40 +784,6 @@ Community Favorites: 🌟
 1. Has collection and search filters, but more content discoverability options would be nice. ⚠️
 1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site works well, but doesn't look too great on mobile. ⚠️
-1. Site does not have a custom player. ❌
-
-***
-## PressPlay
-### Score: 16/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for new content, but struggles to find older stuff. ⚠️
-1. Has 4 servers, but does not auto-switch if ones fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI is nice, feels unique, modern, and search shows results as you type. ✔️
-1. Has built in subs for most content + allows adjustments or adding own. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have watch lists, and you can login to sync them across devices. ✔️
-1. Has sorting options and some collections, but overall content discovery tools could be added / improved. ⚠️
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site works well, but doesn't look too great on mobile. ⚠️
-1. Site does not have a custom player. ❌
-
-***
-## Novafork
-### Score 16/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. 21 servers, but they don't auto-switch if ones fails. ⚠️
-1. Some servers have episode auto-next, but many don't. ⚠️
-1. Site is very nice to look at, search works well. ✔️
-1. Players have built in subtitles for most content. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site does not have watch lists, continue watching or history. ❌
-1. Has decent sorting, but better discoverability options could be added. ⚠️
-1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
-1. Site doesn't work well or look great on mobile. ❌
 1. Site does not have a custom player. ❌
 
 ***
@@ -885,6 +817,23 @@ Community Favorites: 🌟
 1. Site does not have watch lists, continue watching or history. ❌
 1. Has decent sorting options, but not much in terms of media discovery tools. ⚠️
 1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
+## ViewVault
+### Score: 16/26
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 4 servers, but does not auto-switch if ones fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI doesn't really stand out much. ❌
+1. Players have built in subtitles for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have continue watching, and you can login to sync it across devices. ✔️
+1. Has decent sorting options, but not much in terms of media discovery tools. ⚠️
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -940,6 +889,23 @@ Community Favorites: 🌟
 1. Site does have a custom player. ✔️
 
 ***
+## Novafork
+### Score 15/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. 21 servers, but they don't auto-switch if ones fails. ⚠️
+1. Some servers have episode auto-next, but many don't. ⚠️
+1. UI is fine but not much going on. ⚠️
+1. Players have built in subtitles for most content. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site does not have watch lists, continue watching or history. ❌
+1. Has decent sorting, but better discoverability options could be added. ⚠️
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
+1. Site doesn't work well or look great on mobile. ❌
+1. Site does not have a custom player. ❌
+
+***
 ## FshareTV
 ### Score: 15/26
 1. Streams load, but it takes a second. ⚠️
@@ -974,54 +940,37 @@ Community Favorites: 🌟
 1. Site does have a custom player. ✔️
 
 ***
-## FlixWatch
+## PressPlay
 ### Score: 15/26
 1. Streams load very fast. ✔️
-1. Has 1080p and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. 9 servers, but you have to select them in sites setting rather than player. ❌
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for new content, but struggles to find older stuff. ⚠️
+1. Has 4 servers, but does not auto-switch if ones fails. ⚠️
 1. Site does not have episode auto-next. ❌
-1. Site is Autoembed clone so its nice. ✔️
-1. Has built in subs for most content and allows adjustments. ✔️
+1. UI is decent but has room for improvement. ⚠️
+1. Has built in subs for most content + allows adjustments or adding own. ✔️
 1. Has movies, shows and anime. ✔️
-1. Has watch lists and you can login to sync them across devices. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site does have watch lists, and you can login to sync them across devices. ✔️
+1. Has sorting options and some collections, but overall content discovery tools could be added / improved. ⚠️
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
 ***
-## zmov
+## CorsFlix
 ### Score: 15/26
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
-1. Has 12 english servers + 5 non eng, but does not auto-switch if one fails. ⚠️
+1. Has 26 english servers and 6 non eng, but does not auto-switch if one fails. ⚠️
 1. Site does not have episode auto-next. ❌
-1. Sites UI and player are good, site feels modern. ✔️
-1. Has built in subs for most content and allows adjustments. ✔️
+1. Sites UI is alright but has room for improvement. ⚠️
+1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site has watch lists and continue watching, but you can't sync them across devices. ⚠️
+1. Site has watch lists, but you can't sync them across devices. ⚠️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks okay but buffers sometimes on mobile. ⚠️
-1. Site does not have a custom player. ❌
-
-***
-## Qstream
-### Score: 15/26
-1. Sources take some time to load. ❌
-1. Content is 1080p, but it cannot be lowered. ⚠️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 4 servers and does autoswitch if one fails. ✔️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is good, feels modern and unique. ✔️
-1. Has built in subtitles for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watch lists and continue watching, but you cannot be synced across devices. ⚠️
-1. Site gives recommendations on each movies page, but is otherwise lacking content discoverability. ⚠️
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
+1. Looks good but is slow to load on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
 ***
@@ -1056,23 +1005,6 @@ Community Favorites: 🌟
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-***
-## Wovie
-### Score: 15/26
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be changed lower. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. They have 11 sources but do not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is good, feels modern, displays results as you search. ✔️
-1. Allows adding + searching your own subtitles. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does not have watch lists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
-1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
 ***
@@ -1144,6 +1076,23 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
+## zmov
+### Score: 14/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 12 english servers + 5 non eng, but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. UI is alright but has room for improvements. ⚠️
+1. Has built in subs for most content and allows adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watch lists and continue watching, but you can't sync them across devices. ⚠️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks okay but buffers sometimes on mobile. ⚠️
+1. Site does not have a custom player. ❌
+
+***
 ## M4uFree
 ### Score: 14/26
 1. Streams load very fast. ✔️
@@ -1161,20 +1110,20 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
-## EnjoyTown
+## Qstream
 ### Score: 14/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 8 servers but does not auto-switch if one fails. ⚠️
+1. Sources take some time to load. ❌
+1. Content is 1080p, but it cannot be lowered. ⚠️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 4 servers and does autoswitch if one fails. ✔️
 1. Site does not have episode auto-next. ❌
-1. Sites UI is good, feels very modern. ✔️
-1. Site has subtitles for most content. ✔️
+1. Sites UI is alright but has room for improvement. ⚠️
+1. Has built in subtitles for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does not have watch lists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site has watch lists and continue watching, but you cannot be synced across devices. ⚠️
+1. Site gives recommendations on each movies page, but is otherwise lacking content discoverability. ⚠️
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site works well, but doesn't look too great on mobile. ⚠️
+1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
 ***
@@ -1192,6 +1141,23 @@ Community Favorites: 🌟
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
+## Wovie
+### Score: 14/26
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be changed lower. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. They have 11 sources but do not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is alright but has room for improvement. ⚠️
+1. Allows adding + searching your own subtitles. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does not have watch lists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
+1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does not have a custom player. ❌
 
 ***
@@ -1229,21 +1195,21 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
-## UniqueStream
+## EnjoyTown
 ### Score: 13/26
 1. Streams load very fast. ✔️
-1. Content 720p and cannot be lowered. ❌
-1. Good for newer content but struggles finding older stuff. ⚠️
-1. Only 1 server but it is fast. ⚠️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 8 servers but does not auto-switch if one fails. ⚠️
 1. Site does not have episode auto-next. ❌
-1. UI is good, feels very modern and search shows results as you type. ✔️
-1. Site is lacking subtitle features. ❌
+1. Sites UI is alright but has room for improvement. ⚠️
+1. Site has subtitles for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site has no watch lists, continue watching or history. ❌
+1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site works well, but doesn't look too great on mobile. ⚠️
+1. Site does not have a custom player. ❌
 
 ***
 ## SFlix
@@ -1278,6 +1244,23 @@ Community Favorites: 🌟
 1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
 1. Site works well, but doesn't look too great on mobile. ⚠️
 1. Site does have a custom player. ✔️
+
+***
+## FlixWatch
+### Score: 13/26
+1. Streams load very fast. ✔️
+1. Has 1080p and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. 9 servers, but you have to select them in sites setting rather than player. ❌
+1. Site does not have episode auto-next. ❌
+1. Site is Autoembed clone so it UI is nothing unique. ❌
+1. Has built in subs for most content and allows adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Has watch lists and you can login to sync them across devices. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site works well, but doesn't look too great on mobile. ⚠️
+1. Site does not have a custom player. ❌
 
 ***
 ## YassFlix
@@ -1331,6 +1314,23 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
+## UniqueStream
+### Score: 12/26
+1. Streams load very fast. ✔️
+1. Content 720p and cannot be lowered. ❌
+1. Good for newer content but struggles finding older stuff. ⚠️
+1. Only 1 server but it is fast. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is alright but has room for improvement. ⚠️
+1. Site is lacking subtitle features. ❌
+1. Has movies, shows and anime. ✔️
+1. Site has no watch lists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player. ✔️
+
+***
 ## YesMovies
 ### Score: 12/26
 1. Streams load very fast. ✔️
@@ -1360,23 +1360,6 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-***
-## FireFlix
-### Score: 11/26
-1. Streams load very fast. ✔️
-1. Main server is 720p or lower for a lot of content. ❌
-1. Site is good for newer content but not as good for older stuff. ⚠️
-1. Has 10 hosts, but does not auto-switch if one fails. ⚠️
-1. Site does not have episode auto-next. ❌
-1. UI is pretty good, looks modern, search shows results as you type. ✔️
-1. Site is lacking in terms of subtitle features. ❌
-1. Site has movies and shows, but not much anime. ⚠️
-1. Site has continue watching, but it cannot be synced across devices. ⚠️
-1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
@@ -1428,6 +1411,23 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Has no watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
+## FireFlix
+### Score: 10/26
+1. Streams load very fast. ✔️
+1. Main server is 720p or lower for a lot of content. ❌
+1. Site is good for newer content but not as good for older stuff. ⚠️
+1. Has 10 hosts, but does not auto-switch if one fails. ⚠️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is decent but has for for improvement. ⚠️
+1. Site is lacking in terms of subtitle features. ❌
+1. Site has movies and shows, but not much anime. ⚠️
+1. Site has continue watching, but it cannot be synced across devices. ⚠️
+1. Site has some sorting options, but more content discoverability options would be nice. ⚠️
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
