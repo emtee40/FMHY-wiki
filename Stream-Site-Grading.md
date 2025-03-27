@@ -17,11 +17,8 @@
 🟡= 1 point
 ❌= 0 points
 
-***
-**Things to note**:
-* We also poll high ranking members for their favorites. These votes don't affect main scores, but they are used for breaking ties. Votes are represented by a 🌟.
-* Keep in mind that requirements for each criteria, as well as new criteria, will sometimes be added or adjusted if we feel its needed.
-* Remember to always use throwaway emails when signing up for streaming sites.
+* Keep in mind that requirements for each criteria, as well as new criteria, will sometimes be added or adjusted if we feel it's needed.
+* We also poll high-ranking members for their favorites. These votes don't affect main scores, but they are used for breaking ties. Votes are represented by a 🌟.
 
 ***
 ## movie-web Instances
