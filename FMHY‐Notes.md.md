@@ -266,6 +266,8 @@ https://docs.undi.rest/
 
 You can also [enable an extension](https://pstream.org/onboarding/extension) / [2](https://github.com/sussy-code/browser-ext/releases/) that will add more sources, but the site works fine without it, and it requires excessive permissions, so as a precation if you are gonna use it, make sure its on a different browser, or new browser profile.
 
+[more notes](https://rentry.co/htagcrv4)
+
 ***
 
 #### Eaglercraft Note
