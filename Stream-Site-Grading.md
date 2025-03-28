@@ -223,7 +223,7 @@ Community Favorites: 🌟
 
 ***
 ## FlickyStream
-### Score: 24/26
+### Score: 23/26
 1. Streams load very fast. ✔️
 1. The content is 1080p+ and allows switching to lower quality. ✔️
 1. Finds popular things with no issue, including older content. ✔️
@@ -234,7 +234,7 @@ Community Favorites: 🌟
 1. Has movies, shows and anime. ✔️
 1. Site does have continue watching, but it can't be synced across devices. 🟡
 1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (first player). ✔️
 
