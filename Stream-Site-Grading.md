@@ -69,7 +69,7 @@ Community Favorites: 🌟
 1. UI is very nice, feels modern and search works well. ✔️
 1. Has built in subs for most content and allows adjustments. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site has watch lists and continue watching, but can't be synced across devices. 🟡
+1. Site has watch lists and continue watching, but it can't be synced across devices. 🟡
 1. Has sorting options, collections, and recommendations on frontpage. ✔️
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
@@ -232,7 +232,7 @@ Community Favorites: 🌟
 1. Sites UI is fine but has room for improvement. 🟡
 1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
-1. Site does have continue watching, but can't be synced across devices. 🟡
+1. Site does have continue watching, but it can't be synced across devices. 🟡
 1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
@@ -894,7 +894,7 @@ Community Favorites: 🌟
 ## MP4Hydra
 ### Score: 15/26
 1. Streams load, but it takes a second. 🟡
-1. Has 1080p, but can't be changed lower. 🟡
+1. Has 1080p, but it can't be changed lower. 🟡
 1. Good for both new and old content. ✔️
 1. Has has 2 sources, but doesn't auto-switch if one fails. 🟡
 1. Site only has movies so it doesn't need auto-switch. 🟡
@@ -1370,7 +1370,7 @@ Community Favorites: 🌟
 ## HollyMovieHD
 ### Score: 11/26
 1. Streams load very fast. ✔️
-1. Has 1080p, but can't be changed lower. 🟡
+1. Has 1080p, but it can't be changed lower. 🟡
 1. Good for both new and old content. ✔️
 1. Only 5 sources but does not auto-switch if one fails. 🟡
 1. Site does not have episode auto-next. ❌
@@ -1455,7 +1455,7 @@ Community Favorites: 🌟
 ## downloads-anymovies
 ### Score: 6/26
 1. Uses file host which is known for being slow sometimes. 🟡
-1. Site has 1080p but can't be lowered. 🟡
+1. Site has 1080p but it can't be lowered. 🟡
 1. Good for both new and old content. ✔️
 1. Only 1 server which can be inconsistent. ❌
 1. Only has movies so does not need episode auto-next. 🟡
