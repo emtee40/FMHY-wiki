@@ -150,6 +150,25 @@ Community Favorites: 🌟
 Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟
 
 ***
+## Freek
+### Score: 24/26
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be changed lower. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 3 sources and does auto-switch if one fails. ✔️
+1. Auto-next works as expected. ✔️
+1. Sites UI is good, feel modern and unique. ✔️
+1. Allows adding + searching your own subtitles. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watch lists + history, and you can login to sync them across devices. ✔️
+1. Has decent sorting options, and AI bot, history recommendations. ✔️
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (first player). ✔️
+
+Community Favorites: 🌟🌟🌟
+
+***
 ## Nunflix
 ### Score: 24/26
 1. Streams load very fast. ✔️
@@ -218,25 +237,6 @@ Community Favorites: 🌟
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (first player). ✔️
-
-***
-## Freek
-### Score: 23/26
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be changed lower. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. Has 3 sources and does auto-switch if one fails. ✔️
-1. Auto-next works as expected. ✔️
-1. Sites UI is fine but has room for improvement. 🟡
-1. Allows adding + searching your own subtitles. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watch lists + history, and you can login to sync them across devices. ✔️
-1. Has decent sorting options, and AI bot, history recommendations. ✔️
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (first player). ✔️
-
-Community Favorites: 🌟🌟🌟
 
 ***
 ## 7Xtream
