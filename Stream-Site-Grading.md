@@ -447,6 +447,23 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
+## Willow
+### Score: 20/26
+1. Streams load very fast. ✔️
+1. Content 1080 and can be lowered but it does give lower options too. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 9 servers, but does not auto-switch if one fails. 🟡
+1. Site does have episode auto-next. ✔️
+1. UI is good, feels very modern and search shows results as you type. ✔️
+1. Site has built in subs for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has bookmarks and watch history, but it can't be synced across devices. 🟡
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player. ✔️
+
+***
 ## catflix
 ### Score: 20/26
 1. Streams load very fast. ✔️
@@ -838,23 +855,6 @@ Community Favorites: 🌟
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
-
-***
-## Willow
-### Score: 16/26
-1. Streams load very fast. ✔️
-1. Content mostly 720p but it does give lower options too. 🟡
-1. Finds popular things with no issue, including older content. ✔️
-1. Only 1 server but it is fast. 🟡
-1. Site does not have episode auto-next. ❌
-1. UI is good, feels very modern and search shows results as you type. ✔️
-1. Site is lacking subtitle features. ❌
-1. Has movies, shows and anime. ✔️
-1. Site does not have watch lists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
 
 ***
 ## NEPU
