@@ -169,6 +169,25 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟
 Community Favorites: 🌟🌟🌟
 
 ***
+## HydraHD
+### Score: 24/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. 7 english servers + 3 non eng and does auto-switch when one fails (bravo to delta but no indication). ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites UI is fine but has room for improvement. 🟡
+1. Players have built in subtitles for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Has continue watching + favorites, and you can login to sync them across devices. ✔️
+1. Has good sorting options and keyword based search. ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player. ✔️
+
+Community Favorites: 🌟
+
+***
 ## Nunflix
 ### Score: 24/26
 1. Streams load very fast. ✔️
@@ -305,25 +324,6 @@ Community Favorites: 🌟
 1. Site is free from new tab/window popup ads, can be used without an adblocker (using server 5). ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
-
-***
-## HydraHD
-### Score: 22/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. 7 english servers + 3 non eng and does auto-switch when one fails (bravo to delta but no indication). ✔️
-1. Site does have episode auto-next. ✔️
-1. Sites UI is fine but has room for improvement. 🟡
-1. Players have built in subtitles for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Has continue watching + favorites, and you can login to sync them across devices. ✔️
-1. Has good sorting options and keyword based search. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-Community Favorites: 🌟
 
 ***
 ## 456movie
