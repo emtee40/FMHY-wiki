@@ -874,6 +874,23 @@ Community Favorites: 🌟
 1. Site does have a custom player. ✔️
 
 ***
+## BFLIX
+### Score: 15/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. 3+ sources but does not auto-switch if ones fails. 🟡
+1. Site does not have episode auto-next. ❌
+1. Site UI is good, feels modern and unique. ✔️
+1. Site is lacking subtitle features. ❌
+1. Site has movies and shows but not much anime. 🟡
+1. Site has watch lists and you can login to sync them across devices. ✔️
+1. Site has decent sorting but is otherwise lacking in terms of content discoverability. 🟡
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
 ## Novafork
 ### Score 15/26
 1. Streams load very fast. ✔️
