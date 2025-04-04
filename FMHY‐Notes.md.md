@@ -112,12 +112,6 @@ The site itself is safe, but in the past they've used leaked public certificates
 
 ***
 
-#### Bunny Plugins Note
-
-Add `https://bunny.nexpid.xyz/plugin-browser/` in plugins section of bunny for a plugin browser. Many of these plugins are broken and cannot be enabled, so look in revenge [discord server](https://discord.com/invite/ddcQf3s2Uq) plugins channel for fixed versions.
-
-***
-
 #### Reaper Note
 
 Asks user to buy after 60 days, but you can just close the popup and keep using for free
