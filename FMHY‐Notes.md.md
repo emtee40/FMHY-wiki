@@ -330,12 +330,6 @@ This will sometimes get falsely flagged by defender and removed automatically, s
 
 ***
 
-#### Freedom Model Note
-
-You can use code: `FREEDOM100` on their site to get the full version free
-
-***
-
 #### Forest Extensions
 
 * https://addons.mozilla.org/en-US/firefox/addon/forest-stay-focused-be-present/
