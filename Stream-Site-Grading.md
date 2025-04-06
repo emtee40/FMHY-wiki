@@ -275,6 +275,23 @@ Community Favorites: 🌟
 1. Site does have a custom version of vidstack player. ✔️
 
 ***
+## Vidora
+### Score: 24/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 8 servers, but does not auto-switch when one fails. 🟡
+1. Site does have episode auto-next. ✔️
+1. Sites UI is good, feel modern and unique. ✔️
+1. Has built in subs for most content + customization.  ✔️
+1. Has movies, shows and anime. ✔️
+1. The site has history and watch lists, but they cannot be synced across devices. 🟡
+1. Has mood based recommendations, community favorites, collections, and decent sorting. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player. ✔️
+
+***
 ## 7Xtream
 ### Score: 23/26
 1. Streams load very fast. ✔️
