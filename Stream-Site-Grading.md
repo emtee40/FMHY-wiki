@@ -738,6 +738,23 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
+## Zilla
+### Score: 16/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 9 servers, but does not auto-switch if ones fails. 🟡
+1. Site does not have episode auto-next. ❌
+1. UI is very nice, very unique and search shows results as you type. ✔️
+1. Site has built in subs for most things. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watchlists + continue watching. ✔️
+1. Site has sorting options, but a bit more could be added for discoverability. 🟡
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
 ## Cinema Deck
 ### Score: 16/26
 1. Streams load very fast. ✔️
