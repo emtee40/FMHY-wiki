@@ -755,7 +755,7 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
-## Zilla
+## ZILLAXR
 ### Score: 16/26
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
