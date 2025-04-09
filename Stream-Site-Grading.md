@@ -568,6 +568,23 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
+## CookedMovies
+### Score: 19/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 2 sources but does not auto-switch when one fails. 🟡
+1. Site does not have episode auto-next. ❌
+1. Sites UI is fine but has room for improvement. 🟡
+1. Has built in subs for most content. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site works well, but doesn't look too great on mobile. 🟡
+1. Site does have a custom player. ✔️
+
+***
 ## StigStream
 ### Score: 19/26
 1. Streams load very fast. ✔️
