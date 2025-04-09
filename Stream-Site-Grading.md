@@ -464,6 +464,23 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
+## Eliteflix
+### Score: 21/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 14 servers, but does not auto-switch if one fails. 🟡
+1. Site does not have episode auto-next. ❌
+1. Sites UI is fine but has room for improvement. 🟡
+1. Has built in subs for most content. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has watch lists + history, and you can login to sync them across devices. ✔️
+1. Site has collections, but is otherwise lacking media discovery features. 🟡
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player when you click native. ✔️
+
+***
 ## Willow
 ### Score: 20/26
 1. Streams load very fast. ✔️
@@ -768,23 +785,6 @@ Community Favorites: 🌟
 1. Site has watchlists + continue watching. ✔️
 1. Site has sorting options, but a bit more could be added for discoverability. 🟡
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-***
-## Eliteflix
-### Score: 16/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 14 servers, but does not auto-switch if one fails. 🟡
-1. Site does not have episode auto-next. ❌
-1. Sites UI is fine but has room for improvement. 🟡
-1. Has built in subs for most content. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has watch lists + history, and you can login to sync them across devices. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
