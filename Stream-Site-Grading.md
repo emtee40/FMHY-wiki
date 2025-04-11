@@ -292,6 +292,23 @@ Community Favorites: 🌟
 1. Site does have a custom version of vidstack player. ✔️
 
 ***
+## SpenFlix
+### Score: 24/26
+1. Streams load very fast. ✔️
+1. Has 1080p and can be lowered. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. 10 sources and does not auto-switch if one fails. 🟡
+1. Site does have episode auto-next. ✔️
+1. Sites UI is nice, feels very modern. ✔️
+1. Has built in subs for most content. ✔️
+1. Site has movies, shows and anime. ✔️
+1. Site has watch lists, and you can login to sync them across devices. ✔️
+1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player. ✔️
+
+***
 ## 7Xtream
 ### Score: 23/26
 1. Streams load very fast. ✔️
@@ -307,23 +324,6 @@ Community Favorites: 🌟
 1. Turning off ads (button top right of homepage) removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
-
-***
-## SpenFlix
-### Score: 23/26
-1. Streams load very fast. ✔️
-1. Has 1080p and can be lowered. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. 10 sources and does not auto-switch if one fails. 🟡
-1. Site does have episode auto-next. ✔️
-1. Sites UI is fine but has room for improvement. 🟡
-1. Has built in subs for most content. ✔️
-1. Site has movies, shows and anime. ✔️
-1. Site has watch lists, and you can login to sync them across devices. ✔️
-1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
 
 ***
 ## Bingeflex
