@@ -602,6 +602,23 @@ Community Favorites: 🌟
 1. Site does have a custom player. ✔️
 
 ***
+## KaitoVault
+### Score: 18/26
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be changed lower. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 4 sources but does not auto-switch if one fails. 🟡
+1. Site does not have episode auto-next. ❌
+1. UI is is very good, feels modern and unique. ✔️
+1. Most sources include subtitles. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has continue watching, but it cannot be synced across devices. 🟡
+1. Has a random movie button, but otherwise is lacking in terms of content discoverability and sorting. ❌
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
 ## ValhallaStream
 ### Score: 18/26
 1. Streams load very fast. ✔️
@@ -887,23 +904,6 @@ Community Favorites: 🌟
 1. Site does have continue watching, and you can login to sync it across devices. ✔️
 1. Has decent sorting options, but not much in terms of media discovery tools. 🟡
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-***
-## KaitoVault
-### Score: 16/26
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be changed lower. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. Has 4 sources but does not auto-switch if one fails. 🟡
-1. Site does not have episode auto-next. ❌
-1. UI is alright but has room for improvement. 🟡
-1. Most sources include subtitles. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has continue watching, but it cannot be synced across devices. 🟡
-1. Has a random movie button, but otherwise is lacking in terms of content discoverability and sorting. ❌
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
