@@ -481,23 +481,6 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
-## Cinemull
-### Score: 21/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 9 servers and does auto-switch if one fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. Sites UI is fine but has room for improvement. 🟡
-1. Has built in subs for most things and allows adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have watch lists, but they can't be synced across devices. 🟡
-1. Site has good sorting options and a AI to give random recommendations. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-***
 ## Willow
 ### Score: 20/26
 1. Streams load very fast. ✔️
