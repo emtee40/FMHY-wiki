@@ -37,7 +37,7 @@
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 
-Community Favorites: 🌟🌟🌟🌟
+Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
 ***
 ## Hexa
@@ -56,7 +56,7 @@ Community Favorites: 🌟🌟🌟🌟
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (built from scratch). ✔️
 
-Community Favorites: 🌟
+Community Favorites: 🌟🌟🌟🌟
 
 ***
 ## xPrime
@@ -111,7 +111,26 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 1. Site uses a highly customized version of artplayer.js. ✔️
 
-Community Favorites: 🌟🌟
+Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+
+***
+## FlickyStream
+### Score: 25/26
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 12 sources and does auto-switch if one fails. ✔️
+1. Site does have episode auto-next (vidlinkpro server). ✔️
+1. Sites UI is good, feels modern and unique. ✔️
+1. Has built in subs for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watch lists, and you can login to sync them across devices. ✔️
+1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (first player). ✔️
+
+Community Favorites: 🌟🌟🌟
 
 ***
 ## uira.live
@@ -130,22 +149,7 @@ Community Favorites: 🌟🌟
 1. Site looks good + works well on mobile. ✔️
 1. Site does use a custom movie-web player. ✔️
 
-***
-## FlickyStream
-### Score: 25/26
-1. Streams load very fast. ✔️
-1. The content is 1080p+ and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 12 sources and does auto-switch if one fails. ✔️
-1. Site does have episode auto-next (vidlinkpro server). ✔️
-1. Sites UI is good, feels modern and unique. ✔️
-1. Has built in subs for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watch lists, and you can login to sync them across devices. ✔️
-1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (first player). ✔️
+Community Favorites: 🌟🌟
 
 ***
 ## VidBox
@@ -198,26 +202,7 @@ Community Favorites: 🌟🌟
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 
-Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟
-
-***
-## Freek
-### Score: 24/26
-1. Streams load very fast. ✔️
-1. Content is 1080p and can be changed lower. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. Has 3 sources and does auto-switch if one fails. ✔️
-1. Auto-next works as expected. ✔️
-1. Sites UI is good, feel modern and unique. ✔️
-1. Allows adding + searching your own subtitles. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watch lists + history, and you can login to sync them across devices. ✔️
-1. Has decent sorting options, and AI bot, history recommendations. ✔️
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (first player). ✔️
-
-Community Favorites: 🌟🌟🌟
+Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
 ***
 ## HydraHD
@@ -236,7 +221,8 @@ Community Favorites: 🌟🌟🌟
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 
-Community Favorites: 🌟
+Community Favorites: 🌟🌟🌟🌟🌟
+
 
 ***
 ## Nunflix
@@ -255,7 +241,8 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 
-Community Favorites: 🌟
+Community Favorites: 🌟🌟🌟
+
 
 ***
 ## 1Shows
@@ -274,6 +261,8 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom version of vidstack player. ✔️
 
+Community Favorites: 🌟
+
 ***
 ## PopcornMovies
 ### Score: 24/26
@@ -290,6 +279,25 @@ Community Favorites: 🌟
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom version of vidstack player. ✔️
+
+Community Favorites: 🌟
+
+***
+## Freek
+### Score: 24/26
+1. Streams load very fast. ✔️
+1. Content is 1080p and can be changed lower. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. Has 3 sources and does auto-switch if one fails. ✔️
+1. Auto-next works as expected. ✔️
+1. Sites UI is good, feel modern and unique. ✔️
+1. Allows adding + searching your own subtitles. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watch lists + history, and you can login to sync them across devices. ✔️
+1. Has decent sorting options, and AI bot, history recommendations. ✔️
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (first player). ✔️
 
 ***
 ## SpenFlix
@@ -375,8 +383,6 @@ Community Favorites: 🌟
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom version of artplayer.js. ✔️
-
-Community Favorites: 🌟
 
 ***
 ## AlienFlix
@@ -547,8 +553,6 @@ Community Favorites: 🌟
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does not have a custom player. ❌
-
-Community Favorites: 🌟
 
 ***
 ## Lekuluent
