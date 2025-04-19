@@ -283,7 +283,7 @@ Community Favorites: 🌟
 Community Favorites: 🌟
 
 ***
-## Freek
+## MovieMaze
 ### Score: 24/26
 1. Streams load very fast. ✔️
 1. Content is 1080p and can be changed lower. ✔️
