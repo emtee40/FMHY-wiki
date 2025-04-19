@@ -1133,6 +1133,23 @@ Community Favorites: 🌟
 1. Site does have a custom player. ✔️
 
 ***
+## Netplex 
+### Score: 15/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 9 sources, but does not autoswitch if one fails. 🟡
+1. Site does not have episode auto-next. ❌
+1. Sites UI is fine but has room for improvement. 🟡
+1. Has built in subs for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does not have watch lists, continue watching or history. ❌
+1. Has decent sorting + AI recommendation system, but is otherwise lacking media discovery options. 🟡
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site works well, but doesn't look too great on mobile. 🟡
+1. Site does not have a custom player. ❌
+
+***
 ## Heartive
 ### Score: 14/26
 1. Streams load very fast. ✔️
