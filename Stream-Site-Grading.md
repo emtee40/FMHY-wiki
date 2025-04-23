@@ -186,6 +186,23 @@ Community Favorites: 🌟🌟
 1. Site does have a custom player (can be enabled under video). ✔️
 
 ***
+## Eliteflix
+### Score: 25/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 14 servers, and does auto-switch if one fails. ✔️
+1. Site does have episode auto-next (vidlink server). ✔️
+1. Sites UI is good, feels very nice and modern. ✔️
+1. Has built in subs for most content. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has watch lists + history, and you can login to sync them across devices. ✔️
+1. Site has franchise / company collections, but is otherwise lacking media discovery features. 🟡
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player when you click native. ✔️
+
+***
 ## Cineby 
 ### Score: 24/26
 1. Streams load very fast. ✔️
@@ -349,23 +366,6 @@ Community Favorites: 🌟
 1. Site is free from new tab/window popup ads, can be used without an adblocker (using server 5). ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
-
-***
-## Eliteflix
-### Score: 23/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 14 servers, but does not auto-switch if one fails. 🟡
-1. Site does have episode auto-next (vidlink server). ✔️
-1. Sites UI is fine but has room for improvement. 🟡
-1. Has built in subs for most content. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has watch lists + history, and you can login to sync them across devices. ✔️
-1. Site has collections, but is otherwise lacking media discovery features. 🟡
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player when you click native. ✔️
 
 ***
 ## 456movie
