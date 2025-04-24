@@ -1422,6 +1422,23 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
+## 123Movies
+### Score: 11/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for newer content but struggles finding older stuff. 🟡
+1. Has 5 sources but does not auto-switch when one fails. 🟡
+1. Site has movies only so it doesn't need episode auto-next. 🟡
+1. Site feels dated, lots of room for improvement. ❌
+1. Site has built in subs for most content. ✔️
+1. Site just has movies. ❌
+1. Site does not have watch lists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
 ## AZMovies
 ### Score: 11/26
 1. Streams load very fast. ✔️
@@ -1502,23 +1519,6 @@ Community Favorites: 🌟
 1. Site has movies and shows, but not much anime. 🟡
 1. Site has history and watch lists, and you can login to sync them across devices. ✔️
 1. Site has some sorting options, but more content discoverability options would be nice. 🟡
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-***
-## 123Movies
-### Score: 9/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for newer content but struggles finding older stuff. 🟡
-1. Has 5 sources but does not auto-switch when one fails. 🟡
-1. Site has movies only so it doesn't need episode auto-next. 🟡
-1. Site feels dated, lots of room for improvement. ❌
-1. What sort of subtitle features does the site have?
-1. Site just has movies. ❌
-1. Site does not have watch lists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
