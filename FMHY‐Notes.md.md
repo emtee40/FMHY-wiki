@@ -376,7 +376,7 @@ Register for wav and flac output, and lower queue times
  
 Create a account on Broadcom support portal to download the exe. After that the program itself requires no license if you click "For Personal Use."
  
-`https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro`
+`https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true`
 
 ***
 
