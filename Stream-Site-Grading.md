@@ -1515,8 +1515,8 @@ Community Favorites: 🌟
 1. Has 5 sources but does not auto-switch when one fails. 🟡
 1. Site has movies only so it doesn't need episode auto-next. 🟡
 1. Site feels dated, lots of room for improvement. ❌
-1. * What sort of subtitle features does the site have?
-1. * Site just has movies. ❌
+1. What sort of subtitle features does the site have?
+1. Site just has movies. ❌
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
