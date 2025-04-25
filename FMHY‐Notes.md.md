@@ -68,12 +68,6 @@ The site is safe, but they are known for mislabeling things like RockMods releas
 
 ***
 
-#### Lucky Patcher Note
-
-LuckyPatcher's download link luckypatchers.com/download contains malware. It redirects to luckypatchers.com/lucky-patcher-all-versions/, which has two options: LP INSTALLER and LP DOWNLOADER. Only use INSTALLER, as DOWNLOADER is malware. Or just use mobilism.
-
-***
-
 #### NekoBoxForAndroid Warning
 
 If downloaded on phone with google play updates must be disabled
