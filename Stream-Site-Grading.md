@@ -114,25 +114,6 @@ Community Favorites: 🌟
 Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
 ***
-## FlickyStream
-### Score: 25/26
-1. Streams load very fast. ✔️
-1. The content is 1080p+ and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. Has 12 sources and does auto-switch if one fails. ✔️
-1. Site does have episode auto-next (vidlinkpro server). ✔️
-1. Sites UI is good, feels modern and unique. ✔️
-1. Has built in subs for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watch lists, and you can login to sync them across devices. ✔️
-1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (first player). ✔️
-
-Community Favorites: 🌟🌟🌟
-
-***
 ## uira.live
 ### Score: 25/26
 1. Streams load very fast. ✔️
@@ -184,23 +165,6 @@ Community Favorites: 🌟🌟
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (can be enabled under video). ✔️
-
-***
-## Eliteflix
-### Score: 25/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 14 servers, and does auto-switch if one fails. ✔️
-1. Site does have episode auto-next (vidlink server). ✔️
-1. Sites UI is good, feels very nice and modern. ✔️
-1. Has built in subs for most content. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has watch lists + history, and you can login to sync them across devices. ✔️
-1. Site has franchise / company collections, but is otherwise lacking media discovery features. 🟡
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player when you click native. ✔️
 
 ***
 ## Mocine
@@ -257,7 +221,6 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
 Community Favorites: 🌟🌟🌟🌟🌟
 
-
 ***
 ## Nunflix
 ### Score: 24/26
@@ -277,6 +240,24 @@ Community Favorites: 🌟🌟🌟🌟🌟
 
 Community Favorites: 🌟🌟🌟
 
+***
+## FlickyStream
+### Score: 24/26
+1. Streams load very fast. ✔️
+1. The content is 1080p+ and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. Has 12 sources and does auto-switch if one fails. ✔️
+1. Site does have episode auto-next (vidlinkpro server). ✔️
+1. Sites UI is good, feels modern and unique. ✔️
+1. Has built in subs for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watch lists, and you can login to sync them across devices. ✔️
+1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (first player). ✔️
+
+Community Favorites: 🌟🌟🌟
 
 ***
 ## 1Shows
