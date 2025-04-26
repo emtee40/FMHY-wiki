@@ -485,23 +485,6 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
-## M-Zone
-### Score: 21/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. They have 12 sources, and it does auto-switch if one fails. ✔️
-1. Site does not have episode auto-next. ❌
-1. UI is nice, feels very modern. ✔️
-1. Has subs built into most hosts. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has watch lists and you can login to sync them across devices. ✔️
-1. Has mood based recommendations and AI search tool, but could use better sorting. 🟡
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-***
 ## Willow
 ### Score: 20/26
 1. Streams load very fast. ✔️
@@ -549,6 +532,23 @@ Community Favorites: 🌟
 1. Site has history + watch lists, and you can login to sync them across devices. ✔️
 1. Has content sorting, collections, and recommendations based on what people watch. ✔️
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
+## M-Zone
+### Score: 20/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. They have 12 sources, and it does auto-switch if one fails. ✔️
+1. Site does not have episode auto-next. ❌
+1. UI is nice is decent has room for improvement. 🟡
+1. Has subs built into most hosts. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has watch lists and you can login to sync them across devices. ✔️
+1. Has mood based recommendations and AI search tool, but could use better sorting. 🟡
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
