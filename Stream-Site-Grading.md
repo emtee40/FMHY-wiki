@@ -643,7 +643,7 @@ Community Favorites: 🌟
 1. Streams load very fast. ✔️
 1. Content is 1080p, but cannot be changed. 🟡
 1. Good for both new and old content. ✔️
-1. Only 1 source but its good. 🟡
+1. Only 1 source and its good. 🟡
 1. Site has movies only so it doesn't need episode auto-next. 🟡
 1. UI is alright but has room for improvement. 🟡
 1. Has built in subs for most content. ✔️
@@ -1383,6 +1383,23 @@ Community Favorites: 🌟
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player. ✔️
+
+***
+## OnionPlay
+### Score: 12/26
+1. Streams load very fast. ✔️
+1. Most content is 1080p, but cannot be lowered. 🟡
+1. Good for new content, but struggles to find older stuff. 🟡
+1. Only 1 source but its good. 🟡
+1. Site does not have episode auto-next. ❌
+1. UI is nice and feels modern. ✔️
+1. Site is lacking subtitle features. ❌
+1. Site has movies and shows but no anime. 🟡
+1. Site does not have watch lists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does have a custom player. ✔️
 
 ***
