@@ -150,6 +150,23 @@ Community Favorites: 🌟🌟
 1. Site does have a custom player (can be enabled under video). ✔️
 
 ***
+## VidBox
+### Score: 25/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 18 english + 6 non eng, and a few have server auto-switch if one fails. ✔️
+1. Site does have episode auto-next (servers echo + vidfast). ✔️
+1. Sites UI is fine but has room for improvement. 🟡
+1. Has built in subs for most content and allows you to upload your own and make adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watch lists and history, and you can login to sync them across devices. ✔️
+1. Site has good sorting options, franchise collections, and a AI recommendation bot. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (they own first). ✔️
+
+***
 ## Cineby 
 ### Score: 24/26
 1. Streams load very fast. ✔️
@@ -328,23 +345,6 @@ Community Favorites: 🌟
 1. Site does have watch lists, and you can login in settings to sync them across devices. ✔️
 1. Good sorting, gives recommendations on "more info" and has franchise collections under more. ✔️
 1. Site is free from new tab/window popup ads, can be used without an adblocker (using server 5). ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-***
-## VidBox
-### Score: 23/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 18 english + 6 non eng, and a few have server auto-switch if one fails. ✔️
-1. Site does have episode auto-next (servers echo + vidfast). ✔️
-1. Sites UI is fine but has room for improvement. 🟡
-1. Has built in subs for most content and allows you to upload your own and make adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watch lists and history, and you can login to sync them across devices. ✔️
-1. Site has good sorting options, franchise collections, and a AI recommendation bot. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
