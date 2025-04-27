@@ -383,6 +383,23 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
+## Mocine
+### Score: 22/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 9 servers and does auto-switch if one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites UI is alright but has room for improvement. 🟡
+1. Has built in subs for most things and allows adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does have watch lists, but they can't be synced across devices. 🟡
+1. Site has collections + recommendations AI. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
 ## CookedMovies
 ### Score: 22/26
 1. Streams load very fast. ✔️
@@ -449,23 +466,6 @@ Community Favorites: 🌟
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
-
-***
-## Mocine
-### Score: 21/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 9 servers and does auto-switch if one fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. Sites UI is alright but has room for improvement. 🟡
-1. Has built in subs for most things and allows adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does have watch lists, but they can't be synced across devices. 🟡
-1. Site has collections but is otherwise lacking content discoverability options. 🟡
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
 
 ***
 ## Arabflix
@@ -549,6 +549,23 @@ Community Favorites: 🌟
 1. Site has watch lists and you can login to sync them across devices. ✔️
 1. Has mood based recommendations and AI search tool, but could use better sorting. 🟡
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
+## Cinema Deck
+### Score: 19/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 6 servers, but does not auto-switch if ones fails. 🟡
+1. Site does have episode auto-next. ✔️
+1. UI is decent but there's room for improvement. 🟡
+1. Has built in subs for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watch lists, and you can login to sync them across devices.  ✔️
+1. Site has has good sorting options but is otherwise lacking content discoverability options. 🟡
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -754,23 +771,6 @@ Community Favorites: 🌟
 1. Has decent sorting options, but content discovery tools or collections could be added. 🟡
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site works well, but doesn't look too great on mobile. 🟡
-1. Site does not have a custom player. ❌
-
-***
-## Cinema Deck
-### Score: 17/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 6 servers, but does not auto-switch if ones fails. 🟡
-1. Site does not have episode auto-next. ❌
-1. UI is decent but there's room for improvement. 🟡
-1. Has built in subs for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watch lists, and you can login to sync them across devices.  ✔️
-1. Site has has good sorting options but is otherwise lacking content discoverability options. 🟡
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
 ***
