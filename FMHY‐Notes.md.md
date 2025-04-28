@@ -364,16 +364,6 @@ Register for wav and flac output, and lower queue times
 
 ***
 
-#### VMware Workstation Note
-
-`https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html`
- 
-Create a account on Broadcom support portal to download the exe. After that the program itself requires no license if you click "For Personal Use."
- 
-`https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true`
-
-***
-
 #### Driver Note
 
 Don't install all at once, only get the drivers you actually need, getting them all can break your audio
