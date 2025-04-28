@@ -394,7 +394,7 @@ Community Favorites: 🌟
 1. Has built in subs for most things and allows adjustments. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site does have watch lists, but they can't be synced across devices. 🟡
-1. Site has collections + recommendations AI. ✔️
+1. Site has collections, sort by studio and recommendations AI. ✔️
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
