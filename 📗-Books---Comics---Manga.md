@@ -428,7 +428,7 @@
 * [MangaBuddy](https://mangabuddy.com), [MangaForest](https://mangaforest.me/) or [MangaMirror](https://mangamirror.com/)
 * [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
 * [Seanime](https://seanime.rahim.app/) - Self-Hosted Manga App
-* [Kaizoku](https://github.com/oae/kaizoku) - Self-Hosted Manga Downloader
+* [Kaizoku](https://github.com/lucy-goblin/kaizoku-next) - Self-Hosted Manga Downloader
 * [Manga APIs](https://rentry.co/manga-apis) - Manga Site API's
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support
 * [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md), [Cotrans](https://cotrans.touhou.ai/) or [Scanlate](https://scanlate.io/) - Manga Translators
@@ -897,7 +897,7 @@
 * [/r/DCcomics Recommended](https://www.reddit.com/r/DCcomics/wiki/recommended) - DC Comic Recommendations
 * [Comic Book Reading Orders](https://comicbookreadingorders.com/) - Comic Book Reading Orders
 * [DC Superhero Era Timeline](https://i.ibb.co/FzpSw5d/3a88deff86fd.jpg) / [2](https://i.ibb.co/sJskjmn/46e727207409.jpg)
-* [⁠ComicBookCanon](https://www.comicbookcanon.com/) - Comics / Manga Top Lists
+* [ComicBookCanon](https://www.comicbookcanon.com/) - Comics / Manga Top Lists
 * [Nevix](https://nevix.com/) - Manga / Social Media
 * [Kitsu](https://kitsu.io/) - Manga
 * [Mangaki](https://mangaki.fr/) - Manga Recommendations
