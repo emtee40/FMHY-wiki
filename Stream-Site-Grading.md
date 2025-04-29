@@ -366,6 +366,23 @@ Community Favorites: 🌟
 1. Site does have a custom version of artplayer.js. ✔️
 
 ***
+## Mapple.tv
+### Score: 22/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 9 servers, but does not auto-switch if ones fails. 🟡
+1. Site does have episode auto-next (server 1). ✔️
+1. Very nice UI, looks modern, search works well. ✔️
+1. Has built in subs for most content. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has watch lists, and you can login to sync them across devices. ✔️
+1. Has decent content sorting, but more discoverability options could be added. 🟡
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site works well and looks good on mobile. ✔️
+1. Site does have a custom player. ✔️
+
+***
 ## AlienFlix
 ### Score: 22/26
 1. Streams load very fast. ✔️
@@ -413,23 +430,6 @@ Community Favorites: 🌟
 1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site works well, but doesn't look too great on mobile. 🟡
-1. Site does have a custom player. ✔️
-
-***
-## Mapple.tv
-### Score: 21/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 9 servers, but does not auto-switch if ones fails. 🟡
-1. Site does have episode auto-next (server 1). ✔️
-1. Very nice UI, looks modern, search works well. ✔️
-1. Has built in subs for most content. ✔️
-1. It has movies, shows and anime. ✔️
-1. Site has watch lists, and you can login to sync them across devices. ✔️
-1. Has decent content sorting, but more discoverability options could be added. 🟡
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does have a custom player. ✔️
 
