@@ -1185,7 +1185,7 @@ Community Favorites: 🌟
 ## CineGo
 ### Score: 14/26
 1. Streams load very fast. ✔️
-1. Most content is 1080p, but cannot be lowered. 🟡
+1. Content is 1080p, but cannot be lowered. 🟡
 1. Finds streams consistently for both new and old content. ✔️
 1. Has 3 sources, doesn't auto-switch, but main server doesn't fail. ✔️
 1. Site does not have episode auto-next. ❌
