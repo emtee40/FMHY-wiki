@@ -417,23 +417,6 @@ Community Favorites: 🌟
 1. Site does have a custom player. ✔️
 
 ***
-## Broflix
-### Score: 21/26
-1. Streams load very fast. ✔️
-1. Content is in 1080p and can be changed lower. ✔️
-1. It finds streams very fast, including very old obscure content. ✔️
-1. They have 11 sources, and does auto-switch if one fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. Sites UI is very good, player is good, its one of the best to look at. ✔️
-1. Most of their sources allow subtitles. ✔️
-1. It has movies, shows, anime. ✔️
-1. The site has continue watching and watch lists, but they cannot be synced across devices. 🟡
-1. Site has a very nice AI recommendation tool, recommendations on each page, and sorting. ✔️
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-***
 ## Mapple.tv
 ### Score: 21/26
 1. Streams load very fast. ✔️
@@ -449,6 +432,23 @@ Community Favorites: 🌟
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does have a custom player. ✔️
+
+***
+## Broflix
+### Score: 21/26
+1. Streams load very fast. ✔️
+1. Content is in 1080p and can be changed lower. ✔️
+1. It finds streams very fast, including very old obscure content. ✔️
+1. They have 11 sources, and does auto-switch if one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites UI is very good, player is good, its one of the best to look at. ✔️
+1. Most of their sources allow subtitles. ✔️
+1. It has movies, shows, anime. ✔️
+1. The site has continue watching and watch lists, but they cannot be synced across devices. 🟡
+1. Site has a very nice AI recommendation tool, recommendations on each page, and sorting. ✔️
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
 
 ***
 ## NetPlay
