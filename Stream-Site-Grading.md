@@ -1063,6 +1063,23 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
+## CineGo
+### Score: 15/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, but cannot be lowered. 🟡
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 3 sources, doesn't auto-switch, but main server doesn't fail. ✔️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is alright but has room for improvement. 🟡
+1. Has built in subs for most content and allows adjustments. ✔️
+1. Site has movies and shows but no anime. 🟡
+1. Site does not have watch lists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
 ## CorsFlix
 ### Score: 15/26
 1. Streams load very fast. ✔️
@@ -1179,23 +1196,6 @@ Community Favorites: 🌟
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks okay but buffers sometimes on mobile. 🟡
-1. Site does not have a custom player. ❌
-
-***
-## CineGo
-### Score: 14/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, but cannot be lowered. 🟡
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 3 sources, doesn't auto-switch, but main server doesn't fail. ✔️
-1. Site does not have episode auto-next. ❌
-1. Site feels dated, lots of room for improvement. ❌
-1. Has built in subs for most content and allows adjustments. ✔️
-1. Site has movies and shows but no anime. 🟡
-1. Site does not have watch lists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
 ***
