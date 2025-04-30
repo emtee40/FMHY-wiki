@@ -570,6 +570,23 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
+## EnjoyTown
+### Score: 19/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Good for both new and old content. ✔️
+1. Has 8 servers but does not auto-switch if one fails. 🟡
+1. Site does not have episode auto-next. ❌
+1. Sites UI is good, feels very modern. ✔️
+1. Site has subtitles for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does not have watch lists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site works well and looks good on mobile. ✔️
+1. Site does have a custom version of movie-webs player. ✔️
+
+***
 ## Cinema Deck
 ### Score: 19/26
 1. Streams load very fast. ✔️
@@ -959,23 +976,6 @@ Community Favorites: 🌟
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
-
-***
-## EnjoyTown
-### Score: 15/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Good for both new and old content. ✔️
-1. Has 8 servers but does not auto-switch if one fails. 🟡
-1. Site does not have episode auto-next. ❌
-1. Sites UI is good, feels very modern. ✔️
-1. Site has subtitles for most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does not have watch lists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site works well, but doesn't look too great on mobile. 🟡
-1. Site does not have a custom player. ❌
 
 ***
 ## BFLIX
