@@ -20,11 +20,9 @@
 
 [GitHub Backup](https://github.com/fmhy/FMHY/wiki)
 
-***
+[Libreddit Instance](https://redlib.fmhy.net/r/FREEMEDIAHECKYEAH)
 
-**[Libreddit Instances](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)** 
-
-Add `/r/FREEMEDIAHECKYEAH/wiki/index` to the end of any instances url
+Add `/r/FREEMEDIAHECKYEAH/wiki/index` to the end of any [Libreddit instance](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
 
 ***
 
