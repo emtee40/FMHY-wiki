@@ -16,9 +16,9 @@
 
 **[/r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 
-[Libreddit Instance](https://redlib.fmhy.net/r/FREEMEDIAHECKYEAH/wiki/index) 
+[Redlib Instance](https://redlib.fmhy.net/r/FREEMEDIAHECKYEAH/wiki/index) 
 
-Add `/r/FREEMEDIAHECKYEAH/wiki/index` to the end of any [Libreddit instance](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
+Add `/r/FREEMEDIAHECKYEAH/wiki/index` to the end of any [Redlib instance](https://github.com/redlib-org/redlib-instances/blob/main/instances.md), [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
 
 ***
 
