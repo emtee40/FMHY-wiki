@@ -12,17 +12,21 @@
 
 ***
 
-**Backups**
+**Reddit**
 
-**[Reddit Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)** / [Wayback](https://web.archive.org/web/2/https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/), [2](https://archive.is/zI0NT)
+**[Official Subreddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)** / [Wayback](https://web.archive.org/web/2/https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/), [2](https://archive.is/zI0NT)
+
+[Libreddit Instance](https://redlib.fmhy.net/r/FREEMEDIAHECKYEAH) 
+
+Add `/r/FREEMEDIAHECKYEAH/wiki/index` to the end of any [Libreddit instance](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
+
+***
+
+**Backups**
 
 [Rentry Backup](https://rentry.co/FMHY), [2](https://rentry.org/FMHY)
 
 [GitHub Backup](https://github.com/fmhy/FMHY/wiki)
-
-[Libreddit Instance](https://redlib.fmhy.net/r/FREEMEDIAHECKYEAH)
-
-Add `/r/FREEMEDIAHECKYEAH/wiki/index` to the end of any [Libreddit instance](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)
 
 ***
 
