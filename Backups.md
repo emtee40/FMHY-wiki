@@ -44,6 +44,8 @@ Add `/r/FREEMEDIAHECKYEAH/wiki/index` to the end of any [Libreddit instance](htt
 
 [Markdown Page](https://api.fmhy.net/single-page)
 
+[GitHub Source](https://github.com/fmhy/edit)
+
 ***
 
 **Backup Page Backups**
