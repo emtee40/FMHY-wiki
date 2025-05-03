@@ -1438,7 +1438,7 @@ Community Favorites: 🌟
 
 ***
 ## ReelZone
-### 12/26
+### Score: 12/26
 1. Streams load very fast. ✔️
 1. The content is 1080p+ and allows switching to lower quality. ✔️
 1. Finds popular things with no issue, including older content. ✔️
