@@ -1114,6 +1114,23 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
+## Movies4F
+### Score: 15/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, but cannot be changed. 🟡
+1. Finds streams consistently for both new and old content. ✔️
+1. Only 1 source and its fast and rarely fails. ✔️
+1. Site does not have episode auto-next. ❌
+1. Site feels dated, lots of room for improvement. ❌
+1. Has built in subs for most content and allows adjustments. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site does not have watch lists, continue watching or history. ❌
+1. Site has decent sorting but is otherwise lacking in terms of content discoverability. 🟡
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site works well, but doesn't look too great on mobile. 🟡
+1. Site does not have a custom player. ❌
+
+***
 ## YoYoMovies
 ### Score: 15/26
 1. Streams load very fast. ✔️
