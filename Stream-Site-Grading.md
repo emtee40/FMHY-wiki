@@ -1132,7 +1132,7 @@ Community Favorites: 🌟
 
 ***
 ## Soapy
-### 15/26
+### Score: 15/26
 1. Streams load very fast. ✔️
 1. The content is 1080p+ and allows switching to lower quality. ✔️
 1. Finds popular things with no issue, including older content. ✔️
