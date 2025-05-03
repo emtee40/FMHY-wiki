@@ -825,6 +825,23 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
+## Wooflix
+### Score: 17/26
+1. Streams load very fast. ✔️
+1. Content 720p and you can't change quality. ❌
+1. Finds streams consistently for both new and old content. ✔️
+1. Only 1 server but its fast and rarely fails. ✔️
+1. Does not have episode auto-next. ❌
+1. UI is good, feels clean and modern. ✔️
+1. Ha subs built into most content. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site does have watch lists, but they can't be synced across devices. 🟡
+1. Site has decent sorting but is otherwise lacking in terms of content discoverability. 🟡
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site works well, but doesn't look too great on mobile. 🟡
+1. Site does have a custom player. ✔️
+
+***
 ## NEPU
 ### Score: 16/26
 1. Streams load very fast. ✔️
