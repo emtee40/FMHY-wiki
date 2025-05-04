@@ -170,6 +170,7 @@
 
 ## ▷ Internet Radio
 
+* ⭐ **[RadioParadise](https://radioparadise.com/)** - Online Radio / Listener Supported
 * ⭐ **[SomaFM](https://somafm.com/)** - Online Radio / [Discovery Guide](https://rentry.co/musicdiscovery/#somafm)
 * ⭐ **[NTS Radio](https://www.nts.live/)**- DJ Radio Shows / [SoundCloud](https://soundcloud.com/user-643553014) / [Discovery Guide](https://rentry.co/musicdiscovery/#nts-radio)
 * [0nRadio](https://www.0nradio.com/) - Online Radio Directory
