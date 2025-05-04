@@ -560,7 +560,7 @@ Community Favorites: 🌟
 1. Good for both new and old content. ✔️
 1. Site has 9 servers, and it does auto-switch when one fails. ✔️
 1. Site does have episode auto-next (server 6). ✔️
-1. UI is fine but not much going on. 🟡
+1. UI is going for a minimal vibe, has room for improvement. 🟡
 1. Has subs for most content and allows adding your own and adjusting. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
