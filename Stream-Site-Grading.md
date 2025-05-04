@@ -260,25 +260,6 @@ Community Favorites: 🌟🌟🌟🌟🌟
 Community Favorites: 🌟🌟🌟
 
 ***
-## 1Shows
-### Score: 24/26
-1. Streams load very fast. ✔️
-1. The content is in 1080p, and can be lowered and most servers. ✔️
-1. Finds streams quickly, including older content. ✔️
-1. 25+ servers (on rg), picks fastest, and they do auto-switch when one fails. ✔️
-1. Site does have episode auto-next. ✔️
-1. Sites UI is good, feels modern, has a lot of nice touches. ✔️
-1. Players have built in subtitles for most content. ✔️
-1. Has movies, shows, anime. ✔️
-1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Decent sorting options and has built in AI recommendation tool. ✔️
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom version of vidstack player. ✔️
-
-Community Favorites: 🌟
-
-***
 ## PopcornMovies
 ### Score: 24/26
 1. Streams load very fast. ✔️
@@ -291,6 +272,25 @@ Community Favorites: 🌟
 1. They have movies, shows and anime. ✔️
 1. Has watch lists and history, and you can login to sync them across devices. ✔️
 1. Has good sorting and collections. ✔️
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom version of vidstack player. ✔️
+
+Community Favorites: 🌟
+
+***
+## 1Shows
+### Score: 24/26
+1. Streams load very fast. ✔️
+1. The content is in 1080p, and can be lowered and most servers. ✔️
+1. Finds streams quickly, including older content. ✔️
+1. 25+ servers (on rg), picks fastest, and they do auto-switch when one fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites UI is good, feels modern, has a lot of nice touches. ✔️
+1. Players have built in subtitles for most content. ✔️
+1. Has movies, shows, anime. ✔️
+1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Decent sorting options and has built in AI recommendation tool. ✔️
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom version of vidstack player. ✔️
