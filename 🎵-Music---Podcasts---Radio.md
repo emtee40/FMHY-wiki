@@ -163,8 +163,6 @@
 * [RadioReference](https://www.radioreference.com/) or [morsecode.me](https://morsecode.me/) - Morse Code Radio / Communication
 * [Worldwide Radio](https://addons.mozilla.org/en-US/firefox/addon/worldwide-radio/) - Radio Extension
 * [Tempest](http://www.erikyyy.de/tempest/) - Use Monitor as AM Radio
-* [RadioSide](https://radioside.com/) - Internet Radio Receiver
-* [streamWriter](https://streamwriter.org/en/) - Internet Radio Audio Downloader
 
 ***
 
@@ -208,6 +206,8 @@
 * [Daft Punk Cafe](https://daftpunk.cafe/) - Daft Punk Radio
 * [Radiooooo](https://radiooooo.com/) - Radio / Time Machine
 * [Campus FM](https://www.campus-fm.com/) - College Radio
+* [RadioSide](https://radioside.com/) - Internet Radio Receiver
+* [streamWriter](https://streamwriter.org/en/) - Internet Radio Audio Downloader
 
 ***
 
