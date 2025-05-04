@@ -553,6 +553,23 @@ Community Favorites: 🌟
 1. Site does have a custom player. ✔️
 
 ***
+## Flicker
+### Score: 20/26
+1. Streams load very fast. ✔️
+1. Site has 1080p and can be switched. ✔️
+1. Good for both new and old content. ✔️
+1. Site has 9 servers, and it does auto-switch when one fails. ✔️
+1. Site does have episode auto-next (server 6). ✔️
+1. UI is fine but not much going on. 🟡
+1. Has subs for most content and allows adding your own and adjusting. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site does not have watch lists, continue watching or history. ❌
+1. Has collections and AI recommendations, but is still a bit lacking in terms of sorting. 🟡
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site works well and looks good on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
 ## StreamFlix
 ### Score: 20/26
 1. Streams load very fast. ✔️
@@ -601,23 +618,6 @@ Community Favorites: 🌟
 1. Site has has good sorting options but is otherwise lacking content discoverability options. 🟡
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-
-***
-## Flicker
-### Score: 19/26
-1. Streams load very fast. ✔️
-1. Site has 1080p and can be switched. ✔️
-1. Good for both new and old content. ✔️
-1. Site has 9 servers, and it does auto-switch when one fails. ✔️
-1. Site does have episode auto-next (server 6). ✔️
-1. UI is fine but not much going on. 🟡
-1. Has subs for most content and allows adding your own and adjusting. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site does not have watch lists, continue watching or history. ❌
-1. Has collections and AI recommendations, but is still a bit lacking in terms of sorting. 🟡
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does not have a custom player. ❌
 
 ***
