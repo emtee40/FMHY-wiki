@@ -40,6 +40,25 @@
 Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
 ***
+## Hexa
+### Score: 26/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 13 servers, and does auto-switch if ones fails. ✔️
+1. Site does have episode auto-next across all servers. ✔️
+1. UI is very nice, feels modern and unique, one of the best. ✔️
+1. Has built in subs for most content and allows adjustments. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Has sorting options, collections, and recommendations on frontpage. ✔️
+1. Turning off ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (built from scratch). ✔️
+
+Community Favorites: 🌟🌟🌟🌟
+
+***
 ## xPrime
 ### Score: 26/26
 1. Streams load very fast. ✔️
@@ -93,25 +112,6 @@ Community Favorites: 🌟
 1. Site uses a highly customized version of artplayer.js. ✔️
 
 Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
-
-***
-## Hexa
-### Score: 25/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. Has 13 servers, and does auto-switch if ones fails. ✔️
-1. Site does have episode auto-next across all servers. ✔️
-1. UI is very nice, feels modern and unique, one of the best. ✔️
-1. Has built in subs for most content and allows adjustments. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Has sorting options, collections, and recommendations on frontpage. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (built from scratch). ✔️
-
-Community Favorites: 🌟🌟🌟🌟
 
 ***
 ## VidBox
