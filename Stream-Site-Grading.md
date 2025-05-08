@@ -898,14 +898,14 @@ Community Favorites: 🌟
 1. Streams load very fast. ✔️
 1. Content is 1080p, and can be lowered. ✔️
 1. Good for both new and old content. ✔️
-1. Has 5 servers but does not auto-switch if one fails. ⚠️
+1. Has 5 servers but does not auto-switch if one fails. 🟡
 1. Site does not have episode auto-next. ❌
-1. Site UI is alright but has room for improvement. ⚠️
+1. Site UI is alright but has room for improvement. 🟡
 1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
-1. Has decent sorting options, but not much in terms of media discovery tools. ⚠️
-1. Site has occasional new tab/window popup, but is usable without adblocker. ⚠️
+1. Has decent sorting options, but not much in terms of media discovery tools. 🟡
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
@@ -1159,6 +1159,23 @@ Community Favorites: 🌟
 1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site has watch history and you can login to sync it across devices. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
+## RedFlix
+### Score: 15/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Has 10 servers but does not auto-switch if one fails. 🟡
+1. Site does not have episode auto-next. ❌
+1. Sites UI is fine but has room for improvement. 🟡
+1. Has built in subs for most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. The site has watch lists, but they cannot be synced across devices. 🟡
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
