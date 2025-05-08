@@ -315,23 +315,6 @@ Community Favorites: 🌟
 1. Site does have a custom player (first player). ✔️
 
 ***
-## Yampi
-### Score: 22/26
-1. Streams load very fast. ✔️
-1. Content is 1080p, and can be lowered. ✔️
-1. Finds streams consistently for both new and old content. ✔️
-1. They have 9 sources, and it does auto-switch if one fails. ✔️
-1. Site does have episode auto-next on some servers. 🟡
-1. UI is very nice, feels modern and unique. ✔️
-1. Has subs built into most content. ✔️
-1. Has movies, shows and anime. ✔️
-1. Site has bookmarks and watch history, but it can't be synced across devices. 🟡
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site uses a custom version of the Hexa player. ✔️
-
-***
 ## 7Xtream
 ### Score: 22/26
 1. Streams load very fast. ✔️
@@ -500,6 +483,23 @@ Community Favorites: 🌟
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does have a custom player. ✔️
+
+***
+## Yampi
+### Score: 20/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. They have 9 sources, and it does auto-switch if one fails. ✔️
+1. Site does have episode auto-next on some servers. 🟡
+1. UI is very nice, feels modern and unique. ✔️
+1. Has subs built into most content. ✔️
+1. Has movies, shows and anime. ✔️
+1. Site has bookmarks and watch history, but it can't be synced across devices. 🟡
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
 
 ***
 ## neoxa
