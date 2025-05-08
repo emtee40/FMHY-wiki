@@ -40,6 +40,25 @@
 Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
 ***
+## Cineby 
+### Score: 26/26
+1. Streams load very fast. ✔️
+1. The content is 1080p and allows switching to lower quality. ✔️
+1. Finds popular things with no issue, including older content. ✔️
+1. 8 english + 8 non english sources that auto-switch if one fails. ✔️
+1. Site does have episode auto-next across all servers. ✔️
+1. UI is solid, feels clean and modern. ✔️
+1. You can add your own subtitles, search for subtitles, and adjust them. ✔️
+1. It has movies, shows and anime. ✔️
+1. The site has watch lists + history, and you can login to sync them across devices. ✔️
+1. Has sorting options + watch history based recommendations when you login. ✔️
+1. Turning off ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player. ✔️
+
+Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+
+***
 ## Hexa
 ### Score: 26/26
 1. Streams load very fast. ✔️
@@ -129,25 +148,6 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (they own first). ✔️
-
-***
-## Cineby 
-### Score: 24/26
-1. Streams load very fast. ✔️
-1. The content is 1080p and allows switching to lower quality. ✔️
-1. Finds popular things with no issue, including older content. ✔️
-1. 8 english + 8 non english sources that auto-switch if one fails. ✔️
-1. Site does have episode auto-next across all servers. ✔️
-1. UI is solid, feels clean and modern. ✔️
-1. You can add your own subtitles, search for subtitles, and adjust them. ✔️
-1. It has movies, shows and anime. ✔️
-1. The site has watch lists + history, and you can login to sync them across devices. ✔️
-1. Has sorting options + watch history based recommendations when you login. ✔️
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
-
-Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
 ***
 ## FlickyStream
