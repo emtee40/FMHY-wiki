@@ -131,21 +131,6 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 1. Site does have a custom player. ✔️
 
 ***
-## Nunflix
-### Score: 14/18
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Site is very nice to look at, seems modern, search works well, one of the best. ✔️
-1. Site has watch lists, and you can login to sync them across devices. ✔️
-1. Site has decent sorting options and good recommendations under each movie. ✔️
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
-
-Community Favorites: 🌟🌟🌟
-
-***
 ## FlickyStream
 ### Score: 14/18
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -362,6 +347,21 @@ Community Favorites: 🌟
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
+
+***
+## Nunflix
+### Score: 12/18
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. Site is very nice to look at, seems modern, search works well, one of the best. ✔️
+1. Site has watch lists, and you can login to sync them across devices. ✔️
+1. Site has decent sorting options and good recommendations under each movie. ✔️
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom server. ❌
+
+Community Favorites: 🌟🌟🌟
 
 ***
 ## AlienFlix
