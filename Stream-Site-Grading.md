@@ -715,19 +715,6 @@ Community Favorites: 🌟🌟🌟
 1. Site does not have a custom player. ❌
 
 ***
-## Levidia
-### Score: 9/18
-1. Has movies, TV, anime, 1080p, adjustable quality, but no subtitles. 🟡
-1. They remove broken links, main player can't fail, so no server switching needed. ✔️
-1. Site does not have episode auto-next. ❌
-1. Site feels dated, lots of room for improvement. ❌
-1. Has watch lists and you can login to sync them across devices. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site works well, but doesn't look too great on mobile. 🟡
-1. Site does have a custom player. ✔️
-
-***
 ## nKiri
 ### Score: 9/18
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -881,6 +868,19 @@ Community Favorites: 🌟🌟🌟
 1. Has decent sorting, but better discoverability options could be added. 🟡
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site doesn't work well or look great on mobile. ❌
+1. Site does not have a custom player. ❌
+
+***
+## Levidia
+### Score: 7/18
+1. Has movies, TV, anime, 1080p, adjustable quality, but no subtitles. 🟡
+1. They remove broken links, main player can't fail, so no server switching needed. ✔️
+1. Site does not have episode auto-next. ❌
+1. Site feels dated, lots of room for improvement. ❌
+1. Has watch lists and you can login to sync them across devices. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does not have a custom player. ❌
 
 ***
