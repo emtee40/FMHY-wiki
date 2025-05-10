@@ -67,7 +67,7 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 1. Auto-switches through all its sources if they fail. ✔️
 1. Site does have episode auto-next across all servers. ✔️
 1. UI is very nice, feels modern and unique, one of the best. ✔️
-1. Has built in subs for most content and allows adjustments. ✔️
+1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
 1. Has sorting options, collections, and recommendations on frontpage. ✔️
@@ -86,7 +86,7 @@ Community Favorites: 🌟🌟🌟🌟
 1. Auto-switches through all its sources if they fail. ✔️
 1. Site does have episode auto-next across all servers. ✔️
 1. Sites UI feels very modern and unique, one of the best. ✔️
-1. Has built in subs for most content and allows adjustments. ✔️
+1. Has built in subs for most content. ✔️
 1. It has movies, shows and anime. ✔️
 1. Site has watch lists and continue watching, and you can login to sync them across devices. ✔️
 1. Good sorting, gives recommendations based on watched, and has mood based search. ✔️
@@ -268,7 +268,7 @@ Community Favorites: 🌟🌟🌟🌟🌟
 1. Some of its servers have auto-switch built in. 🟡
 1. Site does have episode auto-next on some servers. 🟡
 1. Site is very nice to look at, seems modern, search works well, one of the best. ✔️
-1. Site has built in subs for most things and allows adjustments. ✔️
+1. Has built in subs for most content. ✔️
 1. It has movies, shows and anime. ✔️
 1. Site has watch lists, and you can login to sync them across devices. ✔️
 1. Site has decent sorting options and good recommendations under each movie. ✔️
@@ -323,7 +323,7 @@ Community Favorites: 🌟
 1. Auto-switches through all its sources if they fail. ✔️
 1. Site does have episode auto-next across all servers. ✔️
 1. Sites player is nice, but overall site UI could be improved. 🟡
-1. Has built in subs for most content + allows adjustments or adding own. ✔️
+1. Has built in subs for most content. ✔️
 1. It has movies, shows and anime. ✔️
 1. Has history and watch lists, and you can login to sync them across devices. ✔️
 1. Has decent sorting options, but more discoverability options would be nice. 🟡
@@ -374,7 +374,7 @@ Community Favorites: 🌟
 1. Some of its servers have auto-switch built in. 🟡
 1. Site does have episode auto-next on some servers. 🟡
 1. Sites UI is fine but has room for improvement. 🟡
-1. Has built in subs for most content and allows adjustments. ✔️
+1. Has built in subs for most content. ✔️
 1. It has movies, shows and anime. ✔️
 1. Site has watch lists, but they can't be synced across devices. 🟡
 1. Site has sorting options, random movies, similar + recommended on each page. ✔️
@@ -442,7 +442,7 @@ Community Favorites: 🌟
 1. They remove broken links, main player can't fail, so no server switching needed. ✔️
 1. Site does have episode auto-next across all servers. ✔️
 1. Site feels dated, lots of room for improvement. ❌
-1. Has built in subs for most content and allows adjustments. ✔️
+1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
 1. Has watch lists and you can login to sync them across devices. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
@@ -578,7 +578,7 @@ Community Favorites: 🌟
 1. Some of its servers have auto-switch built in. 🟡
 1. Site does not have episode auto-next. ❌
 1. Sites UI is good, feels very modern. ✔️
-1. Has built in subs for most content and allows adjustments. ✔️
+1. Has built in subs for most content. ✔️
 1. It has movies, shows and anime. ✔️
 1. Site has continue watching + history and you can login to sync them across devices. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
@@ -612,7 +612,7 @@ Community Favorites: 🌟
 1. Some of its servers have auto-switch built in. 🟡
 1. Site does have episode auto-next on some servers. 🟡
 1. Sites UI is alright but has room for improvement. 🟡
-1. Has built in subs for most things and allows adjustments. ✔️
+1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site does have watch lists, but they can't be synced across devices. 🟡
 1. Site has collections / random AI, but could use more in terms of discoverability options. 🟡
@@ -748,7 +748,7 @@ Community Favorites: 🌟
 1. Does not have server auto-switch. ❌
 1. Site does not have episode auto-next. ❌
 1. Sites UI is fine but has room for improvement. 🟡
-1. Has built in subs for most content + allows adjustments. ✔️
+1. Has built in subs for most content. ✔️
 1. It has movies, shows and anime. ✔️
 1. Site has history + watch lists, and you can login to sync them across devices. ✔️
 1. Has content sorting, collections, and recommendations based on what people watch. ✔️
@@ -782,7 +782,7 @@ Community Favorites: 🌟
 1. Some of its servers have auto-switch built in. 🟡
 1. Site does not have episode auto-next. ❌
 1. Sites UI is very clean and easy to use. ✔️
-1. Has built in subs for most content and allows adjustments. ✔️
+1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site does have watch lists, but you can't sync them across devices. 🟡
 1. Has recommendations on movie pages, good sorting, a random button. 🟡
@@ -1037,7 +1037,7 @@ Community Favorites: 🌟
 1. They remove broken links, main player can't fail, so no server switching needed. ✔️
 1. Site does not have episode auto-next. ❌
 1. Sites UI is alright but has room for improvement. 🟡
-1. Has built in subs for most content and allows adjustments. ✔️
+1. Has built in subs for most content. ✔️
 1. Site has movies and shows but no anime. 🟡
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
@@ -1071,7 +1071,7 @@ Community Favorites: 🌟
 1. They remove broken links, main player can't fail, so no server switching needed. ✔️
 1. Site does not have episode auto-next. ❌
 1. Site feels dated, lots of room for improvement. ❌
-1. Has built in subs for most content and allows adjustments. ✔️
+1. Has built in subs for most content. ✔️
 1. It has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site has decent sorting but is otherwise lacking in terms of content discoverability. 🟡
@@ -1139,7 +1139,7 @@ Community Favorites: 🌟
 1. Has 4 servers, but does not auto-switch if ones fails. ❌
 1. Site does not have episode auto-next. ❌
 1. UI is decent but has room for improvement. 🟡
-1. Has built in subs for most content + allows adjustments or adding own. ✔️
+1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site does have watch lists, and you can login to sync them across devices. ✔️
 1. Has sorting options and some collections, but overall content discovery tools could be added / improved. 🟡
@@ -1173,7 +1173,7 @@ Community Favorites: 🌟
 1. Has 2 sources, but doesn't auto-switch if one fails. ❌
 1. Site only has movies so it doesn't need auto-switch. 🟡
 1. Site feels dated, lots of room for improvement. ❌
-1. Has built in subs for most content and allows adjusting. ✔️
+1. Has built in subs for most content. ✔️
 1. Site only has movies. ❌
 1. Site allows you to create playlists, and you can login to sync them across devices. ✔️
 1. Site has sorting options, random movies, and playlist generators. ✔️
@@ -1258,7 +1258,7 @@ Community Favorites: 🌟
 1. Some of its servers have auto-switch built in. 🟡
 1. Site does not have episode auto-next. ❌
 1. UI is alright but has room for improvements. 🟡
-1. Has built in subs for most content and allows adjustments. ✔️
+1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
 1. Site has watch lists and continue watching, but you can't sync them across devices. 🟡
 1. Site is lacking in terms of content discoverability and sorting. ❌
@@ -1360,7 +1360,7 @@ Community Favorites: 🌟
 1. Only 2 sources and does not auto-switch if one fails. ❌
 1. Site does not have episode auto-next. ❌
 1. UI is fine but has room for improvement. 🟡
-1. Has built in subs for most content and allows adjustments. ✔️
+1. Has built in subs for most content. ✔️
 1. It has movies, shows and anime. ✔️
 1. Site has no watch lists, continue watching or history. ❌
 1. Site has some sorting options, but more content discoverability options would be nice. 🟡
@@ -1411,7 +1411,7 @@ Community Favorites: 🌟
 1. 9 servers, but you have to select them in sites setting rather than player. ❌
 1. Site does not have episode auto-next. ❌
 1. Site is Autoembed clone so it UI is nothing unique. ❌
-1. Has built in subs for most content and allows adjustments. ✔️
+1. Has built in subs for most content. ✔️
 1. Has movies, shows and anime. ✔️
 1. Has watch lists and you can login to sync them across devices. ✔️
 1. Site is lacking in terms of content discoverability and sorting. ❌
@@ -1581,7 +1581,7 @@ Community Favorites: 🌟
 1. Some of its servers have auto-switch built in. 🟡
 1. Site does not have episode auto-next. ❌
 1. Site feels dated, lots of room for improvement. ❌
-1. Has built in subs for most content and allows adjustments. ✔️
+1. Has built in subs for most content. ✔️
 1. It has movies, shows and anime. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site is lacking in terms of content discoverability and sorting. ❌
