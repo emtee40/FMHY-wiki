@@ -245,19 +245,6 @@ Community Favorites: 🌟🌟🌟🌟🌟
 Community Favorites: 🌟
 
 ***
-## EE3
-### Score: 13/18
-1. Has movies, 1080p, and subtitles, but no adjustable quality, TV, or anime. 🟡
-1. They remove broken links, main player can't fail, so no server switching needed. ✔️
-1. Site has movies only so it doesn't need episode auto-next. 🟡
-1. UI is alright but has room for improvement. 🟡
-1. Site has watch lists, continue watching and history, and you can login to sync them across devices. ✔️
-1. Site has no sorting or content discoverability options. ❌
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
-
-***
 ## Bingeflix
 ### Score: 13/18
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -375,6 +362,19 @@ Community Favorites: 🌟🌟🌟
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
+
+***
+## EE3
+### Score: 11/18
+1. Has movies, 1080p, and subtitles, but no adjustable quality, TV, or anime. 🟡
+1. They remove broken links, main player can't fail, so no server switching needed. ✔️
+1. Site has movies only so it doesn't need episode auto-next. 🟡
+1. UI is alright but has room for improvement. 🟡
+1. Site has watch lists, continue watching and history, and you can login to sync them across devices. ✔️
+1. Site has no sorting or content discoverability options. ❌
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
 
 ***
 ## 456movie
