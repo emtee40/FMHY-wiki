@@ -176,7 +176,7 @@
 * ⭐ **[DNSveil](https://msasanmh.github.io/DNSveil/)** - DNS Client / [Guide](https://rentry.org/DNSveil) / [GitHub](https://github.com/msasanmh/DNSveil)
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P) / [GitLab](https://i2pgit.org/)
 * [XrayUIGroup](https://github.com/MHSanaei/3x-ui) - DIY Privacy Network / [Telegram](https://t.me/XrayUI)
-* [⁠Simplewall](https://github.com/henrypp/simplewall) - Firewall
+* [Simplewall](https://github.com/henrypp/simplewall) - Firewall
 * [Fort](https://github.com/tnodir/fort) - Firewall
 * [WFC](https://www.binisoft.org/wfc.php) - Firewall
 
@@ -382,8 +382,8 @@
 * [Proxifier](https://www.proxifier.com/) - Add Proxy Functionality to Apps / [Keys](https://rentry.co/FMHYBase64#proxifier-keys)
 * [wireproxy](https://github.com/whyvl/wireproxy) - WireGuard as Proxy
 * [Hiddify](https://hiddify.com/) - Auto-Proxy Client / [Telegram](https://t.me/hiddify) / [GitHub](https://github.com/hiddify)
-* [Nginx Proxy Manager](https://nginxproxymanager.com) - Self-Hosted Proxy Server / [Subreddit](https://reddit.com/r/nginxproxymanager) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)
 * [Ultraviolet](https://docs.titaniumnetwork.org/proxies/ultraviolet) / [GitHub](https://github.com/titaniumnetwork-dev/Ultraviolet) or [Nebula](https://github.com/NebulaServices/Nebula) - Self-Hosted Proxy Sites
+* [Nginx Proxy Manager](https://nginxproxymanager.com) - Self-Hosted Proxy Server / [Subreddit](https://reddit.com/r/nginxproxymanager) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)
 * [1337x Proxy](https://redd.it/tz7nyx) - 1337x Proxy Guide / [Example](https://pastebin.com/3n5K0QrP)
 * [Titanium Network](https://titaniumnetwork.org/services/) - Proxy Developer / [Instances](https://discord.gg/unblock) / [GitHub](https://github.com/titaniumnetwork-dev)
 
