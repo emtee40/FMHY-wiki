@@ -601,7 +601,6 @@ Community Favorites: 🌟
 ## Qstream
 ### Score: 10/18
 1. Has movies, TV, anime, 1080p, and subtitles, but no adjustable quality. 🟡
-1. Finds popular things with no issue, including older content. ✔️
 1. Auto-switches through all its sources if they fail. ✔️
 1. Site does not have episode auto-next. ❌
 1. Sites UI is alright but has room for improvement. 🟡
