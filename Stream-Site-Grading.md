@@ -245,19 +245,6 @@ Community Favorites: 🌟🌟🌟🌟🌟
 Community Favorites: 🌟
 
 ***
-## catflix
-### Score: 13/18
-1. Has movies, TV, 1080p, and subtitles, but no adjustable quality, or anime. 🟡
-1. They remove broken links, main player can't fail, so no server switching needed. ✔️
-1. Site does not have episode auto-next. ❌
-1. Site is simple but very clean. ✔️
-1. Site allows you to add favorites, and you can login to sync them across devices. ✔️
-1. Site is lacking in terms of media discovery options. ❌
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
-
-***
 ## Mapple.tv
 ### Score: 13/18
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -503,6 +490,19 @@ Community Favorites: 🌟🌟🌟
 1. Site has watch list + favorites, and you can login to sync them across devices. ✔️
 1. Site has good sorting option + a entire recommendation voting system. ✔️
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
+## catflix
+### Score: 11/18
+1. Has movies, TV, 1080p, and subtitles, but no adjustable quality, or anime. 🟡
+1. They remove broken links, main player can't fail, so no server switching needed. ✔️
+1. Site does not have episode auto-next. ❌
+1. Site is simple but very clean. ✔️
+1. Site allows you to add favorites, and you can login to sync them across devices. ✔️
+1. Site is lacking in terms of media discovery options. ❌
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 
