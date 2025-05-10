@@ -315,6 +315,23 @@ Community Favorites: 🌟
 1. Site does have a custom player (first player). ✔️
 
 ***
+## Elite Flix
+### Score: 22/26
+1. Streams load very fast. ✔️
+1. Content is 1080p, and can be lowered. ✔️
+1. Finds streams consistently for both new and old content. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. Sites UI is good, feels very modern. ✔️
+1. Has subs built into most hosts. ✔️
+1. It has movies, shows and anime. ✔️
+1. Site has watch lists + history, and you can login to sync them across devices. ✔️
+1. Site has good sorting options + franchise collections, but could use more media discovery options. 🟡
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site uses a customized version of artplayer.js. ✔️
+
+***
 ## NetPlay
 ### Score: 21/26
 1. Some servers load fast, but main has issues sometimes. 🟡
