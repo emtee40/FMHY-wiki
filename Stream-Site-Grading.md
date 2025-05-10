@@ -57,7 +57,7 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 1. Has sorting options, collections, and recommendations on frontpage. ✔️
 1. Turning off ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (built from scratch). ✔️
+1. Site does have a custom player. ✔️
 
 Community Favorites: 🌟🌟🌟🌟
 
@@ -78,7 +78,7 @@ Community Favorites: 🌟
 
 ***
 ## Vidora
-### Score: 18/18
+### Score: 17/18
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
 1. Auto-switches through all its sources if they fail. ✔️
 1. Site does have episode auto-next across all servers. ✔️
@@ -87,11 +87,11 @@ Community Favorites: 🌟
 1. Has mood based recommendations, community favorites, collections, and decent sorting. ✔️
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom version of the Hexa player. ✔️
+1. Custom version of the Hexa player. 🟡
 
 ***
 ## Rive
-### Score: 17/18
+### Score: 16/18
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
 1. Auto-switches through all its sources if they fail. ✔️
 1. Site does have episode auto-next across all servers (non-embed). ✔️
@@ -100,7 +100,7 @@ Community Favorites: 🌟
 1. It has a recommendations, collections, and an AI. ✔️
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
-1. Site uses a highly customized version of artplayer.js. ✔️
+1. Site uses a highly customized version of artplayer.js. 🟡
 
 Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
@@ -115,7 +115,7 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 1. Site has good sorting options, franchise collections, and a AI recommendation bot. ✔️
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (they own first). ✔️
+1. Site does have a custom player (first player). ✔️
 
 ***
 ## FlickyStream
@@ -131,49 +131,6 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 1. Site does have a custom player (first player). ✔️
 
 Community Favorites: 🌟🌟🌟
-
-***
-## uira.live
-### Score: 15/18
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. UI is nice, feels modern, search shows results as you type. ✔️
-1. Site does have watch lists and you can login to sync them across devices. ✔️
-1. Site has decent sorting but is otherwise lacking in terms of content discoverability. 🟡
-1. Site is free from new tab/window popup ads, can be used without an adblocker using "ad-free sources." ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does use a custom movie-web player. ✔️
-
-Community Favorites: 🌟🌟
-
-***
-## 1Shows
-### Score: 15/18
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next across all servers. ✔️
-1. Sites UI is good, feels modern, has a lot of nice touches. ✔️
-1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Decent sorting options and has built in AI recommendation tool. ✔️
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom version of vidstack player. ✔️
-
-Community Favorites: 🌟
-
-***
-## Ronny Flix
-### Score: 15/18
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is good, feels very modern. ✔️
-1. Site has watch lists, favorites and continue watching, and they can be synced across devices. ✔️
-1. Site has AI recommendations, decent sorting, and franchise collections. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (can be enabled under video). ✔️
 
 ***
 ## SpenFlix
@@ -219,17 +176,32 @@ Community Favorites: 🌟🌟🌟🌟🌟
 Community Favorites: 🌟🌟🌟
 
 ***
-## PopcornMovies
+## uira.live
 ### Score: 14/18
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
 1. Some of its servers have auto-switch built in. 🟡
 1. Site does have episode auto-next on some servers. 🟡
-1. UI is very good, modern looking with lots to look at. ✔️
-1. Has watch lists and history, and you can login to sync them across devices. ✔️
-1. Has good sorting and collections. ✔️
+1. UI is nice, feels modern, search shows results as you type. ✔️
+1. Site does have watch lists and you can login to sync them across devices. ✔️
+1. Site has decent sorting but is otherwise lacking in terms of content discoverability. 🟡
+1. Site is free from new tab/window popup ads, can be used without an adblocker using "ad-free sources." ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Custom version of movie-web player. 🟡
+
+Community Favorites: 🌟🌟
+
+***
+## 1Shows
+### Score: 14/18
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next across all servers. ✔️
+1. Sites UI is good, feels modern, has a lot of nice touches. ✔️
+1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Decent sorting options and has built in AI recommendation tool. ✔️
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom version of vidstack player. ✔️
+1. Site does have a custom version of vidstack player. 🟡
 
 Community Favorites: 🌟
 
@@ -260,17 +232,32 @@ Community Favorites: 🌟
 1. Site does have a custom player (first player). ✔️
 
 ***
-## Elite Flix
+## Ronny Flix
 ### Score: 14/18
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
 1. Some of its servers have auto-switch built in. 🟡
 1. Site does have episode auto-next on some servers. 🟡
 1. Sites UI is good, feels very modern. ✔️
-1. Site has watch lists + history, and you can login to sync them across devices. ✔️
-1. Site has good sorting options + franchise collections, but could use more media discovery options. 🟡
+1. Site has watch lists, favorites and continue watching, and they can be synced across devices. ✔️
+1. Site has AI recommendations, decent sorting, and franchise collections. ✔️
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
-1. Site uses a customized version of artplayer.js. ✔️
+1. Customized version of artplayer.js. 🟡
+
+***
+## PopcornMovies
+### Score: 13/18
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. UI is very good, modern looking with lots to look at. ✔️
+1. Has watch lists and history, and you can login to sync them across devices. ✔️
+1. Has good sorting and collections. ✔️
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom version of vidstack player. 🟡
+
+Community Favorites: 🌟
 
 ***
 ## catflix
@@ -325,6 +312,19 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
+## Elite Flix
+### Score: 13/18
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. Sites UI is good, feels very modern. ✔️
+1. Site has watch lists + history, and you can login to sync them across devices. ✔️
+1. Site has good sorting options + franchise collections, but could use more media discovery options. 🟡
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Customized version of artplayer.js. 🟡
+
+***
 ## 7Xtream
 ### Score: 13/18
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -362,19 +362,6 @@ Community Favorites: 🌟
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
-
-***
-## 456movie
-### Score: 12/18
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is fine but has room for improvement. 🟡
-1. Site has continue watching and watch lists, but you can't sync them across devices. 🟡
-1. Has AI for recommendations and recommendations at top of site. ✔️
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom version of artplayer.js. ✔️
 
 ***
 ## AlienFlix
@@ -416,19 +403,6 @@ Community Favorites: 🌟
 1. Site does not have a custom player. ❌
 
 ***
-## EnjoyTown
-### Score: 12/18
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is good, feels very modern. ✔️
-1. Site does not have watch lists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site works well and looks good on mobile. ✔️
-1. Site does have a custom version of movie-webs player. ✔️
-
-***
 ## LookMovie
 ### Score: 12/18
 1. Has movies, TV, anime, and subs, but a 10 second wait to get to content, and 480p max. ❌
@@ -440,6 +414,19 @@ Community Favorites: 🌟
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
+
+***
+## 456movie
+### Score: 11/18
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. Sites UI is fine but has room for improvement. 🟡
+1. Site has continue watching and watch lists, but you can't sync them across devices. 🟡
+1. Has AI for recommendations and recommendations at top of site. ✔️
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Custom version of artplayer.js. 🟡
 
 ***
 ## Broflix
@@ -466,6 +453,19 @@ Community Favorites: 🌟
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
+
+***
+## EnjoyTown
+### Score: 11/18
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. Sites UI is good, feels very modern. ✔️
+1. Site does not have watch lists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site works well and looks good on mobile. ✔️
+1. Custom version of movie-webs player. 🟡
 
 ***
 ## Yampi
