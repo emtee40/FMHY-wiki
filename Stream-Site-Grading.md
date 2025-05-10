@@ -1,6 +1,6 @@
 **What we look for**:
 1. * Does it have movies, TV, anime, 1080p, and subtitles? Can the quality be lowered?
-1. * Do none, some, or all their servers auto-switch to the next if one fails?
+1. * Does it auto-switch through, none, some, or all of its sources when one fails?
 1. * Does it automatically go to a shows next episode, and play it without user input, across all servers?
 1. * How are the site's UI, player and search? What sort of user settings does it have?
 1. * Does it have watch lists, history or continue watching? Can you login to sync lists across devices?
