@@ -637,19 +637,6 @@ Community Favorites: 🌟🌟🌟
 1. Site does have a custom player. ✔️
 
 ***
-## UniqueStream
-### Score: 9/18
-1. Has movies, TV, anime, but no 1080p, adjustable quality, or subtitles. 🟡
-1. They remove broken links, main player can't fail, so no server switching needed. ✔️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is alright but has room for improvement. 🟡
-1. Site has no watch lists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
-
-***
 ## StigStream
 ### Score: 9/18
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -778,6 +765,19 @@ Community Favorites: 🌟🌟🌟
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does have a custom player. ✔️
+
+***
+## UniqueStream
+### Score: 8/18
+1. Has movies, TV, anime, but no 1080p, adjustable quality, or subtitles. 🟡
+1. They remove broken links, main player can't fail, so no server switching needed. ✔️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is alright but has room for improvement. 🟡
+1. Site has no watch lists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site uses a highly customized version of artplayer.js. 🟡
 
 ***
 ## Let's Stream
