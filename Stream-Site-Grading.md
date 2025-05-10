@@ -245,19 +245,6 @@ Community Favorites: 🌟🌟🌟🌟🌟
 Community Favorites: 🌟
 
 ***
-## Mapple.tv
-### Score: 13/18
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Very nice UI, looks modern, search works well. ✔️
-1. Site has watch lists, and you can login to sync them across devices. ✔️
-1. Has decent content sorting, but more discoverability options could be added. 🟡
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site works well and looks good on mobile. ✔️
-1. Site does have a custom player. ✔️
-
-***
 ## EE3
 ### Score: 13/18
 1. Has movies, 1080p, and subtitles, but no adjustable quality, TV, or anime. 🟡
@@ -478,6 +465,19 @@ Community Favorites: 🌟🌟🌟
 1. Has mood based recommendations and AI search tool, but could use better sorting. 🟡
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+
+***
+## Mapple.tv
+### Score: 11/18
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. Very nice UI, looks modern, search works well. ✔️
+1. Site has watch lists, and you can login to sync them across devices. ✔️
+1. Has decent content sorting, but more discoverability options could be added. 🟡
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site works well and looks good on mobile. ✔️
 1. Site does not have a custom player. ❌
 
 ***
