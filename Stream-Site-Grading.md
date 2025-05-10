@@ -351,19 +351,6 @@ Community Favorites: 🌟🌟🌟
 1. Site does not have a custom player. ❌
 
 ***
-## Soaper.TV
-### Score: 12/18
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. They remove broken links, main player can't fail, so no server switching needed. ✔️
-1. Site does have episode auto-next across all servers. ✔️
-1. Site feels dated, lots of room for improvement. ❌
-1. Has watch lists and you can login to sync them across devices. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site works well, but doesn't look too great on mobile. 🟡
-1. Site does have a custom player. ✔️
-
-***
 ## neoxa
 ### Score: 12/18
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -518,6 +505,19 @@ Community Favorites: 🌟🌟🌟
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
+
+***
+## Soaper
+### Score: 10/18
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. They remove broken links, main player can't fail, so no server switching needed. ✔️
+1. Site does have episode auto-next across all servers. ✔️
+1. Site feels dated, lots of room for improvement. ❌
+1. Has watch lists and you can login to sync them across devices. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site works well, but doesn't look too great on mobile. 🟡
+1. Site does have a custom player. ❌
 
 ***
 ## RidoMovies
