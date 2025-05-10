@@ -131,21 +131,6 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 1. Site does have a custom player. ✔️
 
 ***
-## HydraHD
-### Score: 14/18
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is fine but has room for improvement. 🟡
-1. Has continue watching + favorites, and you can login to sync them across devices. ✔️
-1. Has good sorting options and keyword based search. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
-
-Community Favorites: 🌟🌟🌟🌟🌟
-
-***
 ## Nunflix
 ### Score: 14/18
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -243,6 +228,21 @@ Community Favorites: 🌟
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
 1. Customized version of artplayer.js. 🟡
+
+***
+## HydraHD
+### Score: 13/18
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. Sites UI is fine but has room for improvement. 🟡
+1. Has continue watching + favorites, and you can login to sync them across devices. ✔️
+1. Has good sorting options and keyword based search. ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Customized version of artplayer.js. 🟡
+
+Community Favorites: 🌟🌟🌟🌟🌟
 
 ***
 ## PopcornMovies
