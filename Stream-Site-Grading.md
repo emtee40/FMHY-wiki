@@ -141,7 +141,7 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
+1. Site does have a custom player (first player). ✔️
 
 ***
 ## FlickyStream
