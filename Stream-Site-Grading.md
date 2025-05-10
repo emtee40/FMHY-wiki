@@ -154,7 +154,7 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
-1. Site uses custom version of vidjoy player. 🟡
+1. Site uses custom version of vidjoy/artplayer. 🟡
 
 Community Favorites: 🌟🌟🌟
 
