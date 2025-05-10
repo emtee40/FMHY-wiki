@@ -574,7 +574,7 @@ Community Favorites: 🌟🌟🌟
 ***
 ## Wooflix
 ### Score: 10/18
-1. Has movies, TV, anime, and subtitles, but 720p max. 🟡
+1. Has movies, TV, anime, and subtitles, but no 1080p, or adjustable quality. 🟡
 1. They remove broken links, main player can't fail, so no server switching needed. ✔️
 1. Does not have episode auto-next. ❌
 1. UI is good, feels clean and modern. ✔️
