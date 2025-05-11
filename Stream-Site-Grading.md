@@ -105,19 +105,6 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 1. Custom version of the Hexa player. 🟡
 
 ***
-## NetPlay
-### Score: 15/18
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its sources if they fail. ✔️
-1. Site does have episode auto-next across all servers. ✔️
-1. Both the sites UI and player are nice and feel modern. ✔️
-1. Has history and watch lists, and you can login to sync them across devices. ✔️
-1. Has decent sorting options, but more discoverability options would be nice. 🟡
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
-
-***
 ## SpenFlix
 ### Score: 15/18
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -129,6 +116,19 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (first player). ✔️
+
+***
+## NetPlay
+### Score: 15/18
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its sources if they fail. ✔️
+1. Site does have episode auto-next across all servers. ✔️
+1. Both the sites UI and player are nice and feel modern. ✔️
+1. Has history and watch lists, and you can login to sync them across devices. ✔️
+1. Has decent sorting options, but more discoverability options would be nice. 🟡
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player. ✔️
 
 ***
 ## VidBox
