@@ -106,10 +106,10 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
 ***
 ## VidBox
-### Score: 16/18
+### Score: 17/18
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
 1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
+1. Site does have episode auto-next across all servers. ✔️
 1. Sites UI is good, looks very nice and feels modern. ✔️
 1. Site has watch lists and history, and you can login to sync them across devices. ✔️
 1. Site has good sorting options, franchise collections, and a AI recommendation bot. ✔️
