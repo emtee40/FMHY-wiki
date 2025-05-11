@@ -119,10 +119,10 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
 ***
 ## SpenFlix
-### Score: 15/18
+### Score: 17/18
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
+1. Auto-switches through all its (non-embed, first player) sources if they fail. ✔️
+1. Site does have episode auto-next across all servers (non-embed, first player). ✔️
 1. Sites UI is nice, feels very modern. ✔️
 1. Site has watch lists, and you can login to sync them across devices. ✔️
 1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
