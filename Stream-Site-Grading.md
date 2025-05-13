@@ -131,21 +131,6 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 1. Site does have a custom player (first player). ✔️
 
 ***
-## 1Shows
-### Score: 15/18
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. All its servers have auto-switch built in. ✔️
-1. Site does have episode auto-next across all servers. ✔️
-1. Sites UI is good, feels modern, has a lot of nice touches. ✔️
-1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Decent sorting options and has built in AI recommendation tool. ✔️
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Uses custom version of vidstack player. 🟡
-
-Community Favorites: 🌟
-
-***
 ## NetPlay
 ### Score: 15/18
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -187,6 +172,21 @@ Community Favorites: 🌟🌟🌟
 1. Custom version of movie-web player. 🟡
 
 Community Favorites: 🌟🌟
+
+***
+## 1Shows
+### Score: 14/18
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next across all servers. ✔️
+1. Sites UI is good, feels modern, has a lot of nice touches. ✔️
+1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Decent sorting options and has built in AI recommendation tool. ✔️
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Uses custom version of vidstack player. 🟡
+
+Community Favorites: 🌟
 
 ***
 ## MovieMaze
