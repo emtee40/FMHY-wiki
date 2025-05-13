@@ -8,6 +8,8 @@
 
 [fmhy.vercel.app](https://fmhy.vercel.app/)
 
+[ez.lol.ls](https://ez.lol/ls)
+
 [Selfhosting Guide](https://fmhy.net/other/selfhosting)
 
 ***
