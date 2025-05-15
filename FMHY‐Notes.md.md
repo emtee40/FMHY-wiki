@@ -140,6 +140,18 @@ Note that Sanet has been known to host things like KMS Matrix, so its best to av
 
 ***
 
+#### Glitchwave Note
+
+For charts you can specify months and days using URLs like the following examples
+
+January 2006:
+`https://glitchwave.com/charts/popular/game/2006.01/excl:ratings/`
+
+Jan-Feb 2018:
+`https://glitchwave.com/charts/popular/game/2018.01-2018.02/excl:ratings/`
+
+***
+
 #### Filebin Warning
 
  Anyone with a link to a "bin" has full access to it. They can add new files, delete existing files, etc
