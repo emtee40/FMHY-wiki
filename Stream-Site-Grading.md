@@ -200,6 +200,20 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
+## Elite Flix
+### Score: 15/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. Sites UI is good, feels very modern. ✔️
+1. Site has watch lists + history, and you can login to sync them across devices. ✔️
+1. Site has good sorting options, franchise collections, and AI recommendation bot. ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (use custom mode). ✔️
+1. Site does not have watch parties. ❌
+
+***
 ## FlickyStream
 ### Score: 14/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -241,20 +255,6 @@ Community Favorites: 🌟🌟🌟
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Uses custom version of vidstack player. 🟡
-1. Site does not have watch parties. ❌
-
-***
-## Elite Flix
-### Score: 14/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is good, feels very modern. ✔️
-1. Site has watch lists + history, and you can login to sync them across devices. ✔️
-1. Site has good sorting options + franchise collections, but could use more media discovery options. 🟡
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (use custom mode). ✔️
 1. Site does not have watch parties. ❌
 
 ***
