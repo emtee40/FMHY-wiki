@@ -4,7 +4,7 @@
 1. * Does it automatically go to a shows next episode, and play it without user input, across all servers?
 1. * How are the site's UI, player and search? What sort of user settings does it have?
 1. * Does it have watch lists, history or continue watching? Can you login to sync lists across devices?
-1. * Any discovery tools like recommendations based on watched content, collections, sorting, AI, etc?
+1. * Any discovery tools like recommendations based on watched content, collections, sorting, AI, mood based, etc?
 1. * Are new tab/window popups on the site non-existent, slightly irritating, or almost constant?
 1. * How is the sites mobile optimization? Does it look good and work well?
 1. * Does it have a unique custom player, a customized version of another player, or no custom player?
