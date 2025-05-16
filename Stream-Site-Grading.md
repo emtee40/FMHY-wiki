@@ -670,6 +670,20 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
+## Watch2Me
+### Score: 10/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. Sites UI is fine but has room for improvement. 🟡
+1. The site has watch lists, but they cannot be synced across devices. 🟡
+1. Decent sorting options and random AI recommendations, but could use a bit more discovery options. 🟡
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+1. Site does not have watch parties. ❌
+
+***
 ## Smashystream
 ### Score: 9/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
