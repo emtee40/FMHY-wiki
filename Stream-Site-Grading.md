@@ -278,6 +278,20 @@ Community Favorites: 🌟🌟🌟
 Community Favorites: 🌟
 
 ***
+## Mocine
+### Score: 13/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. UI is nice, feels modern, search shows results as you type. ✔️
+1. Site does have watch lists, but they can't be synced across devices. 🟡
+1. Site has collections, decent sorting, and random AI suggestions. ✔️
+1. Disabling ads removes new tab/window popups, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+1. Site does not have watch parties. ❌
+
+***
 ## Maxflix
 ### Score: 13/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -357,20 +371,6 @@ Community Favorites: 🌟
 1. Site has continue watching, watch lists, and favorites, but you can't sync them across devices. 🟡
 1. Site has good sorting + a AI to help discover new content . ✔️
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## Mocine
-### Score: 12/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. UI is nice, feels modern, search shows results as you type. ✔️
-1. Site does have watch lists, but they can't be synced across devices. 🟡
-1. Site has collections / random AI, but could use more in terms of discoverability options. 🟡
-1. Disabling ads removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
