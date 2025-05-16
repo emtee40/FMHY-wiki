@@ -390,7 +390,7 @@ Community Favorites: 🌟
 1. Site has links to external watch party sites. 🟡
 
 ***
-## neoxa
+## Purplix
 ### Score: 12/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
 1. Some of its servers have auto-switch built in. 🟡
