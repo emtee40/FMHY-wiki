@@ -306,6 +306,20 @@ Community Favorites: 🌟🌟🌟
 Community Favorites: 🌟
 
 ***
+## Maxflix
+### Score: 13/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its sources if they fail. ✔️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is very good, feels modern, has lots of user-settings. ✔️
+1. Site has watch lists + continue watching, and they can be synced across devices. ✔️
+1. Site has no sorting or content discoverability options. ❌
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Uses custom version of vidstack player. 🟡
+1. Site does not have watch parties. ❌
+
+***
 ## Bingeflix
 ### Score: 13/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
