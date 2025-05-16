@@ -42,7 +42,7 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟�
 1. UI is solid, feels clean and modern. ✔️
 1. The site has watch lists + history, and you can login to sync them across devices. ✔️
 1. Has sorting options + watch history based recommendations when you login. ✔️
-1. Turning off ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
+1. Disabling ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 1. Site does not have watch parties. ❌
@@ -74,7 +74,7 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 1. UI is very nice, feels modern and unique, one of the best. ✔️
 1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
 1. Has sorting options, collections, and recommendations on frontpage. ✔️
-1. Turning off ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
+1. Disabling ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 1. Site does not have watch parties. ❌
@@ -90,7 +90,7 @@ Community Favorites: 🌟🌟🌟🌟
 1. Sites UI feels very modern and unique, one of the best. ✔️
 1. Site has watch lists and continue watching, and you can login to sync them across devices. ✔️
 1. Good sorting, gives recommendations based on watched, and has mood based search. ✔️
-1. Turning off ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
+1. Disabling ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 1. Site does not have watch parties. ❌
@@ -328,7 +328,7 @@ Community Favorites: 🌟
 1. Sites UI is fine but has room for improvement. 🟡
 1. Site has watch lists, but they can't be synced across devices. 🟡
 1. Site has sorting options, random movies, similar + recommended on each page. ✔️
-1. Turning off ads (button top right of homepage) removes new tab/window popups, can be used without an adblocker. ✔️
+1. Disabling ads removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
@@ -371,6 +371,20 @@ Community Favorites: 🌟
 1. Site has continue watching, watch lists, and favorites, but you can't sync them across devices. 🟡
 1. Site has good sorting + a AI to help discover new content . ✔️
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+1. Site does not have watch parties. ❌
+
+***
+## Mocine
+### Score: 12/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. UI is nice, feels modern, search shows results as you type. ✔️
+1. Site does have watch lists, but they can't be synced across devices. 🟡
+1. Site has collections / random AI, but could use more in terms of discoverability options. 🟡
+1. Disabling ads removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
@@ -524,20 +538,6 @@ Community Favorites: 🌟
 1. Site is simple but very clean. ✔️
 1. Site allows you to add favorites, and you can login to sync them across devices. ✔️
 1. Site is lacking in terms of media discovery options. ❌
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## Mocine
-### Score: 11/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is alright but has room for improvement. 🟡
-1. Site does have watch lists, but they can't be synced across devices. 🟡
-1. Site has collections / random AI, but could use more in terms of discoverability options. 🟡
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
