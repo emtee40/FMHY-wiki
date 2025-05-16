@@ -656,6 +656,20 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
+## FlixIndia
+### Score: 10/20
+1. Has movies, TV, anime, and subtitles, but no 1080p, or adjustable quality. 🟡
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. Sites UI is fine but has room for improvement. 🟡
+1. Site has watch history, but it cannot be synced across devices. 🟡
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Custom version of the Hexa player. 🟡
+1. Site does not have watch parties. ❌
+
+***
 ## Smashystream
 ### Score: 9/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
