@@ -186,34 +186,6 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
-## Ronny Flix
-### Score: 15/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is good, feels very modern. ✔️
-1. Site has watch lists, favorites and continue watching, and they can be synced across devices. ✔️
-1. Site has AI recommendations, decent sorting, and franchise collections. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (use native). ✔️
-1. Site does not have watch parties. ❌
-
-***
-## Elite Flix
-### Score: 15/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is good, feels very modern. ✔️
-1. Site has watch lists + history, and you can login to sync them across devices. ✔️
-1. Site has good sorting options, franchise collections, and AI recommendation bot. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (use custom mode). ✔️
-1. Site does not have watch parties. ❌
-
-***
 ## FlickyStream
 ### Score: 14/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
