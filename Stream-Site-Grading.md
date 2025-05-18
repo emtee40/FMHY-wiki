@@ -156,6 +156,22 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
+## FlickyStream
+### Score: 15/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. Sites UI is good, feels modern and unique. ✔️
+1. Site has watch lists, and you can login to sync them across devices. ✔️
+1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (second player). ✔️
+1. Site does not have watch parties. ❌
+
+Community Favorites: 🌟🌟🌟
+
+***
 ## uira.live
 ### Score: 15/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -184,22 +200,6 @@ Community Favorites: 🌟🌟
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 1. Site does not have watch parties. ❌
-
-***
-## FlickyStream
-### Score: 14/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is good, feels modern and unique. ✔️
-1. Site has watch lists, and you can login to sync them across devices. ✔️
-1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site uses custom version of vidjoy/artplayer. 🟡
-1. Site does not have watch parties. ❌
-
-Community Favorites: 🌟🌟🌟
 
 ***
 ## MovieMaze
