@@ -98,6 +98,22 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 Community Favorites: 🌟
 
 ***
+## 1Shows
+### Score: 18/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. All of its server have auto-next built in. ✔️
+1. Site does have episode auto-next across all servers. ✔️
+1. Sites UI is good, feels modern, has a lot of nice touches. ✔️
+1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Decent sorting options and has built in AI recommendation tool. ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Uses custom version of vidstack player. 🟡
+1. Has built in watch parties. ✔️
+
+Community Favorites: 🌟
+
+***
 ## SpenFlix
 ### Score: 18/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -140,22 +156,6 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 Community Favorites: 🌟🌟🌟
-
-***
-## 1Shows
-### Score: 17/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next across all servers. ✔️
-1. Sites UI is good, feels modern, has a lot of nice touches. ✔️
-1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Decent sorting options and has built in AI recommendation tool. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Uses custom version of vidstack player. 🟡
-1. Has built in watch parties. ✔️
-
-Community Favorites: 🌟
 
 ***
 ## Vidora
