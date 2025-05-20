@@ -66,6 +66,22 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 Community Favorites: 🌟🌟🌟🌟
 
 ***
+## FlickyStream
+### Score: 19/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its (non-embed, second player) sources if they fail. ✔️
+1. Site does have episode auto-next across all servers (non-embed, second player). ✔️
+1. Sites UI is good, feels modern and unique. ✔️
+1. Site has watch lists, and you can login to sync them across devices. ✔️
+1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (second player). ✔️
+1. Has built in watch parties. ✔️
+
+Community Favorites: 🌟🌟🌟
+
+***
 ## Rive
 ### Score: 18/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -140,22 +156,6 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (first player). ✔️
 1. Site does not have watch parties. ❌
-
-***
-## FlickyStream
-### Score: 17/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its (non-embed, second player) sources if they fail. ✔️
-1. Site does have episode auto-next across all servers (non-embed, second player). ✔️
-1. Sites UI is good, feels modern and unique. ✔️
-1. Site has watch lists, and you can login to sync them across devices. ✔️
-1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (second player). ✔️
-1. Site does not have watch parties. ❌
-
-Community Favorites: 🌟🌟🌟
 
 ***
 ## Vidora
