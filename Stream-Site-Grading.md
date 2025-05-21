@@ -172,6 +172,21 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
+## Willow
+### Score: 17/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its sources if they fail. ✔️
+1. Site does have episode auto-next across all servers. ✔️
+1. UI is good, feels very modern and search shows results as you type. ✔️
+1. Site has bookmarks and watch history, and they can be synced across devices. ✔️
+1. Has a good sorting page with network collections / trending, but could use a bit more in terms of discovery. 🟡
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player. ✔️
+1. Site does not have watch parties. ❌
+
+***
 ## uira.live
 ### Score: 15/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -343,20 +358,6 @@ Community Favorites: 🌟
 1. Site tracks last thing watched, but is otherwise lacking watch lists and history. ❌
 1. Site has some sorting options, but more content discoverability options would be nice. 🟡
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
-1. Site does not have watch parties. ❌
-
-***
-## Willow
-### Score: 12/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Has 9 servers, but does not auto-switch if one fails. ❌
-1. Site does have episode auto-next on some servers. 🟡
-1. UI is good, feels very modern and search shows results as you type. ✔️
-1. Site has bookmarks and watch history, but it can't be synced across devices. 🟡
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 1. Site does not have watch parties. ❌
