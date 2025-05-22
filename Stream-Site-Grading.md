@@ -853,6 +853,20 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
+## StreamM4u
+### Score: 8/20
+1. Has movies, TV, anime, 1080p, and subtitles, but no adjustable quality. 🟡
+1. They remove broken links, main player can't fail, so no server switching needed. ✔️
+1. Site does not have episode auto-next. ❌
+1. Site feels dated, lots of room for improvement. ❌
+1. Site does not have watch lists, continue watching or history. ❌
+1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Uses a custom version of JW player. 🟡
+1. Site does not have watch parties. ❌
+
+***
 ## FireFlix
 ### Score: 8/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
