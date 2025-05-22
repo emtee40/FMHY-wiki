@@ -188,13 +188,13 @@ Community Favorites: 🌟
 
 ***
 ## uira.live
-### Score: 15/20
+### Score: 16/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
 1. Some of its servers have auto-switch built in. 🟡
 1. Site does have episode auto-next on some servers. 🟡
 1. UI is nice, feels modern, search shows results as you type. ✔️
 1. Site does have watch lists and you can login to sync them across devices. ✔️
-1. Site has decent sorting but is otherwise lacking in terms of content discoverability. 🟡
+1. Site has decent sorting, community favorites, award winning and trending lists. ✔️
 1. Site is free from new tab/window popup ads, can be used without an adblocker using "ad-free sources." ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Custom version of movie-web player. 🟡
