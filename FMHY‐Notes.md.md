@@ -343,6 +343,12 @@ This will sometimes get falsely flagged by defender and removed automatically, s
 
 ***
 
+#### Jdownloader 
+
+Keep in mind the link on their frontpage is sponsored and has adware, but jdownloader2 which is linked when you click "download" at the top of the site does not contain any adware. 
+
+***
+
 #### Breeze Wiki Mirrors
 
 `https://docs.breezewiki.com/Links.html#(part._.Mirrors)`
