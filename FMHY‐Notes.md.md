@@ -1,3 +1,9 @@
+#### Google Music Recognition
+
+You can use the same recognition model in youtube/ youtube music and google mobile apps
+
+***
+
 #### Malware Removal Forums
 
 Note that they'll likely suggest removing pirated software
