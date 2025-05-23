@@ -144,6 +144,21 @@ Community Favorites: 🌟
 Community Favorites: 🌟
 
 ***
+## Bludclart
+### Score: 18/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its sources if they fail. ✔️
+1. Site does have episode auto-next across all servers. ✔️
+1. Both the sites UI and its player are very nice and modern feeling. ✔️
+1. Has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Has sorting options, collections, and personal recommendations under mybludchart. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player. ✔️
+1. * Does the site have built-in watch parties, external party links, or no watch parties?
+1. Site does not have watch parties. ❌
+
+***
 ## VidBox
 ### Score: 18/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -624,20 +639,6 @@ Community Favorites: 🌟
 1. Site has watch lists and continue watching, but you cannot be synced across devices. 🟡
 1. Site gives recommendations on each movies page, but is otherwise lacking content discoverability. 🟡
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## StreamFlix
-### Score: 10/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Does not have server auto-switch. ❌
-1. Site does not have episode auto-next. ❌
-1. Sites UI is fine but has room for improvement. 🟡
-1. Site has history + watch lists, and you can login to sync them across devices. ✔️
-1. Has content sorting, collections, and recommendations based on what people watch. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
