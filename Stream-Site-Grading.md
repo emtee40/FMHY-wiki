@@ -155,7 +155,6 @@ Community Favorites: 🌟
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
-1. * Does the site have built-in watch parties, external party links, or no watch parties?
 1. Site does not have watch parties. ❌
 
 ***
