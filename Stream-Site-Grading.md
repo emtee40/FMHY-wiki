@@ -1343,7 +1343,7 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
-## Cataz
+## ProjectFreeTV
 ### Score: 5/20
 1. Has movies and TV, but no anime, 1080p, adjustable quality, or subtitles. ❌
 1. 15+ hosts on most content, but does not auto-switch if ones fails. ❌
