@@ -76,7 +76,7 @@ The site is safe, but they are known for mislabeling things like RockMods releas
 
 #### NekoBoxForAndroid Warning
 
-If downloaded on phone with google play updates must be disabled
+The Google Play version has been controlled by a third party since May 2024 and is a non-open source version so its best to avoid.
 
 ***
 
