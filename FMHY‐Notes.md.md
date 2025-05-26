@@ -208,20 +208,6 @@ Free proxies work but they are very hit and miss
 
 ***
 
-#### Achievement Watcher Note
-
-Current cache server does not include all games, some games will not appear
- 
-You need a Steam Web API key for the app to get data from Steam
- 
-You can get one by filling out this form `https://steamcommunity.com/dev/apikey`
- 
-Enter your key in Settings > Advanced
- 
-If it doesn't show up after doing this, make sure that the goldberg emulator settings are set correctly
-
-***
-
 #### Steam Currency Converter Note
 
 For instant currency conversion : Go to Firefox's extensions settings, click on the add-on, enter the permissions section and allow the sites there
