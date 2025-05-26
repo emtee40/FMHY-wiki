@@ -74,12 +74,6 @@ The site is safe, but they are known for mislabeling things like RockMods releas
 
 ***
 
-#### NekoBoxForAndroid Warning
-
-The Google Play version has been controlled by a third party since May 2024 and is a non-open source version so its best to avoid.
-
-***
-
 #### RGShows Autoplay
 
 If you're using Firefox and you want autoplay, hit the permissions on your url search bar and allow both audio + video.
