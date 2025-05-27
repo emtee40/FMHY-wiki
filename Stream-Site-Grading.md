@@ -756,20 +756,6 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
-## Watchroo
-### Score: 9/20
-1. Has movies, tv, anime, and subtitles, but no 1080p or adjustable quality. 🟡
-1. Has 2 sources but does not auto-switch when one fails. ❌
-1. Site does not have episode auto-next. ❌
-1. Site UI is good, feels modern and unique. ✔️
-1. Has continue watching + watch lists, and they can be synced across devices on login. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
-1. Site does not have watch parties. ❌
-
-***
 ## KaitoVault
 ### Score: 9/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -891,6 +877,20 @@ Community Favorites: 🌟
 1. Site does not have watch lists, continue watching or history. ❌
 1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Uses a custom version of JW player. 🟡
+1. Site does not have watch parties. ❌
+
+***
+## Watchroo
+### Score: 8/20
+1. Has movies, tv, anime, and subtitles, but no 1080p or adjustable quality. 🟡
+1. Has 2 sources but does not auto-switch when one fails. ❌
+1. Site does not have episode auto-next. ❌
+1. Site UI is good, feels modern and unique. ✔️
+1. Has continue watching + watch lists, and they can be synced across devices on login. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Uses a custom version of JW player. 🟡
 1. Site does not have watch parties. ❌
