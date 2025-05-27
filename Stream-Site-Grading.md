@@ -698,6 +698,21 @@ Community Favorites: 🌟
 1. Site does have a custom player. ✔️
 1. Site does not have watch parties. ❌
 
+
+***
+## YassFlix
+### Score: 9/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does not have episode auto-next. ❌
+1. Sites UI is good, feels modern and unique. ✔️
+1. Site does have watch lists, but they can't be synced across platforms. 🟡
+1. Site is lacking in terms of content discoverability. ❌
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+1. Site does not have watch parties. ❌
+
 ***
 ## StigStream
 ### Score: 9/20
@@ -1297,20 +1312,6 @@ Community Favorites: 🌟
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. 🟡
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## YassFlix
-### Score: 5/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does not have episode auto-next. ❌
-1. Site UI feels dated, lots of room for improvement. ❌
-1. Site does not have watch lists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability. ❌
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
 
