@@ -250,9 +250,7 @@ https://vimeo.com/1059834885/c3ab398d42
 Docs + selfhosting guides can be found here: 
 https://docs.pstream.org/
 
-You can also [enable an extension](https://pstream.org/onboarding/extension) / [2](https://github.com/sussy-code/browser-ext/releases/) that will add more sources, but the site works fine without it, and it requires excessive permissions, so as a precaution if you are gonna use it, make sure its on a different browser, or new browser profile.
-
-[Further Extension Notes](https://rentry.co/htagcrv4)
+You can also [enable an extension](https://pstream.org/onboarding/extension) / [2](https://github.com/sussy-code/browser-ext/releases/) that will add more sources, but the [site works fine without it](https://rentry.co/htagcrv4).
 
 ***
 
