@@ -657,6 +657,20 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
+## RedFlix
+### Score 10/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. Sites UI is good, feels modern. ✔️
+1. The site has watch lists, but they can be synced across devices. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+1. Site does not have watch parties. ❌
+
+***
 ## Qstream
 ### Score: 10/20
 1. Has movies, TV, anime, 1080p, and subtitles, but no adjustable quality. 🟡
@@ -932,20 +946,6 @@ Community Favorites: 🌟
 1. Sites UI is decent but has for for improvement. 🟡
 1. Site has continue watching, but it cannot be synced across devices. 🟡
 1. Site has some sorting options, but more content discoverability options would be nice. 🟡
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## RedFlix
-### Score 8/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is fine but has room for improvement. 🟡
-1. The site has watch lists, but they cannot be synced across devices. 🟡
-1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
