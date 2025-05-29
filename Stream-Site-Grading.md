@@ -217,6 +217,20 @@ Community Favorites: 🌟
 Community Favorites: 🌟🌟
 
 ***
+## Cinemaos
+### Score: 16/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its sources if they fail. ✔️
+1. Site does have episode auto-next across all servers. ✔️
+1. UI is very nice, feels very modern and has lots of features. ✔️
+1. Site has watch lists and you can login to sync them across devices. ✔️
+1. Has a solid AI recommendation bot, collections, and good sorting options. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Custom version of the Hexa player. 🟡
+1. Site does not have watch parties. ❌
+
+***
 ## NetPlay
 ### Score: 15/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -332,20 +346,6 @@ Community Favorites: 🌟
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well and looks good on mobile. ✔️
 1. Site does have a custom player. ✔️
-1. Site does not have watch parties. ❌
-
-***
-## Cinemaos
-### Score: 13/20
-1. Has movies, TV, anime, 1080p, and subtitles, but no adjustable quality. 🟡
-1. Auto-switches through all its sources if they fail. ✔️
-1. Site does not have episode auto-next. ❌
-1. UI is very nice, feels very modern and has lots of features. ✔️
-1. Site has watch lists and you can login to sync them across devices. ✔️
-1. Has a solid AI recommendation bot, but could use more in terms of sorting. 🟡
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Custom version of the Hexa player. 🟡
 1. Site does not have watch parties. ❌
 
 ***
