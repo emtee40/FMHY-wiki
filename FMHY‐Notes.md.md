@@ -433,3 +433,10 @@ LightDLMovies is known for having popups / redirects, make sure you have an adbl
 YTS / Yify has many fake ripoff sites out there, make 100% sure you're on one of the official domains before downloading.
  
 Official domains: `https://www.yifystatus.com`
+
+***
+
+#### Limit Bypass Note
+
+- sparsebox: ios 17 - 18.4 beta 4 (excluding ios 17.7.1, 17.7.2, and 18.1 beta 5+)
+- live container: ios 16+
