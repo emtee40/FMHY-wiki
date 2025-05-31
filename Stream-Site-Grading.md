@@ -657,20 +657,6 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
-## ValhallaStream
-### Score: 10/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does not have episode auto-next. ❌
-1. UI is decent but there's room for improvement. 🟡
-1. Site has watch lists, and you can login to sync across devices. ✔️
-1. Site has some sorting options, but more content discoverability options would be nice. 🟡
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
 ## Qstream
 ### Score: 10/20
 1. Has movies, TV, anime, 1080p, and subtitles, but no adjustable quality. 🟡
