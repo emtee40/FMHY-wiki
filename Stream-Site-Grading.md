@@ -200,6 +200,20 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
+## VeloraTV
+### Score: 18/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its sources if they fail. ✔️
+1. Site does not have episode auto-next. ❌
+1. Site has nice UI and feels modern. ✔️
+1. Site has continue watching and watch lists, and you can sync them across devices. ✔️
+1. Has AI for recommendations, mood based recs and good sorting. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site works well and looks good on mobile. ✔️
+1. Site has highly customized hybrid Artplayer + Fast Stream client. ✔️
+1. Has built in watch parties. ✔️
+
+***
 ## Vidora
 ### Score: 17/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -360,20 +374,6 @@ Community Favorites: 🌟
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does have a custom player (first player). ✔️
-1. Site does not have watch parties. ❌
-
-***
-## 456movie
-### Score: 13/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its sources if they fail. ✔️
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is fine but has room for improvement. 🟡
-1. Site has continue watching and watch lists, but you can't sync them across devices. 🟡
-1. Has AI for recommendations and recommendations at top of site. ✔️
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site has highly customized hybrid Artplayer + Fast Stream client. ✔️
 1. Site does not have watch parties. ❌
 
 ***
