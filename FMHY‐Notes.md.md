@@ -74,6 +74,12 @@ The site is safe, but they are known for mislabeling things like RockMods releas
 
 ***
 
+#### Sport7
+
+Note that many sites use this player, but Sport7 is their main site.
+
+***
+
 #### RGShows Autoplay
 
 If you're using Firefox and you want autoplay, hit the permissions on your url search bar and allow both audio + video.
