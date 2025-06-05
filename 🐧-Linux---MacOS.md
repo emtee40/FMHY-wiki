@@ -488,7 +488,7 @@
 
 ## ▷ Desktop Environment
 
-* [Desktop Environment Comparison](https://eylenburg.github.io/linux_comparison.htm)
+* [Desktop Environment Comparison](https://eylenburg.github.io/de_comparison.htm)
 * [Extension Manager](https://mattjakeman.com/apps/extension-manager) - GNOME Shell Extension Manager
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
 * [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop-Shell for GNOME
@@ -740,7 +740,7 @@
 * [Conky](https://conky.cc) / [Colors](https://github.com/helmuthdu/conky_colors), [eul](https://github.com/gao-sun/eul), [Stats](https://github.com/exelban/stats), [Mission Center](https://gitlab.com/mission-center-devs/mission-center) or [MacFetch](https://github.com/gantoreno/macfetch) - Hardware / System Monitors
 * [Hot](https://github.com/macmade/hot) - CPU Monitor
 * [TaskExplorer](https://objective-see.org/products/taskexplorer.html) - Task Manager / Viewer
-* [Pearcleaner](https://github.com/alienator88/Pearcleaner) - System Cleanup / Uninstallers
+* [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) - System Cleanup / Uninstallers / [GitHub](https://github.com/alienator88/Pearcleaner)
 * [BetterDisplay](https://github.com/waydabber/BetterDisplay) - Display Controller
 * [DisplayPlacer](https://github.com/jakehilborn/displayplacer) - Dual Monitor Manager
 * [kbdlight](https://github.com/WhyNotHugo/kbdlight) - Change MacBook Keyboard Backlight Level
