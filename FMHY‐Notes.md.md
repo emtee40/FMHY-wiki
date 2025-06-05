@@ -446,3 +446,9 @@ Official domains: `https://www.yifystatus.com`
 
 - sparsebox: ios 17 - 18.4 beta 4 (excluding ios 17.7.1, 17.7.2, and 18.1 beta 5+)
 - live container: ios 16+
+
+***
+
+#### Hola Proxy Note
+
+![image](https://github.com/user-attachments/assets/dd5c41e5-4951-42fa-9359-686d812fbda2)
