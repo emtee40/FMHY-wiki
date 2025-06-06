@@ -545,6 +545,20 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
+## KaitoVault
+### Score: 11/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does not have episode auto-next. ❌
+1. UI is is very good, feels modern and unique. ✔️
+1. Site has watch list + continue watching, and you can login to sync across devices. ✔️
+1. Site has collections and decent sorting, but is otherwise lacking content discoverability. 🟡
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+1. Site does not have watch parties. ❌
+
+***
 ## RedFlix
 ### Score 11/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -809,20 +823,6 @@ Community Favorites: 🌟
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does have a custom player. ✔️
-1. Site does not have watch parties. ❌
-
-***
-## KaitoVault
-### Score: 9/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does not have episode auto-next. ❌
-1. UI is is very good, feels modern and unique. ✔️
-1. Site has continue watching, but it cannot be synced across devices. 🟡
-1. Has a random movie button, but otherwise is lacking in terms of content discoverability and sorting. ❌
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
 
 ***
