@@ -112,6 +112,22 @@ Community Favorites: 🌟
 Community Favorites: 🌟🌟🌟
 
 ***
+## 1Shows
+### Score: 19/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. All of its server have auto-next built in. ✔️
+1. Site does have episode auto-next across all servers. ✔️
+1. Sites UI is good, feels modern, has a lot of nice touches. ✔️
+1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Decent sorting options and has built in AI recommendation tool. ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ✔️
+1. Has built in watch parties. ✔️
+
+Community Favorites: 🌟
+
+***
 ## SpenFlix
 ### Score: 19/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -166,22 +182,6 @@ Community Favorites: 🌟🌟🌟
 1. Must be used in landscape as its built for desktop, not mobile. 🟡
 1. Customized hybrid Artplayer + Fast Stream client, and a custom 4K player on some streams. ✔️
 1. Has built in watch parties. ✔️
-
-***
-## 1Shows
-### Score: 19/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. All of its server have auto-next built in. ✔️
-1. Site does have episode auto-next across all servers. ✔️
-1. Sites UI is good, feels modern, has a lot of nice touches. ✔️
-1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Decent sorting options and has built in AI recommendation tool. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. 🟡
-1. Has built in watch parties. ✔️
-
-Community Favorites: 🌟
 
 ***
 ## VidBox
