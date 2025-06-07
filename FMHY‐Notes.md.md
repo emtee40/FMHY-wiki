@@ -32,6 +32,12 @@ You can ask the bot for english, but it can be hit and miss in terms of working.
 
 ***
 
+#### Pollinations Note
+
+To use this site for image generation, scroll down to "Image Feed" and change it to  "Try" from "Watch". Available models are flux (schnell), turbo (SDXL Turbo), and gptimage. For gptimage, allowed resolutions are 1024x1024, 1536x1024 (landscape), and 1024x1536 (portrait). Change the seed to a random number for different output. The "Write the 'Imagine' word only" button is the submit button. Pretty sure its unlimited for all models, at least through UI.
+
+***
+
 #### Mobilism Ranks
 
 The users in red. Administrators are members assigned with the highest level of control over the entire board. Usually they’re Section Heads. Most Administrators are Section Heads but not all Section Heads are administrators.
