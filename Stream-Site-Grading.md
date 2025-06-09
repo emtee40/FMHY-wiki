@@ -8,7 +8,7 @@
 1. * Are new tab/window popups on the site non-existent, slightly irritating, or almost constant?
 1. * How is the sites mobile optimization? Does it look good and work well?
 1. * Does it have a unique custom player, a customized version of another player, or no custom player?
-1. * Does it have watch parties, chats, are streams synced correctly, and controllable by both watchers?
+1. * Does it have watch parties, are streams synced correctly, and controllable by both watchers?
 
 ✔️= 2 points
 🟡= 1 point
@@ -16,6 +16,22 @@
 
 * Keep in mind that requirements for each criteria, as well as new criteria, will sometimes be added or adjusted if we feel it's needed.
 * We also poll high-ranking members for their favorites. These votes don't affect main scores, but they are used for breaking ties. Votes are represented by a 🌟.
+
+***
+## movie-web Instances
+### Score: 20/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its sources if they fail. ✔️
+1. Site does have episode auto-next across all servers. ✔️
+1. Very nice UI, search works well, lots of user settings. ✔️
+1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Site has good sorting + random suggestions and editor picks. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player. ✔️
+1. Has built in watch parties (pstream), streams are synced, controllable by both watchers. ✔️
+
+Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
 ***
 ## Cineby 
@@ -29,7 +45,7 @@
 1. Disabling ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
-1. Has built in watch parties, streams are synced, controllable by both watchers, has chat. ✔️
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
@@ -45,7 +61,7 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 1. Disabling ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
-1. Has built in watch parties, streams are synced, controllable by both watchers, has chat. ✔️
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 Community Favorites: 🌟🌟🌟🌟
 
@@ -61,7 +77,7 @@ Community Favorites: 🌟🌟🌟🌟
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
-1. Has built in watch parties, streams are synced, controllable by both watchers, has chat. ✔️
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
 ## Cinemaos
@@ -75,23 +91,7 @@ Community Favorites: 🌟🌟🌟🌟
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (third player). ✔️
-1. Has built in watch parties, streams are synced, controllable by both watchers, has chat. ✔️
-
-***
-## movie-web Instances
-### Score: 19/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its sources if they fail. ✔️
-1. Site does have episode auto-next across all servers. ✔️
-1. Very nice UI, search works well, lots of user settings. ✔️
-1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Site has good sorting + random suggestions and editor picks. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
-1. Has built in watch parties (pstream), streams are synced, controllable by both watchers, but no chat. 🟡
-
-Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
 ## xPrime
@@ -105,7 +105,7 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟�
 1. Disabling ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
-1. Has built in watch parties, streams are synced, controllable by both watchers, but no chat. 🟡
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 Community Favorites: 🌟
 
@@ -137,7 +137,7 @@ Community Favorites: 🌟🌟🌟
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ✔️
-1. Has watch parties, but its just screen sharing plugin that doesn't work well, and has no chat. 🟡
+1. Has watch parties, but its just screen sharing plugin that doesn't work well. 🟡
 
 Community Favorites: 🌟
 
@@ -153,7 +153,7 @@ Community Favorites: 🌟
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Must be used in landscape as its built for desktop, not mobile. 🟡
 1. Customized hybrid Artplayer + Fast Stream client, and a custom 4K player on some streams. ✔️
-1. Has built in watch parties, chat, streams are synced, but are not controllable by both watchers. 🟡
+1. Has built in watch parties, streams are synced, but are not controllable by both watchers. 🟡
 
 ***
 ## Flixer
@@ -167,7 +167,7 @@ Community Favorites: 🌟
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
-1. Has built in watch parties and chat, but streams are not synced, or controllable by both watchers. 🟡
+1. Has built in watch parties, but streams are not synced, or controllable by both watchers. 🟡
 
 ***
 ## VidBox
@@ -270,7 +270,7 @@ Community Favorites: 🌟🌟
 1. Disabling ads removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Uses custom version of vidstack player (on primary). 🟡
-1. Has watch parties, but its just screen sharing plugin that doesn't work well, and has no chat. 🟡
+1. Has watch parties, but its just screen sharing plugin that doesn't work well. 🟡
 
 ***
 ## NetPlay
@@ -1061,7 +1061,7 @@ Community Favorites: 🌟
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does not have a custom player. ❌
-1. Has built in watch parties, chat, but time is unsynced, and stream is not controllable by both watchers. 🟡
+1. Has built in watch parties, but time is unsynced, and stream is not controllable by both watchers. 🟡
 
 ***
 ## Novafork
