@@ -1176,6 +1176,20 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
+## Movies7
+### Score: 7/20
+1. Has movies, TV, 1080p, subtitles, adjustable quality, but no anime. 🟡
+1. They remove broken links, main player can't fail, so no server switching needed. ✔️
+1. Site does not have episode auto-next. ❌
+1. Site feels dated, lots of room for improvement. ❌
+1. Site does not have watch lists, continue watching or history. ❌
+1. Has decent sorting options, but media discovery tools could be added. 🟡
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site works fine but doesn't look too good on mobile. 🟡
+1. Site does not have a custom player. ❌
+1. Site does not have watch parties. ❌
+
+***
 ## CorsFlix
 ### Score: 6/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
