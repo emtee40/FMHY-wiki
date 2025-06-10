@@ -167,7 +167,7 @@ Community Favorites: 🌟
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
-1. Has built in watch parties, but streams are not synced, or controllable by both watchers. 🟡
+1. Has built in watch parties, streams are synced, but are not controllable by both watchers. 🟡
 
 ***
 ## VidBox
