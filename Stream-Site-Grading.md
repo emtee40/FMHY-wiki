@@ -867,6 +867,20 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
+## Movies7
+### Score: 9/20
+1. Has movies, TV, 1080p, subtitles, adjustable quality, but no anime. 🟡
+1. They remove broken links, main player can't fail, so no server switching needed. ✔️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is decent but has for for improvement. 🟡
+1. Site does not have watch lists, continue watching or history. ❌
+1. Has decent sorting options, but media discovery tools could be added. 🟡
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+1. Site does not have watch parties. ❌
+
+***
 ## nKiri
 ### Score: 9/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -920,20 +934,6 @@ Community Favorites: 🌟
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does have a custom player. ✔️
-1. Site does not have watch parties. ❌
-
-***
-## Movies7
-### Score: 8/20
-1. Has movies, TV, 1080p, subtitles, adjustable quality, but no anime. 🟡
-1. They remove broken links, main player can't fail, so no server switching needed. ✔️
-1. Site does not have episode auto-next. ❌
-1. Site feels dated, lots of room for improvement. ❌
-1. Site does not have watch lists, continue watching or history. ❌
-1. Has decent sorting options, but media discovery tools could be added. 🟡
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
 
 ***
