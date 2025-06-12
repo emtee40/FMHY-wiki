@@ -273,6 +273,20 @@ Community Favorites: 🌟🌟
 1. Has watch parties, but its just screen sharing plugin that doesn't work well. 🟡
 
 ***
+## Asgard Stream
+### Score: 16/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its (non-embed, Asgard Player) sources if they fail. ✔️
+1. Site does have episode auto-next on some servers. 🟡
+1. UI is very nice, feels modern and unique, one of the best. ✔️
+1. Site has watch lists, and you can login to sync them across devices. ✔️
+1. Site has good sorting options, franchise collections, and a AI recommendation bot. ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (Asgard Player). ✔️
+1. Site does not have watch parties. ❌
+
+***
 ## NetPlay
 ### Score: 15/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -388,20 +402,6 @@ Community Favorites: 🌟
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well and looks good on mobile. ✔️
 1. Site does have a custom player. ✔️
-1. Site does not have watch parties. ❌
-
-***
-## Asgard Stream
-### Score: 13/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. UI is very nice, feels modern and unique, one of the best. ✔️
-1. Site has watch lists, and you can login to sync them across devices. ✔️
-1. Site has good sorting options, franchise collections, and a AI recommendation bot. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
 
 ***
