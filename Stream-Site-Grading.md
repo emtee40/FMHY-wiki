@@ -110,6 +110,20 @@ Community Favorites: 🌟
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
+## Flixer
+### Score: 19/20
+1. Has movies, TV, anime, 1080p, and subtitles, but no adjustable quality. 🟡
+1. Auto-switches through all its sources if they fail. ✔️
+1. Site does have episode auto-next across all servers. ✔️
+1. Very nice UI, search works well, lots of user settings. ✔️
+1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Gives recommendations based on what a user watches or lists. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player. ✔️
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
+
+***
 ## FlickyStream
 ### Score: 18/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -154,20 +168,6 @@ Community Favorites: 🌟
 1. Must be used in landscape as its built for desktop, not mobile. 🟡
 1. Customized hybrid Artplayer + Fast Stream client, and a custom 4K player on some streams. ✔️
 1. Has built in watch parties, streams are synced, but are not controllable by both watchers. 🟡
-
-***
-## Flixer
-### Score: 18/20
-1. Has movies, TV, anime, 1080p, and subtitles, but no adjustable quality. 🟡
-1. Auto-switches through all its sources if they fail. ✔️
-1. Site does have episode auto-next across all servers. ✔️
-1. Very nice UI, search works well, lots of user settings. ✔️
-1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Gives recommendations based on what a user watches or lists. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
-1. Has built in watch parties, but time is unsynced, and stream is not controllable by both watchers. 🟡
 
 ***
 ## VidBox
