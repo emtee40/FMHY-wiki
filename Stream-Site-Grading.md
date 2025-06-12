@@ -475,6 +475,20 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
+## Movies7
+### Score: 12/20
+1. Has movies, TV, 1080p, subtitles, adjustable quality, but no anime. 🟡
+1. They remove broken links, main player can't fail, so no server switching needed. ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites UI is decent but has for for improvement. 🟡
+1. Site does have watch lists, but they can't be synced across devices. 🟡
+1. Has decent sorting options, but media discovery tools could be added. 🟡
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+1. Site does not have watch parties. ❌
+
+***
 ## RedFlix
 ### Score 12/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -567,20 +581,6 @@ Community Favorites: 🌟
 1. Sites UI is good, feels very modern, shows results as you type. ✔️
 1. Site has continue watching, but you can't sync across devices. 🟡
 1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## Movies7
-### Score: 11/20
-1. Has movies, TV, 1080p, subtitles, adjustable quality, but no anime. 🟡
-1. They remove broken links, main player can't fail, so no server switching needed. ✔️
-1. Site does have episode auto-next. ✔️
-1. Sites UI is decent but has for for improvement. 🟡
-1. Site does not have watch lists, continue watching or history. ❌
-1. Has decent sorting options, but media discovery tools could be added. 🟡
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
