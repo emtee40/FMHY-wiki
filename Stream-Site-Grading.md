@@ -273,7 +273,7 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 Community Favorites: 🌟🌟
 
 ***
-## Mocine
+## Beech
 ### Score: 16/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
 1. Their server (on primary) has auto-switch built into all its servers. ✔️
