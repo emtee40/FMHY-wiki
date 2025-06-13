@@ -138,6 +138,20 @@ Community Favorites: 🌟
 1. Has built in watch parties (pstream), streams are synced, controllable by both watchers. ✔️
 
 ***
+## VeloraTV
+### Score:  19/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its sources if they fail. ✔️
+1. Site does have episode auto-next across all servers. ✔️
+1. Site has nice UI and feels modern. ✔️
+1. Site has continue watching and watch lists, and you can sync them across devices. ✔️
+1. Has AI for recommendations, mood based recs and good sorting. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Must be used in landscape as its built for desktop, not mobile. 🟡
+1. Customized hybrid Artplayer + Fast Stream client, and a custom 4K player on some streams. ✔️
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
+
+***
 ## FlickyStream
 ### Score: 18/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -168,20 +182,6 @@ Community Favorites: 🌟🌟🌟
 1. Has watch parties, but its just screen sharing plugin that doesn't work well. 🟡
 
 Community Favorites: 🌟
-
-***
-## VeloraTV
-### Score:  18/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its sources if they fail. ✔️
-1. Site does have episode auto-next across all servers. ✔️
-1. Site has nice UI and feels modern. ✔️
-1. Site has continue watching and watch lists, and you can sync them across devices. ✔️
-1. Has AI for recommendations, mood based recs and good sorting. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Must be used in landscape as its built for desktop, not mobile. 🟡
-1. Customized hybrid Artplayer + Fast Stream client, and a custom 4K player on some streams. ✔️
-1. Has built in watch parties, streams are synced, but are not controllable by both watchers. 🟡
 
 ***
 ## VidBox
@@ -243,6 +243,20 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 1. Site does not have watch parties. ❌
 
 ***
+## Asgard Stream
+### Score: 17/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its (non-embed, Asgard Player) sources if they fail. ✔️
+1. Site does have episode auto-next on some servers. 🟡
+1. UI is very nice, feels modern and unique, one of the best. ✔️
+1. Site has watch lists, and you can login to sync them across devices. ✔️
+1. Site has good sorting options, franchise collections, and a AI recommendation bot. ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (Asgard Player). ✔️
+1. Site has links to external watch party sites. 🟡
+
+***
 ## uira.live
 ### Score: 16/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -271,20 +285,6 @@ Community Favorites: 🌟🌟
 1. Site looks good + works well on mobile. ✔️
 1. Uses custom version of vidstack player (on primary). 🟡
 1. Has watch parties, but its just screen sharing plugin that doesn't work well. 🟡
-
-***
-## Asgard Stream
-### Score: 16/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its (non-embed, Asgard Player) sources if they fail. ✔️
-1. Site does have episode auto-next on some servers. 🟡
-1. UI is very nice, feels modern and unique, one of the best. ✔️
-1. Site has watch lists, and you can login to sync them across devices. ✔️
-1. Site has good sorting options, franchise collections, and a AI recommendation bot. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (Asgard Player). ✔️
-1. Site does not have watch parties. ❌
 
 ***
 ## NetPlay
