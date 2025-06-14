@@ -124,6 +124,20 @@ Community Favorites: 🌟
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
+## SpenFlix
+### Score: 20/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its (non-embed, first player) sources if they fail. ✔️
+1. Site does have episode auto-next across all servers (non-embed, first player). ✔️
+1. Sites UI is nice, feels very modern. ✔️
+1. Site has watch lists, and you can login to sync them across devices. ✔️
+1. Has decent sorting, AI recommendations, and collections. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (first player). ✔️
+1. Has built in watch parties (pstream), streams are synced, controllable by both watchers. ✔️
+
+***
 ## Flixer
 ### Score: 19/20
 1. Has movies, TV, anime, 1080p, and subtitles, but no adjustable quality. 🟡
@@ -136,20 +150,6 @@ Community Favorites: 🌟
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
-
-***
-## SpenFlix
-### Score: 19/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its (non-embed, first player) sources if they fail. ✔️
-1. Site does have episode auto-next across all servers (non-embed, first player). ✔️
-1. Sites UI is nice, feels very modern. ✔️
-1. Site has watch lists, and you can login to sync them across devices. ✔️
-1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (first player). ✔️
-1. Has built in watch parties (pstream), streams are synced, controllable by both watchers. ✔️
 
 ***
 ## FlickyStream
