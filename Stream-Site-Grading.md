@@ -685,20 +685,6 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
-## ZILLAXR
-### Score: 10/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does not have episode auto-next. ❌
-1. UI is very nice, very unique and search shows results as you type. ✔️
-1. Site has watchlists + continue watching. ✔️
-1. Site has sorting options, but a bit more could be added for discoverability. 🟡
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
 ## Cinema Deck
 ### Score: 10/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
