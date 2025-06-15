@@ -334,6 +334,12 @@ Useful if you're a coffee enthusiast. The methods are created by James Hoffmann,
 
 ***
 
+#### V2Nodes
+
+Note that servers are all community sourced, so do not use with sensitive data, or ideally just self-host if you can.
+
+***
+
 #### Tautulli Note
 
 This will sometimes get falsely flagged by defender and removed automatically, so it may need to be allowed manually.
@@ -464,10 +470,4 @@ Official domains: `https://www.yifystatus.com`
 #### Hola Proxy Note
 
 ![image](https://github.com/user-attachments/assets/dd5c41e5-4951-42fa-9359-686d812fbda2)
-
-***
-
-#### V2Nodes
-
-Note that servers are all community sourced, so do not use with sensitive data.
 
