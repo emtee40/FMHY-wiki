@@ -464,3 +464,10 @@ Official domains: `https://www.yifystatus.com`
 #### Hola Proxy Note
 
 ![image](https://github.com/user-attachments/assets/dd5c41e5-4951-42fa-9359-686d812fbda2)
+
+***
+
+#### V2Nodes
+
+Note that servers are all community sourced, so do not use with sensitive data.
+
