@@ -552,7 +552,7 @@ Community Favorites: 🌟
 1. Site does have episode auto-next on some servers. 🟡
 1. UI is very nice, feels modern and feature-rich, one of the best. ✔️
 1. The site has continue watching and watch lists, but they cannot be synced across devices. 🟡
-1. Site has decent sorting but is otherwise lacking in terms of content discoverability. 🟡
+1. Site has decent sorting and a random button, but is otherwise lacking in terms of content discoverability. 🟡
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
