@@ -82,6 +82,20 @@ Community Favorites: 🌟🌟🌟🌟
 Community Favorites: 🌟
 
 ***
+## VeloraTV
+### Score:  20/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its sources if they fail. ✔️
+1. Site does have episode auto-next across all servers. ✔️
+1. Site has nice UI and feels modern. ✔️
+1. Site has continue watching and watch lists, and you can sync them across devices. ✔️
+1. Has AI for recommendations, mood based recs and good sorting. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Customized hybrid Artplayer + Fast Stream client, and a custom 4K player on some streams. ✔️
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
+
+***
 ## Bludclart
 ### Score: 20/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -107,20 +121,6 @@ Community Favorites: 🌟
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (third player). ✔️
-1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
-
-***
-## VeloraTV
-### Score:  20/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its sources if they fail. ✔️
-1. Site does have episode auto-next across all servers. ✔️
-1. Site has nice UI and feels modern. ✔️
-1. Site has continue watching and watch lists, and you can sync them across devices. ✔️
-1. Has AI for recommendations, mood based recs and good sorting. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Customized hybrid Artplayer + Fast Stream client, and a custom 4K player on some streams. ✔️
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
