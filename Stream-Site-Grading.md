@@ -405,6 +405,20 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
+## Qstream
+### Score: 13/20
+1. Has movies, TV, anime, 1080p, adjustable quality (server 2), and subtitles. ✔️
+1. Auto-switches through all its sources if they fail. ✔️
+1. Site does not have episode auto-next. ❌
+1. UI is good, feels clean and modern. ✔️
+1. Site has watch lists and continue watching, but you cannot be synced across devices. 🟡
+1. Site gives recommendations on each movies page, has rec tool, and recs based on what you watch. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+1. Site does not have watch parties. ❌
+
+***
 ## Maxflix
 ### Score: 13/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -710,20 +724,6 @@ Community Favorites: 🌟
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does have a custom player. ✔️
-1. Site does not have watch parties. ❌
-
-***
-## Qstream
-### Score: 10/20
-1. Has movies, TV, anime, 1080p, and subtitles, but no adjustable quality. 🟡
-1. Auto-switches through all its sources if they fail. ✔️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is alright but has room for improvement. 🟡
-1. Site has watch lists and continue watching, but you cannot be synced across devices. 🟡
-1. Site gives recommendations on each movies page, but is otherwise lacking content discoverability. 🟡
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
 
 ***
