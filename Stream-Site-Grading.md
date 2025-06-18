@@ -317,6 +317,20 @@ Community Favorites: 🌟🌟
 Community Favorites: 🌟🌟🌟
 
 ***
+## Qstream
+### Score: 14/20
+1. Has movies, TV, anime, 1080p, adjustable quality (server 2), and subtitles. ✔️
+1. Auto-switches through all its sources if they fail. ✔️
+1. Site does not have episode auto-next. ❌
+1. UI is good, feels clean and modern. ✔️
+1. Site has watch lists and continue watching, and they can be synced via code across devices. ✔️
+1. Site gives recommendations on each movies page, has rec tool, and recs based on what you watch. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+1. Site does not have watch parties. ❌
+
+***
 ## MovieMaze
 ### Score: 14/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -402,20 +416,6 @@ Community Favorites: 🌟
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well and looks good on mobile. ✔️
 1. Site does have a custom player. ✔️
-1. Site does not have watch parties. ❌
-
-***
-## Qstream
-### Score: 13/20
-1. Has movies, TV, anime, 1080p, adjustable quality (server 2), and subtitles. ✔️
-1. Auto-switches through all its sources if they fail. ✔️
-1. Site does not have episode auto-next. ❌
-1. UI is good, feels clean and modern. ✔️
-1. Site has watch lists and continue watching, but you cannot be synced across devices. 🟡
-1. Site gives recommendations on each movies page, has rec tool, and recs based on what you watch. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
 
 ***
