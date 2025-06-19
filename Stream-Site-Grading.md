@@ -229,7 +229,7 @@ Community Favorites: 🌟
 
 ***
 ## Beech
-### Score: 17/20
+### Score: 18/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
 1. Their server (on primary) has auto-switch built into all its servers. ✔️
 1. Site does have episode auto-next on some servers. 🟡
@@ -238,7 +238,7 @@ Community Favorites: 🌟
 1. Site has collections, decent sorting, and random AI suggestions. ✔️
 1. Disabling ads removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
-1. Uses custom version of vidstack player (on primary). 🟡
+1. Site does have a custom player (beech player). ✔️
 1. Has watch parties, but its just screen sharing plugin that doesn't work well. 🟡
 
 ***
