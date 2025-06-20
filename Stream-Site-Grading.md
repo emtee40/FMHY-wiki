@@ -260,8 +260,8 @@ Community Favorites: 🌟
 ## Beech
 ### Score: 17/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Their server (on primary) has auto-switch built into all its servers. ✔️
 1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on its non-embed beechplayer. ✔️
 1. UI is nice, feels modern, search shows results as you type. ✔️
 1. Site has watch lists + favorites, and they can be synced across devices. ✔️
 1. Site has sorting, and when you login + rate items it'll give you recs based on those. ✔️
