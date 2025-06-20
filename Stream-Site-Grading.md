@@ -257,20 +257,6 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
-## Beech
-### Score: 17/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Their server (on primary) has auto-switch built into all its servers. ✔️
-1. Site does have episode auto-next on non-embed (beech player.) ✔️
-1. UI is nice, feels modern, search shows results as you type. ✔️
-1. Site has watch lists + favorites, and they can be synced across devices. ✔️
-1. Site has sorting, but is otherwise lacking content discoverability. 🟡
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (beech player). ✔️
-1. Has watch parties, but its just screen sharing plugin that doesn't work well. 🟡
-
-***
 ## uira.live
 ### Score: 16/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -299,6 +285,20 @@ Community Favorites: 🌟🌟
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 1. Site does not have watch parties. ❌
+
+***
+## Beech
+### Score: 15/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Their server (on primary) has auto-switch built into all its servers. ✔️
+1. Does not auto-switch if one source fails. ❌
+1. UI is nice, feels modern, search shows results as you type. ✔️
+1. Site has watch lists + favorites, and they can be synced across devices. ✔️
+1. Site has sorting, but is otherwise lacking content discoverability. 🟡
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (beech player). ✔️
+1. Has watch parties, but its just screen sharing plugin that doesn't work well. 🟡
 
 ***
 ## Nunflix
