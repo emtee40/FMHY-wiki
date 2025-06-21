@@ -8,6 +8,8 @@
 
 [fmhy.vercel.app](https://fmhy.vercel.app/)
 
+[fmhy.github.io](https://fmhy.github.io/edit/)
+
 [Selfhosting Guide](https://fmhy.net/other/selfhosting)
 
 ***
