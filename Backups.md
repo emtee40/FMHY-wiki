@@ -10,6 +10,8 @@
 
 [fmhy.github.io](https://fmhy.github.io/edit/)
 
+[fmhy-search](https://fmhy-search.streamlit.app/)
+
 [Selfhosting Guide](https://fmhy.net/other/selfhosting)
 
 ***
