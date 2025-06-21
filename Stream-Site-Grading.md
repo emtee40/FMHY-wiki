@@ -179,7 +179,7 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 1. Disabling ads (switch on top of site) removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (beech player). ✔️
-1. Has watch parties, but its just screen sharing plugin that doesn't work well. 🟡
+1. Site has links to external watch party sites. 🟡
 
 ***
 ## FlickyStream
