@@ -741,20 +741,6 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
-## NextPlay
-### Score: 9/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is fine, but it and its player have room for improvement. 🟡
-1. Site does not have watch lists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
 ## ShowBox
 ### Score: 9/20
 1. Has movies, TV, anime, 1080p, subtitles, but no adjustable quality. 🟡
