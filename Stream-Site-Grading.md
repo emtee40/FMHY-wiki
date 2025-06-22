@@ -503,48 +503,6 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
-## RedFlix
-### Score 12/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is good, feels modern. ✔️
-1. The site has watch lists, but they can be synced across devices. ✔️
-1. Site has decent sorting, but is otherwise lacking content discoverability and sorting. 🟡
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## EnjoyTown
-### Score: 12/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is good, feels very modern. ✔️
-1. Site does not have watch lists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site works well and looks good on mobile. ✔️
-1. Custom version of movie-webs player. 🟡
-1. Site has links to external watch party sites. 🟡
-
-***
-## Hopfly
-### Score: 12/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does not have episode auto-next. ❌
-1. UI is alright but has room for improvements. 🟡
-1. Has watch lists and you can login to sync them across devices. ✔️
-1. Site has good sorting options, franchise collections, and a AI recommendation bot. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
 ## Purplix
 ### Score: 12/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -713,7 +671,7 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
-## Wooflix
+## 24Drama
 ### Score: 10/20
 1. Has movies, TV, anime, and subtitles, but no 1080p, or adjustable quality. 🟡
 1. They remove broken links, main player can't fail, so no server switching needed. ✔️
@@ -724,34 +682,6 @@ Community Favorites: 🌟
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does have a custom player. ✔️
-1. Site does not have watch parties. ❌
-
-***
-## FlixIndia
-### Score: 10/20
-1. Has movies, TV, anime, and subtitles, but no 1080p, or adjustable quality. 🟡
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is fine but has room for improvement. 🟡
-1. Site has watch history, but it cannot be synced across devices. 🟡
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Custom version of the Hexa player. 🟡
-1. Site does not have watch parties. ❌
-
-***
-## Watch2Me
-### Score: 10/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is fine but has room for improvement. 🟡
-1. The site has watch lists, but they cannot be synced across devices. 🟡
-1. Decent sorting options and random AI recommendations, but could use a bit more discovery options. 🟡
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
 
 ***
@@ -783,48 +713,6 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
-## YassFlix
-### Score: 9/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does not have episode auto-next. ❌
-1. Sites UI is good, feels modern and unique. ✔️
-1. Site does have watch lists, but they can't be synced across platforms. 🟡
-1. Site is lacking in terms of content discoverability. ❌
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## StigStream
-### Score: 9/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does not have episode auto-next. ❌
-1. Sites UI is good, feels very modern. ✔️
-1. Site has continue watching + history and you can login to sync them across devices. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## Flicker
-### Score: 9/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. UI is going for a minimal vibe, has room for improvement. 🟡
-1. Site does not have watch lists, continue watching or history. ❌
-1. Has collections and AI recommendations, but is still a bit lacking in terms of sorting. 🟡
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site works well and looks good on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
 ## MP4Hydra
 ### Score: 9/20
 1. Has movies, 1080p, and subtitles but no TV, anime or adjustable quality. 🟡
@@ -839,20 +727,6 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
-## AbleFlix
-### Score: 9/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does not have episode auto-next. ❌
-1. UI is decent but there's room for improvement. 🟡
-1. Site does have watch lists, but they can't be synced across devices. 🟡
-1. Site has some sorting options and gives homepage recommendations based on watched content. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site works well, but doesn't look too great on mobile. 🟡
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
 ## Nova
 ### Score: 9/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -863,20 +737,6 @@ Community Favorites: 🌟
 1. Has recommendations on movie pages, good sorting, a random button. 🟡
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## nKiri
-### Score: 9/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does not have episode auto-next. ❌
-1. Just a clone of Rive with less features and players. 🟡
-1. Site has watch lists and continue watching, and you can login to sync them across devices. ✔️
-1. Has decent sorting options, but content discovery tools or collections could be added. 🟡
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
 
@@ -951,104 +811,6 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
-## Watchroo
-### Score: 8/20
-1. Has movies, tv, anime, and subtitles, but no 1080p or adjustable quality. 🟡
-1. Has 2 sources but does not auto-switch when one fails. ❌
-1. Site does not have episode auto-next. ❌
-1. Site UI is good, feels modern and unique. ✔️
-1. Has continue watching + watch lists, and they can be synced across devices on login. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Uses a custom version of JW player. 🟡
-1. Site does not have watch parties. ❌
-
-***
-## FireFlix
-### Score: 8/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does not have episode auto-next. ❌
-1. Sites UI is decent but has for for improvement. 🟡
-1. Site has continue watching, but it cannot be synced across devices. 🟡
-1. Site has some sorting options, but more content discoverability options would be nice. 🟡
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## Let's Stream
-### Score: 8/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does not have episode auto-next. ❌
-1. Sites UI is alright but has room for improvement. 🟡
-1. Site has continue watching + watch lists, and you can login to sync them across devices. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## Mokmobi
-### Score: 8/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Has 13 servers, but does not auto-switch if ones fails. 🟡
-1. Site does not have episode auto-next. ❌
-1. Sites UI is alright but has room for improvement. 🟡
-1. Site does have watch lists, but you can't sync it across devices. 🟡
-1. Site has some sorting options, but more content discoverability options would be nice. 🟡
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## NET3LIX
-### Score: 8/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Has 19 sources, but does not autoswitch if one fails. 🟡
-1. Site does not have episode auto-next. ❌
-1. UI is decent but there's room for improvement. 🟡
-1. Site does not have watch lists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## ViewVault
-### Score: 8/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Has 4 servers, but does not auto-switch if ones fails. 🟡
-1. Site does not have episode auto-next. ❌
-1. UI doesn't really stand out much. ❌
-1. Site does have continue watching, and you can login to sync it across devices. ✔️
-1. Has decent sorting options, but not much in terms of media discovery tools. 🟡
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## Noxe
-### Score: 8/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. UI is decent but there's room for improvement. 🟡
-1. Site has favorites and continue watching, but you can't sync across devices. 🟡
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
 ## CineGo
 ### Score: 8/20
 1. Has movies, TV, 1080p, and subtitles but no anime or adjustable quality. 🟡
@@ -1119,20 +881,6 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
-## uFlix
-### Score 7/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Has 5 servers but does not auto-switch if one fails.  ❌
-1. Site does not have episode auto-next. ❌
-1. Site UI is alright but has room for improvement. 🟡
-1. Site does not have watch lists, continue watching or history. ❌
-1. Has decent sorting options, but not much in terms of media discovery tools. 🟡
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
 ## Movies4F
 ### Score 7/20
 1. Has movies, TV, anime, 1080p, and subtitles, but no adjustable quality. 🟡
@@ -1142,20 +890,6 @@ Community Favorites: 🌟
 1. Site does not have watch lists, continue watching or history. ❌
 1. Site has decent sorting but is otherwise lacking in terms of content discoverability. 🟡
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site works well, but doesn't look too great on mobile. 🟡
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## Netplex 
-### Score 7/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does not have episode auto-next. ❌
-1. Sites UI is fine but has room for improvement. 🟡
-1. Site does not have watch lists, continue watching or history. ❌
-1. Has decent sorting + AI recommendation system, but is otherwise lacking media discovery options. 🟡
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
@@ -1203,62 +937,6 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
-## CorsFlix
-### Score: 6/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does not have episode auto-next. ❌
-1. Sites UI is alright but has room for improvement. 🟡
-1. Site has watch lists, but you can't sync them across devices. 🟡
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Looks good but is slow to load on mobile. 🟡
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## YoYoMovies
-### Score: 6/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Has 4 servers, but does not auto-switch if ones fails. ❌
-1. Site does not have episode auto-next. ❌
-1. Sites UI is alright but has room for improvement. 🟡
-1. Site does not have watch lists, continue watching or history. ❌
-1. Has decent sorting options, but media discovery tools could be added. 🟡
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## SlideMovies
-### Score: 6/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Has 5 english and 3 non eng servers, but does not auto-switch when one fails. ❌
-1. Site does not have episode auto-next. ❌
-1. Sites UI has room for improvement. ❌
-1. Site has watch history and you can login to sync it across devices. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## Heartive
-### Score: 6/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does not have episode auto-next. ❌
-1. UI has a room for improvement. ❌
-1. Site has no watch lists, history or continue watching. ❌
-1. Site has no sorting or content discoverability options. ❌
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
 ## Soapy
 ### Score: 6/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -1283,34 +961,6 @@ Community Favorites: 🌟
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## zmov
-### Score: 6/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does not have episode auto-next. ❌
-1. UI is alright but has room for improvements. 🟡
-1. Site has watch lists and continue watching, but you can't sync them across devices. 🟡
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks okay but buffers sometimes on mobile. 🟡
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## Wovie
-### Score: 6/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does not have episode auto-next. ❌
-1. Sites UI is alright but has room for improvement. 🟡
-1. Site does not have watch lists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
 
@@ -1381,19 +1031,5 @@ Community Favorites: 🌟
 1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## downloads-anymovies
-### Score: 2/20
-1. Has movies and TV, but no anime, 1080p, adjustable quality, or subtitles. ❌
-1. Only 1 server which can be inconsistent. ❌
-1. Only has movies so does not need episode auto-next. 🟡
-1. Site feels dated, lots of room for improvement. ❌
-1. Site does not have watch lists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
