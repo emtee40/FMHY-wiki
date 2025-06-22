@@ -214,20 +214,6 @@ Community Favorites: 🌟🌟🌟
 Community Favorites: 🌟
 
 ***
-## Asgard Stream
-### Score: 18/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its (non-embed, Asgard Player) sources if they fail. ✔️
-1. Site does have episode auto-next on non-embed server (Asgard Player). ✔️
-1. UI is very nice, feels modern and unique, one of the best. ✔️
-1. Site has watch lists, and you can login to sync them across devices. ✔️
-1. Site has good sorting options, franchise collections, and a AI recommendation bot. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (Asgard Player). ✔️
-1. Site has links to external watch party sites. 🟡
-
-***
 ## VidBox
 ### Score: 18/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
