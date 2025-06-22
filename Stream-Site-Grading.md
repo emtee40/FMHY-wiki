@@ -727,7 +727,7 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
-## Nova
+## Nova / Altair
 ### Score: 9/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
 1. Some of its servers have auto-switch built in. 🟡
