@@ -4,6 +4,12 @@ You can use the same recognition model in youtube/ youtube music and google mobi
 
 ***
 
+#### Hugging Face Warning
+
+All links that use HuggingFace Spaces give 120 seconds of GPU time per day without account, and 300 seconds with an account.
+
+***
+
 #### Malware Removal Forums
 
 Note that they'll likely suggest removing pirated software
