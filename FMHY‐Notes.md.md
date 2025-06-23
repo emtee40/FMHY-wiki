@@ -6,7 +6,7 @@ You can use the same recognition model in youtube/ youtube music and google mobi
 
 #### Hugging Face Warning
 
-All links that use HuggingFace Spaces give 120 seconds of GPU time per day without account, and 300 seconds with an account.
+HuggingFace uses a system called ZeroGPU to manage access to their high-end GPUs. To make sure that their GPUs don't get fully used up, they have rate limits on how long you can use the GPU on Spaces that utilize ZeroGPU. Default is 120 seconds daily for non-logged in users. If you sign up for a free account, you get a much higher 300 second rate limit. You can get around this by using VPNs and proxies while logged out. 
 
 ***
 
