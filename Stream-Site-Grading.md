@@ -90,7 +90,7 @@ Community Favorites: 🌟
 1. Site has nice UI and feels modern. ✔️
 1. Site has continue watching and watch lists, and you can sync them across devices. ✔️
 1. Has AI for recommendations, mood based recs and good sorting. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Disabling ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Customized hybrid Artplayer + Fast Stream client, and a custom 4K player on some streams. ✔️
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
