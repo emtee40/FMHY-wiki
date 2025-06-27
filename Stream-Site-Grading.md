@@ -18,7 +18,7 @@
 * We also poll high-ranking members for their favorites. These votes don't affect main scores, but they are used for breaking ties. Votes are represented by a 🌟.
 
 ***
-## movie-web Instances
+## P-Stream / movie-web 
 ### Score: 20/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
 1. Auto-switches through all its sources if they fail. ✔️
