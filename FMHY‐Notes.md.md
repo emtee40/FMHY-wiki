@@ -327,6 +327,12 @@ Its not recommended to use these unless you know what you're doing. Always resea
 
 ***
 
+#### VLC Note
+
+Though VLC is easy to set up and contains many features, it also has some [issues](https://rentry.org/vee-ell-cee) out of the box that other options like MPV / MPC don't.
+
+***
+
 #### SavePageWe
 
 * https://addons.mozilla.org/en-US/firefox/addon/save-page-we/
@@ -476,4 +482,3 @@ Official domains: `https://www.yifystatus.com`
 #### Hola Proxy Note
 
 ![image](https://github.com/user-attachments/assets/dd5c41e5-4951-42fa-9359-686d812fbda2)
-
