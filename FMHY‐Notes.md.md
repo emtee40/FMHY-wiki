@@ -327,12 +327,6 @@ Its not recommended to use these unless you know what you're doing. Always resea
 
 ***
 
-#### VLC Note
-
-Though VLC is easy to set up and contains many features, it also has some [issues](https://rentry.org/vee-ell-cee) out of the box that other options like MPV / MPC don't.
-
-***
-
 #### SavePageWe
 
 * https://addons.mozilla.org/en-US/firefox/addon/save-page-we/
