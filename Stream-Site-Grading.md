@@ -643,6 +643,20 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
+## TheStreamHub
+### Score: 10/20
+1. Has movies, TV, 1080p, subtitles, and adjustable quality, but no anime. 🟡
+1. Only has 1 source, so it can't auto-switch when they fail, and dead links aren't removed. ❌
+1. Site does have episode auto-next across all servers. ✔️
+1. UI is very minimal, has lots of room for improvement. ❌
+1. Site does not have watch lists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site works well, but doesn't look too great on mobile. 🟡
+1. Site does have a custom player. ✔️
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
+
+***
 ## RidoMovies
 ### Score: 10/20
 1. Has movies, TV, and subtitles, but no anime, 1080p or adjustable quality. 🟡
@@ -836,20 +850,6 @@ Community Favorites: 🌟
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## TheStreamHub
-### Score: 8/20
-1. Has movies, TV, 1080p, subtitles, and adjustable quality, but no anime. 🟡
-1. Only has 1 source, so it can't auto-switch when they fail, and dead links aren't removed. ❌
-1. Site does have episode auto-next across all servers. ✔️
-1. UI is very minimal, has lots of room for improvement. ❌
-1. Site does not have watch lists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site works well, but doesn't look too great on mobile. 🟡
-1. Site does have a custom player. ✔️
 1. Site does not have watch parties. ❌
 
 ***
