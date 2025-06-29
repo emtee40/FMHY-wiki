@@ -841,7 +841,7 @@ Community Favorites: 🌟
 ***
 ## TheStreamHub
 ### Score: 8/20
-1. Has movies, TV, 1080p, and adjustable quality but no anime or subtitles. 🟡
+1. Has movies, TV, 1080p, subtitles, and adjustable quality, but no anime. 🟡
 1. Only has 1 source, so it can't auto-switch when they fail, and dead links aren't removed. ❌
 1. Site does have episode auto-next across all servers. ✔️
 1. UI is very minimal, has lots of room for improvement. ❌
