@@ -839,6 +839,20 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
+## TheStreamHub
+### Score: 8/20
+1. Has movies, TV, 1080p, and adjustable quality but no anime or subtitles. 🟡
+1. Only has 1 source, so it can't auto-switch when they fail, and dead links aren't removed. ❌
+1. Site does have episode auto-next across all servers. ✔️
+1. UI is very minimal, has lots of room for improvement. ❌
+1. Site does not have watch lists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site works well, but doesn't look too great on mobile. 🟡
+1. Site does have a custom player. ✔️
+1. Site does not have watch parties. ❌
+
+***
 ## PrimeWire
 ### Score: 7/20
 1. Has movies, TV, anime, 1080p, but no adjustable quality, or subtitles. 🟡
