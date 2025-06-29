@@ -275,7 +275,7 @@ Community Favorites: 🌟🌟
 ***
 ## StreamHub
 ### Score: 16/20
-1. Has movies, TV, anime, 1080p, subtitles, and adjustable quality. ✔️
+1. Has movies, TV, anime, 1080p, subtitles, and adjustable quality + auto switch to best quality. ✔️
 1. 1 server that uses many sources, so most links generally work. 🟡
 1. Site does have episode auto-next across all servers. ✔️
 1. UI is very minimal, has lots of room for improvement. ❌
