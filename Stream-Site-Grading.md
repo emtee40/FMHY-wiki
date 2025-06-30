@@ -228,6 +228,20 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
+## StreamHub
+### Score: 18/20
+1. Has movies, TV, anime, 1080p, subtitles, and adjustable quality + auto switch to best quality. ✔️
+1. 1 server that uses many sources, so most links generally work. 🟡
+1. Site does have episode auto-next across all servers. ✔️
+1. Both the sites UI and its player are very nice and modern feeling. ✔️
+1. Site has watch lists and continue watching, and they can be synced via code across devices. ✔️
+1. Gives recommendations based on what a user watches or lists. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site works well, but doesn't look too great on mobile. 🟡
+1. Site does have a custom player. ✔️
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
+
+***
 ## Vidora
 ### Score: 17/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -271,20 +285,6 @@ Community Favorites: 🌟
 1. Site has links to external watch party sites. 🟡
 
 Community Favorites: 🌟🌟
-
-***
-## StreamHub
-### Score: 16/20
-1. Has movies, TV, anime, 1080p, subtitles, and adjustable quality + auto switch to best quality. ✔️
-1. 1 server that uses many sources, so most links generally work. 🟡
-1. Site does have episode auto-next across all servers. ✔️
-1. UI is very minimal, has lots of room for improvement. ❌
-1. Site has watch lists and continue watching, and they can be synced via code across devices. ✔️
-1. Gives recommendations based on what a user watches or lists. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site works well, but doesn't look too great on mobile. 🟡
-1. Site does have a custom player. ✔️
-1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
 ## NetPlay
