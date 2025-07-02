@@ -16,16 +16,6 @@ Note that they'll likely suggest removing pirated software
 
 ***
 
-####  NovelAI Bypass
-
-Bypass NovelAI client-side non-account trial limit, mostly just to not have to reset your browser session each time
-
-`localStorage.setItem('localTrialState2', btoa((Number.MAX_SAFE_INTEGER).toString()))`
-
-There will still be IP quota limits, but it's fairly lenient (imo) and if you don't have IPv6 (i think???) then Cloudflare WARP will mask your IP with theirs
-
-***
-
 #### Buzzheavier Warning
 
 Make sure you have a adblocker when using Buzzheavier as there are hidden ads on download pages with malicious content. Both the download button and torrent buttons should automatically start a download in your browser, NOT redirect you to another page.
