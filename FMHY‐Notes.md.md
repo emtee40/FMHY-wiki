@@ -440,18 +440,6 @@ Supported devices (Latest experimental) => `https://openrgb.org/devices.html`
 
 ***
 
-#### Vidplay Note
-
-Note this site has a similar design to hydra but different sources
-
-***
-
-#### watch.inzi Note
-
-Version of Rive w/ alt servers
-
-***
-
 #### LightDLMovies Note
 
 LightDLMovies is known for having popups / redirects, make sure you have an adblocker enabled when using the site
