@@ -230,7 +230,7 @@ If you want to download the files, you need to send the screenshot that you subs
 
 #### Steam Controller Support
 
-Steam has built in support for ps4 controllers, just add your games to steam, right click the game, and turn on your controller
+Steam has built in support for most controller types, just add your games to steam, right click the game, and turn on your controller
 
 ***
 
