@@ -401,6 +401,16 @@ Don't install all at once, only get the drivers you actually need, getting them 
 
 ***
 
+#### Buster Note
+
+The client app simulates user interactions which greatly improves the success rate of buster. You can download the app through the extensions option page, or get it from the link below: 
+
+https://github.com/dessant/buster-client
+
+The app is available for Windows, Linux, and macOS
+
+***
+
 #### Dolby Access / Atmos Note
 
 Many headsets come with Dolby Access for free without really letting users know. You can check if you're licensed by opening Dolby Access, going to settings, and looking in the [bottom right corner](https://i.imgur.com/9vJA6CL.png). Its much better than things like iCue or similar apps.
