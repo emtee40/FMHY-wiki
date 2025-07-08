@@ -6,8 +6,6 @@
 
 [fmhy.lol](https://fmhy.lol/)
 
-[fmhy.github.io](https://fmhy.github.io/edit/)
-
 [fmhy.vercel.app](https://fmhy.vercel.app/)
 
 [fmhy-search](https://fmhy-search.streamlit.app/)
