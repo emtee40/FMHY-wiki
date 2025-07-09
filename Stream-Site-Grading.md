@@ -257,22 +257,6 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
-## uira.live
-### Score: 16/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. UI is nice, feels modern, search shows results as you type. ✔️
-1. Site does have watch lists and you can login to sync them across devices. ✔️
-1. Site has decent sorting, community favorites, award winning and trending lists. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker using "ad-free sources." ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Custom version of movie-web player. 🟡
-1. Site has links to external watch party sites. 🟡
-
-Community Favorites: 🌟🌟
-
-***
 ## NetPlay
 ### Score: 15/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
