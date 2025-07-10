@@ -244,7 +244,7 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
-## NetPlay
+## Netplay
 ### Score: 15/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
 1. Auto-switches through all its sources if they fail. ✔️
