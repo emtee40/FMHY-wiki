@@ -880,20 +880,6 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
-## PressPlay
-### Score 7/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Has 4 servers, but does not auto-switch if ones fails. ❌
-1. Site does not have episode auto-next. ❌
-1. UI is decent but has room for improvement. 🟡
-1. Site does have watch lists, and you can login to sync them across devices. ✔️
-1. Has sorting options and some collections, but overall content discovery tools could be added / improved. 🟡
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site works well, but doesn't look too great on mobile. 🟡
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
 ## FshareTV
 ### Score 7/20
 1. Has TV, anime, 1080p, adjustable quality, and subtitles, but no movies. 🟡
