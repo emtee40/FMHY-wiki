@@ -229,20 +229,6 @@ Community Favorites: 🌟
 1. Site does not have watch parties. ❌
 
 ***
-## Vidora
-### Score: 17/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its sources if they fail. ✔️
-1. Site does have episode auto-next across all servers. ✔️
-1. Sites UI is good, feel modern and unique. ✔️
-1. Has history + watch lists, and they can be synced across devices. ✔️
-1. Has mood based recommendations, community favorites, collections, and decent sorting. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Custom version of the Hexa player. 🟡
-1. Site does not have watch parties. ❌
-
-***
 ## Willow
 ### Score: 17/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
