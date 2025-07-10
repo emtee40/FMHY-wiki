@@ -477,7 +477,7 @@ Community Favorites: 🌟
 ## Movies7
 ### Score: 12/20
 1. Has movies, TV, 1080p, subtitles, adjustable quality, but no anime. 🟡
-1. They remove broken links, main player can't fail, so no server switching needed. ✔️
+1. They remove broken links from own api, main player can't fail, so no server switching needed. ✔️
 1. Site does have episode auto-next. ✔️
 1. Sites UI is decent but has for for improvement. 🟡
 1. Site does have watch lists, but they can't be synced across devices. 🟡
