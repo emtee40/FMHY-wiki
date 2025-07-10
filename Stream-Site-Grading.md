@@ -152,6 +152,20 @@ Community Favorites: 🌟
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
+## Beech
+### Score: 20/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its (non-embed, beech player) sources if they fail. ✔️
+1. Site does have episode auto-next on its non-embed beech player. ✔️
+1. UI is nice, feels modern, search shows results as you type. ✔️
+1. Site has watch lists + favorites, and they can be synced across devices. ✔️
+1. Site has sorting, and when you login + rate items it'll give you recs based on those. ✔️
+1. Disabling ads (switch on top of site) removes new tab/window popups, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (beech player). ✔️
+1. Site does have custom watch parties. ✔️
+
+***
 ## Rive
 ### Score: 19/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -166,20 +180,6 @@ Community Favorites: 🌟
 1. Site has links to external watch party sites. 🟡
 
 Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
-
-***
-## Beech
-### Score: 19/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its (non-embed, beech player) sources if they fail. ✔️
-1. Site does have episode auto-next on its non-embed beech player. ✔️
-1. UI is nice, feels modern, search shows results as you type. ✔️
-1. Site has watch lists + favorites, and they can be synced across devices. ✔️
-1. Site has sorting, and when you login + rate items it'll give you recs based on those. ✔️
-1. Disabling ads (switch on top of site) removes new tab/window popups, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (beech player). ✔️
-1. Site does has external watch parties. 🟡
 
 ***
 ## FlickyStream
