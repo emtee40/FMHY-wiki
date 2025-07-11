@@ -288,20 +288,6 @@ Community Favorites: 🌟🌟🌟
 1. Site does not have watch parties. ❌
 
 ***
-## MovieMaze
-### Score: 14/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is good, feel modern and unique. ✔️
-1. Site has watch lists + history, and you can login to sync them across devices. ✔️
-1. Has decent sorting options, and AI bot, history recommendations. ✔️
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (first player). ✔️
-1. Site does not have watch parties. ❌
-
-***
 ## EE3
 ### Score: 14/20
 1. Has movies, 1080p, and subtitles, but no adjustable quality, TV, or anime. 🟡
