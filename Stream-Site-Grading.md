@@ -104,7 +104,7 @@ Community Favorites: 🌟
 1. UI is nice, feels modern, search shows results as you type. ✔️
 1. Site has watch lists + favorites, and they can be synced across devices. ✔️
 1. Site has sorting, and when you login + rate items it'll give you recs based on those. ✔️
-1. Disabling ads (switch on top of site) removes new tab/window popups, can be used without an adblocker. ✔️
+1. Disabling ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (beech player). ✔️
 1. Site does have custom watch parties. ✔️
