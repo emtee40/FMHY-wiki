@@ -15,7 +15,6 @@
 ❌= 0 points
 
 * Keep in mind that requirements for each criteria, as well as new criteria, will sometimes be added or adjusted if we feel it's needed.
-* We also poll high-ranking members for their favorites. These votes don't affect main scores, but they are used for breaking ties. Votes are represented by a 🌟.
 
 ***
 ## P-Stream / movie-web 
@@ -31,8 +30,6 @@
 1. Site does have a custom player. ✔️
 1. Has built in watch parties (pstream), streams are synced, controllable by both watchers. ✔️
 
-Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
-
 ***
 ## Cineby 
 ### Score: 20/20
@@ -46,8 +43,6 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟�
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
-
-Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
 ***
 ## Hexa
@@ -63,8 +58,6 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 1. Site does have a custom player. ✔️
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
-Community Favorites: 🌟🌟🌟🌟
-
 ***
 ## xPrime
 ### Score: 20/20
@@ -78,8 +71,6 @@ Community Favorites: 🌟🌟🌟🌟
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
-
-Community Favorites: 🌟
 
 ***
 ## VeloraTV
@@ -179,8 +170,6 @@ Community Favorites: 🌟
 1. Site does use artplayer, but its a totally unique fork of the project they maintain themselves. ✔️
 1. Site has links to external watch party sites. 🟡
 
-Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
-
 ***
 ## FlickyStream
 ### Score: 18/20
@@ -195,8 +184,6 @@ Community Favorites: 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 1. Site does have a custom player (second player). ✔️
 1. Has watch parties, but its just screen sharing plugin that doesn't work well. 🟡
 
-Community Favorites: 🌟🌟🌟
-
 ***
 ## 1Shows
 ### Score: 18/20
@@ -210,9 +197,6 @@ Community Favorites: 🌟🌟🌟
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ✔️
 1. Has watch parties, but its just screen sharing plugin that doesn't work well. 🟡
-
-Community Favorites: 🌟
-
 
 ***
 ## VidBox
@@ -271,8 +255,6 @@ Community Favorites: 🌟
 1. Custom version of artplayer.js. 🟡
 1. Has built in watch parties, streams are synced, but are not controllable by both watchers. 🟡
 
-Community Favorites: 🌟🌟🌟
-
 ***
 ## Qstream
 ### Score: 14/20
@@ -315,8 +297,6 @@ Community Favorites: 🌟🌟🌟
 1. Customized version of artplayer.js. 🟡
 1. Site does not have watch parties. ❌
 
-Community Favorites: 🌟🌟🌟🌟🌟
-
 ***
 ## PopcornMovies
 ### Score: 13/20
@@ -330,8 +310,6 @@ Community Favorites: 🌟🌟🌟🌟🌟
 1. Site looks good + works well on mobile. ✔️
 1. Uses custom version of vidstack player. 🟡
 1. Site does not have watch parties. ❌
-
-Community Favorites: 🌟
 
 ***
 ## Vidjoy
