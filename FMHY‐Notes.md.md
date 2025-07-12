@@ -18,8 +18,10 @@ Note that they'll likely suggest removing pirated software
 
 #### Revenge Note
 
+**Required**
+
 - Go to settings then about and tap 10 times on the version number 
-- That will enable developer settings then put 287013 as discord version
+- That will enable developer settings then put 287013 as discord version (latest supported version)
 
 ***
 
