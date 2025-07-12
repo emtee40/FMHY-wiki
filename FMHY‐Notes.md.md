@@ -16,6 +16,13 @@ Note that they'll likely suggest removing pirated software
 
 ***
 
+#### Revenge Note
+
+- Go to settings then about and tap 10 times on the version number 
+- That will enable developer settings then put 287013 as discord version
+
+***
+
 #### Buzzheavier Warning
 
 Make sure you have a adblocker when using Buzzheavier as there are hidden ads on download pages with malicious content. Both the download button and torrent buttons should automatically start a download in your browser, NOT redirect you to another page.
