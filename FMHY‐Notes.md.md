@@ -369,6 +369,12 @@ or pressing download on the FileZilla website, and then clicking "additional dow
 
 ***
 
+#### Oblivion Translate
+
+To translate to English, click the button at the bottom of the app, and select the top option.
+
+***
+
 #### Alt Twitch Player Extensions
 
 * https://addons.mozilla.org/en-US/firefox/addon/twitch_5/
