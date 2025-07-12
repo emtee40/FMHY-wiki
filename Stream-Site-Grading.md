@@ -17,20 +17,6 @@
 * Keep in mind that requirements for each criteria, as well as new criteria, will sometimes be added or adjusted if we feel it's needed.
 
 ***
-## P-Stream / movie-web 
-### Score: 20/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its sources if they fail. ✔️
-1. Site does have episode auto-next across all servers. ✔️
-1. Very nice UI, search works well, lots of user settings. ✔️
-1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Site has good sorting + random suggestions and editor picks. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
-1. Has built in watch parties (pstream), streams are synced, controllable by both watchers. ✔️
-
-***
 ## Cineby 
 ### Score: 20/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -45,18 +31,18 @@
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
-## Hexa
+## P-Stream / movie-web 
 ### Score: 20/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
 1. Auto-switches through all its sources if they fail. ✔️
 1. Site does have episode auto-next across all servers. ✔️
-1. UI is very nice, feels modern and unique, one of the best. ✔️
+1. Very nice UI, search works well, lots of user settings. ✔️
 1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Has sorting options, collections, and recommendations on frontpage. ✔️
-1. Disabling ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
+1. Site has good sorting + random suggestions and editor picks. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
-1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
+1. Has built in watch parties (pstream), streams are synced, controllable by both watchers. ✔️
 
 ***
 ## xPrime
@@ -84,6 +70,34 @@
 1. Disabling ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Customized hybrid Artplayer + Fast Stream client, and a custom 4K player on some streams. ✔️
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
+
+***
+## SpenFlix
+### Score: 20/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its (non-embed, first player) sources if they fail. ✔️
+1. Site does have episode auto-next across all servers (non-embed, first player). ✔️
+1. Sites UI is nice, feels very modern. ✔️
+1. Site has watch lists, and you can login to sync them across devices. ✔️
+1. Has decent sorting, AI recommendations, and collections. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (first player). ✔️
+1. Has built in watch parties (pstream), streams are synced, controllable by both watchers. ✔️
+
+***
+## Hexa
+### Score: 20/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its sources if they fail. ✔️
+1. Site does have episode auto-next across all servers. ✔️
+1. UI is very nice, feels modern and unique, one of the best. ✔️
+1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Has sorting options, collections, and recommendations on frontpage. ✔️
+1. Disabling ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player. ✔️
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
@@ -127,20 +141,6 @@
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (third player). ✔️
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
-
-***
-## SpenFlix
-### Score: 20/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its (non-embed, first player) sources if they fail. ✔️
-1. Site does have episode auto-next across all servers (non-embed, first player). ✔️
-1. Sites UI is nice, feels very modern. ✔️
-1. Site has watch lists, and you can login to sync them across devices. ✔️
-1. Has decent sorting, AI recommendations, and collections. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (first player). ✔️
-1. Has built in watch parties (pstream), streams are synced, controllable by both watchers. ✔️
 
 ***
 ## Flixer
