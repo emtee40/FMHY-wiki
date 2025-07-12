@@ -317,7 +317,7 @@
 
 ## ▷ Classics / Public Domain
 
-* ⭐ **[Internet Archive](https://archive.org/details/moviesandfilms)** - Movies & TV Categories
+* ⭐ **[Internet Archive](https://archive.org/details/moviesandfilms)** - Classic / Silent Films
 * [Classic Cinema Online](https://classiccinemaonline.com/) - Classic Films
 * [ClassixApp](https://www.classixapp.com/) - Classic Films
 * [BnWMovies](https://bnwmovies.com/) - Classic Films
