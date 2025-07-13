@@ -115,20 +115,6 @@
 1. Site does have custom watch parties. ✔️
 
 ***
-## Bludclart
-### Score: 20/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its sources if they fail. ✔️
-1. Site does have episode auto-next across all servers. ✔️
-1. Both the sites UI and its player are very nice and modern feeling. ✔️
-1. Has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Has sorting options, collections, and personal recommendations under mybludchart. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
-1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
-
-***
 ## Cinemaos
 ### Score: 20/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
