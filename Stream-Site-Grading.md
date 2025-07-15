@@ -207,7 +207,6 @@
 1. UI is good, feels very modern and search shows results as you type. ✔️
 1. Site has bookmarks and watch history, and they can be synced across devices. ✔️
 1. Has a good sorting page with network collections / trending, but could use a bit more in terms of discovery. 🟡
-1. Site is lacking in terms of content discoverability and sorting. ❌
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
