@@ -591,20 +591,6 @@
 1. Site does not have watch parties. ❌
 
 ***
-## Cinema Deck
-### Score: 10/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. UI is decent but there's room for improvement. 🟡
-1. Site has watch lists, and you can login to sync them across devices.  ✔️
-1. Site has has good sorting options but is otherwise lacking content discoverability options. 🟡
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
 ## 24Drama
 ### Score: 10/20
 1. Has movies, TV, anime, and subtitles, but no 1080p, or adjustable quality. 🟡
