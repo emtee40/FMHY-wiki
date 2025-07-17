@@ -555,7 +555,7 @@
 1. Some of its servers have auto-switch built in. 🟡
 1. Site does have episode auto-next on some servers. 🟡
 1. Sites UI feels very modern and unique, stands out compared to others. ✔️
-1. The site has watch lists, and you can login to sync them across devices. ✔️
+1. Site has continue watching + watch lists, and you can login to sync them across devices. ✔️
 1. Has random recommendation button, and collections, and solid sorting options. ✔️
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. 🟡
