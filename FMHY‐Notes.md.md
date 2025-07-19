@@ -98,6 +98,14 @@ The site is safe, but they are known for mislabeling things like RockMods releas
 
 ***
 
+#### TinyURL Note
+
+To reveal the destination URL, replace "www" with "preview" in the URL like so:
+ 
+https://preview.tinyurl.com/5erwtst5
+
+***
+
 #### Sport7
 
 Note that many sites use this player, but Sport7 / USTVGo are their main sites.
