@@ -409,6 +409,20 @@
 1. Site does not have watch parties. ❌
 
 ***
+## PoorFlix
+### Score: 12/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. They remove broken links, main player can't fail, so no server switching needed. ✔️
+1. Site does not have episode auto-next. ❌
+1. Sites UI feels very modern and unique. ✔️
+1. Site does not have watch lists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Disabling ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player. ✔️
+1. Site does not have watch parties. ❌
+
+***
 ## AlienFlix
 ### Score: 12/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
