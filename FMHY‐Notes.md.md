@@ -224,6 +224,19 @@ This is why we recommend to use on Chromium browsers only.
 
 ***
 
+#### OneClick Note
+
+Main features include:
+- Download links straight to Google Drive.
+- Torrent to Google Drive.
+- Google Drive Download Manager (similar to pyLoad).
+- Spotify Downloader.
+- Jellyfin Support.
+- RClone + WebUI.
+- And much more.
+
+***
+
 #### MovieParadise Code
 
 * In order to unlock the better host (1fichier) you need to signup code. This is important as without it the site will be rapidgator only links which are very slow. You can get a code from the link below, or the pins in our #free-stuff discord channel.
