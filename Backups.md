@@ -26,7 +26,7 @@ Add `/r/FREEMEDIAHECKYEAH/wiki/index` to the end of any [Redlib instance](https:
 
 **Backups**
 
-[Saidit Backup](https://saidit.net/s/freemediaheckyeah/wiki/index
+[Saidit Backup](https://saidit.net/s/freemediaheckyeah/wiki/index)
 
 [GitHub Backup](https://github.com/fmhy/FMHY/wiki)
 
