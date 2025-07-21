@@ -22,16 +22,6 @@ To use the app, HDO Box may ask you to install a third-party video player which 
 
 ***
 
-#### Revenge Note
-
-**Required**
-
-- Go to settings then about and tap 10 times on the version number
-- Ensure release channel is on stable in customisation settings
-- That will enable developer settings then put 287013 as discord version (latest supported version)
-
-***
-
 #### Buzzheavier Warning
 
 Make sure you have a adblocker when using Buzzheavier as there are hidden ads on download pages with malicious content. Both the download button and torrent buttons should automatically start a download in your browser, NOT redirect you to another page.
