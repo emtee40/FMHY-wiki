@@ -32,13 +32,7 @@ Add `/r/FREEMEDIAHECKYEAH/wiki/index` to the end of any [Redlib instance](https:
 
 [Rentry Backup](https://rentry.co/FMHY), [2](https://rentry.org/FMHY)
 
-***
-
-**Safe for Work**
-
-[FMHY.xyz](https://fmhy.xyz/)
-
-[SFW Rentry](https://rentry.org/piracy)
+[Safe for Work Rentry](https://rentry.org/piracy) (no nsfw page)
 
 ***
 
