@@ -206,7 +206,7 @@
 1. Site does have episode auto-next across all servers. ✔️
 1. Sites UI feels very modern and unique, stands out compared to others. ✔️
 1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Site has keyword sorting, collections, random button, and random trailers. ✔️
+1. Site has keyword sorting, collections, random button, and random trailers / clips. ✔️
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (vidfast). ✔️
