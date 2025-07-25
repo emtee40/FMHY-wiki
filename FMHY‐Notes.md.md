@@ -1,6 +1,6 @@
 #### Google Music Recognition
 
-You can use the same recognition model in youtube/ youtube music and google mobile apps
+You can use the same recognition model in youtube music and google mobile apps
 
 ***
 
