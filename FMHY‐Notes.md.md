@@ -404,9 +404,12 @@ or pressing download on the FileZilla website, and then clicking "additional dow
 
 ***
 
-#### Oblivion Translate
+#### Unofficial Warp Clients
 
-To translate to English, click the button at the bottom of the app, and select the top option.
+Mobile: https://github.com/bepass-org/oblivion
+Desktop: https://github.com/bepass-org/oblivion-desktop
+ 
+To translate Oblivion into English, click the language icon at the bottom, then select the topmost option.
 
 ***
 
