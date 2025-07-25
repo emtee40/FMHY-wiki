@@ -209,7 +209,7 @@
 1. Site has keyword sorting, collections, random button, but could use more in terms of recommendations. 🟡
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
+1. Site does have a custom player (vidfast). ✔️
 1. Site does not have watch parties. ❌
 
 ***
