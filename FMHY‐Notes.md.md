@@ -180,6 +180,12 @@ Note that Sanet has been known to host things like KMS Matrix, so its best to av
 
 ***
 
+#### SD Maid 
+
+Google play version is paid. Press donate to unlock the app on F-Droid and GitHub versions. 
+
+***
+
 #### Glitchwave Note
 
 For charts you can specify months and days using URLs like the following examples
