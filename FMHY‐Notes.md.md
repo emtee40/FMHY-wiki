@@ -158,6 +158,12 @@ The installer tries to install McAfee WebAdvisor + PhantomPDF Business. They can
 
 ***
 
+#### Yet Another Call Blocker Note
+
+The app itself isn't maintained, but the repo contains the "main" phone number database. It is updated once in a couple of months. The app receives daily (incremental) updates directly from third-party services.
+
+***
+
 #### Sanet Warning
 
 Note that Sanet has been known to host things like KMS Matrix, so its best to avoid it for software and games
