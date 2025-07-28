@@ -112,7 +112,7 @@
 1. Disabling ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (beech player). ✔️
-1. Site does have custom watch parties. ✔️
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
 ## CinemaOS
@@ -225,6 +225,20 @@
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 1. Site does not have watch parties. ❌
+
+***
+## VLOP
+### Score: 16/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. Sites UI is good, feels modern and unique. ✔️
+1. The site has watch lists, and you can login to sync them across devices. ✔️
+1. Site has decent sorting, random button, AI recommendations, and similar movies on each page. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
 ## Netplay
@@ -460,20 +474,6 @@
 1. Site has continue watching, watch lists, and favorites, but you can't sync them across devices. 🟡
 1. Site has good sorting + a AI to help discover new content . ✔️
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## VLOP
-### Score: 12/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is fine but has room for improvement. 🟡
-1. The site has watch lists, and you can login to sync them across devices. ✔️
-1. Site has decent sorting and a random button, but is otherwise lacking in terms of content discoverability. 🟡
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
