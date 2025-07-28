@@ -146,6 +146,12 @@ Asks user to buy after 60 days, but you can just close the popup and keep using 
 
 ***
 
+#### Aurora Note
+
+Keep in mind that some apps that exist do not work unless you installed them from the google play store. This is usually true for things like banking apps, or some institutions app. 
+
+***
+
 #### Site Favicon DL
 
 You can also do `https://www.google.com/s2/favicons?domain=URL&sz=64` where URL is the URL of the site you want and sz is the size in pixels 
