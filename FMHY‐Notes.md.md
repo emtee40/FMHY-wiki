@@ -130,7 +130,7 @@ We recommend using the mod as there are many fake versions on search engines
 
 #### Android Spotify Note
 
-Keep in mind many apps like revanced / xmanager do not work in all regions. 
+Keep in mind many apps like revanced / xmanager do are not currently working for all users / regions. 
 
 ***
 
