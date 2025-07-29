@@ -787,6 +787,20 @@
 1. Site does not have watch parties. ❌
 
 ***
+## Cinezo
+### Score: 9/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. Sites UI is fine but has room for improvement. 🟡
+1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site works well, but doesn't look too great on mobile. 🟡
+1. Site does not have a custom player. ❌
+1. Site does not have watch parties. ❌
+
+***
 ## UniqueStream
 ### Score: 8/20
 1. Has movies, TV, anime, but no 1080p, adjustable quality, or subtitles. 🟡
