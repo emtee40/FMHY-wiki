@@ -128,6 +128,12 @@ We recommend using the mod as there are many fake versions on search engines
 
 ***
 
+#### Android Spotify Note
+
+Keep in mind many apps like revanced / xmanager do not work in all regions. 
+
+***
+
 #### App Cake Warning
 
 The site itself is safe, but in the past they've used leaked public certificates for their official app, which can get your phone(and account) blacklisted from sideloading.
