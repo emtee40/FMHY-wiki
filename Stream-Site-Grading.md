@@ -633,16 +633,16 @@
 1. Site does not have watch parties. ❌
 
 ***
-## catflix
-### Score: 11/20
-1. Has movies, TV, 1080p, and subtitles, but no adjustable quality, or anime. 🟡
-1. They remove broken links, main player can't fail, so no server switching needed. ✔️
-1. Site does not have episode auto-next. ❌
-1. Site is simple but very clean. ✔️
-1. Site allows you to add favorites, and you can login to sync them across devices. ✔️
-1. Site is lacking in terms of media discovery options. ❌
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
+## Cinezo
+### Score: 10/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site has episode auto-next across all servers. ✔️
+1. Sites UI is fine but has room for improvement. 🟡
+1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
 
@@ -784,20 +784,6 @@
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does have a custom player. ✔️
-1. Site does not have watch parties. ❌
-
-***
-## Cinezo
-### Score: 9/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is fine but has room for improvement. 🟡
-1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site works well, but doesn't look too great on mobile. 🟡
-1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
 
 ***
