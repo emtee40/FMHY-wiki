@@ -563,6 +563,20 @@
 1. Site does not have watch parties. ❌
 
 ***
+## Cinezo
+### Score: 11/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site has episode auto-next across all servers. ✔️
+1. Sites UI is fine but has room for improvement. 🟡
+1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Site has decent sorting + similar movies on each page, but could use a bit more in terms of content discovery.  🟡
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site works well, but doesn't look too great on mobile. 🟡
+1. Site does not have a custom player. ❌
+1. Site does not have watch parties. ❌
+
+***
 ## KaitoVault
 ### Score: 11/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -628,20 +642,6 @@
 1. Site has continue watching + watch lists, and you can login to sync them across devices. ✔️
 1. Has random recommendation button, many franchise collections, and solid sorting options. ✔️
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site works well, but doesn't look too great on mobile. 🟡
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## Cinezo
-### Score: 10/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site has episode auto-next across all servers. ✔️
-1. Sites UI is fine but has room for improvement. 🟡
-1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
