@@ -1,6 +1,6 @@
-#### FMHY Discord
+## FMHY Discord
 
-Current Status: Closed
+## Current Status: Closed
 
 **The FMHY Discord is semi-private.** 
 
