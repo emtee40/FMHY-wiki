@@ -158,6 +158,12 @@ Keep in mind that some apps that exist do not work unless you installed them fro
 
 ***
 
+#### App Lock 
+
+Keep in mind this is a privacy utility meant to prevent common snooping, its not claiming to be a security tool, and will not stop forensic analysis.
+
+***
+
 #### Site Favicon DL
 
 You can also do `https://www.google.com/s2/favicons?domain=URL&sz=64` where URL is the URL of the site you want and sz is the size in pixels 
