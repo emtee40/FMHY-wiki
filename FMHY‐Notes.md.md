@@ -421,12 +421,6 @@ or pressing download on the FileZilla website, and then clicking "additional dow
 
 ***
 
-#### Breeze Wiki Mirrors
-
-`https://docs.breezewiki.com/Links.html#(part._.Mirrors)`
-
-***
-
 #### Edith Login
 
 `user: edith` 
@@ -505,12 +499,6 @@ Supported devices (0.9) => `https://openrgb.org/devices_0.9.html`
 (The link may become outdated after a while, go to the OpenRGB site `https://openrgb.org/index.html` and find the newer one in the menu on the top right.)
  
 Supported devices (Latest experimental) => `https://openrgb.org/devices.html`
-
-***
-
-#### LightDLMovies Note
-
-LightDLMovies is known for having popups / redirects, make sure you have an adblocker enabled when using the site
 
 ***
 
