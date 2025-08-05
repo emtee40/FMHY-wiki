@@ -12,7 +12,7 @@ HuggingFace uses a system called ZeroGPU to manage access to their high-end GPUs
 
 #### Malware Removal Forums
 
-Note that they'll likely suggest removing pirated software
+Note that many of these will suggest removing pirated software, but if you got everything from trusted sources, there is no real need to do that.
 
 ***
 
