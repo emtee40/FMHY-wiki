@@ -152,6 +152,12 @@ Asks user to buy after 60 days, but you can just close the popup and keep using 
 
 ***
 
+#### Instaeclipse Note
+
+Use ['advanced'](https://gist.github.com/VVispy/50172b4ab77940b2d1ec09d5af70c8a7) to build clean apks, or use antisplitm with revanced manager.
+
+***
+
 #### Aurora Note
 
 Keep in mind that some apps that exist do not work unless you installed them from the google play store. This is usually true for things like banking apps, or some institutions app. 
