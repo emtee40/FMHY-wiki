@@ -62,6 +62,12 @@ The users in blue. VIPs are either members who were rewarded with VIP status for
 
 ***
 
+#### Bookmarkeddit
+
+This also extends the amount of saved posts you can view (reddit caps at 1000 by default)
+
+***
+
 #### 4PDA Captcha
 
 Use Google Gemini to translate the captcha
