@@ -241,6 +241,20 @@
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
+## PrimeShows
+### Score: 16/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its (non-embed, first player) sources if they fail. ✔️
+1. Site does have episode auto-next on some servers. 🟡
+1. UI is solid, feels clean and modern. ✔️
+1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Site has decent sorting and a AI recommendation bot (when logged in). ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site does have custom player (vidify). ✔️
+1. Site does not have watch parties. ❌
+
+***
 ## Netplay
 ### Score: 15/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -281,20 +295,6 @@
 1. Site works well and looks good on mobile. ✔️
 1. Site does have a custom player. ✔️
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
-
-***
-## PrimeShows
-### Score: 15/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its (non-embed, first player) sources if they fail. ✔️
-1. Site does have episode auto-next on some servers. 🟡
-1. UI is solid, feels clean and modern. ✔️
-1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Site has decent sorting but is otherwise lacking in terms of content discoverability. 🟡
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does have custom player (vidify). ✔️
-1. Site does not have watch parties. ❌
 
 ***
 ## MovieMaze
