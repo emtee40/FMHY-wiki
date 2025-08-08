@@ -1,5 +1,3 @@
-## FMHY Discord
-
 ## Current Status: Open
 
 ### https://discord.gg/z2Ffdp7C
