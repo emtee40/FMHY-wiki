@@ -407,6 +407,12 @@ Its not recommended to use these unless you know what you're doing. Always resea
 
 ***
 
+#### Copilot / Chatgpt Note
+
+Sign-up is not required on either site, but doing so does unlock more models and improves limits.
+
+***
+
 #### Cofi Note
 
 Useful if you're a coffee enthusiast. The methods are created by James Hoffmann, he's a world champion barista and popular YouTuber
