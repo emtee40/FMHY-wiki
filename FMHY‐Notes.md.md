@@ -184,7 +184,7 @@ You can also do `https://www.google.com/s2/favicons?domain=URL&sz=64` where URL 
 
 #### Picocrypt Note
 
-Note that Picocrypt is not maintained any longer but is should still remain secure.
+Note that Picocrypt is not maintained any longer but is should still remain secure according to its author.
 
 ***
 
