@@ -476,15 +476,6 @@ or pressing download on the FileZilla website, and then clicking "additional dow
 
 ***
 
-#### Unofficial Warp Clients
-
-Mobile: https://github.com/bepass-org/oblivion
-Desktop: https://github.com/bepass-org/oblivion-desktop
- 
-To translate Oblivion into English, click the language icon at the bottom, then select the topmost option.
-
-***
-
 #### Ventoy Note
 
 Note that Ventoy contains binary blobs without source code that could in theory be used for malicious purposes, however its a 5 year old project used and trusted by hundreds of thousands of people, so we feel as though it is safe to use. 
