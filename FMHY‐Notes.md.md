@@ -242,13 +242,13 @@ According to their FAQ question "When will my files expire?", you must login to 
 
 SoftArchive Mirrors
 
-https://sanet.download/
-https://softarchive.is/
-https://sanet.lc/
-https://sanet.ws/
-https://sanet.st/
-https://sanet.sb/
-https://soft.ac/
+- https://sanet.download/
+- https://softarchive.is/
+- https://sanet.lc/
+- https://sanet.ws/
+- https://sanet.st/
+- https://sanet.sb/
+- https://soft.ac/
 
 ***
 
