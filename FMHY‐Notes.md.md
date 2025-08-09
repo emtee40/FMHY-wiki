@@ -411,6 +411,10 @@ Its not recommended to use these unless you know what you're doing. Always resea
 
 Sign-up is not required on either site, but doing so does unlock more models and improves limits.
 
+ChatGPT Limits:
+- No-Signup = Unlimited for GPT-5 mini
+- Signup = GPT-5 Thinking (1 Daily),  GPT-5 (10 per 5 hours), and Unlimited for GPT-5 mini
+
 ***
 
 #### Cofi Note
