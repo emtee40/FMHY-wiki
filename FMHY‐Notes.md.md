@@ -38,6 +38,8 @@ You can ask the bot for english, but it can be hit and miss in terms of working.
 
 Join their [Discord](https://discord.gg/VnevqPp2Rr) for version compatibility.
 
+Note that you can use the store built in to get a full list of addons and themes. 
+
 ***
 
 #### Pollinations Note
@@ -286,12 +288,6 @@ Main features include:
 - Jellyfin Support.
 - RClone + WebUI.
 - And much more.
-
-***
-
-#### Spicetify Addons
-
-Note that you can use the store built in to get a full list of addons and themes. 
 
 ***
 
