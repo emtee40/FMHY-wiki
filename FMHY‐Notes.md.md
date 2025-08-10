@@ -289,6 +289,12 @@ Main features include:
 
 ***
 
+#### Spicetify Addons
+
+Note that you can use the store built in to get a full list of addons and themes. 
+
+***
+
 #### MovieParadise Code
 
 * In order to unlock the better host (1fichier) you need to signup code. This is important as without it the site will be rapidgator only links which are very slow. You can get a code from the link below, or the pins in our #free-stuff discord channel.
