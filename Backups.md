@@ -4,6 +4,8 @@
 
 [fmhy.pages.dev](https://fmhy.pages.dev/)
 
+[fmhy.lol](https://fmhy.lol/)
+
 [fmhy.vercel.app](https://fmhy.vercel.app/)
 
 [fmhy-search](https://fmhy-search.streamlit.app/)
