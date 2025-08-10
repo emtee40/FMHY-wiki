@@ -68,7 +68,7 @@ This also extends the amount of saved posts you can view (reddit caps at 1000 by
 
 ***
 
-#### 4PDA Captcha
+#### Captcha 4PDA 
 
 Use Google Gemini to translate the captcha
 
