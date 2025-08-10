@@ -476,12 +476,6 @@ or pressing download on the FileZilla website, and then clicking "additional dow
 
 ***
 
-#### Ventoy Note
-
-Note that Ventoy contains binary blobs without source code that could in theory be used for malicious purposes, however its a 5 year old project used and trusted by hundreds of thousands of people, so we feel as though it is safe to use. 
-
-***
-
 #### Alt Twitch Player Extensions
 
 * https://addons.mozilla.org/en-US/firefox/addon/twitch_5/
