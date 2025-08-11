@@ -28,7 +28,7 @@ Add `/r/FREEMEDIAHECKYEAH/wiki/index` to the end of any [Redlib instance](https:
 
 ***
 
-**Backups**
+**More Backups**
 
 [Saidit Backup](https://saidit.net/s/freemediaheckyeah/wiki/index)
 
