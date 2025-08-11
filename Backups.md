@@ -12,6 +12,8 @@
 
 [fmhy.lol](https://fmhy.lol/)
 
+[fmhy.xyz](https://fmhy.xyz/) (safe for work)
+
 [fmhy.vercel.app](https://fmhy.vercel.app/)
 
 [fmhy-search](https://fmhy-search.streamlit.app/)
@@ -35,12 +37,6 @@ Add `/r/FREEMEDIAHECKYEAH/wiki/index` to the end of any [Redlib instance](https:
 [GitHub Backup](https://github.com/fmhy/FMHY/wiki)
 
 [Rentry Backup](https://rentry.co/FMHY), [2](https://rentry.org/FMHY)
-
-***
-
-**Safe for Work** (no nsfw pages)
-
-[fmhy.xyz](https://fmhy.xyz/)
 
 [SFW Rentry](https://rentry.org/piracy)
 
