@@ -48,6 +48,12 @@ To use this site for image generation, scroll down to "Image Feed" and change it
 
 ***
 
+#### Backup Site Note
+
+These are community ran instances that are out of our control. They currently match FMHY 1:1, but they should only be used as backups when necessary.
+
+***
+
 #### Mobilism Ranks
 
 The users in red. Administrators are members assigned with the highest level of control over the entire board. Usually they’re Section Heads. Most Administrators are Section Heads but not all Section Heads are administrators.
