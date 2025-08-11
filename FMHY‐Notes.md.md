@@ -236,6 +236,12 @@ Jan-Feb 2018:
 
 ***
 
+#### ⁠Fluxy Rapacks
+
+Note that though it has repacks in the name, its not actually a repack site.
+
+***
+
 #### Filelu Warning
 
 According to their FAQ question "When will my files expire?", you must login to your account at least once every 180 days to prevent your account being deleted.
