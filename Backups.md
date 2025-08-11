@@ -1,4 +1,4 @@
-**Websites (Official)**
+**Official Websites**
 
 **[FMHY.net](https://fmhy.net/)** 
 
@@ -8,7 +8,7 @@
 
 ***
 
-**Backup Websites (Unofficial)**
+**Unofficial / Third Party Websites**
 
 [fmhy.lol](https://fmhy.lol/)
 
