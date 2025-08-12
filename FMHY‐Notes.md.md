@@ -260,12 +260,6 @@ According to their FAQ question "When will my files expire?", you must login to 
 
 ***
 
-#### NXbrew Warning
-
-Scroll past download setup buttons
-
-***
-
 #### Ziperto Warning
 
 Avoid [fake](https://ibb.co/wWJbkX6) Buttons
