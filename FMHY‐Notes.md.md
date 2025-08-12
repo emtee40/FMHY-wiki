@@ -413,6 +413,13 @@ Its not recommended to use these unless you know what you're doing. Always resea
 
 ***
 
+#### YouTube Tweaks
+
+* https://addons.mozilla.org/firefox/addon/youtube-tweaks/
+* https://chrome.google.com/webstore/detail/youtube-tweaks/oeakphpfoaeggagmgphfejmfjbhjfhhh
+
+***
+
 #### PrintEditWe Addons
 
 * https://addons.mozilla.org/en-US/firefox/addon/print-edit-we/
