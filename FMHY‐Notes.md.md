@@ -317,6 +317,12 @@ Based on popular [card game](https://en.wikipedia.org/wiki/Secret_Hitler), creat
 
 ***
 
+#### Māori Note
+
+Māori is the indigenous language of mainland New Zealand. Due to the [Native Schools Act](https://en.wikipedia.org/wiki/M%C4%81ori_language#Suppression_and_decline) in 1867, children were forbidden to speak it in the classroom, under penalty of corporal punishment, which led to a rapid decline of speakers. There are now [revitalization efforts](https://en.wikipedia.org/wiki/M%C4%81ori_language_revival) (such as this site) attempting to promote and reinforce its use.
+
+***
+
 #### Steam Currency Converter Note
 
 For instant currency conversion : Go to Firefox's extensions settings, click on the add-on, enter the permissions section and allow the sites there
