@@ -970,6 +970,21 @@
 1. Site does not have watch parties. ❌
 
 ***
+
+## StreamDB
+### Score: 7/20
+1. Has movies, TV, 1080p, subtitles, adjustable quality, but no anime. 🟡
+1. They remove broken links, main players can't fail, so no server switching needed. ✔️
+1. Site does not have episode auto-next. ❌
+1. UI is solid, feels clean and modern. ✔️
+1. Site does not have watch lists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+1. Site does not have watch parties. ❌
+
+***
 ## Soapy
 ### Score: 6/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
