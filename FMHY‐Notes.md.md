@@ -184,6 +184,12 @@ You can also do `https://www.google.com/s2/favicons?domain=URL&sz=64` where URL 
 
 ***
 
+#### Soft98
+
+For it to work, you have to turn off adblocker for soft98 and use the [Adguard Extra userscript](https://github.com/AdguardTeam/AdGuardExtra?tab=readme-ov-file#userscript), not the extension as it will not work.
+
+***
+
 #### Foxit Warning
 
 The installer tries to install McAfee WebAdvisor + PhantomPDF Business. They can be skipped by clicking "decline" both times.
