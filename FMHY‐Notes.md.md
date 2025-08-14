@@ -266,6 +266,12 @@ Avoid [fake](https://ibb.co/wWJbkX6) Buttons
 
 ***
 
+#### Soft98 Note
+
+Install [AdGuard Extra](https://github.com/AdguardTeam/AdGuardExtra?tab=readme-ov-file#userscript) userscript (not the extension) and enable `AdGuard - Ads` filterlist.
+
+***
+
 #### Enhancer for YT Note
 
 Chromium (Chrome and Edge store) uses the latest version of the extension which is V3
