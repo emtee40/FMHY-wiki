@@ -2,6 +2,8 @@
 
 ### https://discord.gg/bwxtdKrRNT
 
+### https://discord.gg/n4EATVKK
+
 **The FMHY Discord is semi-private.** 
 
 **Check this page each Friday for a new invite.**
