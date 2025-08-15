@@ -262,7 +262,7 @@ According to their FAQ question "When will my files expire?", you must login to 
 
 #### Soft98 Note
 
-Install [AdGuard Extra](https://github.com/AdguardTeam/AdGuardExtra?tab=readme-ov-file#userscript) userscript (not the extension) and enable `AdGuard - Ads` filterlist.
+Enable `AdGuard - Ads` filterlist in uBlock, and if that doesn't work try installalling the [AdGuard Extra Userscript](https://github.com/AdguardTeam/AdGuardExtra?tab=readme-ov-file#userscript) (not the extension) and enabling it in your script manager.
 
 ***
 
