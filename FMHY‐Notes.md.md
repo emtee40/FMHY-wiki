@@ -266,6 +266,14 @@ Enable `AdGuard - Ads` filterlist in uBlock to allow downloads to work. To remov
 
 ***
 
+#### WCO Note
+
+Enable the following filterlists to hide ads:
+`AdGuard - Ads`
+`AdGuard - Other Annoyances`
+
+***
+
 #### Enhancer for YT Note
 
 Chromium (Chrome and Edge store) uses the latest version of the extension which is V3
