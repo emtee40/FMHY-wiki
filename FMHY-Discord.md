@@ -1,8 +1,4 @@
-## Current Status: Open
-
-### https://discord.gg/bwxtdKrRNT
-
-### https://discord.gg/n4EATVKK
+## Current Status: Closed
 
 **The FMHY Discord is semi-private.** 
 
