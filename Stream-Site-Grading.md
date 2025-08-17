@@ -677,7 +677,6 @@
 ***
 ## Cinema Deck
 ### Score: 10/20
-**What we look for**:
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
 1. Some of its servers have auto-switch built in. 🟡
 1. Site does have episode auto-next on some servers. 🟡
@@ -701,6 +700,20 @@
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site works well, but doesn't look too great on mobile. 🟡
 1. Site does have a custom player. ❌
+1. Site does not have watch parties. ❌
+
+***
+## Vidsrc.cx
+### Score: 10/20
+1. Has movies, TV, 1080p, subtitles, but no anime, or adjustable quality. 🟡
+1. Site only has one source and empty links aren't removed. ❌
+1. Site does not have episode auto-next. ❌
+1. UI is solid, feels clean and modern, and feature rich. ✔️
+1. The site has watch lists, but they cannot be synced across devices. 🟡
+1. Has a good sorting page with network collections / trending, but could use a bit more in terms of discovery. 🟡
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player. ✔️
 1. Site does not have watch parties. ❌
 
 ***
