@@ -417,7 +417,7 @@
 1. Sites UI is fine but has room for improvement. 🟡
 1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
 1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
-1. Disabling ads in browse > ad status, removes new tab/window popups, can be used without an adblocker. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 1. Site does not have watch parties. ❌
