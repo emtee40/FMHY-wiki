@@ -25,7 +25,7 @@
 1. UI is solid, feels clean and modern. ✔️
 1. The site has watch lists + history, and you can login to sync them across devices. ✔️
 1. Has sorting options + watch history based recommendations when you login. ✔️
-1. Disabling ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
+1. Disabling ads in browse > ad status, removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
