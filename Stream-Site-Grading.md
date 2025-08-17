@@ -1069,20 +1069,6 @@
 1. Site does not have watch parties. ❌
 
 ***
-## TVids
-### Score: 3/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does not have episode auto-next. ❌
-1. Site feels dated, lots of room for improvement. ❌
-1. Site does not have watch lists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site doesn't work well or look great on mobile. ❌
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
 ## Zoechip
 ### Score: 2/20
 1. Has movies and TV, but no anime, 1080p, adjustable quality, or subtitles. ❌
