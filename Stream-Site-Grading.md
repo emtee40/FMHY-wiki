@@ -167,7 +167,7 @@
 1. Decent sorting options and has built in AI recommendation tool. ✔️
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ✔️
+1. Site does have a custom player. ✔️
 1. Has watch parties, but its just screen sharing plugin that doesn't work well. 🟡
 
 ***
@@ -881,6 +881,20 @@
 1. Site has watch lists and you can login to sync them across devices. ✔️
 1. Site has decent sorting but is otherwise lacking in terms of content discoverability. 🟡
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+1. Site does not have watch parties. ❌
+
+***
+## MovieHD
+### Score: 8/20
+1. Has movies, 1080p, and subtitles but no TV, anime or adjustable quality. 🟡
+1. 3+ sources but does not auto-switch if ones fails. ❌
+1. They remove broken links, main player can't fail, so no server switching needed. ✔️
+1. Sites UI is fine but has room for improvement. 🟡
+1. Site does not have watch lists, continue watching or history. ❌
+1. Site has decent sorting but is otherwise lacking in terms of content discoverability. 🟡
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
