@@ -31,7 +31,7 @@ These are trusted community ran instances that are out of our control. They curr
 * [Saidit Backup](https://saidit.net/s/freemediaheckyeah/wiki/index)
 * [GitHub Backup](https://github.com/fmhy/FMHY/wiki)
 * [Rentry Backup](https://rentry.co/FMHY), [2](https://rentry.org/FMHY)
-* [SFW Rentry](https://rentry.org/piracy)
+* [SFW Rentry](https://rentry.co/piracy), [2](https://rentry.org/piracy)
 
 ***
 
