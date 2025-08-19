@@ -563,6 +563,20 @@
 1. Site does not have watch parties. ❌
 
 ***
+## FilmeX
+### Score: 12/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. Official Vidlink frontend. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. UI is solid, feels clean and modern. ✔️
+1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Has a good sorting, but could use a bit more in terms of discovery options. 🟡
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Uses custom version of vidstack player. 🟡
+1. Site does not have watch parties. ❌
+
+***
 ## LookMovie
 ### Score: 12/20
 1. Has movies, TV, anime, and subs, but a 10 second wait to get to content, and 480p max. ❌
