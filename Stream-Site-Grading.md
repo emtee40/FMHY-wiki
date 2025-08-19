@@ -241,6 +241,20 @@
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
+## HydraHD
+### Score: 15/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Enabling auto-next disables all servers missing it. ✔️
+1. Site does have episode auto-next on some servers. 🟡
+1. Sites UI is good, feels modern and unique. ✔️
+1. Has continue watching + favorites, and you can login to sync them across devices. ✔️
+1. Has good sorting options and keyword based search. ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Customized version of artplayer.js. 🟡
+1. Site does not have watch parties. ❌
+
+***
 ## Netplay
 ### Score: 15/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -295,20 +309,6 @@
 1. Site looks good + works well on mobile. ✔️
 1. Uses custom version of vidstack player. 🟡
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
-
-***
-## HydraHD
-### Score: 14/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is good, feels modern and unique. ✔️
-1. Has continue watching + favorites, and you can login to sync them across devices. ✔️
-1. Has good sorting options and keyword based search. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Customized version of artplayer.js. 🟡
-1. Site does not have watch parties. ❌
 
 ***
 ## MovieMaze
