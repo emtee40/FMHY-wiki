@@ -244,8 +244,8 @@
 ## HydraHD
 ### Score: 15/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
 1. Enabling auto-next disables all servers missing it. ✔️
-1. Site does have episode auto-next on some servers. 🟡
 1. Sites UI is good, feels modern and unique. ✔️
 1. Has continue watching + favorites, and you can login to sync them across devices. ✔️
 1. Has good sorting options and keyword based search. ✔️
