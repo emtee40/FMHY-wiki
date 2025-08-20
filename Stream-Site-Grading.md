@@ -529,7 +529,7 @@
 1. Sites UI is good, feels modern. ✔️
 1. The site has watch lists, but they can be synced across devices. ✔️
 1. Site has decent sorting, but is otherwise lacking content discoverability and sorting. 🟡
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site has occasional new tab/window popup, some can be disabled in account settings, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
