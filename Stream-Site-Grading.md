@@ -479,6 +479,20 @@
 1. Site does not have watch parties. ❌
 
 ***
+## Redflix
+### Score: 12/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. Sites UI is good, feels modern. ✔️
+1. The site has watch lists, but they can be synced across devices. ✔️
+1. Site has decent sorting, but is otherwise lacking content discoverability and sorting. 🟡
+1. Site has occasional new tab/window popup, some can be disabled in account settings, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+1. Site does not have watch parties. ❌
+
+***
 ## NEPU
 ### Score: 12/20
 1. Has movies, TV, anime, 1080p, but no adjustable quality or subtitles. 🟡
@@ -516,20 +530,6 @@
 1. Site has continue watching, watch lists, and favorites, but you can't sync them across devices. 🟡
 1. Site has good sorting + a AI to help discover new content . ✔️
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## Redflix
-### Score: 12/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is good, feels modern. ✔️
-1. The site has watch lists, but they can be synced across devices. ✔️
-1. Site has decent sorting, but is otherwise lacking content discoverability and sorting. 🟡
-1. Site has occasional new tab/window popup, some can be disabled in account settings, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
