@@ -143,7 +143,7 @@
 1. Site has links to external watch party sites. 🟡
 
 ***
-## CineMora / FlickyStream
+## FlickyStream
 ### Score: 18/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
 1. Auto-switches through all its (non-embed, second player) sources if they fail. ✔️
