@@ -373,7 +373,7 @@ For a setup guide (including 4k) you can watch this video:
 https://vimeo.com/1059834885/c3ab398d42
 
 Docs + selfhosting guides can be found here: 
-https://docs.pstream.org/
+https://docs.pstream.mov/
 
 You can also [enable an extension](https://pstream.org/onboarding/extension) / [2](https://github.com/sussy-code/browser-ext/releases/) that will add more sources, but it requires permissions that are somewhat excessive, and the site works fine without it. The extension is safe, and many people use it, the permissions are just needed in order for the [extension to work correctly](https://rentry.co/htagcrv4). 
 
