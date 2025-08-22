@@ -393,6 +393,12 @@ Note that teamspeak server admins can view IPs, so only join servers you trust
 
 ***
 
+#### WeLib Note
+
+WeLib is *not* connected to Anna's Archive, they simply mirror their Anna's content onto their site that has a different user-interface. It is not updated as often, and they don't share their codebase improvements publicly, so they aren't endorsed by Anna's themselves.
+
+***
+
 #### General Tweak Warning
 
 Its not recommended to use these unless you know what you're doing. Always research first, never just "Apply All" tweaks randomly.
