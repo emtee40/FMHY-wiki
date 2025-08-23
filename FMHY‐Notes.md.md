@@ -345,7 +345,7 @@ Steam has built in support for most controller types, just add your games to ste
 
 #### ⁠Winrar
 
-Winrar does not auto-update, and because it had a remote code execution vulnerability in the past, you should make sure you've manually updated **past version 7.13** to be safe.
+Winrar does not auto-update, and because it had a remote code execution vulnerability in the past, you should make sure you've manually updated **to 7.13 or later** to be safe.
 
 ***
 
