@@ -343,6 +343,12 @@ Steam has built in support for most controller types, just add your games to ste
 
 ***
 
+#### ⁠Winrar
+
+Winrar had a remote code execution vulnerabilit, make sure you manually update **past version 6.23** to be safe. 
+
+***
+
 #### IRC Highway Note
 
 To request a book run: @request [author] [title] - Requests without both [author] and [title] are deleted.
