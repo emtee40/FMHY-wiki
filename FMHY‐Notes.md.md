@@ -116,6 +116,12 @@ If you're using Firefox and you want autoplay, hit the permissions on your url s
 
 ***
 
+#### Openasar
+
+Note that the vencord installer has an option to install openasar, so if you have the vencordinstaller on your computer you can use that instead.
+
+***
+
 #### 7Xtream Autoplay
 
 For autoplay to work, you need to disable ublock, then disable ads on the site manually (top right).
