@@ -151,6 +151,20 @@
 1. Site does not have watch parties. ❌
 
 ***
+## FilmCave
+### Score: 17/20
+1. Has movies, TV, anime, 1080p, but no subtitles, or adjustable quality. 🟡
+1. 6+ sources and does auto-switch through (non-embed, first player) sources if one fails. ✔️
+1. Site does have episode auto-next on (non-embed, first player). ✔️
+1. Sites UI is fine but has room for improvement. 🟡
+1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player. ✔️
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
+
+***
 ## Netplay
 ### Score: 15/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -176,20 +190,6 @@
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Uses custom version of vidstack player. 🟡
-1. Site does not have watch parties. ❌
-
-***
-## FilmCave
-### Score: 13/20
-1. Has movies, TV, anime, 1080p, but no subtitles, or adjustable quality. 🟡
-1. 6+ sources but does not auto-switch if ones fails. ❌
-1. Site does have episode auto-next on (non-embed, first player). ✔️
-1. Sites UI is fine but has room for improvement. 🟡
-1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
 1. Site does not have watch parties. ❌
 
 ***
