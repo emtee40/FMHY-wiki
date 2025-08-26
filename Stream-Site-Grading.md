@@ -544,20 +544,6 @@
 1. Site does not have watch parties. ❌
 
 ***
-## Bingeflix
-### Score: 13/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is fine but has room for improvement. 🟡
-1. Site does have watch lists, and you can login in settings to sync them across devices. ✔️
-1. Good sorting, gives recommendations on "more info" and has franchise collections under more. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker (using server 5). ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
 ## Redflix
 ### Score: 13/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
