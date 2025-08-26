@@ -39,7 +39,7 @@
 
 ## ▷ API Frontends 
 
-* **Note** - These serve as frontends or user interfaces for API sites. Sources will vary from site to site depending on which ones owners feel are worth using. Many listed have custom players that automatically test API streams one by one without user input required. [API Frontend Grading](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading#api-frontends)
+* **Note** - These serve as frontends or user interfaces for API sites. Sources will vary from site to site depending on which ones owners feel are worth using. Many listed have custom players that automatically test API streams one by one without user input required. [Grading](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading#api-frontends)
 
 ***
 
@@ -82,7 +82,7 @@
 
 ## ▷ Single Server
 
-* **Note** - These are generally good in terms of speed, consistency, and having less mislabeled content. Many listed also remove and or fix any broken links manually. [Single Server Grading](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading#single-server)
+* **Note** - These are generally good in terms of speed, consistency, and having less mislabeled content. Many listed also remove and or fix any broken links manually. [Grading](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading#single-server)
 
 ***
 
