@@ -811,20 +811,6 @@
 1. Site does not have watch parties. ❌
 
 ***
-## EE3
-### Score: 14/20
-1. Has movies, 1080p, and subtitles, but no adjustable quality, TV, or anime. 🟡
-1. They remove broken links, main player can't fail, so no server switching needed. ✔️
-1. Site has movies only so it doesn't need episode auto-next. 🟡
-1. Site has nice UI and feels modern . ✔️
-1. Site has watch lists, continue watching and history, and you can login to sync them across devices. ✔️
-1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Uses custom version of vidstack player. 🟡
-1. Site does not have watch parties. ❌
-
-***
 ## yFlix
 ### Score: 14/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -836,6 +822,20 @@
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
+1. Site does not have watch parties. ❌
+
+***
+## EE3
+### Score: 14/20
+1. Has movies, 1080p, and subtitles, but no adjustable quality, TV, or anime. 🟡
+1. They remove broken links, main player can't fail, so no server switching needed. ✔️
+1. Site has movies only so it doesn't need episode auto-next. 🟡
+1. Site has nice UI and feels modern . ✔️
+1. Site has watch lists, continue watching and history, and you can login to sync them across devices. ✔️
+1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Uses custom version of vidstack player. 🟡
 1. Site does not have watch parties. ❌
 
 ***
