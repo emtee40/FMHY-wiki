@@ -112,7 +112,7 @@ Note that many sites use this player, but Sport7 / USTVGo are their main sites.
 
 #### StartAllBack
 
-Make sure you delete `StartAllBackX64.dll.bak` before applying the crack, otherwise it will not work. 
+After updating, make sure you delete `StartAllBackX64.dll.bak` before applying the crack, otherwise it will not work. 
 
 ***
 
