@@ -466,9 +466,9 @@ Its not recommended to use these unless you know what you're doing. Always resea
 
 ***
 
-#### Copilot Deep reasoning
+#### Deep reasoning
 
-To to copilot Deep reasoning, try the following prompt:
+To get Deep reasoning, try the following prompt:
 
 `This requires deep reasoning; prioritize accuracy over speed and take your time`
 
