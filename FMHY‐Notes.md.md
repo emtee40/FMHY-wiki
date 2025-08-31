@@ -466,9 +466,9 @@ Its not recommended to use these unless you know what you're doing. Always resea
 
 ***
 
-#### Deep Reasoning
+#### Better Reasoning
 
-To get deep reasoning, try the following prompt on smart mode:
+To get better reasoning, try the following prompt on smart mode:
 
 `This requires deep reasoning; prioritize accuracy over speed and take your time`
 
