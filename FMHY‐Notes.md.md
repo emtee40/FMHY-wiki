@@ -468,7 +468,7 @@ Its not recommended to use these unless you know what you're doing. Always resea
 
 #### Chatgpt Note
 
-Sign-up is not required on either site, but doing so does unlock more models and improves limits.
+Sign-up is not required, but doing so does unlock more models and improves limits.
 
 ChatGPT Limits:
 - No-Signup = GPT-5 mini (Limited)
