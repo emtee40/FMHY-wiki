@@ -470,7 +470,7 @@ Its not recommended to use these unless you know what you're doing. Always resea
 
 To get better reasoning, try the following prompt on smart mode:
 
-`Use metacognition.`
+`Reason meticulously`
 
 ***
 
