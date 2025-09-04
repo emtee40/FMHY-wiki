@@ -178,6 +178,12 @@ Use ['advanced'](https://gist.github.com/VVispy/50172b4ab77940b2d1ec09d5af70c8a7
 
 ***
 
+#### LMArena Note
+
+If you reach a rate limit, you can either use another browser, enter incognito mode, or reset your cookies for LMArena (this will also reset your chat history).
+
+***
+
 #### Aurora Note
 
 Keep in mind that some apps that exist do not work unless you installed them from the google play store. This is usually true for things like banking apps, or some institutions app. 
