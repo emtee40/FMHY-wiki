@@ -853,7 +853,7 @@
 1. Site does not have watch parties. ❌
 
 ***
-## Soaper
+## Soaker / Soaper
 ### Score: 10/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
 1. They remove broken links, main player can't fail, so no server switching needed. ✔️
