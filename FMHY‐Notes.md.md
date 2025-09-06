@@ -128,12 +128,6 @@ Note that the vencord installer has an option to install openasar, so if you hav
 
 ***
 
-#### 7Xtream Autoplay
-
-For autoplay to work, you need to disable ublock, then disable ads on the site manually (top right).
-
-***
-
 #### Eruda 
 
 Eruda Console for mobile browsers bookmarklet: 
