@@ -572,20 +572,6 @@
 1. Site does not have watch parties. ❌
 
 ***
-## 7Xtream
-### Score: 13/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is fine but has room for improvement. 🟡
-1. Site has watch lists, but they can't be synced across devices. 🟡
-1. Site has sorting options, random movies, similar + recommended on each page. ✔️
-1. Disabling ads removes new tab/window popups, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
 ## AlienFlix
 ### Score: 12/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
