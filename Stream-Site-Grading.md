@@ -572,6 +572,20 @@
 1. Site does not have watch parties. ❌
 
 ***
+## 1PrimeShow
+### Score: 13/20
+1. Has movies, TV, anime, and 1080p, but no adjustable quality, or subtitles. 🟡
+1. Auto-switches through all its (non-embed, first player) sources if they fail. ✔️
+1. Site does have episode auto-next on some servers. 🟡
+1. Site has nice UI and feels modern. ✔️
+1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Uses custom version of vidstack player. 🟡
+1. Site does not have watch parties. ❌
+
+***
 ## AlienFlix
 ### Score: 12/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
