@@ -124,7 +124,7 @@ If you're using Firefox and you want autoplay, hit the permissions on your url s
 
 #### Openasar
 
-Note that the vencord installer has an option to install openasar, so if you have the vencordinstaller on your computer you can use that instead.
+The Vencord installer has an option to install OpenAsar, but you may need to click the install button twice (only once more after clicking "Accept").
 
 ***
 
@@ -144,7 +144,7 @@ We recommend using the mod as there are many fake versions on search engines
 
 #### Android Spotify Note
 
-Keep in mind many apps like revanced / xmanager do are not currently working for all users / regions. 
+Keep in mind that Spotify patchers are not currently working for all users in all regions.
 
 ***
 
@@ -545,7 +545,7 @@ Register for wav and flac output, and lower queue times
 
 #### Driver Note
 
-Don't install all at once, only get the drivers you actually need, getting them all can break your audio
+Only install the drivers you actually need. Don't install all new drivers at once, as this could lead to things breaking, especially system audio.
 
 ***
 
