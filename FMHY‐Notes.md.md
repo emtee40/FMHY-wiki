@@ -183,7 +183,7 @@ Use ['advanced'](https://gist.github.com/VVispy/50172b4ab77940b2d1ec09d5af70c8a7
 
 #### LMArena Note
 
-If you reach a rate limit, you can either use another browser, enter incognito mode, or reset your cookies for LMArena (this will also reset your chat history).
+If you reach a rate limit in text or search modes, you can either use another browser, enter incognito mode, or reset your cookies for LMArena (this will also reset your chat history). If you are in image generation mode, keep in mind that after 3 generations every hour it will force you to log in with a Google account. If you reach a rate limit while logged in, you can still use the steps listed earlier while logged out but keep in mind that you will have to reset cookies every 3 generations. You could also log in with a different Google account in a different browser to use image generation more times with that account while still being able to use the other account in the other browser.
 
 ***
 
