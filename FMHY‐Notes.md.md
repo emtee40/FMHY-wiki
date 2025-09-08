@@ -64,6 +64,15 @@ The users in blue. VIPs are either members who were rewarded with VIP status for
 
 ***
 
+#### Alt Warp Clients
+
+In setting switch from the default client if it isn't working.
+
+* https://github.com/bepass-org/oblivion-desktop
+* https://github.com/bepass-org/oblivion
+
+***
+
 #### Bookmarkeddit
 
 This also extends the amount of saved posts you can view (reddit caps at 1000 by default)
