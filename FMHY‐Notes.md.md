@@ -66,7 +66,7 @@ The users in blue. VIPs are either members who were rewarded with VIP status for
 
 #### Alt Warp Clients
 
-In setting switch from the default client if it isn't working.
+If you can't connect, try Scanner Settings -> Endpoint -> Suggested -> Try different IP's to find one that works
 
 * https://github.com/bepass-org/oblivion-desktop
 * https://github.com/bepass-org/oblivion
