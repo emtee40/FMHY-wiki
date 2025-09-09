@@ -180,6 +180,11 @@
 
 ## ▷ GFW Bypass
 
+* **Note** - Keep in mind some VPNs claiming to bypass GFW are made by Chinese agencies as a way to get user info. We recommend avoiding any generic ones, and sticking to ones listed in the [VPN section](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn).
+
+***
+
+* ↪️ **[Anti-Censorship Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_anti-censorship)**
 * ⭐ **[Censorship Bypass Guide](https://censordex.fr.to/)** - Censorship Bypass Guide
 * [gfwlist](https://github.com/gfwlist/gfwlist), [XX-Net](https://github.com/XX-net/XX-Net), [ClashVerge](https://www.clashverge.dev/) / [GitHub](https://github.com/clash-verge-rev/clash-verge-rev), [r/dumbclub](https://www.reddit.com/r/dumbclub/) or [New Pac](https://github.com/Alvin9999/new-pac) - Bypass Chinese Firewall
 * [gfw.report](https://gfw.report/) - GFW Information
