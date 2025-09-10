@@ -39,6 +39,20 @@
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
+## P-Stream / movie-web 
+### Score: 20/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its sources if they fail. ✔️
+1. Site does have episode auto-next across all servers. ✔️
+1. Very nice UI, search works well, lots of user settings. ✔️
+1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Site has good sorting + random suggestions and editor picks. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player. ✔️
+1. Has built in watch parties (pstream), streams are synced, controllable by both watchers. ✔️
+
+***
 ## xPrime
 ### Score: 20/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -334,20 +348,6 @@
 
 # API Frontends
 
-## P-Stream / movie-web 
-### Score: 20/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its sources if they fail. ✔️
-1. Site does have episode auto-next across all servers. ✔️
-1. Very nice UI, search works well, lots of user settings. ✔️
-1. Site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Site has good sorting + random suggestions and editor picks. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
-1. Has built in watch parties (pstream), streams are synced, controllable by both watchers. ✔️
-
-***
 ## Beech
 ### Score: 20/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
