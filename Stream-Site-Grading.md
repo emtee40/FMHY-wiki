@@ -179,20 +179,6 @@
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
-## Netplay
-### Score: 15/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its sources if they fail. ✔️
-1. Site does have episode auto-next across all servers. ✔️
-1. Both the sites UI and player are nice and feel modern. ✔️
-1. Has history and watch lists, and you can login to sync them across devices. ✔️
-1. Has decent sorting options, but more discoverability options would be nice. 🟡
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
-1. Site does not have watch parties. ❌
-
-***
 ## Smashystream
 ### Score: 9/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -218,20 +204,6 @@
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
 1. Uses a custom version of JW player. 🟡
-1. Site does not have watch parties. ❌
-
-***
-## CineGo
-### Score: 8/20
-1. Has movies, TV, 1080p, and subtitles but no anime or adjustable quality. 🟡
-1. They remove broken links, main player can't fail, so no server switching needed. ✔️
-1. Site does not have episode auto-next. ❌
-1. Sites UI is alright but has room for improvement. 🟡
-1. Site does not have watch lists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
 
 ***
@@ -443,6 +415,20 @@
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
 1. Customized version of artplayer.js. 🟡
+1. Site does not have watch parties. ❌
+
+***
+## Netplay
+### Score: 15/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its sources if they fail. ✔️
+1. Site does have episode auto-next across all servers. ✔️
+1. Both the sites UI and player are nice and feel modern. ✔️
+1. Has history and watch lists, and you can login to sync them across devices. ✔️
+1. Has decent sorting options, but more discoverability options would be nice. 🟡
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player. ✔️
 1. Site does not have watch parties. ❌
 
 ***
@@ -791,6 +777,20 @@
 1. Site does not have watch lists, continue watching or history. ❌
 1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+1. Site does not have watch parties. ❌
+
+***
+## CineGo
+### Score: 8/20
+1. Has movies, TV, 1080p, and subtitles but no anime or adjustable quality. 🟡
+1. They remove broken links, main player can't fail, so no server switching needed. ✔️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is alright but has room for improvement. 🟡
+1. Site does not have watch lists, continue watching or history. ❌
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
