@@ -193,20 +193,6 @@
 1. Site does not have watch parties. ❌
 
 ***
-## Vidjoy
-### Score: 13/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its (non-embed, first player) sources if they fail. ✔️
-1. Site does have episode auto-next across all servers (non-embed, first player). ✔️
-1. Sites UI is fine but has room for improvement. 🟡
-1. Site has continue watching, but you can't sync them across devices. 🟡
-1. Site has decent sorting but is otherwise lacking in terms of content discoverability. 🟡
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site works well, but doesn't look too great on mobile. 🟡
-1. Site does have a custom player (first player). ✔️
-1. Site does not have watch parties. ❌
-
-***
 ## Smashystream
 ### Score: 9/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -541,6 +527,20 @@
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
+1. Site does not have watch parties. ❌
+
+***
+## Vidjoy
+### Score: 13/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its (non-embed, first player) sources if they fail. ✔️
+1. Site does have episode auto-next across all servers (non-embed, first player). ✔️
+1. Sites UI is fine but has room for improvement. 🟡
+1. Site has continue watching, but you can't sync them across devices. 🟡
+1. Site has decent sorting but is otherwise lacking in terms of content discoverability. 🟡
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site works well, but doesn't look too great on mobile. 🟡
+1. Site does have a custom player (first player). ✔️
 1. Site does not have watch parties. ❌
 
 ***
