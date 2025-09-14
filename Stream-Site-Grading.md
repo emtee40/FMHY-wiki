@@ -290,7 +290,7 @@
 1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
 
-# API Frontends
+# Stream Aggregators
 
 ## Beech
 ### Score: 20/20
