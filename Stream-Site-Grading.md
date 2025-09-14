@@ -20,7 +20,7 @@
 **Table of Contents**
 
 - [Streaming Sites](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading#streaming-sites)
-- [API Frontends](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading#api-frontends)
+- [Stream Aggregators](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading#stream-aggregators)
 - [Single Server](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading#single-server)
 
 # Streaming Sites
