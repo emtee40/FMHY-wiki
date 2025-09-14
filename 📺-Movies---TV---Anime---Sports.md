@@ -34,9 +34,9 @@
 
 ***
 
-## ▷ Streaming Aggregators
+## ▷ Stream Aggregators
 
-* **Note** - These serve as interfacess for multiple streaming sources or APIs. Sources will vary from site-to-site, depending on which ones the owners feel are worth using. Many have custom players that automatically test each stream one-by-one without user input required. See [website grading](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading#api-frontends) for scores.
+* **Note** - These serve as interfacess for multiple stream providers or APIs. Sources will vary from site-to-site, depending on which ones the owners feel are worth using. Many have custom players that automatically test each stream one-by-one without user input required. See [website grading](https://github.com/fmhy/FMHY/wiki/Stream-Site-Grading#api-frontends) for scores.
 
 ***
 
