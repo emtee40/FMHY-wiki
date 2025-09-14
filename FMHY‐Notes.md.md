@@ -197,6 +197,13 @@ Keep in mind that some apps that exist do not work unless you installed them fro
 
 Keep in mind this is a privacy utility meant to prevent common snooping, its not claiming to be a security tool, and will not stop forensic analysis.
 
+
+***
+
+#### Flicker Proxy
+
+Note that the proxy may be slower, but it can be used in cases where the site or TMDb is blocked. 
+
 ***
 
 #### Site Favicon DL
