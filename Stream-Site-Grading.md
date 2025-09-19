@@ -25,6 +25,19 @@
 
 # Streaming Sites
 
+## Aether
+### Score: /20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its sources if they fail. ✔️
+1. Site does not have episode auto-next. ❌
+1. Sites UI is good, feels modern and unique. ✔️
+1. The site has watch lists, and you can login to sync them across devices. ✔️
+1. Has random button + recommendations based on what you watch. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. * Does it have a unique custom player, a customized version of another player, or no custom player?
+1. * Does it have watch parties, are streams synced correctly, and controllable by both watchers? Built-in or external?
+
 ## Cineby
 ### Score: 20/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -362,6 +375,20 @@
 1. Site does not have watch parties. ❌
 
 ***
+## VLOP
+### Score: 17/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. Sites UI is good, feels modern and unique. ✔️
+1. The site has watch lists, and you can login to sync them across devices. ✔️
+1. Site has decent sorting, random button, AI recommendations, and similar movies on each page. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site uses custom movie-web player. 🟡
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
+
+***
 ## Mapple.tv
 ### Score: 16/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -373,20 +400,6 @@
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well and looks good on mobile. ✔️
 1. Site does have a custom player. ✔️
-1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
-
-***
-## VLOP
-### Score: 16/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is good, feels modern and unique. ✔️
-1. The site has watch lists, and you can login to sync them across devices. ✔️
-1. Site has decent sorting, random button, AI recommendations, and similar movies on each page. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
