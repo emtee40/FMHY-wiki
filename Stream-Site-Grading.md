@@ -320,7 +320,7 @@
 
 ***
 ## FilmeX
-### Score: 19/20
+### Score: 18/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
 1. Auto-switches through all its (non-embed, second player) sources if they fail. ✔️
 1. Site does have episode auto-next across all servers (non-embed, second player). ✔️
@@ -330,7 +330,7 @@
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
 1. Sites does have a custom player (second server). ✔️
-1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
+1. Has built in watch parties, streams are synced, but cannot be paused by both watchers. 🟡
 
 ***
 ## VidBox
