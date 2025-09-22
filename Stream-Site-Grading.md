@@ -599,6 +599,20 @@
 1. Site does not have watch parties. ❌
 
 ***
+## VoidFlix
+### Score: 13/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. Sites UI is fine but has room for improvement. 🟡
+1. The site has watch lists, and you can login to sync them across devices. ✔️
+1. Has decent sorting and AI recommendations. ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+1. Site has links to external watch party sites. 🟡
+
+***
 ## Cinema Deck
 ### Score: 12/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
