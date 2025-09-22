@@ -669,6 +669,20 @@
 1. Site does not have watch parties. ❌
 
 ***
+## Bingeflix
+### Score: 11/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Has 5 sources but does not auto-switch when one fails. ❌
+1. Site does not have episode auto-next. ❌
+1. UI is solid, feels clean and modern. ✔️
+1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Site has decent sorting + huge list of franchise collections. ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+1. Site does not have watch parties. ❌
+
+***
 ## Wooflix
 ### Score: 11/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
