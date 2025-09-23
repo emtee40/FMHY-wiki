@@ -823,20 +823,6 @@
 1. Site does not have watch parties. ❌
 
 ***
-## Autoembed
-### Score: 9/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does not have episode auto-next. ❌
-1. UI is alright but has room for improvement. 🟡
-1. Site does have watch lists, and you can login to sync them across devices. ✔️
-1. Site has decent sorting options, but more discoverability options would be nice. 🟡
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
 ## Ask4Movie
 ### Score: 9/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
