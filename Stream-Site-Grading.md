@@ -878,20 +878,6 @@
 1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
 
-***
-## Soapy
-### Score: 6/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Has 4 servers, but does not auto-switch if ones fails. ❌
-1. Site does not have episode auto-next. ❌
-1. Sites UI has room for improvement. ❌
-1. Site does not have watch lists, continue watching or history. ❌
-1. Site is lacking in terms of content discoverability and sorting. ❌
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
 # Single Server
 
 ## yFlix
