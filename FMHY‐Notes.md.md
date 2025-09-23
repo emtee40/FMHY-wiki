@@ -587,7 +587,7 @@ Go to Settings → Feed Filter and untoggle 'Promoted' to not see ads. Those tha
 
 ***
 
-#### OpenRBG Beta
+#### OpenRGB Beta
 
 How to download OpenRGB beta.
  
