@@ -145,6 +145,12 @@ We recommend using the mod as there are many fake versions on search engines
 
 ***
 
+####Sport7
+
+Note that many sites use this player, but Sport7 / USTVGo are their main sites. 
+
+***
+
 #### Android Spotify Note
 
 Keep in mind that Spotify patchers are not currently working for all users in all regions.
