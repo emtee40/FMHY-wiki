@@ -305,6 +305,20 @@
 1. Site does have a custom player (third player). ✔️
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
+***
+## FilmeX
+### Score: 19/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its (non-embed, second player) sources if they fail. ✔️
+1. Site does have episode auto-next across all servers (non-embed, second player). ✔️
+1. UI is solid, feels clean and modern. ✔️
+1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Has a good sorting, franchise collections, and AI recommendation bot. ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Sites does have a custom player (second server). ✔️
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
+
 ## Aether
 ### Score: 19/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -331,20 +345,6 @@
 1. Site looks good + works well on mobile. ✔️
 1. Site does have custom player (vidify). ✔️
 1. Has built in watch parties, streams are synced, but are not controllable by both watchers. 🟡
-
-***
-## FilmeX
-### Score: 18/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its (non-embed, second player) sources if they fail. ✔️
-1. Site does have episode auto-next across all servers (non-embed, second player). ✔️
-1. UI is solid, feels clean and modern. ✔️
-1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Has a good sorting, franchise collections, and AI recommendation bot. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Sites does have a custom player (second server). ✔️
-1. Has built in watch parties, streams are synced, but cannot be paused by both watchers. 🟡
 
 ***
 ## VidBox
