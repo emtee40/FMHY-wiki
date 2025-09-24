@@ -38,7 +38,7 @@ These are trusted community ran instances that are out of our control. They curr
 **Markdown**
 
 * [Markdown Files](https://github.com/fmhy/FMHYedit/archive/refs/heads/main.zip)
-* [Markdown Page](https://api.fmhy.net/single-page)
+* [Markdown Page](https://api.fmhy.net/single-page), [2](https://xtwnunsbzyrrxaiqekyt.supabase.co/functions/v1/single-page-docs)
 * [GitHub Source](https://github.com/fmhy/edit)
 
 ***
