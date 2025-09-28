@@ -115,6 +115,12 @@ https://preview.tinyurl.com/5erwtst5
 
 ***
 
+#### 3X-UI
+
+For strict ISP/ country use domain and cert for hardening to https before creating any 'inbounds' proxies. 
+
+***
+
 #### StartAllBack
 
 After updating, make sure you delete `StartAllBackX64.dll.bak` before applying the crack, otherwise it will not work. 
