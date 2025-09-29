@@ -551,7 +551,7 @@
 
 ## ▷ Streaming
 
-* ⭐ **[Megakino](https://megakino.moi/)** - Movies / TV / Dub / 1080p / Search Requires IPV6
+* ⭐ **[Megakino](https://megakino.moi/)** - Movies / TV / Dub / 1080p
 * ⭐ **[Moflix](https://moflix-stream.xyz/)** - Movies / TV / Dub / 1080p
 * ⭐ **[Kinoger](https://kinoger.com/)** - Movies / TV / 1080p
 * ⭐ **[S.TO](https://s.to/)**, [2](https://serienstream.to/) - TV / Anime / Dub / 720p
@@ -1494,7 +1494,6 @@
 
 ## ▷ Downloading / Descargar
 
-* ⭐ **[DescargasDD](https://descargasdd.org/)** - Video / Audio / Castilian / Latino / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
 * ⭐ **[eMule](https://www.emule-project.com/home/perl/help.cgi?l=17&rm=show_topic&topic_id=586)** - Video / Audio / Reading / NSFW / Castilian
 * ⭐ **[Curso_vip](https://t.me/Curso_vip)** - Courses / Books
 * [identi](https://identi.io/) - Video / Audio / Reading / Latino / Castilian
@@ -1511,6 +1510,7 @@
 * [Mega1080](https://www.mega1080.com/) - Movies / Documentaries / 1080p / Latino
 * [TodoPelisHD](https://todopelishd.com/) - Movies / 1080p / Latino
 * [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation / 1080p / Latino
+* [DescargasDD](https://descargasdd.org/) - Video / Audio / Castilian / Latino / Requires Waitlist / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
 * [SeiresHD](https://seireshd.com/) - Movies / TV / Animation / 1080p / Latino
 * [Peliculas-HD](https://peliculas-hd.org/) - Movies / 1080p / Latino
 * [mirandopeliculas](https://www.mirandopeliculas.com/) - Movies / TV / Latino
