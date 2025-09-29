@@ -278,19 +278,6 @@
 
 # Stream Aggregators
 
-## Beech
-### Score: 20/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its (non-embed, beech player) sources if they fail. ✔️
-1. Site does have episode auto-next on its non-embed beech player. ✔️
-1. UI is nice, feels modern, search shows results as you type. ✔️
-1. Site has watch lists + favorites, and they can be synced across devices. ✔️
-1. Site has sorting, and when you login + rate items it'll give you recs based on those. ✔️
-1. Disabling ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (beech player). ✔️
-1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
-
 ***
 ## CinemaOS
 ### Score: 20/20
@@ -303,6 +290,19 @@
 1. Disabling ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (third player). ✔️
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
+
+## Beech
+### Score: 20/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its (non-embed, beech player) sources if they fail. ✔️
+1. Site does have episode auto-next on its non-embed beech player. ✔️
+1. UI is nice, feels modern, search shows results as you type. ✔️
+1. Site has watch lists + favorites, and they can be synced across devices. ✔️
+1. Site has sorting, and when you login + rate items it'll give you recs based on those. ✔️
+1. Disabling ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (beech player). ✔️
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
