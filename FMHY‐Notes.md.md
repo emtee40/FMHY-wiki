@@ -535,7 +535,7 @@ If your initial search doesn't work, trying searching the same term again within
 
 #### Jdownloader 
 
-Keep in mind the link on their frontpage is sponsored and has adware, but jdownloader2 which is linked on fmhy, or when you click "download" at the top of the site does not contain any adware. 
+Keep in mind the link on their frontpage is sponsored and has adware, but jdownloader2 which is linked on fmhy, does not contain any adware. 
 
 ***
 
