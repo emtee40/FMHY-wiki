@@ -431,6 +431,20 @@
 1. Site does not have watch parties. ❌
 
 ***
+## Cinezo
+### Score: 15/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. Sites UI is good and feels modern. ✔️
+1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Site has mood based recommendation bot, good filters / sorting, and similar movies on each page.  ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site works well and looks good on mobile. ✔️
+1. Site does not have a custom player. ❌
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
+
+***
 ## Netplay
 ### Score: 15/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -457,20 +471,6 @@
 1. Site looks good + works well on mobile. ✔️
 1. Uses custom version of vidstack player. 🟡
 1. Site does not have watch parties. ❌
-
-***
-## Cinezo
-### Score: 15/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is good and feels modern. ✔️
-1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Site has mood based recommendation bot, decent sorting + similar movies on each page.  ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site works well and looks good on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
 ## Cinepeace
