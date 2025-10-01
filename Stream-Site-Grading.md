@@ -316,7 +316,7 @@
 1. Has random button + recommendations based on what you watch. ✔️
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
-1. Site uses custom version of movie-web player (has added features to it). ✔️
+1. Site uses custom version of movie-web player (toggable in settings). ✔️
 1. Has built in watch parties, streams are synced, controllable by both watchers. 
 
 ***
