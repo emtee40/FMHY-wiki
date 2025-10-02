@@ -601,7 +601,7 @@
 1. Site does not have watch parties. ❌
 
 ***
-## Maxflix
+## Cinevibe
 ### Score: 13/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
 1. Auto-switches through all its sources if they fail. ✔️
