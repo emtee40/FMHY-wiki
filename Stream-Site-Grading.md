@@ -376,6 +376,20 @@
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
+## VLOP
+### Score: 18/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. Sites UI is good, feels modern and unique. ✔️
+1. The site has watch lists, and you can login to sync them across devices. ✔️
+1. Site has decent sorting, random button, AI recommendations, and similar movies on each page. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site uses customized version of movie-web player with their own features. ✔️
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
+
+***
 ## Willow
 ### Score: 17/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -388,20 +402,6 @@
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
 1. Site does not have watch parties. ❌
-
-***
-## VLOP
-### Score: 17/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is good, feels modern and unique. ✔️
-1. The site has watch lists, and you can login to sync them across devices. ✔️
-1. Site has decent sorting, random button, AI recommendations, and similar movies on each page. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site uses custom movie-web player. 🟡
-1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
 ## Mapple.tv
