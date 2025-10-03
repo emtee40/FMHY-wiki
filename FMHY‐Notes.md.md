@@ -117,7 +117,7 @@ https://preview.tinyurl.com/5erwtst5
 
 #### 3X-UI
 
-For strict ISP/ country use domain and cert for hardening to https before creating any 'inbounds' proxies. 
+For censorship enforcing ISPs and countries, bind a domain and certificate to harden the panel to https. Do this by selecting 'SSL Certificate Management' or 'Cloudflare SSL Management' (options 18 and 19) within the terminal. If you open the panel whilst on http you risk being caught for bypassing and could get into legal trouble. Free domains can be gotten from DigitalPlat (false info for signup works). 
 
 ***
 
