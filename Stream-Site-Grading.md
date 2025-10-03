@@ -825,19 +825,6 @@
 1. Site does not have watch parties. ❌
 
 ***
-## Novafork
-### Score 7/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. UI is fine but not much going on. 🟡
-1. Site does not have watch lists, continue watching or history. ❌
-1. Has decent sorting, but better discoverability options could be added. 🟡
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site doesn't work well or look great on mobile. ❌
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
 # Single Server
 
 ## yFlix
