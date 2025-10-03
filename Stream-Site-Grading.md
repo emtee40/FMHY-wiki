@@ -440,7 +440,7 @@
 1. Site does have episode auto-next on some servers. 🟡
 1. Sites UI is good and feels modern. ✔️
 1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Site has mood based recommendation bot, good filters / sorting, and similar movies on each page.  ✔️
+1. Site has mood based recommendation bot, good genre filters / sorting, and similar movies on each page.  ✔️
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site works well and looks good on mobile. ✔️
 1. Site does not have a custom player. ❌
