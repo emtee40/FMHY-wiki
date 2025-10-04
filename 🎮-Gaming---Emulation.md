@@ -400,6 +400,7 @@
 ## ▷ Browser Emulators
 
 * 🌐 **[Browser Emulator Index](https://emulation.gametechwiki.com/index.php/Emulators_on_browsers)** - List of Browser Emulators
+* ↪️ **[EmulatorJS / NeptunJS](https://rentry.co/EmulatorJS-NeptunJS)** - Frontends for EmulatorJS / NeptuneJS
 * ⭐ **[GAM.ONL](https://gam.onl/)**, [2](https://www.retrogames.onl/) - Multi-Console
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)** - Multi-Console / Archive.org
 * ⭐ **[Telemelt](https://telemelt.com/)** - Multiplayer Browser Emulator
@@ -432,7 +433,6 @@
 * [Tiny8bit](https://floooh.github.io/tiny8bit/) - Vintage 8-Bit / [GitHub](https://github.com/floooh/chips-test)
 * [RetroFab](https://itizso.itch.io/retrofab) or [LCD Games](http://bdrgames.nl/lcdgames/) / [GitHub](http://github.com/BdR76/lcdgame.js) - Retro LCD Game Emulators
 * [DosGames](https://dosgames.com/), [DOSZone](https://dos.zone/) / [Discord](https://discord.com/invite/hMVYEbG), [WePlayDOS](https://weplaydos.games/) / [Discord](https://discord.gg/82TAR6fJ8g) / [GitHub](https://github.com/muditjuneja/weplaydos.games) or [PlayDOSGames](https://www.playdosgames.com/) - DOS Browser Emulators
-* [EmulatorJS / NeptunJS](https://rentry.co/EmulatorJS-NeptunJS) - Frontends for EmulatorJS / NeptuneJS
 
 ***
 
