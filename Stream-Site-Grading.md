@@ -328,7 +328,7 @@
 1. Site does have episode auto-next on their custom first player. ✔️
 1. Sites UI is good, feels modern and unique. ✔️
 1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Site has mood based recommendation bot, good genre filters / sorting, and similar movies on each page.  ✔️
+1. Site has mood based recs, recs based on what you watch, good genre filters, and similar movies on pages.  ✔️
 1. Disabling ads (bottom left of site) removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site works well and looks good on mobile. ✔️
 1. Site does have a custom player (first is theirs). ✔️
@@ -515,20 +515,6 @@
 1. Site looks good + works well on mobile. ✔️
 1. Site uses a customized version of artplayer.js. 🟡
 1. Site has links to external watch party sites. 🟡
-
-***
-## MovieMaze
-### Score: 14/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. Sites UI is good, feel modern and unique. ✔️
-1. Site has watch lists + history, and you can login to sync them across devices. ✔️
-1. Has decent sorting options, and AI bot, history recommendations. ✔️
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (first player). ✔️
-1. Site does not have watch parties. ❌
 
 ***
 ## Nunflix
