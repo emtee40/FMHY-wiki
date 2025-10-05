@@ -328,7 +328,7 @@
 1. Site does have episode auto-next on their custom first player. ✔️
 1. Sites UI is good, feels modern and unique. ✔️
 1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Site has mood based recs, recs based on what you watch, good genre filters, and similar movies on pages.  ✔️
+1. Site has mood based recs, recs based on what you watch, genre filters, franchise collections and similar movies on pages.  ✔️
 1. Disabling ads (bottom left of site) removes new tab/window popups, can be used without an adblocker. ✔️
 1. Site works well and looks good on mobile. ✔️
 1. Site does have a custom player (first is theirs). ✔️
