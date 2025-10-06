@@ -503,20 +503,6 @@
 1. Site does not have watch parties. ❌
 
 ***
-## ViewVault
-### Score: 15/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. UI is solid, feels clean and modern. ✔️
-1. The site has watch lists, and you can login to sync across devices. ✔️
-1. Has decent sorting options, but more discoverability options would be nice. 🟡
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Uses custom version of vidstack player. 🟡
-1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
-
-***
 ## Nunflix
 ### Score: 14/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
