@@ -419,6 +419,20 @@
 1. Site does not have watch parties. ❌
 
 ***
+## VoidFlix
+### Score: 17/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its (custom third player) sources if they fail. ✔️
+1. Site have episode auto-next on (custom third player). ✔️
+1. Sites UI is solid, feels modern. ✔️
+1. The site has watch lists, and you can login to sync them across devices. ✔️
+1. Has decent sorting and AI recommendations. ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Site uses a customized version of artplayer.js. 🟡
+1. Site has links to external watch party sites. 🟡
+
+***
 ## Mapple.tv
 ### Score: 16/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -431,20 +445,6 @@
 1. Site works well and looks good on mobile. ✔️
 1. Site does have a custom player. ✔️
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
-
-***
-## VoidFlix
-### Score: 16/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its (custom third player) sources if they fail. ✔️
-1. Site have episode auto-next on (custom third player). ✔️
-1. Sites UI is fine but has room for improvement. 🟡
-1. The site has watch lists, and you can login to sync them across devices. ✔️
-1. Has decent sorting and AI recommendations. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site uses a customized version of artplayer.js. 🟡
-1. Site has links to external watch party sites. 🟡
 
 ***
 ## HydraHD
