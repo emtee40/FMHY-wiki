@@ -335,20 +335,6 @@
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
-## Cinevibe
-### Score: 19/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its sources if they fail. ✔️
-1. Site does have episode auto-next. ✔️
-1. Sites UI is very good, feels modern, has lots of user-settings. ✔️
-1. Site has watch lists + continue watching, and they can be synced across devices. ✔️
-1. Site has AI recs, mood based, collections, filtering, and recs based on what you watched. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Uses custom version of vidstack player. 🟡
-1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
-
-***
 ## FilmeX
 ### Score: 18/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -360,6 +346,20 @@
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (vidlink + works w/ primevid). ✔️
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
+
+***
+## Cinevibe
+### Score: 18/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its sources if they fail. ✔️
+1. Site does have episode auto-next. ✔️
+1. Sites UI is very good, feels modern, has lots of user-settings. ✔️
+1. Site has watch lists + continue watching, and they can be synced across devices. ✔️
+1. Site has AI recs, mood based, collections, filtering, and recs based on what you watched. ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Uses custom version of vidstack player. 🟡
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
