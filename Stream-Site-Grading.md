@@ -123,6 +123,20 @@
 1. Site has links to external watch party sites. 🟡
 
 ***
+## FlickyStream
+### Score: 19/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its (non-embed, second player) sources if they fail. ✔️
+1. Site does have episode auto-next across all servers (non-embed, second player). ✔️
+1. Sites UI is good, feels modern and unique. ✔️
+1. Site has watch lists, and you can login to sync them across devices. ✔️
+1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
+1. Disabling ads in settings (signup) removes new tab/window popups, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (second player). ✔️
+1. Has watch parties, but its just screen sharing plugin that doesn't work well. 🟡
+
+***
 ## 1Shows
 ### Score: 18/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -134,20 +148,6 @@
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
-1. Has watch parties, but its just screen sharing plugin that doesn't work well. 🟡
-
-***
-## FlickyStream
-### Score: 18/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its (non-embed, second player) sources if they fail. ✔️
-1. Site does have episode auto-next across all servers (non-embed, second player). ✔️
-1. Sites UI is good, feels modern and unique. ✔️
-1. Site has watch lists, and you can login to sync them across devices. ✔️
-1. Gives recommendations on movie pages + has AI recommendation bot. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (second player). ✔️
 1. Has watch parties, but its just screen sharing plugin that doesn't work well. 🟡
 
 ***
