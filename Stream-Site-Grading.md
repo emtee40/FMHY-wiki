@@ -321,20 +321,6 @@
 1. Has built in watch parties, streams are synced, controllable by both watchers. 
 
 ***
-## FilmeX
-### Score: 19/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its (non-embed, vidlink) sources if they fail. ✔️
-1. Site does have episode auto-next across all servers (non-embed, vidlink). ✔️
-1. UI is solid, feels clean and modern. ✔️
-1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Has a good sorting, franchise collections, and AI recommendation bot. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player (vidlink + works w/ primevid). ✔️
-1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
-
-***
 ## Cinezo
 ### Score: 19/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -360,6 +346,20 @@
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Uses custom version of vidstack player. 🟡
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
+
+***
+## FilmeX
+### Score: 18/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its (non-embed, vidlink) sources if they fail. ✔️
+1. Site does have episode auto-next across all servers (non-embed, vidlink). ✔️
+1. UI is solid, feels clean and modern. ✔️
+1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Has a good sorting, franchise collections, and AI recommendation bot. ✔️
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player (vidlink + works w/ primevid). ✔️
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
