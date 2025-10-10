@@ -321,6 +321,20 @@
 1. Has built in watch parties, streams are synced, controllable by both watchers. 
 
 ***
+## Cinezo
+### Score: 20/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its (non-embed, first player) sources if they fail. ✔️
+1. Site does have episode auto-next on their custom first player. ✔️
+1. Sites UI is good, feels modern and unique. ✔️
+1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
+1. Site has mood based recs, recs based on what you watch, genre filters, franchise collections and similar movies on pages.  ✔️
+1. Disabling ads (bottom left of site) removes new tab/window popups, can be used without an adblocker. ✔️
+1. Site works well and looks good on mobile. ✔️
+1. Site does have a custom movie-web player. ✔️
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
+
+***
 ## FilmeX
 ### Score: 19/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -332,20 +346,6 @@
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (vidlink + works w/ primevid). ✔️
-1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
-
-***
-## Cinezo
-### Score: 19/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on their custom first player. ✔️
-1. Sites UI is good, feels modern and unique. ✔️
-1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Site has mood based recs, recs based on what you watch, genre filters, franchise collections and similar movies on pages.  ✔️
-1. Disabling ads (bottom left of site) removes new tab/window popups, can be used without an adblocker. ✔️
-1. Site works well and looks good on mobile. ✔️
-1. Site does have a custom movie-web player. ✔️
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
