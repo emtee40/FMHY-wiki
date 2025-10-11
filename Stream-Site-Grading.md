@@ -447,6 +447,20 @@
 1. Site has links to external watch party sites. 🟡
 
 ***
+## Cinevibe
+### Score: 17/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its sources if they fail. ✔️
+1. Site does not have episode auto-next. ❌
+1. UI is solid, feels clean, modern and feels unique. ✔️
+1. The site has continue watching + history, and you can login to sync them across devices. ✔️
+1. Has mood based sorting, decades, collections, AI rec system, and good sorting. ✔️
+1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
+1. Site looks good + works well on mobile. ✔️
+1. Uses highly customized version of vidstack player. ✔️
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
+
+***
 ## Mapple.tv
 ### Score: 16/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
