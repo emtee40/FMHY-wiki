@@ -573,20 +573,6 @@
 1. Site does not have watch parties. ❌
 
 ***
-## The Cube
-### Score: 13/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. UI is solid, feels clean and modern. ✔️
-1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Has decent sorting, AI recommendations, editor picks. ✔️
-1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
-1. Site looks good + works well on mobile. ✔️
-1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
 ## Youflex
 ### Score: 13/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
