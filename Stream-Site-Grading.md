@@ -172,7 +172,7 @@
 1. Site does have episode auto-next on (non-embed, first player). ✔️
 1. Sites UI is fine but has room for improvement. 🟡
 1. The site has watch lists + continue watching, and you can login to sync them across devices. ✔️
-1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
+1. Has decent sorting but is otherwise lacking content discoverability options. 🟡
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
@@ -186,7 +186,7 @@
 1. Site does not have episode auto-next. ❌
 1. UI is alright but has room for improvement. 🟡
 1. Has watch lists and history, and you can login to sync them across devices. ✔️
-1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
+1. Has decent sorting but is otherwise lacking content discoverability options. 🟡
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site works well, but doesn't look too great on mobile. 🟡
 1. Uses custom version of vidstack player. 🟡
@@ -200,7 +200,7 @@
 1. Site does not have episode auto-next. ❌
 1. Site feels dated, lots of room for improvement. ❌
 1. Site does not have watch lists, continue watching or history. ❌
-1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
+1. Has decent sorting but is otherwise lacking content discoverability options. 🟡
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
 1. Uses a custom version of JW player. 🟡
@@ -580,7 +580,7 @@
 1. Site does have episode auto-next on some servers. 🟡
 1. UI is solid, feels minimal and modern. ✔️
 1. The site has watch lists via trakt, and you can login to sync them across devices. ✔️
-1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
+1. Has decent sorting but is otherwise lacking content discoverability options. 🟡
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
@@ -776,7 +776,7 @@
 1. Site does have episode auto-next on some servers. 🟡
 1. UI is solid, feels clean and modern. ✔️
 1. Site does not have watch lists, continue watching or history. ❌
-1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
+1. Has decent sorting but is otherwise lacking content discoverability options. 🟡
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
@@ -790,7 +790,7 @@
 1. Site does have episode auto-next on some servers. 🟡
 1. Sites UI is good, feels unique and modern. ✔️
 1. The site has watch later + history, and export to sync them across devices, but no login to sync. 🟡
-1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
+1. Has decent sorting but is otherwise lacking content discoverability options. 🟡
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site does not work well on mobile, UI gets cut off. ❌
 1. Site does not have a custom player. ❌
@@ -834,7 +834,7 @@
 1. Site has movies only so it doesn't need episode auto-next. 🟡
 1. Site has nice UI and feels modern . ✔️
 1. Site has watch lists, continue watching and history, and you can login to sync them across devices. ✔️
-1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
+1. Has decent sorting but is otherwise lacking content discoverability options. 🟡
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Uses custom version of vidstack player. 🟡
