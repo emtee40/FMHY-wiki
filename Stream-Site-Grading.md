@@ -53,7 +53,7 @@
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
-## P-Stream / movie-web 
+## P-Stream
 ### Score: 20/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
 1. Auto-switches through all its sources if they fail. ✔️
