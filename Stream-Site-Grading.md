@@ -630,12 +630,12 @@
 
 ***
 ## Way2Movies
-### Score: 12/20
+### Score: 11/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
 1. Some of its servers have auto-switch built in. 🟡
 1. Site does have episode auto-next on some servers. 🟡
 1. UI is solid, feels clean and modern. ✔️
-1. The site has watch later + history, and you can export to sync them across devices. ✔️
+1. The site has watch later + history, and export to sync them across devices, but no login to sync. 🟡
 1. Has collections / trending, but could use a bit more in terms of discovery. 🟡
 1. Site has occasional new tab/window popup, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
@@ -779,6 +779,20 @@
 1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
 1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
 1. Site looks good + works well on mobile. ✔️
+1. Site does not have a custom player. ❌
+1. Site does not have watch parties. ❌
+
+***
+## AuroraScreen
+### Score: 9/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. 3+ sources but does not auto-switch if ones fails. ❌
+1. Site does have episode auto-next on some servers. 🟡
+1. Sites UI is good, feels unique and modern. ✔️
+1. The site has watch later + history, and export to sync them across devices, but no login to sync. 🟡
+1. Has decent sorting options but is otherwise lacking content discoverability options. 🟡
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site does not work well on mobile, UI gets cut off. ❌
 1. Site does not have a custom player. ❌
 1. Site does not have watch parties. ❌
 
