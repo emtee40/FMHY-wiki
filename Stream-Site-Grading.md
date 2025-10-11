@@ -786,7 +786,7 @@
 ## AuroraScreen
 ### Score: 9/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. 3+ sources but does not auto-switch if ones fails. ❌
+1. 4+ but does not auto-switch if ones fails. ❌
 1. Site does have episode auto-next on some servers. 🟡
 1. Sites UI is good, feels unique and modern. ✔️
 1. The site has watch later + history, and export to sync them across devices, but no login to sync. 🟡
