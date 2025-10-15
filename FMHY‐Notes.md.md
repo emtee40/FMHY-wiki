@@ -498,8 +498,6 @@ To get better reasoning, try the following prompt on smart mode:
 
 #### Chatgpt Note
 
-Sign-up is not required, but doing so does unlock more models and improves limits.
-
 ChatGPT Limits:
 - No-Signup = GPT-5 mini (Limited)
 - Signup = GPT-5-medium (1 Daily), GPT-5-chat (10 per 5 hours), GPT-5 mini (Unlimited)
