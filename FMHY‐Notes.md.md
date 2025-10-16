@@ -496,14 +496,6 @@ To get better reasoning, try the following prompt on smart mode:
 
 ***
 
-#### Chatgpt Note
-
-ChatGPT Limits:
-- No-Signup = GPT-5 mini (Limited)
-- Signup = GPT-5-medium (1 Daily), GPT-5-chat (10 per 5 hours), GPT-5 mini (Unlimited)
-
-***
-
 #### Cofi Note
 
 Useful if you're a coffee enthusiast. The methods are created by James Hoffmann, he's a world champion barista and popular YouTuber
