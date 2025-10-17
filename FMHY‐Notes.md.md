@@ -147,12 +147,6 @@ Eruda Console for mobile browsers bookmarklet:
 
 ***
 
-#### SnapTube Note
-
-We recommend using the mod as there are many fake versions on search engines
-
-***
-
 #### Sport7
 
 Note that many sites use this player, but Sport7 / USTVGo are their main sites. 
