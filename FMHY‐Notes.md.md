@@ -123,7 +123,7 @@ For censorship enforcing ISPs and countries, bind a domain and certificate to ha
 
 #### StartAllBack
 
-After updating, make sure you delete `StartAllBackX64.dll.bak` before applying the crack, otherwise it will not work. 
+Disable 'Automatically download and install updates' during installation so the update doesn't break.
 
 ***
 
