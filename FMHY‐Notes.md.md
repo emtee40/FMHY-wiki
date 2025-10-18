@@ -159,6 +159,14 @@ Keep in mind that Spotify patchers are not currently working for all users in al
 
 ***
 
+#### Proton Torrenting
+
+The only way to torrent with Proton VPN is with a OpenVPN config / [Guide](https://protonvpn.com/support/vpn-config-download). 
+
+OpenVPN login credentials are located [here](https://account.protonvpn.com/account-password).
+
+***
+
 #### App Cake Warning
 
 The site itself is safe, but in the past they've used leaked public certificates for their official app, which can get your phone(and account) blacklisted from sideloading.
