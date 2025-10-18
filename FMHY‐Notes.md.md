@@ -161,7 +161,7 @@ Keep in mind that Spotify patchers are not currently working for all users in al
 
 #### Proton Torrenting
 
-The only way to torrent with Proton VPN is with a OpenVPN config / [Guide](https://protonvpn.com/support/vpn-config-download). 
+The only way to torrent with Proton VPN is with a OpenVPN config / [Guide](https://protonvpn.com/support/vpn-config-download). Note that they do expire, so you'll have to make new ones occasionally.
 
 OpenVPN login credentials are located [here](https://account.protonvpn.com/account-password).
 
