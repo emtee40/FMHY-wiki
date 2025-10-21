@@ -179,6 +179,20 @@
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
+## PopcornMovies
+### Score: 13/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Some of its servers have auto-switch built in. 🟡
+1. Site does have episode auto-next on some servers. 🟡
+1. UI is very good, modern looking with lots to look at. ✔️
+1. Has watch lists and history, and you can login to sync them across devices. ✔️
+1. Has good sorting and collections. ✔️
+1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
+1. Site looks good + works well on mobile. ✔️
+1. Uses custom version of vidstack player. 🟡
+1. Site does not have watch parties. ❌
+
+***
 ## Smashystream
 ### Score: 9/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -570,20 +584,6 @@
 1. Site has occasional new tab/window popup, some can be disabled in account settings, but is usable without adblocker. 🟡
 1. Site looks good + works well on mobile. ✔️
 1. Site does not have a custom player. ❌
-1. Site does not have watch parties. ❌
-
-***
-## PopcornMovies
-### Score: 13/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Some of its servers have auto-switch built in. 🟡
-1. Site does have episode auto-next on some servers. 🟡
-1. UI is very good, modern looking with lots to look at. ✔️
-1. Has watch lists and history, and you can login to sync them across devices. ✔️
-1. Has good sorting and collections. ✔️
-1. Site has constant new tab/window popups, difficult/impossible to use without adblocker. ❌
-1. Site looks good + works well on mobile. ✔️
-1. Uses custom version of vidstack player. 🟡
 1. Site does not have watch parties. ❌
 
 ***
