@@ -39,20 +39,6 @@
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
-## xPrime
-### Score: 20/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its sources if they fail. ✔️
-1. Site does have episode auto-next across all servers. ✔️
-1. Sites UI feels very modern and unique, one of the best. ✔️
-1. Site has watch lists and continue watching, and you can login to sync them across devices. ✔️
-1. Good sorting, gives recommendations based on watched, and has mood based search. ✔️
-1. Disabling ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site does have a custom player. ✔️
-1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
-
-***
 ## P-Stream
 ### Score: 20/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -65,6 +51,20 @@
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player (added features to movie-web). ✔️
 1. Has built in watch parties (pstream), streams are synced, controllable by both watchers. ✔️
+
+***
+## xPrime
+### Score: 20/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its sources if they fail. ✔️
+1. Site does have episode auto-next across all servers. ✔️
+1. Sites UI feels very modern and unique, one of the best. ✔️
+1. Site has watch lists and continue watching, and you can login to sync them across devices. ✔️
+1. Good sorting, gives recommendations based on watched, and has mood based search. ✔️
+1. Disabling ads in settings removes new tab/window popups, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player. ✔️
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
 ## VeloraTV
