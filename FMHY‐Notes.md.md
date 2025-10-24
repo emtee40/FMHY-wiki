@@ -75,6 +75,12 @@ If you can't connect, try Scanner Settings -> Endpoint -> Suggested -> Try diffe
 
 ***
 
+#### Thunderbird
+
+To get real-time notification, press the three lines in the top left corner, select the account you want to configure, select Manage Folders, then select the folder you want from below. You can then select inbox and enable push. (Notifications must be enabled).
+
+***
+
 #### Bookmarkeddit
 
 This also extends the amount of saved posts you can view (reddit caps at 1000 by default)
