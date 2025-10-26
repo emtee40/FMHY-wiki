@@ -185,6 +185,12 @@ You still need to bypass Cloudflare captcha by yourself. This only bypasses time
 
 ***
 
+#### Video DownloadHelper
+
+Note that some versions of this extension give a watermark on YouTube. It seems to happen on the Windows + Firefox version.
+
+***
+
 #### Reaper Note
 
 Asks user to buy after 60 days, but you can just close the popup and keep using for free
