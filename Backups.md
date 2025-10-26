@@ -9,7 +9,7 @@
 **Backup Sites** (Unofficial)
 
 * [fmhy.lol](https://fmhy.lol/)
-* [a-fmhy](https://a-fmhy.pages.dev/) (amoled theme)
+* [a-fmhy](https://a-fmhy.pages.dev/) / [GitHub](https://github.com/LandWarderer2772/A-FMHY) (amoled theme)
 * [fmhy.xyz](https://fmhy.xyz/) (safe for work)
 * [fmhy.vercel.app](https://fmhy.vercel.app/)
 * [fmhy-search](https://fmhy-search.streamlit.app/)
