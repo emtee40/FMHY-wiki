@@ -121,6 +121,14 @@ https://preview.tinyurl.com/5erwtst5
 
 ***
 
+#### ChatGPT Limits
+
+* GPT-5-medium (1 Daily)
+* GPT-5-chat (10 per 5 hours)
+* GPT-5 mini (Unlimited) 
+
+***
+
 #### 3X-UI
 
 For censorship enforcing ISPs and countries, bind a domain and certificate to harden the panel to https. Do this by selecting 'SSL Certificate Management' or 'Cloudflare SSL Management' (options 18 and 19) within the terminal. If you open the panel whilst on http you risk being caught for bypassing and could get into legal trouble. Free domains can be gotten from DigitalPlat (false info for signup works). 
