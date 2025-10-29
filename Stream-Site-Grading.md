@@ -193,6 +193,20 @@
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
+## Cinema.BZ
+### Score: 14/20
+1. Has movies, TV, anime, 1080p, but no adjustable quality, or subtitles. 🟡
+1. Auto-switches to next source if first fails. ✔️
+1. Site does have episode auto-next. ✔️
+1. UI is solid, feels clean and modern. ✔️
+1. The site has watch lists, but they cannot be synced across devices. 🟡
+1. Site is lacking in terms of content discoverability and sorting. ❌
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site does have a custom player. ✔️
+1. Site does not have watch parties. ❌
+
+***
 ## PopcornMovies
 ### Score: 13/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
