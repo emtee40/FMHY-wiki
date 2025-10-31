@@ -1,6 +1,7 @@
 **Websites** (Official)
 
 * **[FMHY.net](https://fmhy.net/)** 
+* [fmhyclone](https://fmhyclone.pages.dev/)
 * [fmhy.pages.dev](https://fmhy.pages.dev/)
 * [Selfhosting Guide](https://fmhy.net/other/selfhosting)
 
@@ -37,7 +38,7 @@ These are trusted community ran instances that are out of our control. They curr
 **Markdown**
 
 * [Markdown Files](https://github.com/fmhy/FMHYedit/archive/refs/heads/main.zip)
-* [Markdown Page](https://api.fmhy.net/single-page), [2](https://xtwnunsbzyrrxaiqekyt.supabase.co/functions/v1/single-page-docs)
+* [Markdown Page](https://api.fmhy.net/single-page), [2](https://xtwnunsbzyrrxaiqekyt.supabase.co/functions/v1/single-page-docs), [3](https://fmhyapi.wispy.qzz.io/single-page)
 * [GitHub Source](https://github.com/fmhy/edit)
 
 ***
