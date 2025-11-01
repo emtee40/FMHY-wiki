@@ -81,6 +81,20 @@
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
+## Aether
+### Score: 20/20
+1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
+1. Auto-switches through all its sources if they fail. ✔️
+1. Site does have episode auto-next across all servers. ✔️
+1. Sites UI is good, feels modern and unique. ✔️
+1. The site has watch lists, and you can login to sync them across devices. ✔️
+1. Has random button + recommendations based on what you watch. ✔️
+1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
+1. Site looks good + works well on mobile. ✔️
+1. Site uses custom version of movie-web player (toggable in settings). ✔️
+1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
+
+***
 ## SpenFlix
 ### Score: 20/20
 1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
@@ -106,20 +120,6 @@
 1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
 1. Site looks good + works well on mobile. ✔️
 1. Site does have a custom player. ✔️
-1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
-
-***
-## Aether
-### Score: 20/20
-1. Has movies, TV, anime, 1080p, adjustable quality, and subtitles. ✔️
-1. Auto-switches through all its sources if they fail. ✔️
-1. Site does have episode auto-next across all servers. ✔️
-1. Sites UI is good, feels modern and unique. ✔️
-1. The site has watch lists, and you can login to sync them across devices. ✔️
-1. Has random button + recommendations based on what you watch. ✔️
-1. Site is free from new tab/window popup ads, can be used without an adblocker. ✔️
-1. Site looks good + works well on mobile. ✔️
-1. Site uses custom version of movie-web player (toggable in settings). ✔️
 1. Has built in watch parties, streams are synced, controllable by both watchers. ✔️
 
 ***
