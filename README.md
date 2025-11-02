@@ -5,63 +5,63 @@
 ***
 ***
 
-# [📛 Adblocking / Privacy](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%93%9B-Adblock---Privacy---Antivirus)
+# [📛 Adblocking / Privacy](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%93%9B-Adblock---Privacy---Antivirus)
 
 **Adblocking, Privacy, VPNs, Proxies, Antivirus**
 
 ***
 ***
 
-# [🤖 Artificial Intelligence](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%A4%96-Artificial-Intelligence)
+# [🤖 Artificial Intelligence](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%A4%96-Artificial-Intelligence)
 
 **Chat Bots, Text Generators, Image Generators, Chatbot Tools**
 
 ***
 ***
 
-# [📺 Movies / TV / Anime](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%93%BA-Movies---TV---Anime---Sports)
+# [📺 Movies / TV / Anime](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%93%BA-Movies---TV---Anime---Sports)
 
 **Stream Videos, Download Videos, Torrent Videos**
 
 ***
 ***
 
-# [🎵 Music / Podcasts / Radio](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%8E%B5-Music---Podcasts---Radio)
+# [🎵 Music / Podcasts / Radio](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%8E%B5-Music---Podcasts---Radio)
 
 **Stream Audio, Download Audio, Torrent Audio**
 
 ***
 ***
 
-# [🎮 Gaming / Emulation](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%8E%AE-Gaming---Emulation)
+# [🎮 Gaming / Emulation](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%8E%AE-Gaming---Emulation)
 
 **Download Games, ROMs, Gaming Tools**
 
 ***
 ***
 
-# [📗 Books / Comics / Manga](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%93%97-Books---Comics---Manga)
+# [📗 Books / Comics / Manga](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%93%97-Books---Comics---Manga)
 
 **Books, Comics, Magazines, Newspapers**
 
 ***
 ***
 
-# [💾 Downloading](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%92%BE-Downloading)
+# [💾 Downloading](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%92%BE-Downloading)
 
 **Download Sites, Software Sites, Open Directories**
 
 ***
 ***
 
-# [🌀 Torrenting](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%8C%80-Torrenting)
+# [🌀 Torrenting](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%8C%80-Torrenting)
 
 **Torrent Clients, Torrent Sites, Trackers**
 
 ***
 ***
 
-# [🧠 Educational](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%A7%A0-Educational)
+# [🧠 Educational](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%A7%A0-Educational)
 
 **Courses, Documentaries, Learning Resources**
 
@@ -75,35 +75,35 @@
 ***
 ***
 
-# [📱 Android / iOS](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%93%B1-Android---iOS)
+# [📱 Android / iOS](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%93%B1-Android---iOS)
 
 **Apps, Jailbreaking, Android Emulators**
 
 ***
 ***
 
-# [🐧 Linux / macOS](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%90%A7-Linux---MacOS)
+# [🐧 Linux / macOS](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%90%A7-Linux---MacOS)
 
 **Apps, Software Sites, Gaming**
 
 ***
 ***
 
-# [🌏 Non-English](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%8C%8F-Non-English)
+# [🌏 Non-English](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%8C%8F-Non-English)
 
 **International Piracy Sites** 
 
 ***
 ***
 
-# [📂 Miscellaneous](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%93%82-Miscellaneous)
+# [📂 Miscellaneous](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%93%82-Miscellaneous)
 
 **Extensions, Indexes, News, Health, Food, Fun**
 
 ***
 ***
 
-# [🔒 Backups](https://github.com/emtee40/FMHY-wiki/blob/master//Backups)
+# [🔒 Backups](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//Backups)
 
 **FMHY Backups**
 
@@ -150,63 +150,63 @@
 ***
 ***
 
-# [📛 Adblocking / Privacy](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%93%9B-Adblock---Privacy---Antivirus)
+# [📛 Adblocking / Privacy](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%93%9B-Adblock---Privacy---Antivirus)
 
 **Adblocking, Privacy, VPNs, Proxies, Antivirus**
 
 ***
 ***
 
-# [🤖 Artificial Intelligence](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%A4%96-Artificial-Intelligence)
+# [🤖 Artificial Intelligence](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%A4%96-Artificial-Intelligence)
 
 **Chat Bots, Text Generators, Image Generators, Chatbot Tools**
 
 ***
 ***
 
-# [📺 Movies / TV / Anime](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%93%BA-Movies---TV---Anime---Sports)
+# [📺 Movies / TV / Anime](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%93%BA-Movies---TV---Anime---Sports)
 
 **Stream Videos, Download Videos, Torrent Videos**
 
 ***
 ***
 
-# [🎵 Music / Podcasts / Radio](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%8E%B5-Music---Podcasts---Radio)
+# [🎵 Music / Podcasts / Radio](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%8E%B5-Music---Podcasts---Radio)
 
 **Stream Audio, Download Audio, Torrent Audio**
 
 ***
 ***
 
-# [🎮 Gaming / Emulation](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%8E%AE-Gaming---Emulation)
+# [🎮 Gaming / Emulation](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%8E%AE-Gaming---Emulation)
 
 **Download Games, ROMs, Gaming Tools**
 
 ***
 ***
 
-# [📗 Books / Comics / Manga](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%93%97-Books---Comics---Manga)
+# [📗 Books / Comics / Manga](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%93%97-Books---Comics---Manga)
 
 **Books, Comics, Magazines, Newspapers**
 
 ***
 ***
 
-# [💾 Downloading](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%92%BE-Downloading)
+# [💾 Downloading](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%92%BE-Downloading)
 
 **Download Sites, Software Sites, Open Directories**
 
 ***
 ***
 
-# [🌀 Torrenting](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%8C%80-Torrenting)
+# [🌀 Torrenting](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%8C%80-Torrenting)
 
 **Torrent Clients, Torrent Sites, Trackers**
 
 ***
 ***
 
-# [🧠 Educational](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%A7%A0-Educational)
+# [🧠 Educational](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%A7%A0-Educational)
 
 **Courses, Documentaries, Learning Resources**
 
@@ -220,35 +220,35 @@
 ***
 ***
 
-# [📱 Android / iOS](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%93%B1-Android---iOS)
+# [📱 Android / iOS](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%93%B1-Android---iOS)
 
 **Apps, Jailbreaking, Android Emulators**
 
 ***
 ***
 
-# [🐧 Linux / macOS](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%90%A7-Linux---MacOS)
+# [🐧 Linux / macOS](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%90%A7-Linux---MacOS)
 
 **Apps, Software Sites, Gaming**
 
 ***
 ***
 
-# [🌏 Non-English](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%8C%8F-Non-English)
+# [🌏 Non-English](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%8C%8F-Non-English)
 
 **International Piracy Sites** 
 
 ***
 ***
 
-# [📂 Miscellaneous](https://github.com/emtee40/FMHY-wiki/blob/master//%F0%9F%93%82-Miscellaneous)
+# [📂 Miscellaneous](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//%F0%9F%93%82-Miscellaneous)
 
 **Extensions, Indexes, News, Health, Food, Fun**
 
 ***
 ***
 
-# [🔒 Backups](https://github.com/emtee40/FMHY-wiki/blob/master//Backups)
+# [🔒 Backups](https://raw.githubusercontent.com/emtee40/FMHY-wiki/refs/heads/master//Backups)
 
 **FMHY Backups**
 
