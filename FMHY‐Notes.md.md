@@ -193,12 +193,6 @@ You still need to bypass Cloudflare captcha by yourself. This only bypasses time
 
 ***
 
-#### ADS Note
-
-Note that this server uses a popular bot called "Double Counter" to make sure alts don't join. Lots of servers use this bot, and it does work, so we do understand why they use it, but the bot doesn't have a great reputation due to the amount of data it collects in order to function. We want to make sure people don't feel blindsided, and understand the bot is in the server, before making a decision to join or not.
-
-***
-
 #### Video DownloadHelper
 
 Note that some versions of this extension give a watermark on sites that need conversion. It seems to happen on the Windows + Firefox version.
